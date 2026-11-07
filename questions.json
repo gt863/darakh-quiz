@@ -1,12 +1,12 @@
 {
   "status": "success",
-  "data_version": 1794054727294,
+  "data_version": 1794057367634,
   "total_categories": 15,
   "total_questions": 3854,
   "categories": [
     {
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "total_questions": 399
     },
     {
@@ -84,7 +84,7 @@
     {
       "id": 1,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "Easy",
       "question": "नेपालको कुल क्षेत्रफल कति रहेको छ? (लिम्पियाधुरा सहित)",
       "options": [
@@ -103,7 +103,7 @@
     {
       "id": 2,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "Easy",
       "question": "नेपालको सबैभन्दा ठूलो ताल कुन हो?",
       "options": [
@@ -122,7 +122,7 @@
     {
       "id": 3,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "Medium",
       "question": "नेपाललाई कतिवटा प्रदेश र स्थानीय तहमा विभाजन गरिएको छ?",
       "options": [
@@ -141,7 +141,7 @@
     {
       "id": 4,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "Medium",
       "question": "सगरमाथाको नयाँ उचाइ कति कायम गरिएको छ?",
       "options": [
@@ -160,7 +160,7 @@
     {
       "id": 5,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "Easy",
       "question": "नेपालको राष्ट्रिय चरा कुन हो?",
       "options": [
@@ -179,7 +179,7 @@
     {
       "id": 6,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "Hard",
       "question": "नेपालको सबैभन्दा लामो नदी कुन हो?",
       "options": [
@@ -198,7 +198,7 @@
     {
       "id": 7,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "Medium",
       "question": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा ठूलो जिल्ला कुन हो?",
       "options": [
@@ -217,7 +217,7 @@
     {
       "id": 8,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "Medium",
       "question": "नेपालको कुन ठाउँमा सबैभन्दा बढी पानी पर्छ?",
       "options": [
@@ -236,7 +236,7 @@
     {
       "id": 9,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "Hard",
       "question": "गौतम बुद्धको जन्मस्थल लुम्बिनी कुन जिल्लामा पर्दछ?",
       "options": [
@@ -255,7 +255,7 @@
     {
       "id": 10,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "Hard",
       "question": "नेपालको पहिलो राष्ट्रिय निकुञ्ज कुन हो?",
       "options": [
@@ -274,7 +274,7 @@
     {
       "id": 11,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको कुल क्षेत्रफल कति वर्ग किलोमिटर रहेको छ?",
       "options": [
@@ -293,7 +293,7 @@
     {
       "id": 12,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाल सरकारले लिम्पियाधुरा, लिपुलेक र कालापानी समेटेर जारी गरेको अद्यावधिक नक्सा अनुसार नेपालको कुल क्षेत्रफल कति छ?",
       "options": [
@@ -312,7 +312,7 @@
     {
       "id": 13,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको पूर्व–पश्चिम औसत लम्बाइ कति किलोमिटर रहेको छ?",
       "options": [
@@ -331,7 +331,7 @@
     {
       "id": 14,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको उत्तर–दक्षिण औसत चौडाइ कति किलोमिटर रहेको छ?",
       "options": [
@@ -350,7 +350,7 @@
     {
       "id": 15,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको प्रमाणिक समय (Nepal Standard Time) कुन हिमाललाई आधार मानेर निर्धारण गरिएको छ?",
       "options": [
@@ -369,7 +369,7 @@
     {
       "id": 16,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको प्रमाणिक समय ग्रिनविच मानक समय (GMT) भन्दा कति छिटो छ?",
       "options": [
@@ -388,7 +388,7 @@
     {
       "id": 17,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "राष्ट्रिय जनगणना २०७८ अनुसार नेपालको कुल जनसङ्ख्या कति रहेको छ?",
       "options": [
@@ -407,7 +407,7 @@
     {
       "id": 18,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राष्ट्रिय जनगणना २०७८ अनुसार नेपालको वार्षिक जनसङ्ख्या वृद्धिदर कति प्रतिशत रहेको छ?",
       "options": [
@@ -426,7 +426,7 @@
     {
       "id": 19,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राष्ट्रिय जनगणना २०७८ अनुसार नेपालको जनघनत्व (प्रति वर्ग कि.मि.) कति रहेको छ?",
       "options": [
@@ -445,7 +445,7 @@
     {
       "id": 20,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राष्ट्रिय जनगणना २०७८ अनुसार नेपालको कुल साक्षरता दर कति प्रतिशत रहेको छ?",
       "options": [
@@ -464,7 +464,7 @@
     {
       "id": 21,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा हाल कतिवटा प्रदेश, जिल्ला र स्थानीय तहहरू रहेका छन्?",
       "options": [
@@ -483,7 +483,7 @@
     {
       "id": 22,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालका ७५३ स्थानीय तहहरूमध्ये महानगरपालिका, उपमहानगरपालिका, नगरपालिका र गाउँपालिकाको सङ्ख्या कति-कति रहेको छ?",
       "options": [
@@ -502,7 +502,7 @@
     {
       "id": 23,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा ठुलो जिल्ला कुन हो?",
       "options": [
@@ -521,7 +521,7 @@
     {
       "id": 24,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा सानो जिल्ला कुन हो?",
       "options": [
@@ -540,7 +540,7 @@
     {
       "id": 25,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको संविधान वि.सं. २०७२ सालको कुन मितिमा जारी भएको हो?",
       "options": [
@@ -559,7 +559,7 @@
     {
       "id": 26,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको वर्तमान संविधानमा कति भाग, धारा र अनुसूचीहरू रहेका छन्?",
       "options": [
@@ -578,7 +578,7 @@
     {
       "id": 27,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "सगरमाथाको अद्यावधिक उचाइ कति मिटर रहेको छ?",
       "options": [
@@ -597,7 +597,7 @@
     {
       "id": 28,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "विश्वका ८,००० मिटरभन्दा अग्ला १४ वटा हिमालहरूमध्ये नेपालमा कतिवटा पर्दछन्?",
       "options": [
@@ -616,7 +616,7 @@
     {
       "id": 29,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको दोस्रो र विश्वको तेस्रो अग्लो हिमाल कुन हो?",
       "options": [
@@ -635,7 +635,7 @@
     {
       "id": 30,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "सगरमाथाको सफल आरोहण गर्ने प्रथम व्यक्ति को–को हुन्?",
       "options": [
@@ -654,7 +654,7 @@
     {
       "id": 31,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "सगरमाथाको सफल आरोहण गर्ने प्रथम नेपाली महिला को हुन्?",
       "options": [
@@ -673,7 +673,7 @@
     {
       "id": 32,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "सगरमाथा आरोहण गर्ने विश्वकी प्रथम महिला को हुन्?",
       "options": [
@@ -692,7 +692,7 @@
     {
       "id": 33,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको सबैभन्दा ठुलो नदी कुन हो?",
       "options": [
@@ -711,7 +711,7 @@
     {
       "id": 34,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको सबैभन्दा लामो नदी कुन हो?",
       "options": [
@@ -730,7 +730,7 @@
     {
       "id": 35,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको सबैभन्दा गहिरो नदी कुन हो?",
       "options": [
@@ -749,7 +749,7 @@
     {
       "id": 36,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "सप्तकोशी नदीका सात सहायक नदीहरूमध्ये सबैभन्दा ठुलो र सबैभन्दा सानो नदी कुन–कुन हुन्?",
       "options": [
@@ -768,7 +768,7 @@
     {
       "id": 37,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको सबैभन्दा ठुलो र गहिरो ताल कुन हो?",
       "options": [
@@ -787,7 +787,7 @@
     {
       "id": 38,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "निम्नमध्ये कुन ताल डोल्पा जिल्लामा अवस्थित छ र निर्जीव ताल (कुनै जलचर नपाइने) का रूपमा पनि चिनिन्छ?",
       "options": [
@@ -806,7 +806,7 @@
     {
       "id": 39,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "मनाङ जिल्लामा अवस्थित तिलिचो ताल समुद्र सतहबाट कति उचाइमा रहेको छ?",
       "options": [
@@ -825,7 +825,7 @@
     {
       "id": 40,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "पचाल झरना नेपालको कुन जिल्लामा पर्दछ?",
       "options": [
@@ -844,7 +844,7 @@
     {
       "id": 41,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "ह्यातुङ झरना नेपालको कुन जिल्लामा अवस्थित छ?",
       "options": [
@@ -863,7 +863,7 @@
     {
       "id": 42,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको पहिलो राष्ट्रिय निकुञ्ज कुन हो?",
       "options": [
@@ -882,7 +882,7 @@
     {
       "id": 43,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा हाल कतिवटा राष्ट्रिय निकुञ्जहरू रहेका छन्?",
       "options": [
@@ -901,7 +901,7 @@
     {
       "id": 44,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा ठुलो राष्ट्रिय निकुञ्ज कुन हो?",
       "options": [
@@ -920,7 +920,7 @@
     {
       "id": 45,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा सानो राष्ट्रिय निकुञ्ज कुन हो?",
       "options": [
@@ -939,7 +939,7 @@
     {
       "id": 46,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको एक मात्र सिकार आरक्ष (Hunting Reserve) कुन हो?",
       "options": [
@@ -958,7 +958,7 @@
     {
       "id": 47,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "युनेस्को (UNESCO) विश्व सम्पदा सूचीमा सूचीकृत नेपालका प्राकृतिक सम्पदाहरू कुन–कुन हुन्?",
       "options": [
@@ -977,7 +977,7 @@
     {
       "id": 48,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "काठमाडौँ उपत्यकाका सातवटा सांस्कृतिक सम्पदा र लुम्बिनी बाहेक नेपालमा युनेस्को विश्व सम्पदा सूचीमा कुल कतिवटा सम्पदा सूचीकृत छन्?",
       "options": [
@@ -996,7 +996,7 @@
     {
       "id": 49,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "hard",
       "question": "लुम्बिनीलाई युनेस्कोले कहिले विश्व सम्पदा सूचीमा सूचीकृत गरेको हो?",
       "options": [
@@ -1015,7 +1015,7 @@
     {
       "id": 50,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "आधुनिक नेपालको एकीकरण अभियानको सुरुवात कसले गरेका थिए?",
       "options": [
@@ -1034,7 +1034,7 @@
     {
       "id": 51,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "पृथ्वीनारायण शाहले नुवाकोटमाथि कहिले विजय प्राप्त गरेका थिए?",
       "options": [
@@ -1053,7 +1053,7 @@
     {
       "id": 52,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "पृथ्वीनारायण शाहले कान्तिपुर (काठमाडौँ) माथि कहिले विजय प्राप्त गरेका थिए?",
       "options": [
@@ -1072,7 +1072,7 @@
     {
       "id": 53,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको इतिहासमा 'स्वर्ण युग' भनेर कुन काललाई चिनिन्छ?",
       "options": [
@@ -1091,7 +1091,7 @@
     {
       "id": 54,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "भक्तपुरको प्रसिद्ध पचपन्न झ्याले दरबार र पाँचतले मन्दिर (न्यातपोल) कसले निर्माण गराएका हुन्?",
       "options": [
@@ -1110,7 +1110,7 @@
     {
       "id": 55,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "पाटनको प्रसिद्ध कृष्ण मन्दिर कसले निर्माण गराएका हुन्?",
       "options": [
@@ -1129,7 +1129,7 @@
     {
       "id": 56,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "चाँगुनारायण मन्दिरको निर्माण र त्यहाँको ऐतिहासिक शिलालेख कुन लिच्छवि राजाले राखेका थिए?",
       "options": [
@@ -1148,7 +1148,7 @@
     {
       "id": 57,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "कैलाशकूट भवनको निर्माण कुन राजाले गराएका थिए?",
       "options": [
@@ -1167,7 +1167,7 @@
     {
       "id": 58,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालका प्रथम मुख्तियार (प्रधानमन्त्री) कसलाई मानिन्छ?",
       "options": [
@@ -1186,7 +1186,7 @@
     {
       "id": 59,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाल र इस्ट इन्डिया कम्पनीबिच सुगौली सन्धि कहिले हस्ताक्षर भएको थियो?",
       "options": [
@@ -1205,7 +1205,7 @@
     {
       "id": 60,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "कोतपर्व कहिले घटेको थियो, जसले नेपालमा जहानियाँ राणा शासनको जग बसाल्यो?",
       "options": [
@@ -1224,7 +1224,7 @@
     {
       "id": 61,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा सती प्रथाको अन्त्य कहिले र कसले गरेका थिए?",
       "options": [
@@ -1243,7 +1243,7 @@
     {
       "id": 62,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा दास प्रथा (करिया मोचन) को अन्त्य कहिले भएको थियो?",
       "options": [
@@ -1262,7 +1262,7 @@
     {
       "id": 63,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको पहिलो महाविद्यालय 'त्रि–चन्द्र कलेज' को स्थापना कहिले भएको थियो?",
       "options": [
@@ -1281,7 +1281,7 @@
     {
       "id": 64,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको पहिलो जलविद्युत् आयोजना 'फर्पिङ जलविद्युत् आयोजना' को क्षमता कति किलोवाट रहेको छ?",
       "options": [
@@ -1300,7 +1300,7 @@
     {
       "id": 65,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालका चार अमर सहिदहरू को–को हुन्?",
       "options": [
@@ -1319,7 +1319,7 @@
     {
       "id": 66,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालका प्रथम सहिद कसलाई मानिन्छ?",
       "options": [
@@ -1338,7 +1338,7 @@
     {
       "id": 67,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा १०४ वर्षे जहानियाँ राणा शासनको अन्त्य भई प्रजातन्त्रको स्थापना कहिले भएको हो?",
       "options": [
@@ -1357,7 +1357,7 @@
     {
       "id": 68,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको इतिहासमा पहिलो आमनिर्वाचन कहिले सुरु भएको थियो?",
       "options": [
@@ -1376,7 +1376,7 @@
     {
       "id": 69,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालका प्रथम जननिर्वाचित प्रधानमन्त्री को हुन्?",
       "options": [
@@ -1395,7 +1395,7 @@
     {
       "id": 70,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राजा महेन्द्रले जननिर्वाचित सरकार र संसद् विघटन गरी निर्दलीय पञ्चायती व्यवस्थाको सुरुवात कहिले गरेका थिए?",
       "options": [
@@ -1414,7 +1414,7 @@
     {
       "id": 71,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा सङ्घीय लोकतान्त्रिक गणतन्त्रको घोषणा कहिले भएको हो?",
       "options": [
@@ -1433,7 +1433,7 @@
     {
       "id": 72,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालका प्रथम राष्ट्रपति को हुन्?",
       "options": [
@@ -1452,7 +1452,7 @@
     {
       "id": 73,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालकी प्रथम महिला राष्ट्रपति को हुन्?",
       "options": [
@@ -1471,7 +1471,7 @@
     {
       "id": 74,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालकी प्रथम महिला प्रधानन्यायाधीश को हुन्?",
       "options": [
@@ -1490,7 +1490,7 @@
     {
       "id": 75,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको प्रतिनिधि सभा (तत्कालीन व्यवस्थापिका–संसद्) की प्रथम महिला सभामुख को हुन्?",
       "options": [
@@ -1509,7 +1509,7 @@
     {
       "id": 76,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाल राष्ट्र बैंकको स्थापना कहिले भएको हो?",
       "options": [
@@ -1528,7 +1528,7 @@
     {
       "id": 77,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाल राष्ट्र बैंकका प्रथम गभर्नर को हुन्?",
       "options": [
@@ -1547,7 +1547,7 @@
     {
       "id": 78,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा सर्वप्रथम कागजी नोट कहिले निष्कासन गरिएको थियो र त्यसमा कसको हस्ताक्षर थियो?",
       "options": [
@@ -1566,7 +1566,7 @@
     {
       "id": 79,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको सबैभन्दा पुरानो (पहिलो) वाणिज्य बैंक कुन हो?",
       "options": [
@@ -1585,7 +1585,7 @@
     {
       "id": 80,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा योजनाबद्ध आर्थिक विकासको सुरुवात कहिलेदेखि भएको हो?",
       "options": [
@@ -1604,7 +1604,7 @@
     {
       "id": 81,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालका आवधिक योजनाहरूमध्ये कुन-कुन योजनाहरू पञ्चवर्षीय नभई त्रिवर्षीय (३ वर्षे) थिए?",
       "options": [
@@ -1623,7 +1623,7 @@
     {
       "id": 82,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालले संयुक्त राष्ट्रसंघ (UN) को सदस्यता कहिले प्राप्त गरेको हो?",
       "options": [
@@ -1642,7 +1642,7 @@
     {
       "id": 83,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "दक्षिण एसियाली क्षेत्रीय सहयोग सङ्गठन (सार्क - SAARC) को सचिवालय कहाँ अवस्थित छ?",
       "options": [
@@ -1661,7 +1661,7 @@
     {
       "id": 84,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालसँग सर्वप्रथम कूटनीतिक सम्बन्ध कायम भएको राष्ट्र कुन हो?",
       "options": [
@@ -1680,7 +1680,7 @@
     {
       "id": 85,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालले विश्व व्यापार सङ्गठन (WTO) को पूर्ण सदस्यता कहिले प्राप्त गरेको हो?",
       "options": [
@@ -1699,7 +1699,7 @@
     {
       "id": 86,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाली साहित्यका 'आदिकवि' भनेर कसलाई चिनिन्छ?",
       "options": [
@@ -1718,7 +1718,7 @@
     {
       "id": 87,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाली साहित्यमा 'महाकवि' उपाधिले कसलाई चिनिन्छ?",
       "options": [
@@ -1737,7 +1737,7 @@
     {
       "id": 88,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालका प्रथम राष्ट्रकवि को हुन्?",
       "options": [
@@ -1756,7 +1756,7 @@
     {
       "id": 89,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाली साहित्यमा 'कवि शिरोमणि' भनेर कसलाई चिनिन्छ?",
       "options": [
@@ -1775,7 +1775,7 @@
     {
       "id": 90,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "मदन पुरस्कारको स्थापना कहिले भएको हो र यो कुन संस्थाले प्रदान गर्दछ?",
       "options": [
@@ -1794,7 +1794,7 @@
     {
       "id": 91,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "मदन पुरस्कार प्राप्त गर्ने प्रथम स्रष्टा को–को हुन् (वि.सं. २०१३)?",
       "options": [
@@ -1813,7 +1813,7 @@
     {
       "id": 92,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "तीन पटकसम्म मदन पुरस्कार प्राप्त गर्ने एक मात्र व्यक्तित्व को हुन्?",
       "options": [
@@ -1832,7 +1832,7 @@
     {
       "id": 93,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "मदन पुरस्कार प्राप्त गर्ने प्रथम महिला साहित्यकार को हुन् र उनको कृति कुन हो?",
       "options": [
@@ -1851,7 +1851,7 @@
     {
       "id": 94,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको हालको राष्ट्रिय गान 'सयौँ थुँगा फूलका हामी' का रचनाकार र सङ्गीतकार को–को हुन्?",
       "options": [
@@ -1870,7 +1870,7 @@
     {
       "id": 95,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको पहिलो प्रकाशित समाचारपत्र कुन हो र कहिलेदेखि प्रकाशन सुरु भएको हो?",
       "options": [
@@ -1889,7 +1889,7 @@
     {
       "id": 96,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा बोलिने पहिलो नेपाली चलचित्र 'सत्य हरिश्चन्द्र' पछि नेपालमै निर्माण गरिएको पहिलो चलचित्र कुन हो?",
       "options": [
@@ -1908,7 +1908,7 @@
     {
       "id": 97,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "निजी क्षेत्रबाट निर्मित पहिलो नेपाली चलचित्र 'माइतीघर' का निर्देशक को थिए?",
       "options": [
@@ -1927,7 +1927,7 @@
     {
       "id": 98,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको पहिलो रङ्गिन चलचित्र कुन हो?",
       "options": [
@@ -1946,7 +1946,7 @@
     {
       "id": 99,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "रेडियो नेपालको स्थापना कहिले भएको हो?",
       "options": [
@@ -1965,7 +1965,7 @@
     {
       "id": 100,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालले प्रक्षेपण गरेको पहिलो भू–उपग्रह (Nano-Satellite) को नाम के हो?",
       "options": [
@@ -1984,7 +1984,7 @@
     {
       "id": 101,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालका प्रदेश र तिनका राजधानीहरूको जोडा कुन विकल्पमा पूर्ण रूपमा सही छ?",
       "options": [
@@ -2003,7 +2003,7 @@
     {
       "id": 102,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा ठुलो र सबैभन्दा सानो प्रदेश कुन–कुन हुन्?",
       "options": [
@@ -2022,7 +2022,7 @@
     {
       "id": 103,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राष्ट्रिय जनगणना २०७८ अनुसार जनसङ्ख्याको आधारमा नेपालको सबैभन्दा ठुलो र सबैभन्दा सानो प्रदेश कुन–कुन हुन्?",
       "options": [
@@ -2041,7 +2041,7 @@
     {
       "id": 104,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "hard",
       "question": "राष्ट्रिय जनगणना २०७८ को अन्तिम नतिजा अनुसार नेपालमा सबैभन्दा बढी जनसङ्ख्या भएको प्रदेश कुन हो?",
       "options": [
@@ -2060,7 +2060,7 @@
     {
       "id": 105,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको पूर्व–पश्चिम लोकमार्ग (महेन्द्र राजमार्ग) ले नछुने तराईको एक मात्र जिल्ला कुन हो?",
       "options": [
@@ -2079,7 +2079,7 @@
     {
       "id": 106,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको पूर्व–पश्चिम राजमार्ग (महेन्द्र राजमार्ग) को कुल लम्बाइ करिब कति किलोमिटर रहेको छ?",
       "options": [
@@ -2098,7 +2098,7 @@
     {
       "id": 107,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "मध्यपहाडी लोकमार्ग (पुष्पलाल मार्ग) कुन ठाउँदेखि कुन ठाउँसम्म फैलिएको छ र यसको लम्बाइ कति छ?",
       "options": [
@@ -2117,7 +2117,7 @@
     {
       "id": 108,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा मात्र पाइने चरा कुन हो?",
       "options": [
@@ -2136,7 +2136,7 @@
     {
       "id": 109,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको राष्ट्रिय पन्छी, राष्ट्रिय फूल र राष्ट्रिय रङ कुन–कुन हुन्?",
       "options": [
@@ -2155,7 +2155,7 @@
     {
       "id": 110,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको राष्ट्रिय जनावर कुन हो?",
       "options": [
@@ -2174,7 +2174,7 @@
     {
       "id": 111,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको निशान छापको पुछारमा कुन आदर्श वाक्य (Motto) लेखिएको छ?",
       "options": [
@@ -2193,7 +2193,7 @@
     {
       "id": 112,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "भगवान् गौतम बुद्धको जन्म कहिले र कहाँ भएको थियो?",
       "options": [
@@ -2212,7 +2212,7 @@
     {
       "id": 113,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "लुम्बिनीस्थित अशोक स्तम्भ कसले र कहिले निर्माण गराएका थिए र पछि कसले पत्ता लगाएका थिए?",
       "options": [
@@ -2231,7 +2231,7 @@
     {
       "id": 114,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "त्रिभुवन विश्वविद्यालय (TU) को स्थापना कहिले भएको हो?",
       "options": [
@@ -2250,7 +2250,7 @@
     {
       "id": 115,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "एसियाली खेलकुद वा दक्षिण एसियाली खेलकुद बाहेक ओलम्पिक खेलकुदमा पदक (प्रदर्शनी खेलमा) जित्ने पहिलो नेपाली खेलाडी को हुन्?",
       "options": [
@@ -2269,7 +2269,7 @@
     {
       "id": 116,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "पेरिस पारा ओलम्पिक २०२४ मा ऐतिहासिक कास्य पदक जिती ओलम्पिक/पारालम्पिक इतिहासमा नेपाललाई पहिलो आधिकारिक पदक दिलाउने खेलाडी को हुन्?",
       "options": [
@@ -2288,7 +2288,7 @@
     {
       "id": 117,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "छनोट चरण पार गरी ओलम्पिकमा सहभागी हुने पहिलो नेपाली खेलाडी को हुन्?",
       "options": [
@@ -2307,7 +2307,7 @@
     {
       "id": 118,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "दक्षिण एसियाली खेलकुद (SAF/SAG) को सुरुवात कहिले र कहाँबाट भएको हो?",
       "options": [
@@ -2326,7 +2326,7 @@
     {
       "id": 119,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "दक्षिण एसियाली खेलकुदको म्याराथनमा लगातार तीन पटक स्वर्ण पदक जित्ने नेपाली धावक को हुन्?",
       "options": [
@@ -2345,7 +2345,7 @@
     {
       "id": 120,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा १३ औँ दक्षिण एसियाली खेलकुद (SAG) कहिले सम्पन्न भएको थियो र नेपालले कति स्वर्ण पदक जितेको थियो?",
       "options": [
@@ -2364,7 +2364,7 @@
     {
       "id": 121,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "१३ औँ दक्षिण एसियाली खेलकुदको एउटै संस्करणमा ४ वटा स्वर्ण पदक जित्ने नेपाली पौडीबाज को हुन्?",
       "options": [
@@ -2383,7 +2383,7 @@
     {
       "id": 122,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "भौगोलिक बनावटका आधारमा नेपाललाई कति प्रदेशमा विभाजन गरिएको छ र ती कुन–कुन हुन्?",
       "options": [
@@ -2402,7 +2402,7 @@
     {
       "id": 123,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको कुल भू–भागमध्ये हिमाली, पहाडी र तराई प्रदेशले ओगटेको क्षेत्रफलको प्रतिशत क्रमशः कति हो?",
       "options": [
@@ -2421,7 +2421,7 @@
     {
       "id": 124,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "चीन र भारत दुवै देशलाई छुने नेपालका जिल्लाहरू कुन–कुन हुन्?",
       "options": [
@@ -2440,7 +2440,7 @@
     {
       "id": 125,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालका ७७ जिल्लामध्ये भारत र चीन कुनै पनि देशसँग सिमाना नजोडिएका (भूपरिवेष्ठित) जिल्ला कतिवटा छन्?",
       "options": [
@@ -2459,7 +2459,7 @@
     {
       "id": 126,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "hard",
       "question": "चीनसँग मात्र सिमाना जोडिएका नेपालका जिल्लाहरू कतिवटा छन्?",
       "options": [
@@ -2478,7 +2478,7 @@
     {
       "id": 127,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "hard",
       "question": "भारतसँग मात्र सिमाना जोडिएका नेपालका जिल्लाहरू कतिवटा छन्?",
       "options": [
@@ -2497,7 +2497,7 @@
     {
       "id": 128,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको चेरापुञ्जी' भनेर अत्यधिक वर्षा हुने कुन स्थानलाई चिनिन्छ?",
       "options": [
@@ -2516,7 +2516,7 @@
     {
       "id": 129,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा सबैभन्दा कम पानी पर्ने (अति वृष्टिछायामा पर्ने) क्षेत्र कुन हो?",
       "options": [
@@ -2535,7 +2535,7 @@
     {
       "id": 130,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "महेन्द्र गुफा, चमेरो गुफा र गुप्तेश्वर गुफा नेपालको कुन जिल्लामा अवस्थित छन्?",
       "options": [
@@ -2554,7 +2554,7 @@
     {
       "id": 131,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको सबैभन्दा ठुलो गुफा मानिने 'सिद्ध गुफा' कुन जिल्लामा पर्दछ?",
       "options": [
@@ -2573,7 +2573,7 @@
     {
       "id": 132,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "प्रसिद्ध धार्मिक स्थल 'हलेसी महादेव' को गुफा र मन्दिर कुन जिल्लामा पर्दछ?",
       "options": [
@@ -2592,7 +2592,7 @@
     {
       "id": 133,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "प्रसिद्ध धार्मिक स्थल 'पाथीभरा देवी' को मन्दिर कुन जिल्लामा अवस्थित छ?",
       "options": [
@@ -2611,7 +2611,7 @@
     {
       "id": 134,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "मुक्तिनाथ मन्दिर कुन जिल्लामा अवस्थित छ?",
       "options": [
@@ -2630,7 +2630,7 @@
     {
       "id": 135,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "स्वर्गद्वारी धार्मिक तथा पर्यटकीय स्थल कुन जिल्लामा पर्दछ?",
       "options": [
@@ -2649,7 +2649,7 @@
     {
       "id": 136,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "काठमाडौँ उपत्यकाको पानी बाहिर पठाएर बस्ती योग्य बनाउने पौराणिक पात्र को मानिन्छन्?",
       "options": [
@@ -2668,7 +2668,7 @@
     {
       "id": 137,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "किरात वंशका प्रथम र अन्तिम राजा को–को मानिन्छन्?",
       "options": [
@@ -2687,7 +2687,7 @@
     {
       "id": 138,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "गोपाल वंशका प्रथम र अन्तिम राजा को–को मानिन्छन्?",
       "options": [
@@ -2706,7 +2706,7 @@
     {
       "id": 139,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राजा जयस्थिति मल्लले समाज र जग्गासम्बन्धी कुन सुधार गरेका थिए?",
       "options": [
@@ -2725,7 +2725,7 @@
     {
       "id": 140,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "कविन्द्र' उपाधि धारण गर्ने र रानीपोखरी निर्माण गराउने मल्ल राजा को हुन्?",
       "options": [
@@ -2744,7 +2744,7 @@
     {
       "id": 141,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "गोरखाका कुन राजाको पालामा 'न्याय नपाए गोरखा जानू' भन्ने उक्ति प्रचलित भएको थियो?",
       "options": [
@@ -2763,7 +2763,7 @@
     {
       "id": 142,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा सर्वप्रथम वि.सं. १९१० मा 'मुलुकी ऐन' कसको पालामा जारी भएको थियो?",
       "options": [
@@ -2782,7 +2782,7 @@
     {
       "id": 143,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नयाँ मुलुकी ऐन कहिलेदेखि लागू भएको थियो र त्यसलाई प्रतिस्थापन गरी मुलुकी देवानी तथा फौजदारी संहिता कहिलेदेखि लागू भयो?",
       "options": [
@@ -2801,7 +2801,7 @@
     {
       "id": 144,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको पहिलो संवैधानिक लिखत 'नेपाल सरकारको वैधानिक कानुन, २००४' कसले घोषणा गरेका थिए?",
       "options": [
@@ -2820,7 +2820,7 @@
     {
       "id": 145,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा हालसम्म कतिवटा संविधानहरू निर्माण भएका छन् (वि.सं. २००४ को वैधानिक कानुन सहित)?",
       "options": [
@@ -2839,7 +2839,7 @@
     {
       "id": 146,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "काठमाडौँस्थित प्रसिद्ध धरहरा (भीमसेन स्तम्भ) को निर्माण सर्वप्रथम कसले गराएका थिए?",
       "options": [
@@ -2858,7 +2858,7 @@
     {
       "id": 147,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "काठमाडौँको घण्टाघर र वीर अस्पताल कसले निर्माण गराएका हुन्?",
       "options": [
@@ -2877,7 +2877,7 @@
     {
       "id": 148,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "सिंहदरबारको निर्माण कुन राणा प्रधानमन्त्रीले गराएका थिए?",
       "options": [
@@ -2896,7 +2896,7 @@
     {
       "id": 149,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा सर्वप्रथम जनगणना कहिले लिइएको थियो?",
       "options": [
@@ -2915,7 +2915,7 @@
     {
       "id": 150,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राष्ट्रिय जनगणना २०७८ नेपालको कतिऔँ जनगणना हो र सङ्घीय व्यवस्थापछिको कतिऔँ जनगणना हो?",
       "options": [
@@ -2934,7 +2934,7 @@
     {
       "id": 151,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "राष्ट्रिय जनगणना २०७८ को मूल नारा के थियो?",
       "options": [
@@ -2953,7 +2953,7 @@
     {
       "id": 152,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राष्ट्रिय जनगणना २०७८ अनुसार नेपालमा सबैभन्दा बढी र सबैभन्दा कम जनसङ्ख्या भएका जिल्ला कुन–कुन हुन्?",
       "options": [
@@ -2972,7 +2972,7 @@
     {
       "id": 153,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राष्ट्रिय जनगणना २०७८ अनुसार नेपालमा बोलिने मातृभाषाको सङ्ख्या कति रहेको छ र सबैभन्दा बढी बोलिने भाषा कुन हो?",
       "options": [
@@ -2991,7 +2991,7 @@
     {
       "id": 154,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राष्ट्रिय जनगणना २०७८ अनुसार नेपालमा जातजातिको सङ्ख्या कति सूचीकृत छ?",
       "options": [
@@ -3010,7 +3010,7 @@
     {
       "id": 155,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राष्ट्रिय जनगणना २०७८ अनुसार नेपालमा हिन्दू र बौद्ध धर्मावलम्बीको प्रतिशत क्रमशः कति रहेको छ?",
       "options": [
@@ -3029,7 +3029,7 @@
     {
       "id": 156,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपाल सरकारले अतिसङ्कटापन्नदेखि विकसित अवस्थासम्म वर्गीकरण गरेका आदिवासी जनजातिको कुल सूचीकृत सङ्ख्या कति छ?",
       "options": [
@@ -3048,7 +3048,7 @@
     {
       "id": 157,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "सीमान्तकृत तथा लोपोन्मुख समुदायका रूपमा चिनिने 'राउटे' जाति मुख्यतया नेपालको कुन क्षेत्रमा फिरन्ते जीवन बिताउँछन्?",
       "options": [
@@ -3067,7 +3067,7 @@
     {
       "id": 158,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "चितवन, मकवानपुर, धादिङ र गोरखा जिल्लाको महाभारत पर्वत शृङ्खलामा बसोबास गर्ने र चिउरीको रूख दाइजो दिने प्रचलन कुन जातिमा रहेको छ?",
       "options": [
@@ -3086,7 +3086,7 @@
     {
       "id": 159,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "झापा र मोरङ जिल्लामा मुख्य बसोबास रहेका 'सतार' (सन्थाल) र 'राजवंशी' तथा 'धिमाल' जातिको प्रमुख पर्व र संस्कृति कुन हो?",
       "options": [
@@ -3105,7 +3105,7 @@
     {
       "id": 160,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "थारू समुदायको सबैभन्दा ठुलो पर्व कुन हो र यसलाई कुन रूपमा मनाइन्छ?",
       "options": [
@@ -3124,7 +3124,7 @@
     {
       "id": 161,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "सुदूरपश्चिम र कर्णाली प्रदेशमा भाद्र महिनामा शिव–पार्वती (महेश्वर र गौरा) को पूजा आराधना गरी देउडा खेलेर मनाइने प्रमुख पर्व कुन हो?",
       "options": [
@@ -3143,7 +3143,7 @@
     {
       "id": 162,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "प्रसिद्ध 'सोरठी' र 'घाटु' नाच मुख्यतया कुन समुदायमा प्रचलित छ?",
       "options": [
@@ -3162,7 +3162,7 @@
     {
       "id": 163,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "धान फल्ने ऋतु (मङ्सिर/पुस) मा लिम्बू समुदायका युवकयुवतीहरूले हात समातेर पालाम गाउँदै नाच्ने प्रसिद्ध लोकनाच कुन हो?",
       "options": [
@@ -3181,7 +3181,7 @@
     {
       "id": 164,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "राई समुदायले उँभौली र उँधौली पर्वमा ढोल र झ्याम्टा बजाउँदै नाच्ने मौलिक नाच कुन हो?",
       "options": [
@@ -3200,7 +3200,7 @@
     {
       "id": 165,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "पञ्चैबाजामा कुन–कुन पाँचवटा बाजाहरू पर्दछन्?",
       "options": [
@@ -3219,7 +3219,7 @@
     {
       "id": 166,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "गन्धर्व (गाइने) समुदायले कर्खा र लोकगीत गाउँदा बजाउने प्रमुख तारवाद्य (बाजा) कुन हो?",
       "options": [
@@ -3238,7 +3238,7 @@
     {
       "id": 167,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "डम्फु र टुङ्ना कुन–कुन समुदायका प्रमुख मौलिक बाजाहरू हुन्?",
       "options": [
@@ -3257,7 +3257,7 @@
     {
       "id": 168,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "रामसार महासन्धि (Ramsar Convention) मा सूचीकृत हुने नेपालको पहिलो सिमसार क्षेत्र कुन हो र यो कहिले सूचीकृत भएको थियो?",
       "options": [
@@ -3276,7 +3276,7 @@
     {
       "id": 169,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा हाल रामसार सूचीमा सूचीकृत सिमसार क्षेत्रहरू कतिवटा रहेका छन्?",
       "options": [
@@ -3295,7 +3295,7 @@
     {
       "id": 170,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "मानिसले निर्माण गरेको नेपालको सबैभन्दा ठुलो कृत्रिम ताल 'जगदीशपुर ताल' र प्राकृतिक 'घोडाघोडी ताल' कुन–कुन जिल्लामा पर्दछन्?",
       "options": [
@@ -3314,7 +3314,7 @@
     {
       "id": 171,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "चितवन राष्ट्रिय निकुञ्ज मुख्यतया कुन दुर्लभ वन्यजन्तुको संरक्षणका लागि विश्वप्रसिद्ध छ?",
       "options": [
@@ -3333,7 +3333,7 @@
     {
       "id": 172,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "कोशी टप्पु वन्यजन्तु आरक्ष कुन दुर्लभ वन्यजन्तुको लागि प्रसिद्ध छ?",
       "options": [
@@ -3352,7 +3352,7 @@
     {
       "id": 173,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "शुक्लाफाँटा राष्ट्रिय निकुञ्ज कुन जिल्लामा पर्दछ र यो कुन वन्यजन्तुको विशाल बथानका लागि प्रसिद्ध छ?",
       "options": [
@@ -3371,7 +3371,7 @@
     {
       "id": 174,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको सबैभन्दा कान्छो (१२ औँ) राष्ट्रिय निकुञ्ज कुन हो?",
       "options": [
@@ -3390,7 +3390,7 @@
     {
       "id": 175,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको सबैभन्दा ठुलो संरक्षण क्षेत्र (Conservation Area) कुन हो?",
       "options": [
@@ -3409,7 +3409,7 @@
     {
       "id": 176,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "स्वदेशी लगानीमा निर्मित नेपालको हालसम्मको सबैभन्दा ठुलो जलविद्युत् आयोजना कुन हो र यसको जडित क्षमता कति छ?",
       "options": [
@@ -3428,7 +3428,7 @@
     {
       "id": 177,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "कालीगण्डकी 'ए' जलविद्युत् आयोजना कुन जिल्लामा अवस्थित छ र यसको क्षमता कति हो?",
       "options": [
@@ -3447,7 +3447,7 @@
     {
       "id": 178,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको एक मात्र जलाशययुक्त (Reservoir) कुलेखानी प्रथम जलविद्युत् आयोजना कुन जिल्लामा पर्छ र यसको क्षमता कति छ?",
       "options": [
@@ -3466,7 +3466,7 @@
     {
       "id": 179,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा हाल सञ्चालनमा रहेका अन्तर्राष्ट्रिय विमानस्थलहरू कतिवटा र कुन–कुन हुन्?",
       "options": [
@@ -3485,7 +3485,7 @@
     {
       "id": 180,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाल वायुसेवा निगम (तत्कालीन शाही नेपाल वायुसेवा निगम - RNAC) को स्थापना कहिले भएको हो?",
       "options": [
@@ -3504,7 +3504,7 @@
     {
       "id": 181,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको पहिलो राजमार्ग कुन हो, जसले काठमाडौँलाई तराई (वीरगन्ज/रक्सौल) सँग जोडेको थियो?",
       "options": [
@@ -3523,7 +3523,7 @@
     {
       "id": 182,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "काठमाडौँदेखि चीनको सिमाना कोदारी (तातोपानी) सम्म जोडिएको अरनिको राजमार्ग कुन देशको सहयोगमा निर्माण भएको हो?",
       "options": [
@@ -3542,7 +3542,7 @@
     {
       "id": 183,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा सर्वप्रथम रेल सेवा (अमलेखगन्ज–रक्सौल) को सुरुवात कहिले र कसको पालामा भएको थियो?",
       "options": [
@@ -3561,7 +3561,7 @@
     {
       "id": 184,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको पहिलो सडक सुरुङमार्ग 'नागढुङ्गा–सिस्नेखोला सुरुङमार्ग' को मुख्य सुरुङको लम्बाइ कति रहेको छ?",
       "options": [
@@ -3580,7 +3580,7 @@
     {
       "id": 185,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा चिया खेतीको सुरुवात कहिले र कहाँबाट भएको थियो?",
       "options": [
@@ -3599,7 +3599,7 @@
     {
       "id": 186,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपाल सरकारले चिया उत्पादनका लागि पूर्वी नेपालका कुन ५ जिल्लालाई 'चिया क्षेत्र' (Tea Zone) घोषणा गरेको छ?",
       "options": [
@@ -3618,7 +3618,7 @@
     {
       "id": 187,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा कफी खेतीको सुरुवात वि.सं. १९९५ मा सर्वप्रथम कुन जिल्लाको आँपचौरबाट भएको थियो?",
       "options": [
@@ -3637,7 +3637,7 @@
     {
       "id": 188,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको प्रसिद्ध नगदेबाली 'अलैँची' (कालो सुन) उत्पादनमा अग्रणी प्रदेश र जिल्ला कुन हो?",
       "options": [
@@ -3656,7 +3656,7 @@
     {
       "id": 189,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको संविधान अनुसार कार्यपालिका, व्यवस्थापिका र न्यायपालिकाको संरचना कुन रूपको रहेको छ?",
       "options": [
@@ -3675,7 +3675,7 @@
     {
       "id": 190,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको सङ्घीय संसद् (प्रतिनिधि सभा र राष्ट्रिय सभा) मा कुल कति जना सदस्य रहने संवैधानिक व्यवस्था छ?",
       "options": [
@@ -3694,7 +3694,7 @@
     {
       "id": 191,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "प्रतिनिधि सभा र राष्ट्रिय सभाका सदस्यहरूको पदावधि क्रमशः कति–कति वर्षको हुन्छ?",
       "options": [
@@ -3713,7 +3713,7 @@
     {
       "id": 192,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको संविधानको भाग ३ मा कतिवटा मौलिक हकहरूको व्यवस्था गरिएको छ?",
       "options": [
@@ -3732,7 +3732,7 @@
     {
       "id": 193,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको संविधानमा उल्लेखित संवैधानिक निकाय (आयोग) हरूको कुल सङ्ख्या कति रहेको छ?",
       "options": [
@@ -3751,7 +3751,7 @@
     {
       "id": 194,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा लोक सेवा आयोगको स्थापना कहिले भएको हो?",
       "options": [
@@ -3770,7 +3770,7 @@
     {
       "id": 195,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा प्रत्येक वर्ष 'निजामती सेवा दिवस' कहिले मनाइन्छ?",
       "options": [
@@ -3789,7 +3789,7 @@
     {
       "id": 196,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको सर्वोच्च नागरिक सम्मान (मानपदवी) कुन हो?",
       "options": [
@@ -3808,7 +3808,7 @@
     {
       "id": 197,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा सर्वप्रथम 'नेपाल रत्न' मानपदवी कसलाई प्रदान गरिएको थियो?",
       "options": [
@@ -3827,7 +3827,7 @@
     {
       "id": 198,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको सर्वोच्च अदालतमा प्रधानन्यायाधीशका अतिरिक्त बढीमा कति जना न्यायाधीश रहने संवैधानिक व्यवस्था छ?",
       "options": [
@@ -3846,7 +3846,7 @@
     {
       "id": 199,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालका प्रथम प्रधानन्यायाधीश को हुन्?",
       "options": [
@@ -3865,7 +3865,7 @@
     {
       "id": 200,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "चीनमा गई वास्तुकला (पेगोडा शैली र श्वेत चैत्य) को विस्तार गर्ने प्रसिद्ध नेपाली कलाकार को थिए?",
       "options": [
@@ -3884,7 +3884,7 @@
     {
       "id": 201,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "तिब्बतका राजा स्रङचङ गम्पोसँग विवाह गरी त्यहाँ बौद्ध धर्म र नेपाली कलाको प्रचारप्रसार गर्ने नेपाली राजकुमारी को थिइन्?",
       "options": [
@@ -3903,7 +3903,7 @@
     {
       "id": 202,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "राजा जनककी छोरी तथा रामायणकी प्रमुख पात्र सीता (जानकी) को जन्मभूमि नेपालको कुन सहरलाई मानिन्छ?",
       "options": [
@@ -3922,7 +3922,7 @@
     {
       "id": 203,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "जनकपुरधामस्थित प्रसिद्ध नौलखा मन्दिर (जानकी मन्दिर) कसले निर्माण गराएका हुन् र यो कुन शैलीमा बनेको छ?",
       "options": [
@@ -3941,7 +3941,7 @@
     {
       "id": 204,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपाल सरकारले हालसम्म कति जना ऐतिहासिक व्यक्तित्वहरूलाई 'राष्ट्रिय विभूति' घोषणा गरेको छ?",
       "options": [
@@ -3960,7 +3960,7 @@
     {
       "id": 205,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "hard",
       "question": "वि.सं. २०७९ भदौ ६ गते नेपाल सरकारद्वारा १८ औँ राष्ट्रिय विभूति घोषणा गरिएका व्यक्तित्व को हुन्?",
       "options": [
@@ -3979,7 +3979,7 @@
     {
       "id": 206,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाल संवत्‌का प्रवर्तक को हुन् र यो संवत् कहिलेदेखि सुरु भएको हो?",
       "options": [
@@ -3998,7 +3998,7 @@
     {
       "id": 207,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "किरात धर्मका महागुरु तथा समाजसुधारक राष्ट्रिय विभूति फाल्गुनन्दको जन्म कुन जिल्लामा भएको थियो?",
       "options": [
@@ -4017,7 +4017,7 @@
     {
       "id": 208,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "अङ्ग्रेज–नेपाल युद्ध (सन् १८१४–१८१६) मा देउथलको किल्लामा ७३ वर्षको उमेरमा वीरगति प्राप्त गर्ने योद्धा को थिए?",
       "options": [
@@ -4036,7 +4036,7 @@
     {
       "id": 209,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नालापानीको युद्धमा अङ्ग्रेज सेनापति जिलेस्पीको फौजविरुद्ध बहादुरीपूर्वक लड्ने नेपाली सेनानायक को थिए?",
       "options": [
@@ -4055,7 +4055,7 @@
     {
       "id": 210,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "पाल्पाको जितगढी युद्धमा अङ्ग्रेज जर्नेल उडको फौजलाई परास्त गर्ने नेपाली कमान्डर को थिए, जसले विजयको स्मृतिमा पाल्पामा रणउजेश्वरी भगवतीको मन्दिर बनाए?",
       "options": [
@@ -4074,7 +4074,7 @@
     {
       "id": 211,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "रानीमहल' (नेपालको ताजमहल) कुन जिल्लामा र कुन नदीको किनारमा अवस्थित छ?",
       "options": [
@@ -4093,7 +4093,7 @@
     {
       "id": 212,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "कोशी, गण्डकी र कर्णाली नदी भारतमा प्रवेश गरेपछि के–के नामले चिनिन्छन्?",
       "options": [
@@ -4112,7 +4112,7 @@
     {
       "id": 213,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "पवित्र शालिग्राम पाइने एक मात्र प्रसिद्ध नदी कुन हो र यसले धौलागिरि र अन्नपूर्ण हिमालका बिचमा विश्वकै गहिरो गल्छी कुन स्थानमा बनाएको छ?",
       "options": [
@@ -4131,7 +4131,7 @@
     {
       "id": 214,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "चितवन, नवलपुर र तनहुँ जिल्लाको सङ्गममा पर्ने प्रसिद्ध धार्मिक तीर्थस्थल 'देवघाटधाम' कुन दुई नदीको सङ्गममा अवस्थित छ?",
       "options": [
@@ -4150,7 +4150,7 @@
     {
       "id": 215,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा पाइने माटोलाई मुख्यतया कति प्रकारमा विभाजन गरिएको छ?",
       "options": [
@@ -4169,7 +4169,7 @@
     {
       "id": 216,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "काठमाडौँ उपत्यकामा पाइने अत्यन्त उब्जाउ कालो माटो (तलैया माटो) लाई स्थानीय भाषामा के भनिन्छ?",
       "options": [
@@ -4188,7 +4188,7 @@
     {
       "id": 217,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "हरियो वन नेपालको धन' भन्ने उक्तिसँग सम्बन्धित नेपालको वन क्षेत्रले कुल भू–भागको कति प्रतिशत हिस्सा ओगटेको छ (वन तथा वातावरण मन्त्रालयको पछिल्लो आधिकारिक सर्वेक्षण अनुसार)?",
       "options": [
@@ -4207,7 +4207,7 @@
     {
       "id": 218,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "तराई, भावर र चुरे क्षेत्रमा पाइने नेपालको प्रमुख व्यापारिक तथा बलियो काठ दिने रूख कुन हो?",
       "options": [
@@ -4226,7 +4226,7 @@
     {
       "id": 219,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपाली हाते कागज (लोक्ता कागज) कुन वनस्पतिको बोक्राबाट तयार पारिन्छ?",
       "options": [
@@ -4245,7 +4245,7 @@
     {
       "id": 220,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा कति प्रकारका गुराँसहरू पाइन्छन् र तीमध्ये 'तीनजुरे–मिल्के–जलजले' क्षेत्रलाई के भनेर चिनिन्छ?",
       "options": [
@@ -4264,7 +4264,7 @@
     {
       "id": 221,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको प्रसिद्ध 'भोजपुरे खुकुरी' र 'पाल्पाली करुवा एवं ढाका' ले कुन जिल्लाको मौलिक घरेलु उद्योगको पहिचान बोकेका छन्?",
       "options": [
@@ -4283,7 +4283,7 @@
     {
       "id": 222,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "भक्तपुर जिल्ला कुन विशेष दुग्ध परिकारका लागि प्रसिद्ध छ, जसले भौगोलिक सङ्केत (GI) को पहिचानसमेत बोकेको छ?",
       "options": [
@@ -4302,7 +4302,7 @@
     {
       "id": 223,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा पहिलो औद्योगिक क्षेत्र कुन हो र यो कहिले र कहाँ स्थापना भएको थियो?",
       "options": [
@@ -4321,7 +4321,7 @@
     {
       "id": 224,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "विराटनगर जुट मिलको स्थापना कहिले भएको थियो, जसलाई नेपालको पहिलो आधुनिक उद्योग मानिन्छ?",
       "options": [
@@ -4340,7 +4340,7 @@
     {
       "id": 225,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा सर्वप्रथम कम्पनी ऐन कहिले जारी भएको थियो?",
       "options": [
@@ -4359,7 +4359,7 @@
     {
       "id": 226,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको पहिलो सिमेन्ट कारखाना कुन हो, जुन काठमाडौँको चोभारमा स्थापना गरिएको थियो?",
       "options": [
@@ -4378,7 +4378,7 @@
     {
       "id": 227,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "सरकारी स्वामित्वमा सञ्चालित उदयपुर सिमेन्ट उद्योग (जलजले) कुन देशको सहयोगमा स्थापना भएको हो?",
       "options": [
@@ -4397,7 +4397,7 @@
     {
       "id": 228,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "भृकुटी कागज कारखाना (गैँडाकोट), बाँसबारी छाला जुत्ता कारखाना र हरिसिद्धि इँटा टायल कारखाना कुन देशको सहयोगमा निर्माण भएका थिए?",
       "options": [
@@ -4416,7 +4416,7 @@
     {
       "id": 229,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "जनकपुर चुरोट कारखाना, वीरगन्ज चिनी कारखाना र कृषि औजार कारखाना (वीरगन्ज) कुन देशको सहयोगमा स्थापना भएका थिए?",
       "options": [
@@ -4435,7 +4435,7 @@
     {
       "id": 230,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा मूल्य अभिवृद्धि कर (VAT - Value Added Tax) कहिलेदेखि लागू गरिएको हो र यसको हालको एकल दर कति प्रतिशत छ?",
       "options": [
@@ -4454,7 +4454,7 @@
     {
       "id": 231,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको आर्थिक वर्ष कहिले सुरु भई कहिले समाप्त हुन्छ?",
       "options": [
@@ -4473,7 +4473,7 @@
     {
       "id": 232,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको संविधानको धारा ११९(३) अनुसार सङ्घीय अर्थमन्त्रीले प्रत्येक वर्ष कुन मितिमा सङ्घीय संसद्को संयुक्त बैठकमा राजस्व र व्ययको अनुमान (बजेट) पेस गर्नुपर्ने बाध्यात्मक व्यवस्था छ?",
       "options": [
@@ -4492,7 +4492,7 @@
     {
       "id": 233,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको इतिहासमा सर्वप्रथम बजेट कहिले र कसले प्रस्तुत गरेका थिए?",
       "options": [
@@ -4511,7 +4511,7 @@
     {
       "id": 234,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको धितोपत्र बजारको नियमनकारी निकाय कुन हो?",
       "options": [
@@ -4530,7 +4530,7 @@
     {
       "id": 235,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको एक मात्र दोस्रो बजार (सेयर बजार) कुन हो जहाँ सूचीकृत कम्पनीहरूको सेयर खरिद–बिक्री हुन्छ?",
       "options": [
@@ -4549,7 +4549,7 @@
     {
       "id": 236,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राष्ट्रिय योजना आयोग (National Planning Commission) को अध्यक्ष को रहने व्यवस्था छ?",
       "options": [
@@ -4568,7 +4568,7 @@
     {
       "id": 237,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "हाल कार्यान्वयनमा रहेको नेपालको आवधिक योजना कुन हो र यसको समयावधि कुन हो?",
       "options": [
@@ -4587,7 +4587,7 @@
     {
       "id": 238,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "hard",
       "question": "सोह्रौँ आवधिक योजना (२०८१/८२–२०८५/८६) को दीर्घकालीन सोच र नारा के रहेको छ?",
       "options": [
@@ -4606,7 +4606,7 @@
     {
       "id": 239,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको संविधानको अनुसूची–१ अनुसार नेपालको राष्ट्रिय झन्डाको बनावट कस्तो रहेको छ?",
       "options": [
@@ -4625,7 +4625,7 @@
     {
       "id": 240,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको राष्ट्रिय झन्डाको वैज्ञानिक नाप र ज्यामितीय बनावट संविधानमा समावेश गर्न मुख्य भूमिका खेल्ने इन्जिनियर तथा वास्तुविद् को हुन्?",
       "options": [
@@ -4644,7 +4644,7 @@
     {
       "id": 241,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "बागमती नदी' को सभ्यता र स्वच्छताका लागि जीवनभर अभियान चलाएका व्यक्ति को हुन्, जसलाई 'बागमती बाजे' पनि भनिन्थ्यो?",
       "options": [
@@ -4663,7 +4663,7 @@
     {
       "id": 242,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "एसियाको नोबेल पुरस्कार मानिने 'रोमन म्यागसेसे पुरस्कार' प्राप्त गर्ने प्रथम नेपाली को हुन्?",
       "options": [
@@ -4682,7 +4682,7 @@
     {
       "id": 243,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "मोतीबिन्दुको सस्तो र सुलभ शल्यक्रिया प्रविधि विकास गरी विश्वभर लाखौँ मानिसको दृष्टि फर्काउने प्रसिद्ध नेपाली नेत्ररोग विशेषज्ञ को हुन्, जसले म्यागसेसे र इसा अवार्ड जितेका छन्?",
       "options": [
@@ -4701,7 +4701,7 @@
     {
       "id": 244,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "ग्रामीण क्षेत्रमा ताररहित इन्टरनेट (Wireless Internet) विस्तार र राष्ट्रिय आविष्कार केन्द्र स्थापना गर्ने म्यागसेसे पुरस्कार विजेता नेपाली अभियन्ता को हुन्?",
       "options": [
@@ -4720,7 +4720,7 @@
     {
       "id": 245,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "चेलीबेटी बेचबिखनविरुद्ध अभियान चलाएबापत सन् २०१० मा सिएनएन हिरो (CNN Hero) घोषित हुने नेपाली समाजसेवी को हुन्?",
       "options": [
@@ -4739,7 +4739,7 @@
     {
       "id": 246,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "कारागारमा रहेका अभिभावकका बालबालिकाको लालनपालन र शिक्षादीक्षामा पुर्‍याएको योगदानका लागि सन् २०१२ मा 'सिएनएन हिरो' र सन् २०१६ मा 'सिएनएन सुपर हिरो' बन्ने नेपाली को हुन्?",
       "options": [
@@ -4758,7 +4758,7 @@
     {
       "id": 247,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा १८ घण्टासम्मको दैनिक लोडसेडिङ अन्त्य गरी उज्यालो नेपाल अभियान सफल पारेका नेपाल विद्युत् प्राधिकरणका पूर्व कार्यकारी निर्देशक को हुन्?",
       "options": [
@@ -4777,7 +4777,7 @@
     {
       "id": 248,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा 'गोरखा भूकम्प' भनिने विनाशकारी भूकम्प कहिले गएको थियो र त्यसको केन्द्रविन्दु कहाँ थियो?",
       "options": [
@@ -4796,7 +4796,7 @@
     {
       "id": 249,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा प्रत्येक वर्ष 'राष्ट्रीय भूकम्प सुरक्षा दिवस' कहिले मनाइन्छ?",
       "options": [
@@ -4815,7 +4815,7 @@
     {
       "id": 250,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपाल पञ्चाङ्ग निर्णायक विकास समितिबाट स्वीकृत भई वि.सं. २०८० कार्तिक १७ गते राति ११:४७ बजे गएको भूकम्पको केन्द्रविन्दु कुन जिल्लाको रामीडाँडा थियो?",
       "options": [
@@ -4834,7 +4834,7 @@
     {
       "id": 251,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "पशुपतिनाथ मन्दिर कुन नदीको किनारमा अवस्थित छ र यो कुन वास्तुकला शैलीमा निर्माण भएको छ?",
       "options": [
@@ -4853,7 +4853,7 @@
     {
       "id": 252,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "काठमाडौँ उपत्यकामा अवस्थित प्रसिद्ध बौद्ध स्तूपहरू कुन–कुन हुन्?",
       "options": [
@@ -4872,7 +4872,7 @@
     {
       "id": 253,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको सबैभन्दा ठुलो ढुङ्गाको मूर्ति मानिने 'बूढानीलकण्ठ' कुन भगवान्को जलमा शयन गरिरहेको मूर्ति हो?",
       "options": [
@@ -4891,7 +4891,7 @@
     {
       "id": 254,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "लिच्छवि राजा विष्णुगुप्तको समयमा निर्मित बूढानीलकण्ठको मूर्ति कुन राजाले दर्शन गर्नु हुँदैन भन्ने परम्परागत मान्यता रहेको थियो?",
       "options": [
@@ -4910,7 +4910,7 @@
     {
       "id": 255,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "प्रसिद्ध मनकामना मन्दिर कुन जिल्लामा पर्दछ र त्यहाँ जान नेपालको पहिलो केबलकार कहिले सञ्चालनमा आएको हो?",
       "options": [
@@ -4929,7 +4929,7 @@
     {
       "id": 256,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "गण्डकी प्रदेशको बागलुङ र पर्वत जिल्ला जोड्ने कालीगण्डकी नदीमाथि बनेको ५६७ मिटर लामो झोलुङ्गे पुलको विशेषता के हो?",
       "options": [
@@ -4948,7 +4948,7 @@
     {
       "id": 257,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको महाकाली नदीमा निर्मित चार लेनको ८०० मिटर लामो पक्की पुल र प्रसिद्ध दोधारा–चाँदनी झोलुङ्गे पुल कुन जिल्लामा पर्दछ?",
       "options": [
@@ -4967,7 +4967,7 @@
     {
       "id": 258,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको पूर्व–पश्चिम सिमाना छुट्याउने नदीहरू कुन–कुन हुन्?",
       "options": [
@@ -4986,7 +4986,7 @@
     {
       "id": 259,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "विश्वको सर्वोच्च शिखर सगरमाथालाई नेपालीमा 'सगरमाथा' भनी नामकरण गर्ने इतिहासशिरोमणि को हुन्?",
       "options": [
@@ -5005,7 +5005,7 @@
     {
       "id": 260,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "सगरमाथालाई तिब्बती (शेर्पा) भाषामा के भनिन्छ, जसको अर्थ 'विश्वकी आमा' वा 'ब्रह्माण्डकी देवी' हुन्छ?",
       "options": [
@@ -5024,7 +5024,7 @@
     {
       "id": 261,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "विश्वमै सबैभन्दा धेरै पटक (३० पटक, सन् २०२४ मे सम्म) सगरमाथाको सफल आरोहण गरी विश्व कीर्तिमान कायम गर्ने नेपाली पर्वतारोही को हुन्?",
       "options": [
@@ -5043,7 +5043,7 @@
     {
       "id": 262,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "हिउँ चितुवा' (Snow Leopard) उपनामले चिनिने र बिना अक्सिजन १० पटक सगरमाथा आरोहण गरेका प्रसिद्ध नेपाली आरोही को हुन्?",
       "options": [
@@ -5062,7 +5062,7 @@
     {
       "id": 263,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "सगरमाथाको चुचुरोमा बिना अक्सिजन २१ घण्टा बिताउने र सबैभन्दा छिटो (१६ घण्टा ५६ मिनेट) सगरमाथा आरोहणको कीर्तिमान राख्ने पर्वतारोही को थिए?",
       "options": [
@@ -5081,7 +5081,7 @@
     {
       "id": 264,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "विश्वका ८,००० मिटरभन्दा अग्ला १४ वटै हिमालहरू मात्र ६ महिना ६ दिनमा आरोहण गरी विश्वचर्चित बनेका नेपाली पर्वतारोही को हुन्?",
       "options": [
@@ -5100,7 +5100,7 @@
     {
       "id": 265,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "अन्नपूर्ण प्रथम (८,०९१ मिटर) हिमाल आरोहण गर्ने विश्वका प्रथम व्यक्ति को हुन्, जुन ८ हजार मिटरमाथिको हिमाल चढिएको मानव इतिहासकै पहिलो घटना थियो?",
       "options": [
@@ -5119,7 +5119,7 @@
     {
       "id": 266,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "किल्लर माउन्टेन' (Killer Mountain) उपनामले चिनिने ८,१६३ मिटर अग्लो मनास्लु हिमाल कुन जिल्लामा पर्दछ?",
       "options": [
@@ -5138,7 +5138,7 @@
     {
       "id": 267,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाल सरकारले आरोहणका लागि खुला नगरेको (कुमारी हिमाल - Virgin Peak) प्रसिद्ध हिमाल कुन हो?",
       "options": [
@@ -5157,7 +5157,7 @@
     {
       "id": 268,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "अपि हिमाल र सैपाल हिमाल नेपालको कुन प्रदेश र कुन–कुन जिल्लामा पर्दछन्?",
       "options": [
@@ -5176,7 +5176,7 @@
     {
       "id": 269,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको एक मात्र मानवविहीन वा बाह्य विश्वसँग लामो समय राष्ट्रिय सडक सञ्जालले नजोडिएको दुर्गम जिल्ला सदरमुकाम कुन मानिन्थ्यो (जहाँ पछिल्लो समय कर्णाली करिडोरको ट्र्याक पुगेको छ)?",
       "options": [
@@ -5195,7 +5195,7 @@
     {
       "id": 270,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालका जिल्लाहरू र तिनका सदरमुकामको जोडा कुन विकल्पमा पूर्ण रूपमा सही छ?",
       "options": [
@@ -5214,7 +5214,7 @@
     {
       "id": 271,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "चितवन जिल्लाको सदरमुकाम भरतपुर हो भने मकवानपुर र नवलपरासी (बर्दघाट सुस्ता पूर्व - नवलपुर) को सदरमुकाम क्रमशः कुन–कुन हुन्?",
       "options": [
@@ -5233,7 +5233,7 @@
     {
       "id": 272,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "काभ्रेपलाञ्चोक, सिन्धुपाल्चोक र रामेछाप जिल्लाका सदरमुकामहरू क्रमशः कुन–कुन हुन्?",
       "options": [
@@ -5252,7 +5252,7 @@
     {
       "id": 273,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको पहिलो दैनिक पत्रिका कुन हो?",
       "options": [
@@ -5271,7 +5271,7 @@
     {
       "id": 274,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाल टेलिभिजन (NTV) को स्थापना कहिले र कुन नाराका साथ भएको हो?",
       "options": [
@@ -5290,7 +5290,7 @@
     {
       "id": 275,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपाल र दക്ഷिण एसियाकै पहिलो सामुदायिक एफएम रेडियो कुन हो र यो कहिले स्थापना भएको हो?",
       "options": [
@@ -5309,7 +5309,7 @@
     {
       "id": 276,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपाल प्रज्ञा–प्रतिष्ठान (तत्कालीन नेपाली साहित्य कला एकेडेमी / रोयल नेपाल एकेडेमी) को स्थापना कहिले भएको हो?",
       "options": [
@@ -5328,7 +5328,7 @@
     {
       "id": 277,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाली भाषाको मानक शब्दकोश 'नेपाली बृहत् शब्दकोश' प्रकाशन गर्ने आधिकारिक निकाय कुन हो?",
       "options": [
@@ -5347,7 +5347,7 @@
     {
       "id": 278,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "प्रसिद्ध शोककाव्य 'गौरी' का लेखक को हुन्?",
       "options": [
@@ -5366,7 +5366,7 @@
     {
       "id": 279,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाली साहित्यमा सर्वाधिक बिक्री भएको मानिने खण्डकाव्य 'मुनामदन' कुन छन्द वा भाकामा लेखिएको छ र यसका लेखक को हुन्?",
       "options": [
@@ -5385,7 +5385,7 @@
     {
       "id": 280,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "निम्नमध्ये साहित्यकार र तिनका प्रसिद्ध कृतिहरूको कुन जोडा सही छ?",
       "options": [
@@ -5404,7 +5404,7 @@
     {
       "id": 281,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाली आधुनिक कथाका प्रथम आधुनिक कथाकार मानिने गुरुप्रसाद मैनालीको पहिलो र प्रसिद्ध कथा कुन हो?",
       "options": [
@@ -5423,7 +5423,7 @@
     {
       "id": 282,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "कवि भूपि शेरचनको मदन पुरस्कार विजेता प्रसिद्ध कवितासङ्ग्रह कुन हो?",
       "options": [
@@ -5442,7 +5442,7 @@
     {
       "id": 283,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "मेरो प्यारो ओखलढुङ्गा' कविता र 'उर्वशी' खण्डकाव्यका रचयिता युगकवि को हुन्?",
       "options": [
@@ -5461,7 +5461,7 @@
     {
       "id": 284,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "आमाको सपना' कवितासङ्ग्रहका लेखक र गद्य कविताका प्रवर्तक को हुन्?",
       "options": [
@@ -5480,7 +5480,7 @@
     {
       "id": 285,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "मस्तिष्क पक्षघात (Cerebral Palsy) को शारीरिक अवस्थाका बाबजुद खुट्टाको औँलाले लेखेर वि.सं. २०६७ सालको मदन पुरस्कार जित्ने साहसी साहित्यकार को हुन् र उनको कृति कुन हो?",
       "options": [
@@ -5499,7 +5499,7 @@
     {
       "id": 286,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "कर्णाली अञ्चलको जनजीवन र संस्कृतिमा आधारित रही वि.सं. २०२८ मा कर्णाली लोक संस्कृति अध्ययन टोलीका सदस्यहरूले लेखेको ५ खण्डको कृतिले कुन पुरस्कार पाएको थियो?",
       "options": [
@@ -5518,7 +5518,7 @@
     {
       "id": 287,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा सरकारी कामकाजमा प्रयोग हुने 'विक्रम संवत्' अङ्ग्रेजी इस्वी संवत् (AD) भन्दा साधारणतया कति वर्ष र महिनाले जेठो (अगाडि) छ?",
       "options": [
@@ -5537,7 +5537,7 @@
     {
       "id": 288,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा विक्रम संवत्‌लाई औपचारिक र सरकारी कामकाजको संवत्‌का रूपमा कसले र कहिलेदेखि प्रचलनमा ल्याएका हुन्?",
       "options": [
@@ -5556,7 +5556,7 @@
     {
       "id": 289,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "राणा प्रधानमन्त्री देवशमशेरले सरकारी कर्मचारीको कार्यालय समय १० बजेदेखि ५ बजेसम्म तोक्दा दिउँसो १२ बजे के पड्काएर समयको जानकारी दिने चलन चलाएका थिए?",
       "options": [
@@ -5575,7 +5575,7 @@
     {
       "id": 290,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको इतिहासमा आफूलाई 'श्री ३ महाराज' र कास्की तथा लमजुङको महाराज घोषणा गर्ने प्रथम राणा प्रधानमन्त्री को थिए?",
       "options": [
@@ -5594,7 +5594,7 @@
     {
       "id": 291,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राणाहरूलाई ए, बी र सी (A, B, C) वर्गमा विभाजन गर्ने र सी वर्गका राणाहरूलाई उत्तराधिकारको रोलक्रमबाट हटाउने राणा प्रधानमन्त्री को थिए?",
       "options": [
@@ -5613,7 +5613,7 @@
     {
       "id": 292,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालका अन्तिम राणा प्रधानमन्त्री को थिए?",
       "options": [
@@ -5632,7 +5632,7 @@
     {
       "id": 293,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राणा शासनविरुद्ध स्थापना भएको नेपालको पहिलो राजनीतिक दल 'नेपाल प्रजा परिषद्' कहिले र कसको नेतृत्वमा गठन भएको थियो?",
       "options": [
@@ -5651,7 +5651,7 @@
     {
       "id": 294,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपाल कम्युनिस्ट पार्टीको स्थापना कहिले, कहाँ र कसको नेतृत्वमा भएको थियो?",
       "options": [
@@ -5670,7 +5670,7 @@
     {
       "id": 295,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालका प्रथम कम्युनिस्ट प्रधानमन्त्री को हुन्, जसले 'आफ्नो गाउँ आफैँ बनाऔँ' र ज्येष्ठ नागरिक भत्ता कार्यक्रम सुरु गरेका थिए?",
       "options": [
@@ -5689,7 +5689,7 @@
     {
       "id": 296,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "तत्कालीन नेकपा (माओवादी) र नेपाल सरकारबिच १० वर्षे सशस्त्र द्वन्द्व अन्त्य गर्ने 'विस्तृत शान्ति सम्झौता' कहिले भएको थियो?",
       "options": [
@@ -5708,7 +5708,7 @@
     {
       "id": 297,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा संविधानसभाको निर्वाचन कति पटक भयो र कहिले–कहिले सम्पन्न भएको थियो?",
       "options": [
@@ -5727,7 +5727,7 @@
     {
       "id": 298,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "संविधानसभाका अध्यक्ष को थिए, जसको कार्यकालमा वि.सं. २०७२ असोज ३ मा नेपालको संविधान जारी भयो?",
       "options": [
@@ -5746,7 +5746,7 @@
     {
       "id": 299,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको सर्वोच्च सुरक्षा निकाय 'नेपाली सेना' को परमाधिपति को हुने संवैधानिक व्यवस्था छ?",
       "options": [
@@ -5765,7 +5765,7 @@
     {
       "id": 300,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राष्ट्रिय सुरक्षा परिषद्को अध्यक्ष को रहने संवैधानिक व्यवस्था छ?",
       "options": [
@@ -5784,7 +5784,7 @@
     {
       "id": 301,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालका संवैधानिक अङ्गका प्रमुख र सर्वोच्च अदालतका प्रधानन्यायाधीशको नियुक्ति कसको सिफारिसमा राष्ट्रपतिबाट हुन्छ?",
       "options": [
@@ -5803,7 +5803,7 @@
     {
       "id": 302,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "प्रधानमन्त्रीको अध्यक्षतामा रहने संवैधानिक परिषद्मा कुल कति जना सदस्य रहन्छन्?",
       "options": [
@@ -5822,7 +5822,7 @@
     {
       "id": 303,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाल सरकारको कानुनी सल्लाहकार को हुन्छ र निजको नियुक्ति कसरी हुन्छ?",
       "options": [
@@ -5841,7 +5841,7 @@
     {
       "id": 304,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको निजामती प्रशासनको सर्वोच्च पद कुन हो?",
       "options": [
@@ -5860,7 +5860,7 @@
     {
       "id": 305,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालका प्रथम मुख्यसचिव को थिए?",
       "options": [
@@ -5879,7 +5879,7 @@
     {
       "id": 306,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "प्रदेश प्रमुख (Governor of Province) को नियुक्ति कसले गर्दछ र निजको पदावधि कति हुन्छ?",
       "options": [
@@ -5898,7 +5898,7 @@
     {
       "id": 307,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "प्रदेश सरकारको कार्यकारिणी प्रमुख को हुन्छ?",
       "options": [
@@ -5917,7 +5917,7 @@
     {
       "id": 308,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "स्थानीय तह (गाउँपालिका र नगरपालिका) मा स्थानीय विवाद निरूपण गर्न गठित ३ सदस्यीय 'न्यायिक समिति' को संयोजक को रहने संवैधानिक व्यवस्था छ?",
       "options": [
@@ -5936,7 +5936,7 @@
     {
       "id": 309,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालका ७७ जिल्लामध्ये सबैभन्दा बढी स्थानीय तह भएको जिल्ला कुन हो?",
       "options": [
@@ -5955,7 +5955,7 @@
     {
       "id": 310,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालका ६ वटा महानगरपालिकाहरू कुन–कुन हुन्?",
       "options": [
@@ -5974,7 +5974,7 @@
     {
       "id": 311,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा ठुलो र सबैभन्दा सानो महानगरपालिका कुन–कुन हुन्?",
       "options": [
@@ -5993,7 +5993,7 @@
     {
       "id": 312,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा ठुलो नगरपालिका र सबैभन्दा ठुलो गाउँपालिका कुन–कुन हुन्?",
       "options": [
@@ -6012,7 +6012,7 @@
     {
       "id": 313,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा गाउँपालिका विहीन (नगरपालिका र महानगरपालिका मात्र भएका) जिल्लाहरू कतिवटा र कुन–कुन हुन्?",
       "options": [
@@ -6031,7 +6031,7 @@
     {
       "id": 314,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा नगरपालिका विहीन (गाउँपालिका मात्र भएका) जिल्लाहरू कतिवटा र कुन–कुन हुन्?",
       "options": [
@@ -6050,7 +6050,7 @@
     {
       "id": 315,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको प्रसिद्ध पर्यटकीय गन्तव्य 'सौराहा' कुन जिल्ला र कुन राष्ट्रिय निकुञ्जको प्रवेशद्वारमा पर्दछ?",
       "options": [
@@ -6069,7 +6069,7 @@
     {
       "id": 316,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "सगरमाथा आरोहण र खुम्बु क्षेत्रको पदयात्राको प्रमुख प्रवेशद्वार मानिने 'लुक्ला' (तेन्जिङ–हिलारी विमानस्थल) र 'नाम्चे बजार' कुन जिल्लामा पर्दछन्?",
       "options": [
@@ -6088,7 +6088,7 @@
     {
       "id": 317,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "सूर्योदयको मनोरम दृश्य र चिया बगानका लागि प्रसिद्ध पर्यटकीय स्थल 'श्रीअन्तु' र 'कन्याम' कुन जिल्लामा पर्दछन्?",
       "options": [
@@ -6107,7 +6107,7 @@
     {
       "id": 318,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "काठमाडौँ उपत्यका नजिकै हिमाल र सूर्योदय हेर्न प्रसिद्ध पर्यटकीय स्थल 'नगरकोट' कुन जिल्लामा पर्दछ?",
       "options": [
@@ -6126,7 +6126,7 @@
     {
       "id": 319,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "पहाडकी रानी' (Queen of Hills) उपनामले चिनिने परम्परागत नेवारी वास्तुकलायुक्त पर्यटकीय बजार 'बन्दीपुर' कुन जिल्लामा पर्दछ?",
       "options": [
@@ -6145,7 +6145,7 @@
     {
       "id": 320,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "दक्षिण एसियाकै नमुना ग्रामीण होमस्टे (घरबास) पर्यटनका रूपमा प्रसिद्ध 'घलेगाउँ' कुन जिल्लामा पर्दछ?",
       "options": [
@@ -6164,7 +6164,7 @@
     {
       "id": 321,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको पहिलो ग्रामीण होमस्टे (ग्रामीण पर्यटनको सुरुवात भएको गाउँ) 'सिरुबारी' कुन जिल्लामा पर्दछ?",
       "options": [
@@ -6183,7 +6183,7 @@
     {
       "id": 322,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपाल र चीनको तिब्बत जोड्ने प्रमुख व्यापारिक नाकाहरू 'रसुवागढी–केरुङ' र 'तातोपानी–खासा' क्रमशः कुन–कुन जिल्लामा पर्दछन्?",
       "options": [
@@ -6202,7 +6202,7 @@
     {
       "id": 323,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "कोरला नाका, यारी (हिल्सा) नाका र किमाथाङ्का नाका क्रमशः नेपालका कुन–कुन हिमाली जिल्लामा पर्दछन्?",
       "options": [
@@ -6221,7 +6221,7 @@
     {
       "id": 324,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "तराईको प्रमुख औद्योगिक र व्यापारिक नाका 'वीरगन्ज' (रक्सौल नाका) लाई के उपनामले पनि चिनिन्छ?",
       "options": [
@@ -6240,7 +6240,7 @@
     {
       "id": 325,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "वि.सं. २०८० चैत ४ गते औपचारिक रूपमा नेपालको 'पर्यटन राजधानी' (Tourism Capital of Nepal) घोषणा गरिएको सहर कुन हो?",
       "options": [
@@ -6259,7 +6259,7 @@
     {
       "id": 326,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "अन्तर्राष्ट्रिय क्रिकेटमा एकदिवसीय (ODI) मान्यता प्राप्त गरेको नेपालको राष्ट्रिय क्रिकेट टोलीले सन् २०२३ को एसियाियाली खेलकुद (हाङझाउ) मा कुन देशविरुद्ध टी–२० अन्तर्राष्ट्रिय क्रिकेटमा विश्व कीर्तिमानी ३१४ रन बनाएको थियो?",
       "options": [
@@ -6278,7 +6278,7 @@
     {
       "id": 327,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको राष्ट्रिय खेल कुन हो (वि.सं. २०७४ जेठ ८ को मन्त्रिपरिषद् निर्णय अनुसार)?",
       "options": [
@@ -6297,7 +6297,7 @@
     {
       "id": 328,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपाल प्रज्ञा–प्रतिष्ठान, नेपाल ललितकला प्रज्ञा–प्रतिष्ठान र नेपाल सङ्गीत तथा नाट्य प्रज्ञा–प्रतिष्ठानका कुलपति (Chancellor) र प्रमुख संरक्षक को रहने व्यवस्था छ?",
       "options": [
@@ -6316,7 +6316,7 @@
     {
       "id": 329,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको सबैभन्दा ठुलो र पुरानो रङ्गशाला 'दशरथ रङ्गशाला' र अन्तर्राष्ट्रिय क्रिकेट मैदान 'त्रिभुवन विश्वविद्यालय क्रिकेट मैदान' कहाँ अवस्थित छन्?",
       "options": [
@@ -6335,7 +6335,7 @@
     {
       "id": 330,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा छापाखाना (Printing Press) को सुरुवात कहिले र कसले बेलायतबाट 'गिद्धे प्रेस' ल्याएर गरेका थिए?",
       "options": [
@@ -6354,7 +6354,7 @@
     {
       "id": 331,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको पहिलो माध्यमिक विद्यालय 'दरबार हाई स्कुल' (हाल भानु मा.वि.) को स्थापना कहिले र कसको पालामा भएको थियो?",
       "options": [
@@ -6373,7 +6373,7 @@
     {
       "id": 332,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा एसएलसी (SLC - प्रवेशिका परीक्षा) बोर्डको स्थापना कहिले भएको थियो?",
       "options": [
@@ -6392,7 +6392,7 @@
     {
       "id": 333,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "वि.सं. १९९० सालको पहिलो एसएलसी परीक्षामा बोर्ड प्रथम (सर्वोत्कृष्ट) हुने विद्यार्थी को थिए र पहिलो छात्रा को थिइन्?",
       "options": [
@@ -6411,7 +6411,7 @@
     {
       "id": 334,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा विद्यावारिधि (PhD) गर्ने प्रथम महिला को हुन् र प्रथम महिला इन्जिनियर को हुन्?",
       "options": [
@@ -6430,7 +6430,7 @@
     {
       "id": 335,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा सर्वप्रथम फोन (टेलिफोन) सेवाको सुरुवात कहिले भएको थियो?",
       "options": [
@@ -6449,7 +6449,7 @@
     {
       "id": 336,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा मोबाइल फोन सेवा (GSM) र इन्टरनेट सेवाको सुरुवात क्रमशः कहिले भएको थियो?",
       "options": [
@@ -6468,7 +6468,7 @@
     {
       "id": 337,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "पशुपतिनाथको मन्दिरमा भट्ट ब्राह्मण (दक्षिण भारतीय मूलका) पुजारी राख्ने चलन कुन राजाले चलाएका थिए?",
       "options": [
@@ -6487,7 +6487,7 @@
     {
       "id": 338,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "काठमाडौँ उपत्यकामा मच्छिन्द्रनाथको भोटो देखाउने जात्रा र जीवित देवी कुमारीको रथयात्रा कुन–कुन पर्वसँग सम्बन्धित छन्?",
       "options": [
@@ -6506,7 +6506,7 @@
     {
       "id": 339,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "प्रत्येक वर्ष नयाँ वर्ष (वैशाख १) को अवसरमा लिंगो उठाएर र भैरवको रथ तानेर मनाइने प्रसिद्ध 'बिस्केट जात्रा' कुन सहरमा मनाइन्छ?",
       "options": [
@@ -6525,7 +6525,7 @@
     {
       "id": 340,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "मल्ल राजा प्रताप मल्लले पुत्र शोकमा परेकी रानीलाई संसारमा अरूका घरमा पनि मृत्यु भएको देखाउन सुरु गरेको मानिने (जयप्रकाश मल्लले गाई हिँडाउने चलन थपेको) जात्रा कुन हो?",
       "options": [
@@ -6544,7 +6544,7 @@
     {
       "id": 341,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको हिमाली क्षेत्रमा बौद्ध धर्मावलम्बी शेर्पा समुदायले गुम्बाहरूमा मुखुन्डो लगाएर नाचिने धार्मिक तथा सांस्कृतिक नाच कुन हो?",
       "options": [
@@ -6563,7 +6563,7 @@
     {
       "id": 342,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "तमु ल्होसार, सोनाम ल्होसार र ग्याल्पो ल्होसार क्रमशः कुन–कुन समुदायले नयाँ वर्षका रूपमा मनाउँछन्?",
       "options": [
@@ -6582,7 +6582,7 @@
     {
       "id": 343,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको तराई र मिथिला क्षेत्रमा कार्तिक शुक्ल षष्ठीका दिन अस्ताउँदो र उदाउँदो सूर्यलाई अर्घ्य दिएर मनाइने प्रमुख पवित्र पर्व कुन हो?",
       "options": [
@@ -6601,7 +6601,7 @@
     {
       "id": 344,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा वन्यजन्तु संरक्षणका लागि पहिलो कानुन 'राष्ट्रिय निकुञ्ज तथा वन्यजन्तु संरक्षण ऐन' कहिले जारी भएको हो र त्यसमा कतिवटा स्तनधारी वन्यजन्तुलाई संरक्षित सूचीमा राखिएको छ?",
       "options": [
@@ -6620,7 +6620,7 @@
     {
       "id": 345,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राष्ट्रिय निकुञ्ज तथा वन्यजन्तु संरक्षण ऐन, २०२९ अनुसार संरक्षित ९ वटा पन्छी (चरा) हरू र ३ वटा घस्रने वन्यजन्तु (सरीसृप) कुन–कुन हुन्?",
       "options": [
@@ -6639,7 +6639,7 @@
     {
       "id": 346,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा बाघ गणना २०२२ अनुसार पाटे बाघको सङ्ख्या कति पुगेको छ र बाघको सङ्ख्या दोब्बर बनाउने 'सेन्ट पिटर्सबर्ग घोषणापत्र' को लक्ष्य पूरा गर्ने नेपाल कतिऔँ राष्ट्र बनेको छ?",
       "options": [
@@ -6658,7 +6658,7 @@
     {
       "id": 347,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "सन् २०२१ को राष्ट्रिय गैँडा गणना अनुसार नेपालमा एकसिङ्गे गैँडाको कुल सङ्ख्या कति रहेको छ?",
       "options": [
@@ -6677,7 +6677,7 @@
     {
       "id": 348,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "बर्दिया जिल्लाको खैरापुर क्षेत्र कुन दुर्लभ वन्यजन्तुको संरक्षण क्षेत्रका रूपमा प्रसिद्ध छ?",
       "options": [
@@ -6696,7 +6696,7 @@
     {
       "id": 349,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "काठमाडौँ उपत्यकाका चार दिशामा रहेका प्रसिद्ध 'चार नारायण' मन्दिरहरू कुन–कुन हुन्?",
       "options": [
@@ -6715,7 +6715,7 @@
     {
       "id": 350,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "काठमाडौँ उपत्यकाका चार प्रसिद्ध 'विनायक' (गणेश) मन्दिरहरू कुन–कुन हुन्?",
       "options": [
@@ -6734,7 +6734,7 @@
     {
       "id": 351,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको सुदूरपश्चिम प्रदेशमा अवस्थित प्राकृतिक सुन्दरता र जैविक विविधताले भरिपूर्ण 'खप्तड क्षेत्र' कुन ४ जिल्लाको सङ्गममा फैलिएको छ?",
       "options": [
@@ -6753,7 +6753,7 @@
     {
       "id": 352,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको पहिलो कूटनीतिक नियोग (दूतावास) कुन देशमा खोलिएको थियो र नेपालका प्रथम राजदूत को थिए?",
       "options": [
@@ -6772,7 +6772,7 @@
     {
       "id": 353,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "संयुक्त राष्ट्रसंघका लागि नेपालका प्रथम स्थायी प्रतिनिधि को थिए?",
       "options": [
@@ -6791,7 +6791,7 @@
     {
       "id": 354,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको परराष्ट्र नीतिको प्रमुख आधार के हो (नेपालको संविधानको धारा ५१(ड) अनुसार)?",
       "options": [
@@ -6810,7 +6810,7 @@
     {
       "id": 355,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "संयुक्त राष्ट्रसंघीय शान्ति मिसन (UN Peacekeeping) मा नेपालले कहिलेदेखि र कुन मिसनबाट सहभागिता जनाउन थालेको हो?",
       "options": [
@@ -6829,7 +6829,7 @@
     {
       "id": 356,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "विश्व शान्तिका लागि संयुक्त राष्ट्रसंघीय शान्ति स्थापक मिसन (UN Peacekeeping) मा सर्वाधिक सुरक्षाकर्मी (सेना र प्रहरी) खटाउने देशहरूको सूचीमा हाल नेपाल कुन स्थानमा पर्दछ?",
       "options": [
@@ -6848,7 +6848,7 @@
     {
       "id": 357,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा प्रत्येक वर्ष 'संविधान दिवस तथा राष्ट्रिय दिवस' कहिले मनाइन्छ?",
       "options": [
@@ -6867,7 +6867,7 @@
     {
       "id": 358,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा प्रत्येक वर्ष 'पृथ्वी जयन्ती तथा राष्ट्रिय एकता दिवस' कहिले मनाइन्छ?",
       "options": [
@@ -6886,7 +6886,7 @@
     {
       "id": 359,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा प्रत्येक वर्ष 'सहिद दिवस' र 'प्रजातन्त्र दिवस' क्रमशः कहिले–कहिले मनाइन्छ?",
       "options": [
@@ -6905,7 +6905,7 @@
     {
       "id": 360,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा प्रत्येक वर्ष 'भानु जयन्ती' र 'मोती जयन्ती' कहिले–कहिले मनाइन्छ?",
       "options": [
@@ -6924,7 +6924,7 @@
     {
       "id": 361,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "महाकवि लक्ष्मीप्रसाद देवकोटाको जन्मजयन्ती कुन पर्वका दिन पर्दछ?",
       "options": [
@@ -6943,7 +6943,7 @@
     {
       "id": 362,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको पहिलो सामुदायिक वन कार्यक्रम कहिलेबाट औपचारिक रूपमा सुरु भएको मानिन्छ र सामुदायिक वन दिवस कहिले मनाइन्छ?",
       "options": [
@@ -6962,7 +6962,7 @@
     {
       "id": 363,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा प्रत्येक वर्ष 'राष्ट्रिय धान दिवस तथा दही चिउरा खाने दिन' कहिले मनाइन्छ?",
       "options": [
@@ -6981,7 +6981,7 @@
     {
       "id": 364,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "साउन १५ गते नेपाली समाजमा कुन परिकार खाएर मनाउने परम्परा रहेको छ?",
       "options": [
@@ -7000,7 +7000,7 @@
     {
       "id": 365,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "जनैपूर्णिमा (ऋषितर्पणी / रक्षाबन्धन) का दिन नौ थरी गेडागुडी भिजाएर टुसा उमारेर पकाइने पौष्टिक झोल परिकारलाई के भनिन्छ?",
       "options": [
@@ -7019,7 +7019,7 @@
     {
       "id": 366,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "धान्य पूर्णिमा (मङ्सिर पूर्णिमा) का दिन नेवार समुदायले चामलको पिठोभित्र चाकु र तिल राखेर बाफमा पकाएर खाने प्रसिद्ध परिकार र पर्व कुन हो?",
       "options": [
@@ -7038,7 +7038,7 @@
     {
       "id": 367,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "गोरखापत्रको साहित्यिक र विचारप्रधान सहप्रकाशन 'मधुपर्क' (मासिक), 'युवामञ्च' (मासिक) र 'मुना' (बालमासिक) कुन संस्थाबाट प्रकाशित हुन्छन्?",
       "options": [
@@ -7057,7 +7057,7 @@
     {
       "id": 368,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको पहिलो अङ्ग्रेजी दैनिक पत्रिका 'द राइजिङ नेपाल' (The Rising Nepal) को प्रकाशन कहिलेदेखि सुरु भएको हो?",
       "options": [
@@ -7076,7 +7076,7 @@
     {
       "id": 369,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको सर्वोच्च वैज्ञानिक तथा प्राविधिक अनुसन्धान संस्था 'नेपाल विज्ञान तथा प्रविधि प्रज्ञा–प्रतिष्ठान' (NAST) को स्थापना कहिले भएको हो?",
       "options": [
@@ -7095,7 +7095,7 @@
     {
       "id": 370,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा अप्टिकल फाइबर र सूचना प्रविधिको विकासका लागि काभ्रेपलाञ्चोकको बनेपामा निर्माण गरिएको 'सूचना प्रविधि पार्क' (IT Park) कुन जिल्लामा पर्दछ?",
       "options": [
@@ -7114,7 +7114,7 @@
     {
       "id": 371,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा दूरसञ्चार सेवाको अनुमतिपत्र प्रदान गर्ने र नियमन गर्ने सरकारी स्वामित्वको स्वायत्त नियमनकारी निकाय कुन हो?",
       "options": [
@@ -7133,7 +7133,7 @@
     {
       "id": 372,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको हिमाली र उच्च पहाडी भेगमा पाइने बहुमूल्य जडीबुटी 'यार्सागुम्बा' (Yarsagumba / Ophiocordyceps sinensis) के हो?",
       "options": [
@@ -7152,7 +7152,7 @@
     {
       "id": 373,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको कुन जिल्लालाई 'जडीबुटीको खानी' र 'यार्सागुम्बाको मुख्य भण्डार' तथा क्षेत्रफलमा देशकै ठुलो जिल्ला मानिन्छ?",
       "options": [
@@ -7171,7 +7171,7 @@
     {
       "id": 374,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "जुम्ला जिल्लामा समुद्र सतहबाट करिब २,८०० देखि ३,०५० मिटरको उचाइ (छुमचौर ज्युला) मा फल्ने र विश्वकै अग्लो स्थानमा फल्ने मानिएको प्रसिद्ध धान कुन हो?",
       "options": [
@@ -7190,7 +7190,7 @@
     {
       "id": 375,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "कास्की (पोखरा) को कुन रैथाने सुगन्धित धानलाई नेपालको कृषि अनुसन्धान परिषद् (NARC) ले पहिलो पटक दर्ता र संरक्षण गरेको छ?",
       "options": [
@@ -7209,7 +7209,7 @@
     {
       "id": 376,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा कृषि अनुसन्धानको सर्वोच्च निकाय कुन हो, जसले उन्नत जातका बीउबिजन र कृषि प्रविधि विकास गर्दछ?",
       "options": [
@@ -7228,7 +7228,7 @@
     {
       "id": 377,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "मुस्ताङ जिल्लाको मार्फा र टुकुचे क्षेत्र कुन फलफूल उत्पादन र प्रशोधनका लागि देशभर प्रसिद्ध छ?",
       "options": [
@@ -7247,7 +7247,7 @@
     {
       "id": 378,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको कुन ठाउँ 'फर्सी' र 'तरकारी' मात्र नभई 'अम्बा', 'नास्पाती' र विशेषगरी 'तोरीको तेल' का लागि ऐतिहासिक रूपमा प्रसिद्ध छ (काठमाडौँ उपत्यका भित्र)?",
       "options": [
@@ -7266,7 +7266,7 @@
     {
       "id": 379,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "काठमाडौँको 'टोखा' कुन परम्परागत खाद्यवस्तु उत्पादनका लागि प्रसिद्ध छ, जुन माघे सङ्क्रान्तिमा विशेष खाइन्छ?",
       "options": [
@@ -7285,7 +7285,7 @@
     {
       "id": 380,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "भक्तपुरको 'ठिमी' (मध्यपुर ठिमी) मुख्यतया कुन परम्परागत शिल्प र उत्पादनका लागि प्रसिद्ध छ?",
       "options": [
@@ -7304,7 +7304,7 @@
     {
       "id": 381,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "सिन्धुपाल्चोकको मेलम्ची खोलाबाट काठमाडौँ उपत्यकामा पानी ल्याउने 'मेलम्ची खानेपानी आयोजना' को मुख्य सुरुङको लम्बाइ कति किलोमिटर रहेको छ र यो कहाँ आइपुग्छ?",
       "options": [
@@ -7323,7 +7323,7 @@
     {
       "id": 382,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "राानी जमरा कुलरिया सिँचाइ आयोजना, बबई सिँचाइ आयोजना र सिक्टा सिँचाइ आयोजना क्रमशः कुन–कुन जिल्लामा सञ्चालित राष्ट्रिय गौरवका आयोजना हुन्?",
       "options": [
@@ -7342,7 +7342,7 @@
     {
       "id": 383,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "भेरी नदीको पानी १२.२ किलोमिटर लामो सुरुङमार्फत बबई नदीमा खसालेर बाँके र बर्दियामा सिँचाइ पुर्‍याउने तथा ४६.८ मेगावाट विद्युत् उत्पादन गर्ने नेपालको पहिलो अन्तर–जलाधार (Inter-basin) र टनेल बोरिङ मेसिन (TBM) प्रयोग भएको बहुउद्देश्यीय आयोजना कुन हो?",
       "options": [
@@ -7361,7 +7361,7 @@
     {
       "id": 384,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "सुनकोशी नदीको पानी १३.३ किलोमिटर लामो सुरुङमार्फत मरिन खोला (बागमती नदीमा) खसाली मधेश प्रदेशका बारा, रौतहट, सर्लाही, महोत्तरी र धनुषामा सिँचाइ पुर्‍याउने तथा ३१.०७ मेगावाट विद्युत् निकाल्ने राष्ट्रिय गौरवको आयोजना कुन हो?",
       "options": [
@@ -7380,7 +7380,7 @@
     {
       "id": 385,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको सबैभन्दा ठुलो सिँचाइ आयोजना कुन हो, जुन सप्तकोशी नदीमा आधारित छ?",
       "options": [
@@ -7399,7 +7399,7 @@
     {
       "id": 386,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको पहिलो आधुनिक सिँचाइ नहर 'चन्द्र नहर' कहिले र कुन नदीबाट निर्माण गरिएको थियो?",
       "options": [
@@ -7418,7 +7418,7 @@
     {
       "id": 387,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालमा हाल राष्ट्रिय गौरवका आयोजनाहरू (National Pride Projects) कतिवटा तोकिएका छन्?",
       "options": [
@@ -7437,7 +7437,7 @@
     {
       "id": 388,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "काठमाडौँलाई तराई (निजगढ, बारा) सँग जोड्ने निर्माणाधीन 'काठमाडौँ–तराई/मधेश द्रुतमार्ग' (Fast Track) निर्माण व्यवस्थापनको जिम्मा कुन निकायलाई दिइएको छ र यसको लम्बाइ कति छ?",
       "options": [
@@ -7456,7 +7456,7 @@
     {
       "id": 389,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालको उच्च हिमाली क्षेत्रमा समानता, वातावरण संरक्षण र जलवायु परिवर्तनका मुद्दामा विश्वको ध्यानाकर्षण गराउन वि.सं. २०६६ मङ्सिर १९ (सन् २००९ डिसेम्बर ४) मा मन्त्रिपरिषद्को ऐतिहासिक बैठक कुन स्थानमा बसेको थियो?",
       "options": [
@@ -7475,7 +7475,7 @@
     {
       "id": 390,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको पहिलो खुला दिसामुक्त (ODF) घोषित जिल्ला कुन हो र नेपाललाई पूर्ण खुला दिसामुक्त राष्ट्र कहिले घोषणा गरियो?",
       "options": [
@@ -7494,7 +7494,7 @@
     {
       "id": 391,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपालमा स्वास्थ्य बिमा कार्यक्रमको सुरुवात सर्वप्रथम कहिले र कुन ३ जिल्लाबाट भएको थियो?",
       "options": [
@@ -7513,7 +7513,7 @@
     {
       "id": 392,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "नेपालको मुटुरोग उपचारको सर्वोच्च सरकारी केन्द्र 'शहीद गङ्गालाल राष्ट्रिय हृदय केन्द्र' र क्यान्सर उपचारको प्रमुख अस्पताल 'बिपी कोइराला मेमोरियल क्यान्सर अस्पताल' कहाँ–कहाँ अवस्थित छन्?",
       "options": [
@@ -7532,7 +7532,7 @@
     {
       "id": 393,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "पूर्वी नेपालको प्रमुख स्वास्थ्य तथा चिकित्सा शिक्षा केन्द्र 'बिपी कोइराला स्वास्थ्य विज्ञान प्रतिष्ठान' (BPKIHS) कहाँ अवस्थित छ?",
       "options": [
@@ -7551,7 +7551,7 @@
     {
       "id": 394,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "जुम्लामा अवस्थित उच्च पहाडी तथा हिमाली क्षेत्रको चिकित्सा शिक्षा र स्वास्थ्य सेवाको प्रमुख सरकारी प्रतिष्ठान कुन हो?",
       "options": [
@@ -7570,7 +7570,7 @@
     {
       "id": 395,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "easy",
       "question": "नेपाल रेडक्रस सोसाइटीको स्थापना कहिले भएको हो?",
       "options": [
@@ -7589,7 +7589,7 @@
     {
       "id": 396,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "दैलेखको श्रीस्थान, नाभिस्थान र पादुका क्षेत्र कुन खनिज सम्पदा र प्राकृतिक विशेषताका लागि प्रसिद्ध छन्?",
       "options": [
@@ -7608,7 +7608,7 @@
     {
       "id": 397,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "काठमाडौँको फुल्चोकी डाँडा र रामेछापको ठोसे कुन खनिजको प्रमुख भण्डारका रूपमा चिनिन्छन्?",
       "options": [
@@ -7627,7 +7627,7 @@
     {
       "id": 398,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "गण्डकी प्रदेशको नवलपरासी (बर्दघाट सुस्ता पूर्व - नवलपुर) को हुप्सेकोटमा फेला परेको ठुलो फलाम खानी कुन हो, जसको उत्खननका लागि नेपाल सरकारले कम्पनीसमेत स्थापना गरेको छ?",
       "options": [
@@ -7646,7 +7646,7 @@
     {
       "id": 399,
       "category_id": 1,
-      "category_name": "Nepali GK",
+      "category_name": "Nepal GK",
       "level": "medium",
       "question": "मुस्ताङ जिल्लाको लोमान्थाङ क्षेत्रमा कुन बहुमूल्य रेडियोधर्मी (Radioactive) खनिज पदार्थको भण्डार फेला परेको छ?",
       "options": [
