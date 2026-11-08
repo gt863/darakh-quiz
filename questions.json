@@ -1,12 +1,12 @@
 {
   "status": "success",
-  "data_version": 1794132879967,
+  "data_version": 1794147193742,
   "total_categories": 1,
   "total_questions": 7,
   "categories": [
     {
       "category_id": 1,
-      "category_name": "Nepal GK",
+      "category_name": "Nepal_GK",
       "total_questions": 7
     }
   ],
@@ -14,7 +14,7 @@
     {
       "id": 1,
       "main_cat_id": 1,
-      "main_cat_name": "Nepal GK",
+      "main_cat_name": "Nepal_GK",
       "sub_cat_id": "101",
       "sub_cat_name": "नेपालको भूगोल",
       "level": "Easy",
@@ -36,7 +36,7 @@
     {
       "id": 2,
       "main_cat_id": 1,
-      "main_cat_name": "Nepal GK",
+      "main_cat_name": "Nepal_GK",
       "sub_cat_id": "101",
       "sub_cat_name": "नेपालको भूगोल",
       "level": "Easy",
@@ -58,7 +58,7 @@
     {
       "id": 4,
       "main_cat_id": 1,
-      "main_cat_name": "Nepal GK",
+      "main_cat_name": "Nepal_GK",
       "sub_cat_id": "101",
       "sub_cat_name": "नेपालको भूगोल",
       "level": "Medium",
@@ -80,7 +80,7 @@
     {
       "id": 5,
       "main_cat_id": 1,
-      "main_cat_name": "Nepal GK",
+      "main_cat_name": "Nepal_GK",
       "sub_cat_id": "101",
       "sub_cat_name": "नेपालको भूगोल",
       "level": "Easy",
@@ -95,14 +95,14 @@
       "option_b": "काँडे भ्याकुर",
       "option_c": "डाँफे",
       "option_d": "ढुकुर",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "डाँफे नेपालको राष्ट्रिय चरा हो भने काँडे भ्याकुर नेपालमा मात्र पाइने चरा हो।",
       "is_pro": false
     },
     {
       "id": 6,
       "main_cat_id": 1,
-      "main_cat_name": "Nepal GK",
+      "main_cat_name": "Nepal_GK",
       "sub_cat_id": "101",
       "sub_cat_name": "नेपालको भूगोल",
       "level": "Hard",
@@ -124,7 +124,7 @@
     {
       "id": 7,
       "main_cat_id": 1,
-      "main_cat_name": "Nepal GK",
+      "main_cat_name": "Nepal_GK",
       "sub_cat_id": "101",
       "sub_cat_name": "नेपालको भूगोल",
       "level": "Medium",
@@ -146,7 +146,7 @@
     {
       "id": 9,
       "main_cat_id": 1,
-      "main_cat_name": "Nepal GK",
+      "main_cat_name": "Nepal_GK",
       "sub_cat_id": "101",
       "sub_cat_name": "नेपालको भूगोल",
       "level": "Hard",
