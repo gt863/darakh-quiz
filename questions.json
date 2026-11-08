@@ -1,18 +1,13 @@
 {
   "status": "success",
-  "data_version": 1794128410771,
-  "total_categories": 2,
+  "data_version": 1794128458095,
+  "total_categories": 1,
   "total_questions": 1,
   "categories": [
     {
       "category_id": 1,
       "category_name": "Nepal GK",
       "total_questions": 1
-    },
-    {
-      "category_id": 2,
-      "category_name": "Withdrawals",
-      "total_questions": 0
     }
   ],
   "questions": [
