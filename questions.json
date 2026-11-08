@@ -1,8 +1,148 @@
 {
   "status": "success",
-  "data_version": 1794129888611,
-  "total_categories": 0,
-  "total_questions": 0,
-  "categories": [],
-  "questions": []
+  "data_version": 1794130932462,
+  "total_categories": 1,
+  "total_questions": 7,
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Nepali_GK",
+      "total_questions": 7
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "category_name": "Nepal GK",
+      "level": "101",
+      "question": "नेपालको भूगोल",
+      "options": [
+        "Easy",
+        "नेपालको कुल क्षेत्रफल कति रहेको छ? (लिम्पियाधुरा सहित)",
+        "१,४७,१८१ वर्ग कि.मि.",
+        "१,४७,५१६ वर्ग कि.मि."
+      ],
+      "option_a": "Easy",
+      "option_b": "नेपालको कुल क्षेत्रफल कति रहेको छ? (लिम्पियाधुरा सहित)",
+      "option_c": "१,४७,१८१ वर्ग कि.मि.",
+      "option_d": "१,४७,५१६ वर्ग कि.मि.",
+      "answer_index": null,
+      "explanation": "१,४६,५१६ वर्ग कि.मि."
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "category_name": "Nepal GK",
+      "level": "102",
+      "question": "ताल र नदीनाला",
+      "options": [
+        "Easy",
+        "नेपालको सबैभन्दा ठूलो ताल कुन हो?",
+        "फेवा ताल",
+        "तिलिचो ताल"
+      ],
+      "option_a": "Easy",
+      "option_b": "नेपालको सबैभन्दा ठूलो ताल कुन हो?",
+      "option_c": "फेवा ताल",
+      "option_d": "तिलिचो ताल",
+      "answer_index": null,
+      "explanation": "बेगनास ताल"
+    },
+    {
+      "id": 4,
+      "category_id": 1,
+      "category_name": "Nepal GK",
+      "level": "101",
+      "question": "नेपालको भूगोल",
+      "options": [
+        "Medium",
+        "सगरमाथाको नयाँ उचाइ कति कायम गरिएको छ?",
+        "८८४८ मिटर",
+        "८८४८.८६ मिटर"
+      ],
+      "option_a": "Medium",
+      "option_b": "सगरमाथाको नयाँ उचाइ कति कायम गरिएको छ?",
+      "option_c": "८८४८ मिटर",
+      "option_d": "८८४८.८६ मिटर",
+      "answer_index": null,
+      "explanation": "८८४८.४६ मिटर"
+    },
+    {
+      "id": 5,
+      "category_id": 1,
+      "category_name": "Nepal GK",
+      "level": "104",
+      "question": "राष्ट्रिय चिन्ह र विविध",
+      "options": [
+        "Easy",
+        "नेपालको राष्ट्रिय चरा कुन हो?",
+        "मयूर",
+        "काँडे भ्याकुर"
+      ],
+      "option_a": "Easy",
+      "option_b": "नेपालको राष्ट्रिय चरा कुन हो?",
+      "option_c": "मयूर",
+      "option_d": "काँडे भ्याकुर",
+      "answer_index": null,
+      "explanation": "ढुकुर"
+    },
+    {
+      "id": 6,
+      "category_id": 1,
+      "category_name": "Nepal GK",
+      "level": "102",
+      "question": "ताल र नदीनाला",
+      "options": [
+        "Hard",
+        "नेपालको सबैभन्दा लामो नदी कुन हो?",
+        "कोशी नदी",
+        "गण्डकी नदी"
+      ],
+      "option_a": "Hard",
+      "option_b": "नेपालको सबैभन्दा लामो नदी कुन हो?",
+      "option_c": "कोशी नदी",
+      "option_d": "गण्डकी नदी",
+      "answer_index": null,
+      "explanation": "महाकाली नदी"
+    },
+    {
+      "id": 7,
+      "category_id": 1,
+      "category_name": "Nepal GK",
+      "level": "101",
+      "question": "नेपालको भूगोल",
+      "options": [
+        "Medium",
+        "क्षेत्रफलको आधारमा नेपालको सबैभन्दा ठूलो जिल्ला कुन हो?",
+        "हुम्ला",
+        "डोल्पा"
+      ],
+      "option_a": "Medium",
+      "option_b": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा ठूलो जिल्ला कुन हो?",
+      "option_c": "हुम्ला",
+      "option_d": "डोल्पा",
+      "answer_index": null,
+      "explanation": "गोरखा"
+    },
+    {
+      "id": 9,
+      "category_id": 1,
+      "category_name": "Nepal GK",
+      "level": "105",
+      "question": "धर्म र संस्कृति",
+      "options": [
+        "Hard",
+        "गौतम बुद्धको जन्मस्थल लुम्बिनी कुन जिल्लामा पर्दछ?",
+        "कपिलवस्तु",
+        "रुपन्देही"
+      ],
+      "option_a": "Hard",
+      "option_b": "गौतम बुद्धको जन्मस्थल लुम्बिनी कुन जिल्लामा पर्दछ?",
+      "option_c": "कपिलवस्तु",
+      "option_d": "रुपन्देही",
+      "answer_index": null,
+      "explanation": "पाल्पा"
+    }
+  ]
 }
