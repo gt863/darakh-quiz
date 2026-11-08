@@ -1,12 +1,12 @@
 {
   "status": "success",
-  "data_version": 1794128458095,
+  "data_version": 1794129287659,
   "total_categories": 1,
   "total_questions": 1,
   "categories": [
     {
       "category_id": 1,
-      "category_name": "Nepal GK",
+      "category_name": "Nepali GK",
       "total_questions": 1
     }
   ],
@@ -14,7 +14,7 @@
     {
       "id": 1,
       "category_id": 1,
-      "category_name": "Nepal GK",
+      "category_name": "Nepali GK",
       "level": "101",
       "question": "नेपालको भूगोल",
       "options": [
