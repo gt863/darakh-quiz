@@ -1,9 +1,9 @@
 {
   "status": "success",
-  "data_version": 1794127852264,
-  "version": 1794127852264,
-  "total_free": 535,
+  "data_version": 1794127875485,
+  "version": 1794127875485,
+  "total_free": 1,
   "total_pro": 0,
-  "total_categories": 5,
+  "total_categories": 2,
   "message": "Published via Google Sheet CDN"
 }
