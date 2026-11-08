@@ -1,34 +1,8 @@
 {
   "status": "success",
-  "data_version": 1794129338585,
-  "total_categories": 1,
-  "total_questions": 1,
-  "categories": [
-    {
-      "category_id": 1,
-      "category_name": "Nepali GK",
-      "total_questions": 1
-    }
-  ],
-  "questions": [
-    {
-      "id": 1,
-      "category_id": 1,
-      "category_name": "Nepali GK",
-      "level": "101",
-      "question": "नेपालको भूगोल",
-      "options": [
-        "Easy",
-        "नेपालको कुल क्षेत्रफल कति रहेको छ? (लिम्पियाधुरा सहित)",
-        "१,४७,१८१ वर्ग कि.मि.",
-        "१,४७,५१६ वर्ग कि.मि."
-      ],
-      "option_a": "Easy",
-      "option_b": "नेपालको कुल क्षेत्रफल कति रहेको छ? (लिम्पियाधुरा सहित)",
-      "option_c": "१,४७,१८१ वर्ग कि.मि.",
-      "option_d": "१,४७,५१६ वर्ग कि.मि.",
-      "answer_index": null,
-      "explanation": "१,४६,५१६ वर्ग कि.मि."
-    }
-  ]
+  "data_version": 1794129888611,
+  "total_categories": 0,
+  "total_questions": 0,
+  "categories": [],
+  "questions": []
 }
