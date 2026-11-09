@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "data_version": 1794237541762,
+  "data_version": 1794238881422,
   "total_categories": 1,
   "total_questions": 3985,
   "categories": [
@@ -26,7 +26,7 @@
         },
         "104": {
           "sub_cat_id": "104",
-          "sub_cat_name": "Higher Secondary +2 | Physics",
+          "sub_cat_name": "Higher Secondary",
           "question_count": 440
         }
       }
@@ -78028,7 +78028,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कुनै सामानको क्रयमूल्य (CP) भन्दा विक्रयमूल्य (SP) बढी भएमा के हुन्छ?",
       "options": [
@@ -78050,7 +78050,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "त्रिभुजका तीनवटै भित्री कोणहरूको योगफल कति डिग्री हुन्छ?",
       "options": [
@@ -78072,7 +78072,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "सबैभन्दा सानो रूढ संख्या (Prime Number) कुन हो?",
       "options": [
@@ -78094,7 +78094,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "आयतको क्षेत्रफल (Area of Rectangle) पत्ता लगाउने सूत्र कुन हो?",
       "options": [
@@ -78116,7 +78116,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "१/२ लाई प्रतिशतमा रूपान्तरण गर्दा कति प्रतिशत हुन्छ?",
       "options": [
@@ -78138,7 +78138,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "समकोण (Right Angle) को नाप कति डिग्री हुन्छ?",
       "options": [
@@ -78160,7 +78160,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कुनै संख्याको घाताङ्क शून्य (x⁰, जहाँ x ≠ ०) भएमा त्यसको मान कति हुन्छ?",
       "options": [
@@ -78182,7 +78182,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "वृत्तको परिधि (Circumference of a Circle) निकाल्ने सूत्र कुन हो?",
       "options": [
@@ -78204,7 +78204,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "(a + b)² को विस्तारित रूप कुन हो?",
       "options": [
@@ -78226,7 +78226,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "८ र १२ को महत्तम समापवर्त्य (म.स. / HCF) कति हुन्छ?",
       "options": [
@@ -78248,7 +78248,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "४ र ६ को लघुत्तम समापवर्त्य (ल.स. / LCM) कति हुन्छ?",
       "options": [
@@ -78270,7 +78270,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "६४ को वर्गमूल (Square Root) कति हुन्छ?",
       "options": [
@@ -78292,7 +78292,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "२७ को घनमूल (Cube Root) कति हुन्छ?",
       "options": [
@@ -78314,7 +78314,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "चतुर्भुजका चारवटै भित्री कोणहरूको योगफल कति हुन्छ?",
       "options": [
@@ -78336,7 +78336,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "साधारण ब्याज (Simple Interest) निकाल्ने सही सूत्र कुन हो?",
       "options": [
@@ -78358,7 +78358,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "समबाहु त्रिभुज (Equilateral Triangle) को प्रत्येक कोण कति डिग्रीको हुन्छ?",
       "options": [
@@ -78380,7 +78380,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "यदि A = {१, २, ३} भए समूह A को गणनात्मकता n(A) कति हुन्छ?",
       "options": [
@@ -78402,7 +78402,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कुनै पनि सदस्य नभएको समूहलाई के भनिन्छ?",
       "options": [
@@ -78424,7 +78424,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "दुईवटा कोणहरूको योगफल ९०° छ भने ती कोणहरूलाई के भनिन्छ?",
       "options": [
@@ -78446,7 +78446,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "दुईवटा कोणहरूको योगफल १८०° छ भने ती कोणहरूलाई के भनिन्छ?",
       "options": [
@@ -78468,7 +78468,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कार्तीय समतलमा मूलबिन्दु (Origin) को निर्देशाङ्क कति हुन्छ?",
       "options": [
@@ -78490,7 +78490,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "०.२५ लाई साधारण भिन्नको सरलतम रूपमा बदल्दा कति हुन्छ?",
       "options": [
@@ -78512,7 +78512,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कुनै तथ्याङ्कमा सबैभन्दा बढी पटक दोहोरिएको मानलाई के भनिन्छ?",
       "options": [
@@ -78534,7 +78534,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "वर्ग (Square) को परिमिति निकाल्ने सूत्र कुन हो?",
       "options": [
@@ -78556,7 +78556,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "समीकरण x + ५ = १२ मा x को मान कति हुन्छ?",
       "options": [
@@ -78578,7 +78578,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "(-५) × (-४) को गुणनफल कति हुन्छ?",
       "options": [
@@ -78600,7 +78600,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "a² - b² को खण्डीकरण रूप कुन हो?",
       "options": [
@@ -78622,7 +78622,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "१ किलोग्राममा कति ग्राम हुन्छ?",
       "options": [
@@ -78644,7 +78644,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "९०° भन्दा कम र ०° भन्दा बढी नाप भएको कोणलाई के भनिन्छ?",
       "options": [
@@ -78666,7 +78666,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "घन (Cube) को आयतन निकाल्ने सूत्र कुन हो?",
       "options": [
@@ -78688,7 +78688,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा झोला रु. ५०० मा किनेर रु. ६०० मा बेच्दा कति प्रतिशत नाफा हुन्छ?",
       "options": [
@@ -78710,7 +78710,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "यदि ३x - ७ = १४ भए x को मान कति हुन्छ?",
       "options": [
@@ -78732,7 +78732,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "लम्बाइ १२ से.मि. र चौडाइ ८ से.मि. भएको आयतको परिमिति कति हुन्छ?",
       "options": [
@@ -78754,7 +78754,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "रु. ४००० को १०% प्रतिवर्षका दरले ३ वर्षको साधारण ब्याज कति हुन्छ?",
       "options": [
@@ -78776,7 +78776,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "यदि A = {१, २, ३, ४} र B = {३, ४, ५, ६} भए A ∩ B कति हुन्छ?",
       "options": [
@@ -78798,7 +78798,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "५ वटा कलमको मूल्य रु. ७५ पर्छ भने ८ वटा कलमको मूल्य कति पर्छ?",
       "options": [
@@ -78820,7 +78820,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "तथ्याङ्क १०, १५, २०, २५, ३० को मध्यक (Mean) कति हुन्छ?",
       "options": [
@@ -78842,7 +78842,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "तथ्याङ्क ३, १, ७, ५, ९, ११, १३ को मध्यिका (Median) कति हुन्छ?",
       "options": [
@@ -78864,7 +78864,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "२/३ + १/६ को मान कति हुन्छ?",
       "options": [
@@ -78886,7 +78886,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "आधार १० से.मि. र उचाइ ६ से.मि. भएको त्रिभुजको क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -78908,7 +78908,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "दुईवटा संख्याहरूको अनुपात ३:४ छ र तिनीहरूको योगफल ५६ छ भने तीमध्ये ठूलो संख्या कुन हो?",
       "options": [
@@ -78930,7 +78930,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "सरल गर्नुहोस्: (२³ × २⁴) / २⁵",
       "options": [
@@ -78952,7 +78952,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा समकोण त्रिभुजमा लम्ब (p) = ३ से.मि. र आधार (b) = ४ से.मि. भए कर्ण (h) को लम्बाइ कति हुन्छ?",
       "options": [
@@ -78974,7 +78974,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा घडीको अङ्कित मूल्य रु. १००० छ। यदि १०% छुट दिइयो भने सो घडीको विक्रयमूल्य कति हुन्छ?",
       "options": [
@@ -78996,7 +78996,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "x² + ५x + ६ लाई खण्डीकरण गर्दा तलका मध्ये कुन हुन्छ?",
       "options": [
@@ -79018,7 +79018,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "अर्धव्यास ७ से.मि. भएको वृत्तको क्षेत्रफल कति हुन्छ? (π = २२/७ मान्नुहोस्)",
       "options": [
@@ -79040,7 +79040,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "हिन्दू-अरेबिक संख्या १९ (19) लाई द्विआधार संख्या प्रणाली (Binary Number System) मा बदल्दा कति हुन्छ?",
       "options": [
@@ -79062,7 +79062,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "द्विआधार संख्या १०११₂ लाई दशमलव संख्या प्रणाली (Decimal System) मा रूपान्तरण गर्दा कति हुन्छ?",
       "options": [
@@ -79084,7 +79084,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा त्रिभुजका दुईवटा कोणहरू ५०° र ७०° छन् भने तेस्रो कोणको नाप कति हुन्छ?",
       "options": [
@@ -79106,7 +79106,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "यदि x = ३ र y = २ भए २x² - ३y को मान कति हुन्छ?",
       "options": [
@@ -79128,7 +79128,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एकजना विद्यार्थीले ८० पूर्णाङ्कको परीक्षामा ६० अङ्क प्राप्त गर्‍यो भने उसले कति प्रतिशत अङ्क प्राप्त गर्‍यो?",
       "options": [
@@ -79150,7 +79150,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "दुईवटा परिपूरक कोणहरू (Supplementary Angles) को अनुपात २:३ छ भने सानो कोणको नाप कति हुन्छ?",
       "options": [
@@ -79172,7 +79172,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा वर्गको क्षेत्रफल १४४ वर्ग से.मि. छ भने त्यसको परिमिति कति हुन्छ?",
       "options": [
@@ -79194,7 +79194,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "सरल गर्नुहोस्: १५ - [१२ - {८ - (५ - ३)}]",
       "options": [
@@ -79216,7 +79216,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "१८, २४ र ३६ को ल.स. (LCM) कति हुन्छ?",
       "options": [
@@ -79238,7 +79238,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "बिन्दुहरू A(२, ३) र B(५, ७) बीचको दूरी कति हुन्छ?",
       "options": [
@@ -79260,7 +79260,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "पञ्चभुज (Regular Pentagon) का भित्री कोणहरूको योगफल कति हुन्छ?",
       "options": [
@@ -79282,7 +79282,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "कुनै संख्याको ३ गुणामा ५ जोड्दा २६ हुन्छ भने त्यो संख्या कुन हो?",
       "options": [
@@ -79304,7 +79304,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा कोठाको लम्बाइ ५ मि., चौडाइ ४ मि. र उचाइ ३ मि. छ भने सो कोठाको आयतन कति हुन्छ?",
       "options": [
@@ -79326,7 +79326,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "यदि a + b = ७ र ab = १२ भए a² + b² को मान कति हुन्छ?",
       "options": [
@@ -79348,7 +79348,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "१२ जना कामदारले एउटा काम १० दिनमा पूरा गर्न सक्छन् भने १५ जना कामदारले सोही काम कति दिनमा पूरा गर्लान्?",
       "options": [
@@ -79370,7 +79370,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा साइकल रु. ४००० मा किनेर १०% नोक्सानमा बेचियो भने त्यसको विक्रयमूल्य कति होला?",
       "options": [
@@ -79392,7 +79392,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "समीकरण x/३ + १ = ५ मा x को मान कति हुन्छ?",
       "options": [
@@ -79414,7 +79414,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "४ से.मि. भुजा भएको घन (Cube) को पूरा सतहको क्षेत्रफल (Total Surface Area) कति हुन्छ?",
       "options": [
@@ -79436,7 +79436,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "दुईवटा समानान्तर रेखाहरूलाई एउटा छेदकले काट्दा बन्ने एकान्तर कोणहरू (Alternate Angles) बीच कस्तो सम्बन्ध हुन्छ?",
       "options": [
@@ -79458,7 +79458,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "०.४ × ०.०५ को मान कति हुन्छ?",
       "options": [
@@ -79480,7 +79480,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "यदि ५:x = १५:२४ भए x को मान कति हुन्छ?",
       "options": [
@@ -79502,7 +79502,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "बिन्दु P(-३, ४) लाई X-अक्षमा परावर्तन (Reflection in X-axis) गर्दा बन्ने प्रतिबिम्बको निर्देशाङ्क कुन हो?",
       "options": [
@@ -79524,7 +79524,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "तथ्याङ्क २, ४, ३, ४, ५, ४, ६, २ को रीत (Mode) कति हुन्छ?",
       "options": [
@@ -79546,7 +79546,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "३x²y र ६xy² को म.स. (HCF) कति हुन्छ?",
       "options": [
@@ -79568,7 +79568,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा रेडियोको अङ्कित मूल्य रु. २००० छ। पसलेले सो रेडियोमा १०% छुट दिएर १३% मूल्य अभिवृद्धि कर (VAT) लगाउँदा ग्राहकले कति रकम तिर्नुपर्छ?",
       "options": [
@@ -79590,7 +79590,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "५० जना विद्यार्थीहरूको समूहमा ३० जनाले गणित मन पराउँछन्, २५ जनाले विज्ञान मन पराउँछन् र १० जनाले दुवै विषय मन पराउँछन् भने कति जनाले दुवै विषय मन पराउँदैनन्?",
       "options": [
@@ -79612,7 +79612,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "कुनै धनराशिको ८% प्रतिवर्षका दरले ५ वर्षमा मिश्रधन रु. ५६०० हुन्छ भने मूलधन (सावाँ) कति होला?",
       "options": [
@@ -79634,7 +79634,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा आयताकार जग्गाको लम्बाइ चौडाइको दोब्बर छ। यदि सो जग्गाको क्षेत्रफल २०० वर्ग मिटर भए त्यसको परिमिति कति हुन्छ?",
       "options": [
@@ -79656,7 +79656,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "५ वटा संख्याहरूको मध्यक १८ छ। यदि तीमध्ये एउटा संख्या हटाउँदा बाँकी ४ वटा संख्याहरूको मध्यक १६ हुन्छ भने हटाइएको संख्या कुन हो?",
       "options": [
@@ -79678,7 +79678,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "यदि x + १/x = ४ भए x² + १/x² को मान कति हुन्छ?",
       "options": [
@@ -79700,7 +79700,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "दुईवटा संख्याहरूको ल.स. (LCM) ६० र म.स. (HCF) ६ छ। यदि एउटा संख्या १२ भए अर्को संख्या कति हुन्छ?",
       "options": [
@@ -79722,7 +79722,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा सामान रु. ९०० मा बेच्दा १०% नोक्सान हुन्छ। सो सामानमा १०% नाफा कमाउन कतिमा बेच्नुपर्ला?",
       "options": [
@@ -79744,7 +79744,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "A ले एउटा काम १० दिनमा र B ले सोही काम १५ दिनमा पूरा गर्न सक्छन्। दुवै जना मिलेर काम गर्दा सो काम कति दिनमा सकिएला?",
       "options": [
@@ -79766,7 +79766,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा समद्विबाहु त्रिभुजको आधार ८ से.मि. र बराबर भुजाहरू ५ से.मि. छन् भने सो त्रिभुजको क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -79788,7 +79788,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "समीकरणहरू x + y = १० र x - y = ४ लाई हल गर्दा x र y को मान कति-कति आउँछ?",
       "options": [
@@ -79810,7 +79810,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा कोठाको लम्बाइ १० मि., चौडाइ ८ मि. र उचाइ ४ मि. छ। सो कोठाका चार भित्ताहरूको क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -79832,7 +79832,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "बाबु र छोराको हालको उमेरको योगफल ५० वर्ष छ। ५ वर्षअघि बाबुको उमेर छोराको उमेरको ३ गुणा थियो भने छोराको हालको उमेर कति हो?",
       "options": [
@@ -79854,7 +79854,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "अर्धव्यास ७ से.मि. र उचाइ १० से.मि. भएको बेलना (Cylinder) को आयतन कति हुन्छ?",
       "options": [
@@ -79876,7 +79876,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "यदि ६, ८, १०, x र १४ को मध्यक १० भए x को मान कति हुन्छ?",
       "options": [
@@ -79898,7 +79898,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "द्विआधार संख्या प्रणालीमा १०११₂ र ११०१₂ को योगफल कति हुन्छ?",
       "options": [
@@ -79920,7 +79920,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा समलम्ब चतुर्भुज (Trapezium) का समानान्तर भुजाहरू १० से.मि. र १४ से.मि. छन्। यदि ती भुजाहरू बीचको लम्ब दूरी ६ से.मि. भए क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -79942,7 +79942,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "१५ वटा सुन्तलाको क्रयमूल्य १२ वटा सुन्तलाको विक्रयमूल्य बराबर छ भने नाफा प्रतिशत कति हुन्छ?",
       "options": [
@@ -79964,7 +79964,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा नियमित षड्भुज (Regular Hexagon) को प्रत्येक भित्री कोणको नाप कति डिग्री हुन्छ?",
       "options": [
@@ -79986,7 +79986,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "सरल गर्नुहोस्: (x² - ९) / (x² + ५x + ६)",
       "options": [
@@ -80008,7 +80008,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "कुनै मूलधन साधारण ब्याजको दरले १० वर्षमा दोब्बर हुन्छ भने ब्याजदर (R) कति प्रतिशत होला?",
       "options": [
@@ -80030,7 +80030,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा वृत्ताकार पोखरीको परिधि ८८ मिटर छ भने सो पोखरीको क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -80052,7 +80052,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "२०० जना सैनिकका लागि ३० दिनलाई पुग्ने खाना छ। १० दिनपछि ५० जना सैनिक अन्यत्र गए भने बाँकी खाना कति दिनलाई पुग्ला?",
       "options": [
@@ -80074,7 +80074,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "यदि ३^(x + १) = ८१ भए x को मान कति हुन्छ?",
       "options": [
@@ -80096,7 +80096,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा समचतुर्भुज (Rhombus) का विकर्णहरूको लम्बाइ क्रमशः १२ से.मि. र १६ से.मि. छ भने त्यसको क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -80118,7 +80118,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "बिन्दु A(४, -५) लाई मूलबिन्दुको वरिपरि घडीको सुई घुम्ने विपरित दिशामा ९०° (+९०°) ले परिक्रमण गर्दा बन्ने प्रतिबिम्ब कुन हो?",
       "options": [
@@ -80140,7 +80140,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा झोलामा ५ वटा राता र ३ वटा सेता बलहरू छन्। नहेरिकन एउटा बल झिक्दा रातो बल पर्ने सम्भाव्यता (Probability) कति हुन्छ?",
       "options": [
@@ -80162,7 +80162,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा गाउँको जनसंख्या १०००० छ। यदि जनसंख्या वृद्धिदर प्रतिवर्ष १०% भए २ वर्षपछिको जनसंख्या कति पुग्ला?",
       "options": [
@@ -80184,7 +80184,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "यदि a - b = ४ र ab = २१ भए a³ - b³ को मान कति हुन्छ?",
       "options": [
@@ -80206,7 +80206,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "४० मिटर लामो र ३० मिटर चौडा आयताकार बगैंचाको बाहिरपट्टि वरिपरि २ मिटर फराकिलो बाटो छ भने सो बाटोको क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -80228,7 +80228,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कुनै सामानको क्रयमूल्य (CP) भन्दा विक्रयमूल्य (SP) कम भएमा के हुन्छ?",
       "options": [
@@ -80250,7 +80250,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "सरल कोण (Straight Angle) को नाप कति डिग्री हुन्छ?",
       "options": [
@@ -80272,7 +80272,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "सबैभन्दा सानो प्राकृतिक संख्या (Natural Number) कुन हो?",
       "options": [
@@ -80294,7 +80294,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "वर्ग (Square) को क्षेत्रफल पत्ता लगाउने सूत्र कुन हो?",
       "options": [
@@ -80316,7 +80316,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "१/४ लाई प्रतिशतमा बदल्दा कति प्रतिशत हुन्छ?",
       "options": [
@@ -80338,7 +80338,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "पूर्ण कोण (Complete Turn / Angle) को नाप कति डिग्री हुन्छ?",
       "options": [
@@ -80360,7 +80360,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "आधार समान भएका घाताङ्कीय संख्याहरू गुणन गर्दा घाताङ्कहरू के हुन्छन्?",
       "options": [
@@ -80382,7 +80382,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "वृत्तको व्यास (Diameter) र अर्धव्यास (Radius) बीचको सही सम्बन्ध कुन हो?",
       "options": [
@@ -80404,7 +80404,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "(a - b)² को विस्तारित रूप कुन हो?",
       "options": [
@@ -80426,7 +80426,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "१५ र २५ को महत्तम समापवर्त्य (म.स. / HCF) कति हुन्छ?",
       "options": [
@@ -80448,7 +80448,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "६ र ८ को लघुत्तम समापवर्त्य (ल.स. / LCM) कति हुन्छ?",
       "options": [
@@ -80470,7 +80470,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "१२१ को वर्गमूल (Square Root) कति हुन्छ?",
       "options": [
@@ -80492,7 +80492,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "१२५ को घनमूल (Cube Root) कति हुन्छ?",
       "options": [
@@ -80514,7 +80514,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "तिनवटै भुजाको लम्बाइ बराबर भएको त्रिभुजलाई के भनिन्छ?",
       "options": [
@@ -80536,7 +80536,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "मिश्रधन (Amount) निकाल्ने सही सूत्र कुन हो?",
       "options": [
@@ -80558,7 +80558,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "दुईवटा भुजाहरू बराबर भएको त्रिभुजलाई के भनिन्छ?",
       "options": [
@@ -80580,7 +80580,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "एउटा मात्र सदस्य भएको समूहलाई के भनिन्छ?",
       "options": [
@@ -80602,7 +80602,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "९०° भन्दा बढी र १८०° भन्दा कम नाप भएको कोणलाई के भनिन्छ?",
       "options": [
@@ -80624,7 +80624,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "१८०° भन्दा बढी र ३६०° भन्दा कम नाप भएको कोणलाई के भनिन्छ?",
       "options": [
@@ -80646,7 +80646,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "दुईवटा सरल रेखाहरू आपसमा काटिँदा बन्ने विपरित कोणहरूलाई के भनिन्छ?",
       "options": [
@@ -80668,7 +80668,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कार्तीय समतलमा बिन्दु (३, ४) कुन चतुर्थांश (Quadrant) मा पर्दछ?",
       "options": [
@@ -80690,7 +80690,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "०.७५ लाई साधारण भिन्नको सरलतम रूपमा रूपान्तरण गर्दा कति हुन्छ?",
       "options": [
@@ -80712,7 +80712,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "१ मिटरमा कति सेन्टिमिटर हुन्छ?",
       "options": [
@@ -80734,7 +80734,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "समबाहु त्रिभुजको परिमिति निकाल्ने सूत्र कुन हो (जहाँ भुजा = a)?",
       "options": [
@@ -80756,7 +80756,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "समीकरण २x = १८ मा x को मान कति हुन्छ?",
       "options": [
@@ -80778,7 +80778,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "(-३०) ÷ ६ को भागफल कति हुन्छ?",
       "options": [
@@ -80800,7 +80800,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "रोमन संख्या प्रणालीमा 'L' ले कुन संख्यालाई जनाउँछ?",
       "options": [
@@ -80822,7 +80822,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "१ लिटरमा कति मिलिलिटर (ml) हुन्छ?",
       "options": [
@@ -80844,7 +80844,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "तथ्याङ्कको सबैभन्दा ठूलो मान र सबैभन्दा सानो मानको अन्तरलाई के भनिन्छ?",
       "options": [
@@ -80866,7 +80866,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "षड्तल (Cuboid) मा जम्मा कतिवटा सतहहरू (Faces) हुन्छन्?",
       "options": [
@@ -80888,7 +80888,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा किताब रु. २५० मा किनेर रु. २०० मा बेच्दा कति प्रतिशत नोक्सान हुन्छ?",
       "options": [
@@ -80910,7 +80910,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "समीकरण ५x + ३ = ३x + १५ मा x को मान कति हुन्छ?",
       "options": [
@@ -80932,7 +80932,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा आयताकार कोठाको क्षेत्रफल ८० वर्ग मिटर छ र लम्बाइ १० मिटर छ भने चौडाइ कति हुन्छ?",
       "options": [
@@ -80954,7 +80954,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "रु. ५००० को ८% प्रतिवर्षका दरले कति वर्षमा साधारण ब्याज रु. १६०० हुन्छ?",
       "options": [
@@ -80976,7 +80976,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "यदि P = {a, b, c} र Q = {c, d, e} भए P ∪ Q कति हुन्छ?",
       "options": [
@@ -80998,7 +80998,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "१२ के.जी. आलुको मूल्य रु. ४८० पर्छ भने ७ के.जी. आलुको मूल्य कति पर्छ?",
       "options": [
@@ -81020,7 +81020,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "प्रथम ५ वटा रूढ संख्याहरू (Prime Numbers) को मध्यक (Mean) कति हुन्छ?",
       "options": [
@@ -81042,7 +81042,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "तथ्याङ्क १०, १२, १४, १६, १८, २० को मध्यिका (Median) कति हुन्छ?",
       "options": [
@@ -81064,7 +81064,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "५/८ - १/४ को मान कति हुन्छ?",
       "options": [
@@ -81086,7 +81086,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "आधार १२ से.मि. र उचाइ ७ से.मि. भएको समानान्तर चतुर्भुज (Parallelogram) को क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -81108,7 +81108,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "४५० ग्राम र २ किलोग्रामको सरलतम अनुपात कति हुन्छ?",
       "options": [
@@ -81130,7 +81130,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "सरल गर्नुहोस्: (३²)³ ÷ ३⁴",
       "options": [
@@ -81152,7 +81152,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा समकोण त्रिभुजको कर्ण (h) = १३ से.मि. र आधार (b) = १२ से.मि. भए लम्ब (p) को नाप कति हुन्छ?",
       "options": [
@@ -81174,7 +81174,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "रु. १५०० अङ्कित मूल्य भएको ज्याकेटमा रु. ३०० छुट दिइयो भने छुट प्रतिशत कति हुन्छ?",
       "options": [
@@ -81196,7 +81196,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "x² - ७x + १२ लाई खण्डीकरण गर्दा तलका मध्ये कुन हुन्छ?",
       "options": [
@@ -81218,7 +81218,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "व्यास १४ से.मि. भएको वृत्तको परिधि कति हुन्छ? (π = २२/७ मान्नुहोस्)",
       "options": [
@@ -81240,7 +81240,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "दशमलव संख्या २५ लाई द्विआधार संख्या प्रणाली (Binary System) मा बदल्दा कति हुन्छ?",
       "options": [
@@ -81262,7 +81262,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "द्विआधार संख्या १०१०१₂ लाई हिन्दू-अरेबिक (दशमलव) संख्यामा बदल्दा कति हुन्छ?",
       "options": [
@@ -81284,7 +81284,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा समकोण त्रिभुजको एउटा न्यून कोण ३५° छ भने अर्को न्यून कोण कति डिग्रीको हुन्छ?",
       "options": [
@@ -81306,7 +81306,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "यदि a = ४, b = -२ र c = ३ भए a² + b² - २c को मान कति हुन्छ?",
       "options": [
@@ -81328,7 +81328,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "४०० जना विद्यार्थी भएको विद्यालयमा ४५% छात्राहरू छन् भने छात्रहरूको संख्या कति छ?",
       "options": [
@@ -81350,7 +81350,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "दुईवटा पूरक कोणहरू (Complementary Angles) को अनुपात ४:५ छ भने ठूलो कोणको नाप कति हुन्छ?",
       "options": [
@@ -81372,7 +81372,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "परिमिति ६४ से.मि. भएको वर्गको क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -81394,7 +81394,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "सरल गर्नुहोस्: २० + २४ ÷ ६ × २ - ५",
       "options": [
@@ -81416,7 +81416,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "३६, ५४ र ७२ को महत्तम समापवर्त्य (म.स. / HCF) कति हुन्छ?",
       "options": [
@@ -81438,7 +81438,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "बिन्दुहरू P(४, ६) र Q(८, १०) लाई जोड्ने रेखाखण्डको मध्यबिन्दु (Mid-point) को निर्देशाङ्क कति हुन्छ?",
       "options": [
@@ -81460,7 +81460,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "कुनै नियमित बहुभुजको बाहिरी कोण ४५° छ भने सो बहुभुजमा कतिवटा भुजाहरू हुन्छन्?",
       "options": [
@@ -81482,7 +81482,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "दुईवटा क्रमागत जोर संख्याहरूको योगफल ३४ छ भने तीमध्ये सानो संख्या कुन हो?",
       "options": [
@@ -81504,7 +81504,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा घन (Cube) को आयतन २१६ घन से.मि. छ भने त्यसको भुजाको लम्बाइ कति हुन्छ?",
       "options": [
@@ -81526,7 +81526,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "यदि x - y = ५ र xy = १४ भए x² + y² को मान कति हुन्छ?",
       "options": [
@@ -81548,7 +81548,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा कारले ६० कि.मि. प्रतिघण्टाको गतिमा गुड्दा एउटा दूरी ४ घण्टामा पार गर्छ। यदि कारको गति ८० कि.मि. प्रतिघण्टा भए सो दूरी पार गर्न कति समय लाग्ला?",
       "options": [
@@ -81570,7 +81570,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा मोबाइल रु. १२००० मा किनेर १५% नाफा राखी बेचियो भने विक्रयमूल्य कति हुन्छ?",
       "options": [
@@ -81592,7 +81592,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "समीकरण ३(x - २) = १५ मा x को मान कति हुन्छ?",
       "options": [
@@ -81614,7 +81614,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "लम्बाइ ६ से.मि., चौडाइ ५ से.मि. र उचाइ ४ से.मि. भएको षड्तल (Cuboid) को पूरा सतहको क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -81636,7 +81636,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "दुई समानान्तर रेखाहरूलाई एउटा छेदकले काट्दा छेदकको एउटै तर्फका भित्री कोणहरूको योगफल कति हुन्छ?",
       "options": [
@@ -81658,7 +81658,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "१.२५ ÷ ०.५ को मान कति हुन्छ?",
       "options": [
@@ -81680,7 +81680,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "२ र ८ को मध्य समानुपाती (Mean Proportional) कति हुन्छ?",
       "options": [
@@ -81702,7 +81702,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "बिन्दु A(५, -२) लाई Y-अक्षमा परावर्तन (Reflection in Y-axis) गर्दा बन्ने प्रतिबिम्ब कुन हो?",
       "options": [
@@ -81724,7 +81724,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "तथ्याङ्क १५, ८, २२, ५, ३०, १२, १८ को विस्तार (Range) कति हुन्छ?",
       "options": [
@@ -81746,7 +81746,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "४a²b र ६ab² को ल.स. (LCM) कति हुन्छ?",
       "options": [
@@ -81768,7 +81768,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा टेबलको अङ्कित मूल्य रु. ५००० छ। २०% छुट दिएर बेच्दा पनि पसलेलाई रु. ५०० नाफा हुन्छ भने सो टेबलको क्रयमूल्य (CP) कति होला?",
       "options": [
@@ -81790,7 +81790,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा कक्षाका ६० जना विद्यार्थीहरूमा ३५ जनाले क्रिकेट खेल्छन्, ३० जनाले फुटबल खेल्छन् र १० जनाले कुनै पनि खेल खेल्दैनन् भने दुवै खेल खेल्ने विद्यार्थी कति जना छन्?",
       "options": [
@@ -81812,7 +81812,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "कुनै धनराशि साधारण ब्याजको दरले ३ वर्षमा रु. २६०० र ५ वर्षमा रु. ३००० हुन्छ भने मूलधन (सावाँ) कति होला?",
       "options": [
@@ -81834,7 +81834,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा आयताकार मैदानको परिमिति १०० मिटर छ र लम्बाइ र चौडाइको अनुपात ३:२ छ भने सो मैदानको क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -81856,7 +81856,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "६ वटा संख्याहरूको मध्यक २० छ। यदि प्रत्येक संख्यामा ५ थपियो भने नयाँ मध्यक कति हुन्छ?",
       "options": [
@@ -81878,7 +81878,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "यदि x - १/x = ३ भए x³ - १/x³ को मान कति हुन्छ?",
       "options": [
@@ -81900,7 +81900,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "वह सबैभन्दा सानो संख्या कुन हो जसलाई १२, १५ र २० ले भाग गर्दा प्रत्येक पटक ३ शेष बच्दछ?",
       "options": [
@@ -81922,7 +81922,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एकजना व्यापारीले रु. १० मा ११ वटाका दरले सुन्तला किनेर रु. ११ मा १० वटाका दरले बेच्दा कति प्रतिशत नाफा हुन्छ?",
       "options": [
@@ -81944,7 +81944,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "A र B मिलेर एउटा काम १२ दिनमा गर्न सक्छन्। यदि A एक्लैले सो काम २० दिनमा गर्न सक्छ भने B एक्लैले सो काम कति दिनमा गर्न सक्ला?",
       "options": [
@@ -81966,7 +81966,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "भुजाको लम्बाइ ६ से.मि. भएको समबाहु त्रिभुज (Equilateral Triangle) को क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -81988,7 +81988,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "३ वटा कलम र २ वटा कापीको मूल्य रु. ११० पर्छ। यदि १ वटा कलमको मूल्य रु. २० भए १ वटा कापीको मूल्य कति पर्छ?",
       "options": [
@@ -82010,7 +82010,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "१२ मिटर लामो र ८ मिटर चौडा कोठाको भुइँमा २ मिटर लामो र १ मिटर चौडा कार्पेट बिछ्याउन कतिवटा कार्पेट चाहिन्छ?",
       "options": [
@@ -82032,7 +82032,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "दुई अङ्कले बनेको एउटा संख्याका अङ्कहरूको योगफल ९ छ। यदि सो संख्याबाट २७ घटाउँदा अङ्कहरूको स्थान साटिन्छ भने त्यो संख्या कुन हो?",
       "options": [
@@ -82054,7 +82054,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "अर्धव्यास ७ से.मि. र उचाइ १० से.मि. भएको बेलना (Cylinder) को वक्रसतहको क्षेत्रफल (Curved Surface Area) कति हुन्छ?",
       "options": [
@@ -82076,7 +82076,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "आरोही क्रममा मिलाएर राखिएको तथ्याङ्क ८, १०, १२, (x + २), १८, २० को मध्यिका १४ भए x को मान कति हुन्छ?",
       "options": [
@@ -82098,7 +82098,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "द्विआधार संख्या ११०१०₂ बाट १०११₂ घटाउँदा कति बाँकी रहन्छ?",
       "options": [
@@ -82120,7 +82120,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा समचतुर्भुज (Rhombus) को परिमिति ४० से.मि. र एउटा विकर्ण १२ से.मि. छ भने अर्को विकर्णको लम्बाइ कति हुन्छ?",
       "options": [
@@ -82142,7 +82142,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा व्यापारीले आफ्नो सामानमा क्रयमूल्यभन्दा ३०% बढी मूल्य अङ्कित गर्छ र ग्राहकलाई १०% छुट दिन्छ भने उसलाई कति प्रतिशत नाफा हुन्छ?",
       "options": [
@@ -82164,7 +82164,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "कुनै नियमित बहुभुजको प्रत्येक भित्री कोण १३५° छ भने सो बहुभुजमा कतिवटा भुजाहरू हुन्छन्?",
       "options": [
@@ -82186,7 +82186,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "सरल गर्नुहोस्: १/(x - २) + १/(x + २)",
       "options": [
@@ -82208,7 +82208,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "रु. ८००० को १०% प्रतिवर्षका दरले २ वर्षको साधारण ब्याज र चक्रीय ब्याज (Compound Interest) बीचको अन्तर कति हुन्छ?",
       "options": [
@@ -82230,7 +82230,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा पाङ्ग्राले १०० पटक घुम्दा २२० मिटर दूरी पार गर्छ भने सो पाङ्ग्राको अर्धव्यास (Radius) कति सेन्टिमिटर हुन्छ?",
       "options": [
@@ -82252,7 +82252,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा पानी ट्याङ्कीमा जडित पहिलो धाराले ट्याङ्की १० घण्टामा भर्न सक्छ भने दोस्रो धाराले १५ घण्टामा खाली गर्न सक्छ। दुवै धारा एकैसाथ खोल्दा ट्याङ्की कति घण्टामा भरिएला?",
       "options": [
@@ -82274,7 +82274,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "यदि २^x × २^(x-१) = ३२ भए x को मान कति हुन्छ?",
       "options": [
@@ -82296,7 +82296,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा आयतको लम्बाइ १२ से.मि. र विकर्ण १३ से.मि. छ भने सो आयतको क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -82318,7 +82318,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "बिन्दु P(२, ३) लाई स्थानान्तरण भेक्टर T = (४, -१) द्वारा स्थानान्तरण (Translation) गर्दा बन्ने प्रतिबिम्ब कुन हो?",
       "options": [
@@ -82340,7 +82340,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा पासा (Dice) एक पटक उफार्दा रूढ संख्या (Prime Number) पर्ने सम्भाव्यता कति हुन्छ?",
       "options": [
@@ -82362,7 +82362,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "रु. ५०००० मूल्य पर्ने एउटा मेसिनको मूल्य प्रतिवर्ष १०% का दरले ह्रास (Depreciation) हुन्छ भने २ वर्षपछि सो मेसिनको मूल्य कति होला?",
       "options": [
@@ -82384,7 +82384,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "खण्डीकरण गर्नुहोस्: x³ - ८y³",
       "options": [
@@ -82406,7 +82406,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "३० मिटर लामो र २० मिटर चौडा आयताकार बगैंचाको भित्रपट्टि वरिपरि २ मिटर फराकिलो बाटो छ भने सो बाटोको क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -82428,7 +82428,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कुनै पनि भुजाहरू बराबर नभएको त्रिभुजलाई के भनिन्छ?",
       "options": [
@@ -82450,7 +82450,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "सबैभन्दा सानो पूर्ण संख्या (Whole Number) कुन हो?",
       "options": [
@@ -82472,7 +82472,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "१ शताब्दी (Century) मा कति वर्ष हुन्छ?",
       "options": [
@@ -82494,7 +82494,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "आधार समान भएका घाताङ्कीय संख्याहरू भाग गर्दा घाताङ्कहरू के गरिन्छ?",
       "options": [
@@ -82516,7 +82516,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "३/४ लाई प्रतिशतमा बदल्दा कति प्रतिशत हुन्छ?",
       "options": [
@@ -82538,7 +82538,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "वृत्तको केन्द्रबिन्दु भएर जाने सबैभन्दा लामो जीवा (Chord) लाई के भनिन्छ?",
       "options": [
@@ -82560,7 +82560,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "समकोण त्रिभुजमा समकोण (९०°) को सम्मुख भुजालाई के भनिन्छ?",
       "options": [
@@ -82582,7 +82582,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "१ हेक्टर (Hectare) मा कति वर्ग मिटर हुन्छ?",
       "options": [
@@ -82604,7 +82604,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "अङ्कित मूल्य (MP) मा छुट रकम घटाउँदा के प्राप्त हुन्छ?",
       "options": [
@@ -82626,7 +82626,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "९ र १२ को महत्तम समापवर्त्य (म.स. / HCF) कति हुन्छ?",
       "options": [
@@ -82648,7 +82648,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "५ र ७ को लघुत्तम समापवर्त्य (ल.स. / LCM) कति हुन्छ?",
       "options": [
@@ -82670,7 +82670,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "१६९ को वर्गमूल (Square Root) कति हुन्छ?",
       "options": [
@@ -82692,7 +82692,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "६४ को घनमूल (Cube Root) कति हुन्छ?",
       "options": [
@@ -82714,7 +82714,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "रोमन संख्या प्रणालीमा 'C' ले कुन संख्यालाई जनाउँछ?",
       "options": [
@@ -82736,7 +82736,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "पञ्चआधार संख्या प्रणाली (Quinary Number System) मा प्रयोग हुने अङ्कहरू कुन-कुन हुन्?",
       "options": [
@@ -82758,7 +82758,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "द्विआधार संख्या प्रणाली (Binary System) को आधार कति हुन्छ?",
       "options": [
@@ -82780,7 +82780,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "यदि A = {a, e, i, o, u} र B = {a, e, i, o, u} भए समूह A र B कस्ता समूहहरू हुन्?",
       "options": [
@@ -82802,7 +82802,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कुनै पनि साझा सदस्य नभएका दुई समूहहरूलाई के भनिन्छ?",
       "options": [
@@ -82824,7 +82824,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कार्तीय समतलमा X-अक्षमा पर्ने जुनसुकै बिन्दुको y-निर्देशाङ्क (Ordinate) कति हुन्छ?",
       "options": [
@@ -82846,7 +82846,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कार्तीय समतलमा Y-अक्षमा पर्ने जुनसुकै बिन्दुको x-निर्देशाङ्क (Abscissa) कति हुन्छ?",
       "options": [
@@ -82868,7 +82868,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "०.५ लाई प्रतिशतमा रूपान्तरण गर्दा कति प्रतिशत हुन्छ?",
       "options": [
@@ -82890,7 +82890,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "१ दर्जनमा कतिवटा वस्तुहरू हुन्छन्?",
       "options": [
@@ -82912,7 +82912,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "समीकरण x - ८ = १५ मा x को मान कति हुन्छ?",
       "options": [
@@ -82934,7 +82934,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "(-१५) + (+१०) को मान कति हुन्छ?",
       "options": [
@@ -82956,7 +82956,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "बीजीय अभिव्यञ्जक ५x³ मा चल 'x' को घाताङ्क (Degree/Power) कति छ?",
       "options": [
@@ -82978,7 +82978,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "६ वटा बराबर वर्ग सतहहरू मिलेर बनेको ठोस वस्तुलाई के भनिन्छ?",
       "options": [
@@ -83000,7 +83000,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कुनै निश्चित घटना (Sure Event) को सम्भाव्यता कति हुन्छ?",
       "options": [
@@ -83022,7 +83022,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "अर्धवृत्त (Semicircle) को क्षेत्रफल निकाल्ने सूत्र कुन हो?",
       "options": [
@@ -83044,7 +83044,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "१ दिनमा कति घण्टा हुन्छ?",
       "options": [
@@ -83066,7 +83066,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "अंशभन्दा हर ठूलो भएको भिन्नलाई के भनिन्छ?",
       "options": [
@@ -83088,7 +83088,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा क्यालकुलेटर रु. ८०० मा किनेर रु. १००० मा बेच्दा कति प्रतिशत नाफा हुन्छ?",
       "options": [
@@ -83110,7 +83110,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "समीकरण ७x - ५ = ४x + १० मा x को मान कति हुन्छ?",
       "options": [
@@ -83132,7 +83132,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा आयतको परिमिति ५० से.मि. छ। यदि त्यसको लम्बाइ १५ से.मि. भए चौडाइ कति हुन्छ?",
       "options": [
@@ -83154,7 +83154,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "कुनै धनको ५% प्रतिवर्षका दरले ४ वर्षमा साधारण ब्याज रु. ६०० हुन्छ भने सावाँ (मूलधन) कति होला?",
       "options": [
@@ -83176,7 +83176,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "यदि U = {१, २, ३, ४, ५, ६, ७} र A = {२, ४, ६} भए पूरक समूह A' (Complement of A) कति हुन्छ?",
       "options": [
@@ -83198,7 +83198,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "१५ वटा कापीको मूल्य रु. ४५० पर्छ भने १२ वटा कापीको मूल्य कति पर्छ?",
       "options": [
@@ -83220,7 +83220,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "तथ्याङ्क ८, १२, १६, २०, २४, २८ को मध्यक (Mean) कति हुन्छ?",
       "options": [
@@ -83242,7 +83242,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "तथ्याङ्क २५, १५, ३०, १०, २०, ३५, ४० को मध्यिका (Median) कति हुन्छ?",
       "options": [
@@ -83264,7 +83264,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "(३/४) × (८/९) को सरलतम मान कति हुन्छ?",
       "options": [
@@ -83286,7 +83286,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "आधार १४ से.मि. र क्षेत्रफल ५६ वर्ग से.मि. भएको त्रिभुजको उचाइ (Height) कति हुन्छ?",
       "options": [
@@ -83308,7 +83308,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "रु. १००० लाई राम र श्यामबीच २:३ को अनुपातमा बाँड्दा श्यामले कति रकम पाउँछ?",
       "options": [
@@ -83330,7 +83330,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "सरल गर्नुहोस्: ५⁰ + ७⁰ + ९⁰",
       "options": [
@@ -83352,7 +83352,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा समकोण त्रिभुजको लम्ब (p) = ६ से.मि. र आधार (b) = ८ से.मि. भए कर्ण (h) कति हुन्छ?",
       "options": [
@@ -83374,7 +83374,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "रु. २००० मा किनिएको सामानमा १३% मूल्य अभिवृद्धि कर (VAT) थप्दा कुल मूल्य कति हुन्छ?",
       "options": [
@@ -83396,7 +83396,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "४x² - २५y² लाई खण्डीकरण गर्दा कति हुन्छ?",
       "options": [
@@ -83418,7 +83418,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "अर्धव्यास १४ से.मि. भएको अर्धवृत्तको क्षेत्रफल कति हुन्छ? (π = २२/७)",
       "options": [
@@ -83440,7 +83440,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "हिन्दू-अरेबिक संख्या ३८ लाई पञ्चआधार संख्या प्रणाली (Quinary System) मा बदल्दा कति हुन्छ?",
       "options": [
@@ -83462,7 +83462,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "पञ्चआधार संख्या २४₅ लाई दशमलव संख्या प्रणालीमा रूपान्तरण गर्दा कति हुन्छ?",
       "options": [
@@ -83484,7 +83484,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा त्रिभुजका कोणहरूको अनुपात १:२:३ छ भने सबैभन्दा ठूलो कोणको नाप कति हुन्छ?",
       "options": [
@@ -83506,7 +83506,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "यदि p = ५ र q = ३ भए (p + q)² - (p - q)² को मान कति हुन्छ?",
       "options": [
@@ -83528,7 +83528,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "कुनै संख्याको २०% ले ८० हुन्छ भने त्यो संख्या कुन हो?",
       "options": [
@@ -83550,7 +83550,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटै सरल रेखामा बनेका दुईवटा आसन्न कोणहरू (Linear Pair) मध्ये एउटा कोण ११५° छ भने अर्को कोण कति हुन्छ?",
       "options": [
@@ -83572,7 +83572,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा वर्गको विकर्ण (Diagonal) ६√२ से.मि. छ भने त्यसको क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -83594,7 +83594,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "सरल गर्नुहोस्: ३६ ÷ [१८ - {१४ - (८ - ३)}]",
       "options": [
@@ -83616,7 +83616,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "२०, ३० र ५० को ल.स. (LCM) कति हुन्छ?",
       "options": [
@@ -83638,7 +83638,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "मूलबिन्दु O(०, ०) र बिन्दु P(-६, ८) बीचको दूरी कति हुन्छ?",
       "options": [
@@ -83660,7 +83660,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "कुनै बहुभुजमा ७ वटा भुजाहरू (Heptagon) छन् भने त्यसका भित्री कोणहरूको योगफल कति हुन्छ?",
       "options": [
@@ -83682,7 +83682,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा संख्याको दोब्बरबाट ७ घटाउँदा २३ हुन्छ भने त्यो संख्या कुन हो?",
       "options": [
@@ -83704,7 +83704,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा पानी ट्याङ्कीको लम्बाइ ३ मि., चौडाइ २ मि. र उचाइ १.५ मि. छ भने त्यसमा कति लिटर पानी अटाउँछ? (१ घन मि. = १००० लिटर)",
       "options": [
@@ -83726,7 +83726,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "३x² + १२x लाई खण्डीकरण गर्दा कति हुन्छ?",
       "options": [
@@ -83748,7 +83748,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "२० जना मानिसले एउटा कुलोजो निर्माण ८ दिनमा सक्छन्। सोही काम ४ दिनमा सक्न कति जना मानिस चाहिन्छ?",
       "options": [
@@ -83770,7 +83770,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "रु. ५००० को मासिक २% ब्याजदरले ६ महिनाको साधारण ब्याज कति हुन्छ? (यहाँ दर मासिक दिइएको छ)",
       "options": [
@@ -83792,7 +83792,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "समीकरण (२x + १)/३ = ५ मा x को मान कति हुन्छ?",
       "options": [
@@ -83814,7 +83814,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एउटा घन (Cube) को पूरा सतहको क्षेत्रफल १५० वर्ग से.मि. छ भने त्यसको एउटा भुजाको लम्बाइ कति हुन्छ?",
       "options": [
@@ -83836,7 +83836,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "एकान्तर कोणहरू (Alternate Angles) ३x र ६०° बराबर छन् भने x को मान कति हुन्छ?",
       "options": [
@@ -83858,7 +83858,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "४/५, ३/४ र १/२ मध्ये सबैभन्दा ठूलो भिन्न कुन हो?",
       "options": [
@@ -83880,7 +83880,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "यदि a:b = २:३ र b:c = ३:४ भए a:c कति हुन्छ?",
       "options": [
@@ -83902,7 +83902,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "बिन्दु K(-४, -७) कुन चतुर्थांश (Quadrant) मा पर्दछ?",
       "options": [
@@ -83924,7 +83924,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "प्रथम ५ वटा प्राकृतिक संख्याहरूको मध्यक (Mean) कति हुन्छ?",
       "options": [
@@ -83946,7 +83946,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "x² - १६ र x² - ८x + १६ को म.स. (HCF) कति हुन्छ?",
       "options": [
@@ -83968,7 +83968,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा पसलमा रु. ४००० अङ्कित मूल्य भएको सामानमा १५% छुट दिएर १०% मूल्य अभिवृद्धि कर (VAT) लगाउँदा ग्राहकले कति तिर्नुपर्छ?",
       "options": [
@@ -83990,7 +83990,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "८० जना मानिसहरूको सर्वेक्षणमा ५० जनाले चिया पिउँछन्, ४० जनाले कफी पिउँछन् र १५ जनाले दुवै पिउँछन् भने चिया मात्र पिउने कति जना छन्?",
       "options": [
@@ -84012,7 +84012,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "कुनै मूलधन र त्यसको ४ वर्षको साधारण ब्याजको अनुपात ५:२ छ भने वार्षिक ब्याजदर (R) कति प्रतिशत होला?",
       "options": [
@@ -84034,7 +84034,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा वर्गाकार चौरको क्षेत्रफल र १६ मिटर लामो तथा ९ मिटर चौडा आयताकार चौरको क्षेत्रफल बराबर छ भने वर्गाकार चौरको परिमिति कति हुन्छ?",
       "options": [
@@ -84056,7 +84056,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "१० जना विद्यार्थीहरूको औसत उमेर १२ वर्ष छ। यदि शिक्षकको उमेर पनि समावेश गर्दा औसत उमेर २ वर्षले बढ्छ भने शिक्षकको उमेर कति होला?",
       "options": [
@@ -84078,7 +84078,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "यदि a + १/a = ५ भए a³ + १/a³ को मान कति हुन्छ?",
       "options": [
@@ -84100,7 +84100,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "१६, २४ र ३६ ले नि:शेष भाग जाने ३ अङ्कको सबैभन्दा सानो संख्या कुन हो?",
       "options": [
@@ -84122,7 +84122,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "दुईवटा घडीहरू प्रत्येकलाई रु. ९९० मा बेचियो। एउटामा १०% नाफा र अर्कोमा १०% नोक्सान भयो भने कुल कारोबारमा कति नाफा वा नोक्सान भयो?",
       "options": [
@@ -84144,7 +84144,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "A ले एउटा काम २० दिनमा गर्न सक्छ। उसले ५ दिन काम गरेपछि छोड्यो र बाँकी काम B ले १५ दिनमा पूरा गर्‍यो भने B एक्लैले पूरै काम कति दिनमा सक्ला?",
       "options": [
@@ -84166,7 +84166,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "भुजाहरूको नाप ५ से.मि., १२ से.मि. र १३ से.मि. भएको त्रिभुजको क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -84188,7 +84188,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा भिन्नको अंश र हर दुवैमा १ जोड्दा भिन्न २/३ बन्छ र दुवैबाट १ घटाउँदा १/२ बन्छ भने त्यो भिन्न कुन हो?",
       "options": [
@@ -84210,7 +84210,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा कोठाको लम्बाइ ६ मि. र चौडाइ ५ मि. छ। यदि सो कोठाका चार भित्ताहरूको क्षेत्रफल ८८ वर्ग मिटर भए कोठाको उचाइ कति होला?",
       "options": [
@@ -84232,7 +84232,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "आमाको हालको उमेर छोरीको उमेरको ४ गुणा छ। ५ वर्षपछि आमाको उमेर छोरीको उमेरको ३ गुणा हुनेछ भने छोरीको हालको उमेर कति हो?",
       "options": [
@@ -84254,7 +84254,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "अर्धव्यास ७ से.मि. र उचाइ १३ से.मि. भएको ठोस बेलना (Solid Cylinder) को पूरा सतहको क्षेत्रफल (Total Surface Area) कति हुन्छ?",
       "options": [
@@ -84276,7 +84276,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "निम्न बारम्बारता तालिकामा प्राप्ताङ्क (x): १०, २०, ३० र बारम्बारता (f): २, ५, ३ छ भने मध्यक (Mean) कति हुन्छ?",
       "options": [
@@ -84298,7 +84298,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "द्विआधार संख्या १०१₂ र ११₂ को गुणनफल कति हुन्छ?",
       "options": [
@@ -84320,7 +84320,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा चङ्गा आकारको चतुर्भुज (Kite) का विकर्णहरू १० से.मि. र १४ से.मि. छन् भने त्यसको क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -84342,7 +84342,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "रु. २४०० मा एउटा वस्तु बेच्दा २०% नाफा हुन्छ भने सो वस्तुको क्रयमूल्य (CP) कति होला?",
       "options": [
@@ -84364,7 +84364,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "कुनै त्रिभुजको एउटा भुजा लम्ब्याउँदा बन्ने बाहिरी कोण १३०° छ। यदि भित्री अनासन्न कोणहरूमध्ये एउटा ६०° भए अर्को कोण कति हुन्छ?",
       "options": [
@@ -84386,7 +84386,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "सरल गर्नुहोस्: (a² - b²) / (a + b)²",
       "options": [
@@ -84408,7 +84408,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "रु. १०००० को १०% वार्षिक ब्याजदरले ३ वर्षको चक्रीय मिश्रधन (Compound Amount) कति हुन्छ?",
       "options": [
@@ -84430,7 +84430,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "१४ से.मि. अर्धव्यास भएको अर्धवृत्ताकार चौरको पूरा परिमिति (Perimeter of Semicircle) कति हुन्छ?",
       "options": [
@@ -84452,7 +84452,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "१०० मिटर लामो रेलले ३६ कि.मि. प्रतिघण्टाको गतिमा गुड्दा एउटा बिजुलीको खम्बालाई पार गर्न कति सेकेन्ड लगाउँछ?",
       "options": [
@@ -84474,7 +84474,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "यदि ५^(२x - १) = १२५ भए x को मान कति हुन्छ?",
       "options": [
@@ -84496,7 +84496,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "८ मिटर अग्लो रूखको छाया ६ मिटर लामो छ। सोही समयमा १२ मिटर लामो छाया हुने अर्को रूखको उचाइ कति होला?",
       "options": [
@@ -84518,7 +84518,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "बिन्दु M(३, -४) लाई मूलबिन्दुको वरिपरि १८०° मा परिक्रमण (Rotation through 180°) गर्दा बन्ने प्रतिबिम्ब कुन हो?",
       "options": [
@@ -84540,7 +84540,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "५२ पत्ति तासको गड्डीबाट नहेरिकन १ पत्ति तास थुत्दा एक्का (Ace) पर्ने सम्भाव्यता कति हुन्छ?",
       "options": [
@@ -84562,7 +84562,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "रु. २५००० मा किनिएको जग्गाको मूल्य प्रतिवर्ष २०% का दरले बढ्दै जान्छ भने २ वर्षपछि सो जग्गाको मूल्य कति पुग्ला?",
       "options": [
@@ -84584,7 +84584,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "खण्डीकरण गर्नुहोस्: x² - y² - २y - १",
       "options": [
@@ -84606,7 +84606,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Physics",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "५० मिटर लामो र ४० मिटर चौडा आयताकार चौरको ठीक बीचबाट लम्बाइ र चौडाइसँग समानान्तर हुने गरी २ मिटर फराकिला दुईवटा बाटाहरू एकअर्कालाई काटेर गएका छन् भने बाटोको क्षेत्रफल कति हुन्छ?",
       "options": [
@@ -84628,7 +84628,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "तत्त्वको रासायनिक गुण बोकेको सबैभन्दा सानो कणलाई के भनिन्छ?",
       "options": [
@@ -84650,7 +84650,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "पानी (Water) को आणविक सूत्र कुन हो?",
       "options": [
@@ -84672,7 +84672,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "आधुनिक पेरियोडिक तालिकामा पारमाणविक संख्या १ भएको तत्त्व कुन हो?",
       "options": [
@@ -84694,7 +84694,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "परमाणुको केन्द्र (Nucleus) मा कुन-कुन उप-पारमाणविक कणहरू रहन्छन्?",
       "options": [
@@ -84716,7 +84716,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "इलेक्ट्रोनमा कुन प्रकारको विद्युतीय चार्ज हुन्छ?",
       "options": [
@@ -84738,7 +84738,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "अक्सिजन (Oxygen) को पारमाणविक संख्या कति हो?",
       "options": [
@@ -84760,7 +84760,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "हामीले खानामा प्रयोग गर्ने साधारण नुनको रासायनिक नाम के हो?",
       "options": [
@@ -84782,7 +84782,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "स्वादमा अमिलो हुने र नीलो लिटमस कागजलाई रातो बनाउने पदार्थ कुन हो?",
       "options": [
@@ -84804,7 +84804,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "शुद्ध पानीको pH मान कति हुन्छ?",
       "options": [
@@ -84826,7 +84826,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "सुन (Gold) को रासायनिक संकेत के हो?",
       "options": [
@@ -84848,7 +84848,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "सामान्य कोठाको तापक्रममा तरल अवस्थामा पाइने एक मात्र धातु कुन हो?",
       "options": [
@@ -84870,7 +84870,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "प्रकृतिमा पाइने सबैभन्दा कडा अधातु वा पदार्थ कुन हो?",
       "options": [
@@ -84892,7 +84892,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "वायुमण्डलमा सबैभन्दा बढी मात्रामा (करिब ७८%) पाइने ग्यास कुन हो?",
       "options": [
@@ -84914,7 +84914,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "ठोस पदार्थलाई तताउँदा सिधै बाफ (ग्यास) मा परिणत हुने प्रक्रियालाई के भनिन्छ?",
       "options": [
@@ -84936,7 +84936,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "रातो लिटमस कागजलाई नीलो बनाउने रासायनिक पदार्थ कुन हो?",
       "options": [
@@ -84958,7 +84958,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "फलाम (Iron) को रासायनिक संकेत के हो?",
       "options": [
@@ -84980,7 +84980,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कार्बन डाइअक्साइडको आणविक सूत्र कुन हो?",
       "options": [
@@ -85002,7 +85002,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "न्युट्रोन (Neutron) मा कस्तो चार्ज हुन्छ?",
       "options": [
@@ -85024,7 +85024,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "सोडियम (Sodium) को पारमाणविक संख्या कति हो?",
       "options": [
@@ -85046,7 +85046,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "दूधबाट दही बन्नु कुन प्रकारको परिवर्तन हो?",
       "options": [
@@ -85068,7 +85068,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कागज वा मैन पग्लनु कुन प्रकारको परिवर्तन हो?",
       "options": [
@@ -85090,7 +85090,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "हिलियम (He), निओन (Ne) र आर्गन (Ar) जस्ता निष्क्रिय ग्यासहरूको भ्यालेन्सी कति हुन्छ?",
       "options": [
@@ -85112,7 +85112,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कागति र सुन्तलामा मुख्यतया कुन अम्ल (Acid) पाइन्छ?",
       "options": [
@@ -85134,7 +85134,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "तामा (Copper) र जस्ता (Zinc) को मिश्रणबाट बन्ने मिश्रधातु (Alloy) कुन हो?",
       "options": [
@@ -85156,7 +85156,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "पानीमा सजिलै घुल्ने क्षार (Base) लाई के भनिन्छ?",
       "options": [
@@ -85178,7 +85178,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "आधुनिक पेरियोडिक तालिका (Modern Periodic Table) मा जम्मा कतिवटा पिरियड (Periods) हरू छन्?",
       "options": [
@@ -85200,7 +85200,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "दहीमा कुन अम्ल पाइन्छ?",
       "options": [
@@ -85222,7 +85222,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "चाँदी (Silver) को रासायनिक संकेत कुन हो?",
       "options": [
@@ -85244,7 +85244,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कुनै तत्त्वले अर्को तत्त्वसँग संयोजन गर्न सक्ने क्षमतालाई के भनिन्छ?",
       "options": [
@@ -85266,7 +85266,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "तेल र पानीको मिश्रण कस्तो प्रकारको मिश्रण हो?",
       "options": [
@@ -85288,7 +85288,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "कार्बनको एउटा परमाणुमा ६ वटा प्रोटोन र ६ वटा न्युट्रोन छन् भने त्यसको पारमाणविक भार (Atomic Mass) कति हुन्छ?",
       "options": [
@@ -85310,7 +85310,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "सोडियम परमाणुको पारमाणविक संख्या ११ र पारमाणविक भार २३ छ भने त्यसमा कतिवटा न्युट्रोन हुन्छन्?",
       "options": [
@@ -85332,7 +85332,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "पानी (H₂O) को आणविक भार (Molecular Weight) कति हुन्छ? (जहाँ H = १, O = १६)",
       "options": [
@@ -85354,7 +85354,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "पोटासियम (Potassium, Z = १९) को इलेक्ट्रोनिक विन्यास (Electronic Configuration) तलका मध्ये कुन हो?",
       "options": [
@@ -85376,7 +85376,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "अम्ल र क्षारबीच रासायनिक प्रतिक्रिया भई लवण र पानी बन्ने प्रक्रियालाई के भनिन्छ?",
       "options": [
@@ -85398,7 +85398,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "यदि म्याग्नेसियम (Mg) को भ्यालेन्सी २ र क्लोरिन (Cl) को भ्यालेन्सी १ छ भने म्याग्नेसियम क्लोराइडको सही आणविक सूत्र कुन हो?",
       "options": [
@@ -85420,7 +85420,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "प्रोटोन र इलेक्ट्रोनको आविष्कार क्रमशः कसले गरेका हुन्?",
       "options": [
@@ -85442,7 +85442,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "कुनै परमाणुको बाहिरी कक्ष (M-shell) मा २n² सूत्र अनुसार अधिकतम कतिवटा इलेक्ट्रोन अटाउन सक्छन्? (जहाँ M-shell को लागि n = ३)",
       "options": [
@@ -85464,7 +85464,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "आधुनिक पेरियोडिक तालिका कुन आधारमा निर्माण गरिएको छ?",
       "options": [
@@ -85486,7 +85486,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "कार्बन डाइअक्साइड (CO₂) को आणविक भार कति हुन्छ? (जहाँ C = १२, O = १६)",
       "options": [
@@ -85508,7 +85508,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "बालुवा र कपुर (Camphor) को मिश्रणलाई कुन विधिद्वारा छुट्याउन सकिन्छ?",
       "options": [
@@ -85530,7 +85530,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "पानीको अस्थायी कडापन (Temporary Hardness) केका कारणले हुन्छ?",
       "options": [
@@ -85552,7 +85552,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "निम्नमध्ये कुन अधातु विद्युत्को सुचालक (Good Conductor of Electricity) हो?",
       "options": [
@@ -85574,7 +85574,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "चुनढुङ्गा (क्याल्सियम कार्बोनेट) को रासायनिक सूत्र कुन हो?",
       "options": [
@@ -85596,7 +85596,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "कुनै घोलको pH मान ३ छ भने त्यो घोल कस्तो प्रकृतिको हुन्छ?",
       "options": [
@@ -85618,7 +85618,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "सल्फेट (SO₄) रेडिकलको भ्यालेन्सी कति हुन्छ?",
       "options": [
@@ -85640,7 +85640,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "फलाममा खिया लाग्नका लागि कुन-कुन दुई कुराको उपस्थिति अनिवार्य हुन्छ?",
       "options": [
@@ -85662,7 +85662,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "क्लोरिन (Cl, Z = १७) को भ्यालेन्सी कति हुन्छ?",
       "options": [
@@ -85684,7 +85684,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "माटो र पानीको धमिलो मिश्रणबाट सफा पानी छुट्याउन कुन विधि अपनाइन्छ?",
       "options": [
@@ -85706,7 +85706,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "पेटमा अम्लियपन (Acidity) बढ्दा खाइने औषधि (Antacid) मा मुख्यतया के प्रयोग गरिन्छ?",
       "options": [
@@ -85728,7 +85728,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "रासायनिक समीकरण २H₂ + O₂ → २H₂O मा प्रतिक्रियामा भाग लिने पदार्थहरू (Reactants) कुन-कुन हुन्?",
       "options": [
@@ -85750,7 +85750,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "अमोनिया (Ammonia) ग्यासको आणविक सूत्र कुन हो?",
       "options": [
@@ -85772,7 +85772,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "फिनोफ्थालिन (Phenolphthalein) सूचकलाई क्षारीय (Basic) घोलमा राख्दा कुन रङमा परिणत हुन्छ?",
       "options": [
@@ -85794,7 +85794,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "मिथाइल अरेन्ज (Methyl Orange) लाई अम्लमा राख्दा कुन रङ दिन्छ?",
       "options": [
@@ -85816,7 +85816,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "नुन र पानीको घोलबाट नुन र पानी दुवैलाई शुद्ध रूपमा प्राप्त गर्न कुन विधि प्रयोग गरिन्छ?",
       "options": [
@@ -85838,7 +85838,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "काँसो (Bronze) कुन-कुन दुई धातुहरू मिलेर बनेको मिश्रधातु हो?",
       "options": [
@@ -85860,7 +85860,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "कुनै घोलमा जति घुल्न सक्ने हो त्यति अधिकतम मात्रामा घुल्य पदार्थ घुलेको छ भने त्यस्तो घोललाई के भनिन्छ?",
       "options": [
@@ -85882,7 +85882,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "चक्कुले सजिलै काट्न सकिने र पानीमा राख्दा आगो बल्ने नरम धातु कुन हो?",
       "options": [
@@ -85904,7 +85904,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "बिरुवाले प्रकाश संश्लेषण (Photosynthesis) क्रियामा कुन ग्यास लिन्छ र कुन ग्यास फाल्छ?",
       "options": [
@@ -85926,7 +85926,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "मानिसको आमाशय (Stomach) मा खाना पचाउन कुन अम्ल उत्पादन हुन्छ?",
       "options": [
@@ -85948,7 +85948,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "मेन्डेलिभको पेरियोडिक तालिका कुन आधारमा बनाइएको थियो?",
       "options": [
@@ -85970,7 +85970,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "रासायनिक मल युरिया (Urea) मा मुख्यतया कुन पोषक तत्त्व पाइन्छ?",
       "options": [
@@ -85992,7 +85992,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "कपर सल्फेट (CuSO₄·5H₂O) को क्रिस्टलको रङ कस्तो हुन्छ?",
       "options": [
@@ -86014,7 +86014,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "आल्मुनियम अक्साइडको सही आणविक सूत्र कुन हो? (जहाँ Al को भ्यालेन्सी ३ र O को भ्यालेन्सी २ छ)",
       "options": [
@@ -86036,7 +86036,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "आगो निभाउने यन्त्र (Fire Extinguisher) मा कुन ग्यासको प्रयोग गरिन्छ?",
       "options": [
@@ -86058,7 +86058,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "क्याल्सियम (Ca, Z = २०) आधुनिक पेरियोडिक तालिकाको कुन पिरियडमा पर्दछ?",
       "options": [
@@ -86080,7 +86080,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "फलामको धुलो र बालुवाको मिश्रणलाई कुन विधिबाट सजिलै छुट्याउन सकिन्छ?",
       "options": [
@@ -86102,7 +86102,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "अम्लहरूको राजा (King of Chemicals/Acids) भनेर कुन रसायनलाई चिनिन्छ?",
       "options": [
@@ -86124,7 +86124,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "चियापत्तीलाई चियाबाट छुट्याउनु कुन विधिको उदाहरण हो?",
       "options": [
@@ -86146,7 +86146,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Medium",
       "question": "लुगा धुने सोडा (Washing Soda) को रासायनिक नाम के हो?",
       "options": [
@@ -86168,7 +86168,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "चुनढुङ्गा (CaCO₃) को आणविक भार (Molecular Weight) कति हुन्छ? (जहाँ Ca = ४०, C = १२, O = १६)",
       "options": [
@@ -86190,7 +86190,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "कुनै तत्त्वको परमाणुको K, L र M कक्षहरू पूर्ण रूपमा इलेक्ट्रोनले भरिएका छन् भने सो तत्त्वको पारमाणविक संख्या कति हुन्छ?",
       "options": [
@@ -86212,7 +86212,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "कुनै तत्त्व 'X' को पारमाणविक संख्या १७ छ। यो तत्त्व आधुनिक पेरियोडिक तालिकाको कुन पिरियड र कुन ग्रुपमा पर्दछ?",
       "options": [
@@ -86234,7 +86234,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "अमोनियम सल्फेट [(NH₄)₂SO₄] को एक अणुमा जम्मा कतिवटा परमाणुहरू (Atoms) रहेका हुन्छन्?",
       "options": [
@@ -86256,7 +86256,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "सन्तुलित रासायनिक समीकरण N₂ + xH₂ → yNH₃ मा 'x' र 'y' को मान क्रमशः कति-कति हुन्छ?",
       "options": [
@@ -86278,7 +86278,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "सल्फ्युरिक अम्ल (H₂SO₄) को आणविक भार कति हुन्छ? (जहाँ H = १, S = ३२, O = १६)",
       "options": [
@@ -86300,7 +86300,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "४० डिग्री सेल्सियस तापक्रममा ५० ग्राम पानीमा १५ ग्राम नुन पूर्ण रूपमा घुलेर सन्तृप्त घोल बन्दछ भने सो तापक्रममा नुनको घुलनशीलता (Solubility) कति हुन्छ?",
       "options": [
@@ -86322,7 +86322,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "कुनै धनात्मक आयन X³⁺ मा १० वटा इलेक्ट्रोन र १४ वटा न्युट्रोन छन् भने सो तत्त्व X को पारमाणविक भार (Atomic Mass) कति हुन्छ?",
       "options": [
@@ -86344,7 +86344,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "पानीमा स्थायी र अस्थायी दुवै प्रकारका कडापन हटाउन कुन रसायनको प्रयोग गरिन्छ?",
       "options": [
@@ -86366,7 +86366,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटै तत्त्वका परमाणुहरू जसमा प्रोटोनको संख्या (पारमाणविक संख्या) समान हुन्छ तर न्युट्रोनको संख्या (पारमाणविक भार) फरक हुन्छ, तिनीहरूलाई के भनिन्छ?",
       "options": [
@@ -86388,7 +86388,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "सोडियम बाइकार्बोनेट (खाने सोडा, NaHCO₃) लाई तताउँदा कुन ग्यास निस्कन्छ जसले रोटी र केकलाई फुलाउँछ?",
       "options": [
@@ -86410,7 +86410,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "पोटासियम क्लोरेट (KClO₃) लाई म्यान्गानिज डाइअक्साइड (MnO₂) को उपस्थितिमा तताउँदा अक्सिजन ग्यास निस्कन्छ। यहाँ MnO₂ ले केको भूमिका खेल्छ?",
       "options": [
@@ -86432,7 +86432,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "क्याल्सियम फस्फेट (Calcium Phosphate) को सही आणविक सूत्र कुन हो? (जहाँ Ca को भ्यालेन्सी २ र PO₄ को भ्यालेन्सी ३ छ)",
       "options": [
@@ -86454,7 +86454,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "पानी (H₂O) मा हाइड्रोजन र अक्सिजनको तौलको अनुपात (Ratio by Weight) कति हुन्छ?",
       "options": [
@@ -86476,7 +86476,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "ग्लुकोज (C₆H₁₂O₆) को आणविक भार (Molecular Weight) कति हुन्छ? (जहाँ C = १२, H = १, O = १६)",
       "options": [
@@ -86498,7 +86498,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "फलामको किल्लालाई कपर सल्फेट (CuSO₄) को नीलो घोलमा डुबाएर राख्दा के हुन्छ (CuSO₄ + Fe → FeSO₄ + Cu)?",
       "options": [
@@ -86520,7 +86520,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "चारवटा घोलहरू A, B, C र D को pH मान क्रमशः १, ६, ८ र १३ छ। यीमध्ये कुन घोलमा सबैभन्दा कडा अम्ल (Strongest Acid) रहेको छ?",
       "options": [
@@ -86542,7 +86542,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "रासायनिक प्रतिक्रिया २KClO₃ → २KCl + ३O₂ कुन प्रकारको रासायनिक प्रतिक्रिया हो?",
       "options": [
@@ -86564,7 +86564,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "पानी (उम्लने तापक्रम १००°C) र अल्कोहल (उम्लने तापक्रम ७८°C) को मिश्रणलाई कुन विधिद्वारा छुट्याइन्छ?",
       "options": [
@@ -86586,7 +86586,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "यौगिक FeCl₃ (फेरिक क्लोराइड) मा फलाम (Fe) को भ्यालेन्सी कति रहेको छ?",
       "options": [
@@ -86608,7 +86608,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "सोडियम हाइड्रोअक्साइड (NaOH) को एक मोल वा आणविक भारमा अक्सिजनको प्रतिशत मात्रा कति हुन्छ? (जहाँ Na = २३, O = १६, H = १)",
       "options": [
@@ -86630,7 +86630,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "पेरियोडिक तालिकाको ग्रुप १ (IA) मा पर्ने तत्त्वहरू (Li, Na, K) लाई के भनिन्छ?",
       "options": [
@@ -86652,7 +86652,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "जस्ता (Zinc) को टुक्रामा फिक्का सल्फ्युरिक अम्ल (dil. H₂SO₄) राख्दा कुन ग्यास निस्कन्छ (Zn + H₂SO₄ → ZnSO₄ + ...)?",
       "options": [
@@ -86674,7 +86674,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "मसी (Ink) मा रहेका विभिन्न रङहरूका कणहरूलाई छुट्याउन प्रयोग गरिने वैज्ञानिक विधि कुन हो?",
       "options": [
@@ -86696,7 +86696,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "कुनै सन्तृप्त घोलको तापक्रम बढाउँदा सो घोल कुन अवस्थामा परिणत हुन्छ?",
       "options": [
@@ -86718,7 +86718,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "चुनपानी [Ca(OH)₂] मा कार्बन डाइअक्साइड ग्यास केही समय पठाउँदा चुनपानी दुधिलो (Milky) हुनुको कारण कुन यौगिक बन्नु हो?",
       "options": [
@@ -86740,7 +86740,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "हाइड्रोजनका तीनवटा आइसोटोपहरू प्रोटियम (¹H₁), ड्युटेरियम (¹H₂) र ट्रिटियम (¹H₃) मध्ये कुन आइसोटोपमा न्युट्रोन हुँदैन?",
       "options": [
@@ -86762,7 +86762,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "सिसाकलम (Lead Pencil) को कालो भाग केबाट बनाइएको हुन्छ?",
       "options": [
@@ -86784,7 +86784,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "सोडियम क्लोराइड (NaCl) को अणु बन्दा सोडियम र क्लोरिनबीच कस्तो रासायनिक बन्धन (Chemical Bond) बन्दछ?",
       "options": [
@@ -86806,7 +86806,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "कुनै अज्ञात तत्त्वको परमाणुको बाहिरी कक्षमा ६ वटा इलेक्ट्रोन छन् भने अक्टेट पूरा गर्न त्यसले कतिवटा इलेक्ट्रोन लिन्छ र त्यसको भ्यालेन्सी कति हुन्छ?",
       "options": [
@@ -86828,7 +86828,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "अम्ल (Acid) मा पाइने अनिवार्य तत्त्व कुन हो?",
       "options": [
@@ -86850,7 +86850,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "रसायनशास्त्रका पिता (Father of Modern Chemistry) भनेर कसलाई चिनिन्छ?",
       "options": [
@@ -86872,7 +86872,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "वायुमण्डलमा सबैभन्दा बढी मात्रामा पाइने निष्क्रिय ग्यास (Noble Gas) कुन हो?",
       "options": [
@@ -86894,7 +86894,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "खानेपानीलाई किटाणुमुक्त बनाउन कुन अधातुको प्रयोग गरिन्छ?",
       "options": [
@@ -86916,7 +86916,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "मानव शरीरमा सबैभन्दा बढी मात्रामा पाइने तत्त्व (तौलको आधारमा) कुन हो?",
       "options": [
@@ -86938,7 +86938,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "फलाममा खिया लाग्नु कुन प्रकारको रासायनिक प्रतिक्रिया हो?",
       "options": [
@@ -86960,7 +86960,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "सूर्यको प्रकाशमा पाइने मुख्य ऊर्जाको स्रोत कुन रासायनिक प्रतिक्रियाबाट उत्पन्न हुन्छ?",
       "options": [
@@ -86982,7 +86982,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "पानीको अणु (H₂O) मा हाइड्रोजन र अक्सिजनबीच कुन बन्धन हुन्छ?",
       "options": [
@@ -87004,7 +87004,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "सामान्य तापक्रममा ग्यास अवस्थामा रहने एकमात्र अधातु (Halogen) कुन हो?",
       "options": [
@@ -87026,7 +87026,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "समुद्रको पानीबाट साधारण नुन कुन विधिद्वारा अलग गरिन्छ?",
       "options": [
@@ -87048,7 +87048,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "पदार्थको ठोस अवस्थाबाट सिधै ग्यासमा परिणत हुने प्रक्रियालाई के भनिन्छ?",
       "options": [
@@ -87070,7 +87070,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "प्रकृतिमा पाइने सबैभन्दा हलुका तत्त्व कुन हो?",
       "options": [
@@ -87092,7 +87092,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "रसायनशास्त्रमा प्रयोग हुने 'लिटमस' (Litmus) कागजयस्ता सूचकहरू मुख्यतया केबाट प्राप्त हुन्छन्?",
       "options": [
@@ -87114,7 +87114,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "बिजुलीको बल्ब (Bulb) भित्र कुन निष्क्रिय ग्यास भरिएको हुन्छ?",
       "options": [
@@ -87136,7 +87136,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "मर्करी (पारो) को रासायनिक संकेत के हो?",
       "options": [
@@ -87158,7 +87158,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "कुनै पदार्थको अम्लीय वा क्षारीयपन नाप्ने 'pH' स्केलमा 'p' ले केलाई जनाउँछ?",
       "options": [
@@ -87180,7 +87180,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "पोटासियम पर्मेगनेट (KMnO₄) को क्रिस्टललाई पानीमा हाल्दा पानीको रङ कस्तो हुन्छ?",
       "options": [
@@ -87202,7 +87202,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Easy",
       "question": "हावामा सबैभन्दा बढी मात्रामा पाइने निष्क्रिय ग्यास कुन हो?",
       "options": [
@@ -87224,7 +87224,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Secondary",
       "question": "ड्युटेरियम (Deuterium, ²H₁) को न्युक्लियसमा कतिवटा न्युट्रोन हुन्छन्?",
       "options": [
@@ -87246,7 +87246,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Secondary",
       "question": "म्याग्नेसियम (Mg, Z = १२) को इलेक्ट्रोनिक विन्यास कस्तो हुन्छ?",
       "options": [
@@ -87268,7 +87268,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Secondary",
       "question": "५० ग्राम पानीमा १० ग्राम चिनी घोलिंदा बन्ने घोल (Solution) को प्रतिशत एकाग्रता (Percentage Concentration) कति हुन्छ?",
       "options": [
@@ -87290,7 +87290,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Secondary",
       "question": "सोडियम कार्बोनेट (Na₂CO₃) को आणविक भार कति हुन्छ? (जहाँ Na = २३, C = १२, O = १६)",
       "options": [
@@ -87312,7 +87312,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Secondary",
       "question": "सन्तुलित रासायनिक समीकरणमा प्रतिक्रियात्मक पदार्थहरूको कुल पिण्ड (Mass) र उत्पादित पदार्थहरूको कुल पिण्ड कस्तो हुन्छ?",
       "options": [
@@ -87334,7 +87334,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Secondary",
       "question": "कुनै परमाणु X को पारमाणविक संख्या १३ र न्युट्रोन संख्या १४ भए त्यसमा जम्मा इलेक्ट्रोन संख्या कति हुन्छ?",
       "options": [
@@ -87356,7 +87356,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Secondary",
       "question": "ग्लुकोजको एक अणुमा जम्मा कतिवटा परमाणुहरू हुन्छन्?",
       "options": [
@@ -87378,7 +87378,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Secondary",
       "question": "अम्ल र क्षारबीच हुने प्रतिक्रियालाई के भनिन्छ?",
       "options": [
@@ -87400,7 +87400,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Secondary",
       "question": "जलविद्युत उत्पादन गर्दा पानीमा हुने कुन ऊर्जालाई विद्युत् ऊर्जामा रूपान्तरण गरिन्छ?",
       "options": [
@@ -87422,7 +87422,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Secondary",
       "question": "कपर सल्फेटको घोलबाट तामा (Copper) निकाल्न वा फलाममा तामाको लेप लगाउन कुन धातु प्रयोग गर्नुपर्छ?",
       "options": [
@@ -87444,7 +87444,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Secondary",
       "question": "फेरस सल्फेट (FeSO₄) क्रिस्टललाई तताउँदा निस्कने बाफ कुन हो?",
       "options": [
@@ -87466,7 +87466,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Secondary",
       "question": "निम्नमध्ये कुन चाहिँ भौतिक परिवर्तन (Physical Change) को उदाहरण हो?",
       "options": [
@@ -87488,7 +87488,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "निश्चित तापक्रममा १०० ग्राम पानीमा अधिकतम ३० ग्राम नुन घुल्न सक्छ। यदि ५० ग्राम पानीमा १५ ग्राम नुन हालियो भने त्यो घोल कस्तो हुन्छ?",
       "options": [
@@ -87510,7 +87510,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा यौगिकमा नाइट्रोजन १४% र हाइड्रोजन ३% (तौलको आधारमा) छ भने सो यौगिकको सरल सूत्र (Empirical Formula) पत्ता लगाउनुहोस्। (N = १४, H = १)",
       "options": [
@@ -87532,7 +87532,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "क्याल्सियम कार्बोनेट (CaCO₃) लाई पूर्ण रूपमा तताउँदा ५० ग्राम क्याल्सियम अक्साइड (CaO) प्राप्त हुन्छ भने कति ग्राम कार्बन डाइअक्साइड (CO₂) ग्यास निष्कासन होला? (Ca=४०, C=१२, O=१६)",
       "options": [
@@ -87554,7 +87554,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "यदि कुनै तत्त्वको पारमाणविक संख्या १९ र पारमाणविक भार ३९ छ भने यसको न्युक्लियसमा कतिवटा न्युट्रोन र बाहिर कतिवटा इलेक्ट्रोन हुन्छन्?",
       "options": [
@@ -87576,7 +87576,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "सन्तुलित रासायनिक समीकरण xNaOH + H₂SO₄ → Na₂SO₄ + 2H₂O मा 'x' को मान कति हुन्छ?",
       "options": [
@@ -87598,7 +87598,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "कुनै आयन X²⁻ मा १८ वटा इलेक्ट्रोन र १६ वटा न्युट्रोन छन् भने सो तत्त्वको पारमाणविक भार (Atomic Mass) कति हुन्छ?",
       "options": [
@@ -87620,7 +87620,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "अमोनियम नाइट्रेट (NH₄NO₃) मा नाइट्रोजन (N) को प्रतिशत मात्रा कति हुन्छ? (N = १४, H = १, O = १६)",
       "options": [
@@ -87642,7 +87642,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "एउटा ग्यासको घनत्व (Density) हाइड्रोजन ग्यासको भन्दा ८ गुणा बढी छ भने सो ग्यासको आणविक भार (Molecular Weight) कति होला?",
       "options": [
@@ -87664,7 +87664,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "फेरिकअक्साइड (Fe₂O₃) लाई कार्बन मोनोअक्साइड (CO) सँग तताउँदा फलाम धातु र कुन ग्यास बन्दछ?",
       "options": [
@@ -87686,7 +87686,7 @@
       "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "104",
-      "sub_cat_name": "Higher Secondary +2 | Chemistry",
+      "sub_cat_name": "Higher Secondary",
       "level": "Hard",
       "question": "२५० मिलिलिटर घोलमा २० ग्राम सोडियम हाइड्रोअक्साइड (NaOH) घुलेको छ भने सो घोलको मोलेरिटी (Molarity) कति हुन्छ? (NaOH को आणविक भार = ४०)",
       "options": [
