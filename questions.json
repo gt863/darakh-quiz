@@ -1,13 +1,18 @@
 {
   "status": "success",
-  "data_version": 1794207270877,
-  "total_categories": 1,
-  "total_questions": 600,
+  "data_version": 1794207503253,
+  "total_categories": 2,
+  "total_questions": 609,
   "categories": [
     {
       "category_id": 1,
       "category_name": "School Level",
       "total_questions": 600
+    },
+    {
+      "category_id": 2,
+      "category_name": "School Level",
+      "total_questions": 9
     }
   ],
   "questions": [
@@ -13209,6 +13214,204 @@
       "option_d": "नीलगाई",
       "answer_index": 1,
       "explanation": "उच्च हिमाली भेगमा पाइने भाले कस्तुरी मृगको नाभीमा बहुमूल्य सुगन्धित पदार्थ 'कस्तुरी' (बिना) रहेको हुन्छ।",
+      "is_pro": true
+    },
+    {
+      "id": 1,
+      "main_cat_id": 2,
+      "main_cat_name": "School Level",
+      "sub_cat_id": "102",
+      "sub_cat_name": "Lower Secondary",
+      "level": "Easy",
+      "question": "नेपाली व्याकरणमा पदयोग र पदच्छेद अन्तर्गत 'म + ले' मिलेर कुन रूप बन्दछ?",
+      "options": [
+        "मले",
+        "मैले",
+        "मेरो",
+        "मलाई"
+      ],
+      "option_a": "मले",
+      "option_b": "मैले",
+      "option_c": "मेरो",
+      "option_d": "मलाई",
+      "answer_index": 1,
+      "explanation": "नेपाली वर्णविन्यास तथा व्याकरणका नियमअनुसार सर्वनाम 'म' मा 'ले' विभक्ति जोडिँदा 'मैले' बन्दछ।",
+      "is_pro": false
+    },
+    {
+      "id": 2,
+      "main_cat_id": 2,
+      "main_cat_name": "School Level",
+      "sub_cat_id": "102",
+      "sub_cat_name": "Lower Secondary",
+      "level": "Easy",
+      "question": "पहाड़' शब्दको तत्सम रूप वा शुद्ध नेपाली मानिएको रूप कुन हो?",
+      "options": [
+        "पहाड",
+        "पहाड़",
+        "पहात",
+        "पडाह"
+      ],
+      "option_a": "पहाड",
+      "option_b": "पहाड़",
+      "option_c": "पहात",
+      "option_d": "पडाह",
+      "answer_index": 0,
+      "explanation": "नेपाली वर्णविन्यास तथा बृहत् शब्दकोशअनुसार बिन्दु वा चन्द्रबिन्दु नभई 'पहाड' लेखिन्छ।",
+      "is_pro": false
+    },
+    {
+      "id": 3,
+      "main_cat_id": 2,
+      "main_cat_name": "School Level",
+      "sub_cat_id": "102",
+      "sub_cat_name": "Lower Secondary",
+      "level": "Easy",
+      "question": "नेपाली भाषामा प्रयोग हुने वर्णहरूमध्ये 'ञ' र 'ण' कुन वर्गका व्यञ्जन वर्णअन्तर्गत पर्दछन्?",
+      "options": [
+        "कण्ठ्य",
+        "तालव्य",
+        "नासिक्य (पञ्चम वर्ण)",
+        "दन्त्य"
+      ],
+      "option_a": "कण्ठ्य",
+      "option_b": "तालव्य",
+      "option_c": "नासिक्य (पञ्चम वर्ण)",
+      "option_d": "दन्त्य",
+      "answer_index": 2,
+      "explanation": "प्रत्येक वर्गको पाँचौँ अक्षर (ङ, ञ, ण, न, म) लाई नासिक्य वा पञ्चम वर्ण भनिन्छ।",
+      "is_pro": false
+    },
+    {
+      "id": 5,
+      "main_cat_id": 2,
+      "main_cat_name": "School Level",
+      "sub_cat_id": "102",
+      "sub_cat_name": "Lower Secondary",
+      "level": "Medium",
+      "question": "विद्यालय' शब्दको सही सन्धि विच्छेद तलका मध्ये कुन हो?",
+      "options": [
+        "विद्य + आलय",
+        "विद्या + आलय",
+        "बिद्या + आलय",
+        "विद्या + लय"
+      ],
+      "option_a": "विद्य + आलय",
+      "option_b": "विद्या + आलय",
+      "option_c": "बिद्या + आलय",
+      "option_d": "विद्या + लय",
+      "answer_index": 1,
+      "explanation": "दीर्घ सन्धिको नियमअनुसार 'आ' र 'आ' मिलेर 'आ' बन्दा 'विद्या + आलय = विद्यालय' शब्द निर्माण हुन्छ।",
+      "is_pro": false
+    },
+    {
+      "id": 6,
+      "main_cat_id": 2,
+      "main_cat_name": "School Level",
+      "sub_cat_id": "102",
+      "sub_cat_name": "Lower Secondary",
+      "level": "Medium",
+      "question": "फूल' शब्दको पर्यायवाची शब्द कुन होइन?",
+      "options": [
+        "पुष्प",
+        "सुमन",
+        "कुसुम",
+        "जल"
+      ],
+      "option_a": "पुष्प",
+      "option_b": "सुमन",
+      "option_c": "कुसुम",
+      "option_d": "जल",
+      "answer_index": 3,
+      "explanation": "पुष्प', 'सुमन' र 'कुसुम' फूलका पर्यायवाची हुन् भने 'जल' ले पानीलाई बुझाउँछ।",
+      "is_pro": false
+    },
+    {
+      "id": 7,
+      "main_cat_id": 2,
+      "main_cat_name": "School Level",
+      "sub_cat_id": "102",
+      "sub_cat_name": "Lower Secondary",
+      "level": "Medium",
+      "question": "उज्यालो' शब्दको विपरीतार्थक शब्द तलका मध्ये कुन हो?",
+      "options": [
+        "चम्किलो",
+        "अँध्यारो",
+        "उजिर",
+        "प्रकाश"
+      ],
+      "option_a": "चम्किलो",
+      "option_b": "अँध्यारो",
+      "option_c": "उजिर",
+      "option_d": "प्रकाश",
+      "answer_index": 1,
+      "explanation": "उल्टो अर्थ बुझाउने शब्दअनुसार 'उज्यालो' को विपरीतार्थक शब्द 'अँध्यारो' हो।",
+      "is_pro": false
+    },
+    {
+      "id": 8,
+      "main_cat_id": 2,
+      "main_cat_name": "School Level",
+      "sub_cat_id": "102",
+      "sub_cat_name": "Lower Secondary",
+      "level": "Hard",
+      "question": "अत्याचार' शब्दमा कुन उपसर्गको प्रयोग भएको छ?",
+      "options": [
+        "अत्य",
+        "अति",
+        "अती",
+        "आचार"
+      ],
+      "option_a": "अत्य",
+      "option_b": "अति",
+      "option_c": "अती",
+      "option_d": "आचार",
+      "answer_index": 1,
+      "explanation": "यण् सन्धिको नियमअनुसार 'अति' उपसर्गमा 'आचार' शब्द जोडिएर 'अत्याचार' बनेको हो।",
+      "is_pro": true
+    },
+    {
+      "id": 9,
+      "main_cat_id": 2,
+      "main_cat_name": "School Level",
+      "sub_cat_id": "102",
+      "sub_cat_name": "Lower Secondary",
+      "level": "Hard",
+      "question": "पानी पर्नु' वाक्यलाई भावार्थ (विधीय) का दृष्टिले कुन वाक्य मानिन्छ?",
+      "options": [
+        "इच्छासङ्केतार्थ",
+        "सम्भावार्थ",
+        "आज्ञासङ्केतार्थ",
+        "सामान्य अर्थ"
+      ],
+      "option_a": "इच्छासङ्केतार्थ",
+      "option_b": "सम्भावार्थ",
+      "option_c": "आज्ञासङ्केतार्थ",
+      "option_d": "सामान्य अर्थ",
+      "answer_index": 3,
+      "explanation": "कुनै निश्चित कार्य हुने वा भएको सामान्य कथन बुझाउने वाक्यलाई सामान्य अर्थ (सामान्य कथन) भनिन्छ।",
+      "is_pro": true
+    },
+    {
+      "id": 10,
+      "main_cat_id": 2,
+      "main_cat_name": "School Level",
+      "sub_cat_id": "102",
+      "sub_cat_name": "Lower Secondary",
+      "level": "Hard",
+      "question": "खुट्टा कमाउनु' टुक्काको सही अर्थ कुन हो?",
+      "options": [
+        "डराउनु वा पछि हट्नु",
+        "खुट्टा दुख्नु",
+        "दौडिनु",
+        "विश्राम गर्नु"
+      ],
+      "option_a": "डराउनु वा पछि हट्नु",
+      "option_b": "खुट्टा दुख्नु",
+      "option_c": "दौडिनु",
+      "option_d": "विश्राम गर्नु",
+      "answer_index": 0,
+      "explanation": "कुनै कठिन परिस्थितिमा आत्तिएर 'डराउनु वा पछि हट्नु' लाई नेपाली टुक्कामा 'खुट्टा कमाउनु' भनिन्छ।",
       "is_pro": true
     }
   ]
