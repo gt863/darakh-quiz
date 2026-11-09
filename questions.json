@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "data_version": 1794207503253,
+  "data_version": 1794207726280,
   "total_categories": 2,
   "total_questions": 609,
   "categories": [
@@ -10,7 +10,7 @@
       "total_questions": 600
     },
     {
-      "category_id": 2,
+      "category_id": 1,
       "category_name": "School Level",
       "total_questions": 9
     }
@@ -13218,7 +13218,7 @@
     },
     {
       "id": 1,
-      "main_cat_id": 2,
+      "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "102",
       "sub_cat_name": "Lower Secondary",
@@ -13240,7 +13240,7 @@
     },
     {
       "id": 2,
-      "main_cat_id": 2,
+      "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "102",
       "sub_cat_name": "Lower Secondary",
@@ -13262,7 +13262,7 @@
     },
     {
       "id": 3,
-      "main_cat_id": 2,
+      "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "102",
       "sub_cat_name": "Lower Secondary",
@@ -13284,7 +13284,7 @@
     },
     {
       "id": 5,
-      "main_cat_id": 2,
+      "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "102",
       "sub_cat_name": "Lower Secondary",
@@ -13306,7 +13306,7 @@
     },
     {
       "id": 6,
-      "main_cat_id": 2,
+      "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "102",
       "sub_cat_name": "Lower Secondary",
@@ -13328,7 +13328,7 @@
     },
     {
       "id": 7,
-      "main_cat_id": 2,
+      "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "102",
       "sub_cat_name": "Lower Secondary",
@@ -13350,7 +13350,7 @@
     },
     {
       "id": 8,
-      "main_cat_id": 2,
+      "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "102",
       "sub_cat_name": "Lower Secondary",
@@ -13372,7 +13372,7 @@
     },
     {
       "id": 9,
-      "main_cat_id": 2,
+      "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "102",
       "sub_cat_name": "Lower Secondary",
@@ -13394,7 +13394,7 @@
     },
     {
       "id": 10,
-      "main_cat_id": 2,
+      "main_cat_id": 1,
       "main_cat_name": "School Level",
       "sub_cat_id": "102",
       "sub_cat_name": "Lower Secondary",
