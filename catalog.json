@@ -7,7 +7,7 @@
       {
         "sub_cat_id": "101",
         "sub_cat_name": "Junior GK",
-        "question_count": 91
+        "question_count": 215
       },
       {
         "sub_cat_id": "102",
@@ -22,7 +22,7 @@
       {
         "sub_cat_id": "104",
         "sub_cat_name": "Mathematics",
-        "question_count": 224
+        "question_count": 100
       },
       {
         "sub_cat_id": "105",
@@ -34,7 +34,7 @@
   {
     "category_id": 2,
     "category_name": "Lower Secondary",
-    "total_questions": 292,
+    "total_questions": 1292,
     "subcategories": [
       {
         "sub_cat_id": "106",
@@ -49,17 +49,79 @@
       {
         "sub_cat_id": "108",
         "sub_cat_name": "Mathematics",
-        "question_count": 50
+        "question_count": 250
+      },
+      {
+        "sub_cat_id": "109",
+        "sub_cat_name": "Science & Technology",
+        "question_count": 300
+      },
+      {
+        "sub_cat_id": "110",
+        "sub_cat_name": "Social Studies",
+        "question_count": 200
+      },
+      {
+        "sub_cat_id": "111",
+        "sub_cat_name": "Computer Studies",
+        "question_count": 300
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "category_name": "Secondary Level / SEE (Class 9–10)",
+    "total_questions": 1814,
+    "subcategories": [
+      {
+        "sub_cat_id": "112",
+        "sub_cat_name": "Compulsory Science & Tech (भौतिक, रसायन, जीव, खगोल)",
+        "question_count": 614
+      },
+      {
+        "sub_cat_id": "113",
+        "sub_cat_name": "Optional Mathematics",
+        "question_count": 200
+      },
+      {
+        "sub_cat_id": "114",
+        "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+        "question_count": 200
+      },
+      {
+        "sub_cat_id": "115",
+        "sub_cat_name": "English Grammar & Vocabulary",
+        "question_count": 200
+      },
+      {
+        "sub_cat_id": "116",
+        "sub_cat_name": "Nepali Byakaran",
+        "question_count": 300
+      },
+      {
+        "sub_cat_id": "117",
+        "sub_cat_name": "Computer Science",
+        "question_count": 300
       }
     ]
   },
   {
     "category_id": 4,
-    "category_name": "Higher Secondary",
-    "total_questions": 100,
+    "category_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
+    "total_questions": 424,
     "subcategories": [
       {
-        "sub_cat_id": "105",
+        "sub_cat_id": "118",
+        "sub_cat_name": "Physics",
+        "question_count": 200
+      },
+      {
+        "sub_cat_id": "119",
+        "sub_cat_name": "Chemistry",
+        "question_count": 124
+      },
+      {
+        "sub_cat_id": "120",
         "sub_cat_name": "Biology (Botany / Zoology)",
         "question_count": 100
       }
