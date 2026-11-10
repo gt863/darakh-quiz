@@ -75,7 +75,7 @@
     "subcategories": [
       {
         "sub_cat_id": "112",
-        "sub_cat_name": "Compulsory Science & Tech (भौतिक, रसायन, जीव, खगोल)",
+        "sub_cat_name": "Compulsory Science & Tech",
         "question_count": 614
       },
       {
@@ -85,7 +85,7 @@
       },
       {
         "sub_cat_id": "114",
-        "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+        "sub_cat_name": "Social Studies",
         "question_count": 200
       },
       {
