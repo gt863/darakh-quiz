@@ -1,6 +1,6 @@
 {
   "sub_cat_id": "114",
-  "data_version": 1794323045947,
+  "data_version": 1794323455346,
   "total_questions": 200,
   "questions": [
     {
@@ -8,7 +8,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "संयुक्त राष्ट्रसंघीय विकास कार्यक्रम (UNDP) ले प्रत्येक वर्ष प्रकाशन गर्ने मानव विकास सूचकाङ्क (HDI) मा तलका मध्ये कुन आयाम समावेश गरिँदैन?",
       "options": [
@@ -30,7 +30,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "दिगो विकासका लक्ष्यहरू (Sustainable Development Goals - SDGs) को समयसीमा कुन हो र यसमा कतिवटा लक्ष्यहरू रहेका छन्?",
       "options": [
@@ -52,7 +52,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "नेपालका प्रदेशहरूमध्ये क्षेत्रफलका आधारमा सबैभन्दा ठूलो र सबैभन्दा सानो प्रदेशको सही जोडा कुन हो?",
       "options": [
@@ -74,7 +74,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "मानव विकास सूचकाङ्क (HDI) को मान ० देखि १ को बीचमा रहन्छ। यदि कुनै देशको HDI मान ०.७५० छ भने उक्त देश मानव विकासको कुन श्रेणीमा पर्दछ?",
       "options": [
@@ -96,7 +96,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "युनेस्को (UNESCO) को विश्व सम्पदा सूचीमा सूचीकृत नेपालका प्राकृतिक सम्पदाहरू कुन-कुन हुन्?",
       "options": [
@@ -118,7 +118,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "किराँती समुदायले उभौली र उधौली पर्वमा ढोल र झ्याम्टा बजाएर नाचिने प्रसिद्ध लोकनाच कुन हो?",
       "options": [
@@ -140,7 +140,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "हिमाली क्षेत्रमा थकाली र भोटे समुदायले जाडो छल्न र व्यापारका क्रममा घोडा दौडाएर मनाउने प्रसिद्ध पर्व कुन हो?",
       "options": [
@@ -162,7 +162,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालको परम्परागत वास्तुकलाका सन्दर्भमा 'प्यागोडा शैली' को विशेषता तलका मध्ये कुन हो?",
       "options": [
@@ -184,7 +184,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "महिला बेचबिखनविरुद्ध कार्यरत संस्था 'माइती नेपाल' की संस्थापक को हुन्, जो सन् २०१० मा 'सिएनएन हिरो' घोषित भएकी थिइन्?",
       "options": [
@@ -206,7 +206,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "सामान वा नगद धरौटी राखी वा नराखी महाजनको घरमा बसी बिनाज्याला वा न्यून ज्यालामा काम गर्नुपर्ने प्रथालाई पश्चिम नेपालमा के भनिन्थ्यो, जसलाई वि.सं. २०५७ साउन २ गते मुक्त घोषणा गरियो?",
       "options": [
@@ -228,7 +228,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "अन्तर्राष्ट्रिय रेडक्रसको स्थापना कसको पहलमा र कहिले भएको हो?",
       "options": [
@@ -250,7 +250,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "साइबर अपराध (Cyber Crime) र विद्युतीय कारोबारलाई नियमन गर्न नेपालमा कुन ऐन कार्यान्वयनमा रहेको छ?",
       "options": [
@@ -272,7 +272,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालको वर्तमान संविधान (नेपालको संविधान) संविधानसभाबाट कहिले जारी भएको हो?",
       "options": [
@@ -294,7 +294,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालको संविधानमा कति भाग, धारा र अनुसूचीहरू रहेका छन्?",
       "options": [
@@ -316,7 +316,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालको संविधानको कुन भागमा मौलिक हक र कर्तव्यको व्यवस्था गरिएको छ?",
       "options": [
@@ -338,7 +338,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "सङ्घीय संसदको तल्लो सदन 'प्रतिनिधि सभा' मा कुल कति जना सदस्य रहन्छन् र तीमध्ये कति जना प्रत्यक्ष निर्वाचन प्रणालीबाट चुनिन्छन्?",
       "options": [
@@ -360,7 +360,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "राष्ट्रिय सभा कस्तो प्रकारको सदन हो र यसका सदस्यहरूको पदावधि कति वर्षको हुन्छ?",
       "options": [
@@ -382,7 +382,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "नेपालको संविधान अनुसार सर्वोच्च अदालतको प्रधानन्यायाधीशको नियुक्ति कसले गर्दछ?",
       "options": [
@@ -404,7 +404,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "सर्वोच्च अदालतले असाधारण अधिकारक्षेत्र अन्तर्गत जारी गर्ने ५ प्रकारका रिटहरू (Writs) मा तलका मध्ये कुन पर्दैन?",
       "options": [
@@ -426,7 +426,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "कुनै पनि सार्वजनिक पद धारण गरेको व्यक्तिले भ्रष्टाचार गरी अख्तियारको दुरुपयोग गरेमा छानबिन र मुद्दा दायर गर्ने संवैधानिक आयोग कुन हो?",
       "options": [
@@ -448,7 +448,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालको संविधानको अनुसूचीहरूको सन्दर्भमा तलका मध्ये कुन जोडा सही छ?",
       "options": [
@@ -470,7 +470,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "वंशजका आधारमा नेपालको नागरिकता प्राप्त गर्ने व्यवस्थाका सन्दर्भमा संविधानको धारा ११ मा के उल्लेख छ?",
       "options": [
@@ -492,7 +492,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "सङ्घीय संसदको कुनै सदनमा पेस भएको अर्थ विधेयक (Money Bill) बाहेक अन्य विधेयक दुवै सदनबाट पारित भई प्रमाणीकरणका लागि राष्ट्रपतिसमक्ष पेस हुँदा राष्ट्रपतिले पुनर्विचारका लागि कति दिनभित्र फिर्ता पठाउन सक्ने संवैधानिक व्यवस्था छ?",
       "options": [
@@ -514,7 +514,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालमा वर्तमान संविधान बमोजिम कतिवटा संवैधानिक आयोगहरू रहेका छन् र ती आयोगका पदाधिकारीहरूको पदावधि नियुक्तिको मितिले कति वर्षको हुन्छ?",
       "options": [
@@ -536,7 +536,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "भूमध्यरेखा (०° अक्षांश) को दुवैतर्फ ५° उत्तरदेखि ५° दक्षिण अक्षांशसम्म फैलिएको जलवायु क्षेत्र कुन हो?",
       "options": [
@@ -558,7 +558,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "अक्षांश (Latitude) र देशान्तर (Longitude) रेखाहरूको कुल संख्या कति-कति हुन्छ (०° भूमध्यरेखा बाहेक अक्षांश गणना गर्दा)?",
       "options": [
@@ -580,7 +580,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "पृथ्वीको सतहमा अचानक आउने कम्पन वा थर्काइलाई भूकम्प भनिन्छ। पृथ्वीको भित्री भागमा जहाँबाट भूकम्पको उत्पत्ति हुन्छ, त्यस बिन्दुलाई के भनिन्छ?",
       "options": [
@@ -602,7 +602,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "विश्वको सबैभन्दा लामो पर्वत श्रृंखला 'एन्डिज' र सबैभन्दा ठूलो नदी 'अमेजन' कुन महादेशमा पर्दछन्?",
       "options": [
@@ -624,7 +624,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "१° देशान्तरको फरकमा कति मिनेट समयको भिन्नता पर्दछ र पूर्वतर्फ जाँदा समय के हुन्छ?",
       "options": [
@@ -646,7 +646,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "हिउँदमा वर्षा हुने र ग्रीष्म ऋतु सुख्खा र न्यानो हुने तथा रसिला फलफूल (सुन्तला, अंगुर, जैतुन) को खेतीका लागि प्रसिद्ध हावापानी कुन हो?",
       "options": [
@@ -668,7 +668,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "अफ्रिका महादेशको उष्ण तृणभूमि (घाँसे मैदान) लाई के नामले चिनिन्छ, जसलाई 'विश्वको चिडियाखाना' (Zoo of the World) पनि भनिन्छ?",
       "options": [
@@ -690,7 +690,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "उत्तर अमेरिका महादेशमा रहेका पाँचवटा ठूला तालहरूको समूह (Great Lakes) मा तलका मध्ये कुन ताल पर्दैन?",
       "options": [
@@ -712,7 +712,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "नेपालको धरातलीय स्वरूपलाई दक्षिणदेखि उत्तरतर्फ क्रमशः मिलाउँदा सही क्रम कुन हुन्छ?",
       "options": [
@@ -734,7 +734,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "अन्तर्राष्ट्रिय तिथि रेखा (International Date Line) कति डिग्री देशान्तर रेखालाई आधार मानेर निर्धारण गरिएको छ र यो कुन महासागर हुँदै जान्छ?",
       "options": [
@@ -756,7 +756,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "यदि ०° देशान्तरमा रहेको लन्डन (GMT) मा दिउँसो १२:०० बजेको छ भने ६०° पूर्वी देशान्तरमा रहेको स्थानमा कति बज्छ?",
       "options": [
@@ -778,7 +778,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "दक्षिण अमेरिका महादेशको अर्जेन्टिनामा फैलिएको समशीतोष्ण घाँसे मैदान 'पम्पास' आर्थिक रूपले केका लागि विश्वप्रसिद्ध छ?",
       "options": [
@@ -800,7 +800,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालमा मनसुनी वायु र पश्चिमी वायुले पार्ने प्रभावका सम्बन्धमा तलका मध्ये कुन भनाइ पूर्णतः सही छ?",
       "options": [
@@ -822,7 +822,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "भूमध्यरेखीय उष्ण सदाबहार वन (Selvas/Equatorial Rainforest) र कोणधारी वन (Taiga) बीचको मुख्य भिन्नता के हो?",
       "options": [
@@ -844,7 +844,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "अफ्रिका महादेशको पूर्वी भागमा उत्तरदेखि दक्षिणसम्म फैलिएको 'विशाल दरार उपत्यका' (Great Rift Valley) कुन भौगर्भिक प्रक्रियाबाट निर्माण भएको हो?",
       "options": [
@@ -866,7 +866,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नक्सा कोर्दा वास्तविक दूरी र नक्साको दूरीबीचको अनुपात देखाउने नाप (Scale) मा '१ : ५०,०००' लेखिएको छ भने यसलाई कुन प्रकारको नाप भनिन्छ?",
       "options": [
@@ -888,7 +888,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "जंगबहादुर राणाले राजदरबारका भारदारहरूको सामूहिक हत्या गरी राणा शासनको जग बसालेको 'कोतपर्व' कहिले घटेको थियो?",
       "options": [
@@ -910,7 +910,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "१०४ वर्षे जहानियाँ राणा शासनको अन्त्य भई नेपालमा प्रजातन्त्रको स्थापना कहिले भएको हो?",
       "options": [
@@ -932,7 +932,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "राजा महेन्द्रले वि.सं. २०१५ सालको जननिर्वाचित संसदीय सरकार र संसद विघटन गरी निर्दलीय पञ्चायती व्यवस्थाको सुरुवात कहिले गरेका थिए?",
       "options": [
@@ -954,7 +954,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "प्रथम विश्वयुद्ध कहिले सुरु भई कहिले अन्त्य भएको थियो?",
       "options": [
@@ -976,7 +976,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "प्रथम विश्वयुद्धको अन्त्यपछि मित्रराष्ट्रहरूले पराजित जर्मनीसँग सन् १९१९ जुन २८ मा गरेको अपमानजनक सन्धि कुन हो?",
       "options": [
@@ -998,7 +998,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "दोस्रो विश्वयुद्धको तात्कालिक कारण तलका मध्ये कुन घटनालाई मानिन्छ?",
       "options": [
@@ -1020,7 +1020,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "वि.सं. २०३६ सालमा विद्यार्थी आन्दोलन चर्किएपछि राजा वीरेन्द्रले वि.सं. २०३७ वैशाख २० गते गराएको जनमत संग्रहमा कुन दुई विकल्प राखिएको थियो?",
       "options": [
@@ -1042,7 +1042,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "वि.सं. २०४६ सालको प्रथम जनआन्दोलनका सर्वोच्च कमान्डर को थिए र यो आन्दोलन कति दिनसम्म चलेको थियो?",
       "options": [
@@ -1064,7 +1064,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "नेपालमा १० वर्षे सशस्त्र द्वन्द्वको औपचारिक अन्त्य गर्दै नेपाल सरकार र नेकपा (माओवादी) बीच विस्तृत शान्ति सम्झौता (Comprehensive Peace Accord) कहिले सम्पन्न भयो?",
       "options": [
@@ -1086,7 +1086,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "संविधानसभाको पहिलो बैठकले नेपालमा २४० वर्ष पुरानो राजतन्त्रको अन्त्य गरी 'संघीय लोकतान्त्रिक गणतन्त्र' को घोषणा कहिले गर्यो?",
       "options": [
@@ -1108,7 +1108,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "वि.सं. २००७ सालमा राणा, नेपाली कांग्रेस र राजा त्रिभुवनका बीच भारतको राजधानी दिल्लीमा भएको 'दिल्ली सम्झौता' का मुख्य बुँदामा तलका मध्ये कुन पर्दैन?",
       "options": [
@@ -1130,7 +1130,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "दोस्रो विश्वयुद्धका क्रममा अमेरिकाले जापानका हिरोसिमा र नागासाकी सहरमा कहिले-कहिले अणुबम (Atom Bomb) खसालेको थियो?",
       "options": [
@@ -1152,7 +1152,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "वि.सं. २०६२/६३ को दोस्रो जनआन्दोलनको आधारशिला मानिने सात राजनीतिक दल र नेकपा (माओवादी) बीचको ऐतिहासिक '१२ बुँदे समझदारी' कहिले भएको थियो?",
       "options": [
@@ -1174,7 +1174,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "प्रथम र दोस्रो विश्वयुद्धमा नेपालले खेलेको भूमिका र त्यसको परिणामका सम्बन्धमा तलका मध्ये कुन कथन सही छ?",
       "options": [
@@ -1196,7 +1196,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालको कुल गार्हस्थ्य उत्पादन (GDP) मा हाल सबैभन्दा बढी योगदान पुर्‍याउँदै आएको र तीव्र गतिमा विस्तार भइरहेको क्षेत्र कुन हो?",
       "options": [
@@ -1218,7 +1218,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "कुनै पनि देशको केन्द्रीय बैंकले जारी गरेको नोट र सिक्कालाई के भनिन्छ र नेपालमा नोट निष्कासन गर्ने एकमात्र आधिकारिक निकाय कुन हो?",
       "options": [
@@ -1240,7 +1240,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "नेपालमा योजनाबद्ध आर्थिक विकासको सुरुवात कहिले र कुन योजनाबाट भएको हो?",
       "options": [
@@ -1262,7 +1262,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "सहकारी संस्थाको अन्तर्राष्ट्रिय सिद्धान्तअनुसार सहकारीको सदस्यता र मतदान प्रक्रिया कस्तो हुन्छ?",
       "options": [
@@ -1284,7 +1284,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "कम्पनीहरूले सर्वसाधारणबाट पुँजी संकलन गर्न प्राथमिक बजारमा निष्कासन गर्ने साधारण शेयरलाई के भनिन्छ?",
       "options": [
@@ -1306,7 +1306,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "वैदेशिक रोजगारीमा जाने कामदारहरूले विदेशमा कमाएर बैंकिङ च्यानलमार्फत स्वदेशमा पठाउने रकमलाई अर्थशास्त्रको भाषामा के भनिन्छ?",
       "options": [
@@ -1328,7 +1328,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "प्रत्यक्ष कर (Direct Tax) र अप्रत्यक्ष कर (Indirect Tax) बीचको भिन्नताका आधारमा तलका मध्ये कुन कर 'अप्रत्यक्ष कर' अन्तर्गत पर्दछ?",
       "options": [
@@ -1350,7 +1350,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "यदि अमेरिकी डलरको तुलनामा नेपाली रूपैयाँको विनिमय दर १ डलर बराबर १३० रूपैयाँबाट बढेर १३५ रूपैयाँ पुग्यो भने यस अवस्थालाई के भनिन्छ र यसले निर्यात व्यापारमा कस्तो असर पार्छ?",
       "options": [
@@ -1372,7 +1372,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "जोखिम हस्तान्तरण र आर्थिक सुरक्षणको माध्यम 'बीमा' (Insurance) मा बीमितले निश्चित अवधिसम्म जीवित रहेमा वा बीचैमा मृत्यु भएमा आश्रित परिवारले बीमाङ्क रकम र बोनस पाउने बीमालाई के भनिन्छ?",
       "options": [
@@ -1394,7 +1394,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "बैंक तथा वित्तीय संस्थासम्बन्धी ऐन (BAFIA) अनुसार नेपाल राष्ट्र बैंकले वित्तीय संस्थाहरूलाई कति वर्गमा विभाजन गरेको छ? सही क्रम कुन हो?",
       "options": [
@@ -1416,7 +1416,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "दक्षिण एसियाली क्षेत्रीय सहयोग संगठन (सार्क - SAARC) को स्थापना कहिले र कहाँ भएको हो?",
       "options": [
@@ -1438,7 +1438,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "सार्क (SAARC) को सचिवालय कहाँ रहेको छ र हाल सार्कमा कतिवटा सदस्य राष्ट्रहरू छन्?",
       "options": [
@@ -1460,7 +1460,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "संयुक्त राष्ट्रसंघ (UNO) को स्थापना कहिले भएको हो र यसको प्रधान कार्यालय कहाँ रहेको छ?",
       "options": [
@@ -1482,7 +1482,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालले संयुक्त राष्ट्रसंघ (UNO) को सदस्यता कहिले प्राप्त गरेको हो?",
       "options": [
@@ -1504,7 +1504,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "संयुक्त राष्ट्रसंघको सुरक्षा परिषद् (Security Council) मा कुल कति सदस्य रहन्छन् र भिटो (Veto) अधिकार प्राप्त ५ स्थायी सदस्य राष्ट्रहरू कुन-कुन हुन्?",
       "options": [
@@ -1526,7 +1526,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "संयुक्त राष्ट्रसंघका ६ प्रमुख अङ्गहरूमध्ये नेदरल्यान्ड्सको हेगमा प्रधान कार्यालय रहेको एकमात्र अङ्ग कुन हो?",
       "options": [
@@ -1548,7 +1548,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "असंलग्न आन्दोलन (Non-Aligned Movement - NAM) को मुख्य मर्म र सिद्धान्त के हो?",
       "options": [
@@ -1570,7 +1570,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "सार्क बडापत्र (SAARC Charter) को धारा १० अनुसार सार्कका बैठकहरूमा निर्णय प्रक्रिया र छलफलका विषयवस्तुबारे के व्यवस्था छ?",
       "options": [
@@ -1592,7 +1592,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालको संविधानको धारा ५१(ड) अनुसार नेपालको अन्तर्राष्ट्रिय सम्बन्ध र परराष्ट्र नीतिको सञ्चालन केका आधारमा गरिने उल्लेख छ?",
       "options": [
@@ -1614,7 +1614,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "विश्वव्यापीकरण (Globalization) ले विकासोन्मुख राष्ट्रहरूमा पारेको सकारात्मक र नकारात्मक प्रभावको सन्तुलित विश्लेषण तलका मध्ये कुन हो?",
       "options": [
@@ -1636,7 +1636,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालमा प्रत्येक कति वर्षको अन्तरालमा राष्ट्रिय जनगणना गर्ने प्रचलन छ र वि.सं. १९६८ सालदेखि सुरु भएको जनगणना अनुसार वि.सं. २०७८ को जनगणना कतिऔँ हो?",
       "options": [
@@ -1658,7 +1658,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "कुनै निश्चित स्थान र समयमा प्रति १००० जीवित जन्ममा १ वर्षभन्दा कम उमेरका शिशुहरूको मृत्यु हुने संख्यालाई के भनिन्छ?",
       "options": [
@@ -1680,7 +1680,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "जनसांख्यिकीय हिसाबले कुन उमेर समूहको जनसंख्यालाई 'आर्थिक रूपले सक्रिय जनसंख्या' (Economically Active Population) र कुन समूहलाई 'आश्रित जनसंख्या' मानिन्छ?",
       "options": [
@@ -1702,7 +1702,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "हरितगृह प्रभाव (Greenhouse Effect) बढाउन र विश्वव्यापी उष्णता (Global Warming) निम्त्याउन प्रमुख भूमिका खेल्ने ग्यासहरू कुन-कुन हुन्?",
       "options": [
@@ -1724,7 +1724,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "मानिसहरू आफ्नो मूल थलो छोडेर अर्को स्थानमा बसाइँ सर्दा पुरानो स्थानमा रहेका असुविधाहरू (जस्तै: बेरोजगारी, विपद्, गरिबी) ले धकेल्ने तत्वलाई के भनिन्छ?",
       "options": [
@@ -1746,7 +1746,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "कुनै देश वा क्षेत्रको जनसंख्या दोब्बर हुन लाग्ने समय (Population Doubling Time) पत्ता लगाउने सूत्र कुन हो?",
       "options": [
@@ -1768,7 +1768,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "प्रकोप (Hazard) र विपद् (Disaster) व्यवस्थापन चक्र (Disaster Management Cycle) मा विपद् आउनुभन्दा अगाडि गरिने कार्य कुन हो?",
       "options": [
@@ -1790,7 +1790,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "वि.सं. २००७ सालअघि राणा शासनको विरोधमा जनतामा चेतना फैलाउन वि.सं. १९९३ जेठ २० मा स्थापित नेपालको पहिलो राजनीतिक दल कुन हो?",
       "options": [
@@ -1812,7 +1812,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "संयुक्त राष्ट्रसंघले मानवअधिकारको विश्वव्यापी घोषणापत्र (UDHR) कहिले जारी गरेको हो, जसको स्मरणमा प्रत्येक वर्ष मानवअधिकार दिवस मनाइन्छ?",
       "options": [
@@ -1834,7 +1834,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालको संविधान बमोजिम प्रदेश सभाको गठन र प्रदेश मन्त्रिपरिषद्को संख्याका सम्बन्धमा कुन व्यवस्था सही छ?",
       "options": [
@@ -1856,7 +1856,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालका चार महान् सहिदहरू (शुक्रराज शास्त्री, धर्मभक्त माथेमा, दशरथ चन्द र गंगालाल श्रेष्ठ) लाई राणा शासकहरूले कहिले मृत्युदण्ड दिएका थिए?",
       "options": [
@@ -1878,7 +1878,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "भ्रष्टाचारविरुद्ध जनचेतना फैलाउने र विश्वव्यापी रूपमा भ्रष्टाचार अवधारणा सूचकाङ्क (CPI) प्रकाशन गर्ने अन्तर्राष्ट्रिय गैरसरकारी संस्था कुन हो र यसको मुख्यालय कहाँ छ?",
       "options": [
@@ -1900,7 +1900,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालको स्थानीय तहको न्यायिक समिति (Judicial Committee) का सम्बन्धमा संविधानको धारा २१७ ले के व्यवस्था गरेको छ?",
       "options": [
@@ -1922,7 +1922,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालको प्रामाणिक समय (Standard Time) कुन हिमाललाई काटेर जाने कति डिग्री देशान्तर रेखालाई आधार मानेर निर्धारण गरिएको छ?",
       "options": [
@@ -1944,7 +1944,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "सुदूरपश्चिम र कर्णाली प्रदेशका जिल्लाहरूमा प्रचलित 'छलिया नाच' र 'हुड्केली नाच' कस्तो अवसरमा नाचिने लोकनाचहरू हुन्?",
       "options": [
@@ -1966,7 +1966,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "संयुक्त राष्ट्रसंघका विशिष्टीकृत संस्थाहरूमध्ये बालबालिकाको स्वास्थ्य, पोषण र शिक्षाका लागि काम गर्ने संस्था र श्रमिकको हकहितमा काम गर्ने संस्था क्रमशः कुन-कुन हुन्?",
       "options": [
@@ -1988,7 +1988,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "उपभोक्ता संरक्षण ऐन, २०७५ अनुसार उपभोक्ताले उपभोग्य वस्तु खरिद गर्दा पाउने अधिकारमा तलका मध्ये कुन पर्दैन?",
       "options": [
@@ -2010,7 +2010,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "नक्सामा विभिन्न भौगोलिक तथ्यहरू (जस्तै: नदी, बाटो, मन्दिर, विमानस्थल) लाई स्पष्ट रूपमा चिनाउन प्रयोग गरिने सर्वमान्य चित्र वा संकेतलाई के भनिन्छ?",
       "options": [
@@ -2032,7 +2032,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालमा सर्वप्रथम वि.सं. २०१६ सालमा सम्पन्न प्रथम संसदीय आमनिर्वाचनमा कुन दलले दुई तिहाइ बहुमत ल्याई प्रथम जननिर्वाचित सरकार गठन गरेको थियो?",
       "options": [
@@ -2054,7 +2054,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "उच्च हिमाली र उत्तरी ध्रुवीय (टुन्ड्रा) क्षेत्रमा बसोबास गर्ने एस्किमो (इन्युइट) जातिले हिउँका ढिक्काहरू जोडेर बनाउने अर्धगोलाकार घरलाई के भनिन्छ?",
       "options": [
@@ -2076,7 +2076,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालको जलविद्युत क्षमता र ऊर्जा संकट समाधानका सन्दर्भमा 'जलाशययुक्त आयोजना' (Reservoir Project) र 'नदी प्रवाही आयोजना' (Run-of-the-River Project) बीचको मुख्य भिन्नता के हो?",
       "options": [
@@ -2098,7 +2098,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "नेपाल सरकारको वार्षिक आय र व्ययको अनुमानित विवरण (बजेट) संवैधानिक व्यवस्था अनुसार प्रत्येक वर्ष कुन मितिमा संघीय संसदको संयुक्त बैठकमा अर्थमन्त्रीले पेस गर्दछन्?",
       "options": [
@@ -2120,7 +2120,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालका प्रमुख तीन नदी प्रणालीहरू (कोशी, गण्डकी र कर्णाली) र तिनका सहायक नदीहरूको जोडा मिलाउँदा तलका मध्ये कुन समूह पूर्णतः सही छ?",
       "options": [
@@ -2142,7 +2142,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "राष्ट्रिय गौरवका आयोजनाहरू (National Pride Projects) छनोट र कार्यान्वयन गर्नुको मुख्य रणनीतिक उद्देश्य के हो?",
       "options": [
@@ -2164,7 +2164,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालको प्रशासनिक विभाजन अनुसार हाल नेपालमा कतिवटा प्रदेश, जिल्ला र स्थानीय तहहरू रहेका छन्?",
       "options": [
@@ -2186,7 +2186,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालले अवलम्बन गरेको 'पञ्चशीलको सिद्धान्त' (Five Principles of Peaceful Coexistence) मा तलका मध्ये कुन बुँदा समावेश हुँदैन?",
       "options": [
@@ -2208,7 +2208,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "संयुक्त राष्ट्रसंघीय विकास कार्यक्रम (UNDP) ले प्रत्येक वर्ष प्रकाशन गर्ने मानव विकास सूचकाङ्क (HDI) मा तलका मध्ये कुन आयाम समावेश गरिँदैन?",
       "options": [
@@ -2230,7 +2230,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "दिगो विकासका लक्ष्यहरू (Sustainable Development Goals - SDGs) को समयसीमा कुन हो र यसमा कतिवटा लक्ष्यहरू रहेका छन्?",
       "options": [
@@ -2252,7 +2252,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "नेपालका प्रदेशहरूमध्ये क्षेत्रफलका आधारमा सबैभन्दा ठूलो र सबैभन्दा सानो प्रदेशको सही जोडा कुन हो?",
       "options": [
@@ -2274,7 +2274,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "मानव विकास सूचकाङ्क (HDI) को मान ० देखि १ को बीचमा रहन्छ। यदि कुनै देशको HDI मान ०.७५० छ भने उक्त देश मानव विकासको कुन श्रेणीमा पर्दछ?",
       "options": [
@@ -2296,7 +2296,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "युनेस्को (UNESCO) को विश्व सम्पदा सूचीमा सूचीकृत नेपालका प्राकृतिक सम्पदाहरू कुन-कुन हुन्?",
       "options": [
@@ -2318,7 +2318,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "किराँती समुदायले उभौली र उधौली पर्वमा ढोल र झ्याम्टा बजाएर नाचिने प्रसिद्ध लोकनाच कुन हो?",
       "options": [
@@ -2340,7 +2340,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "हिमाली क्षेत्रमा थकाली र भोटे समुदायले जाडो छल्न र व्यापारका क्रममा घोडा दौडाएर मनाउने प्रसिद्ध पर्व कुन हो?",
       "options": [
@@ -2362,7 +2362,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालको परम्परागत वास्तुकलाका सन्दर्भमा 'प्यागोडा शैली' को विशेषता तलका मध्ये कुन हो?",
       "options": [
@@ -2384,7 +2384,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "महिला बेचबिखनविरुद्ध कार्यरत संस्था 'माइती नेपाल' की संस्थापक को हुन्, जो सन् २०१० मा 'सिएनएन हिरो' घोषित भएकी थिइन्?",
       "options": [
@@ -2406,7 +2406,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "सामान वा नगद धरौटी राखी वा नराखी महाजनको घरमा बसी बिनाज्याला वा न्यून ज्यालामा काम गर्नुपर्ने प्रथालाई पश्चिम नेपालमा के भनिन्थ्यो, जसलाई वि.सं. २०५७ साउन २ गते मुक्त घोषणा गरियो?",
       "options": [
@@ -2428,7 +2428,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "अन्तर्राष्ट्रिय रेडक्रसको स्थापना कसको पहलमा र कहिले भएको हो?",
       "options": [
@@ -2450,7 +2450,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "साइबर अपराध (Cyber Crime) र विद्युतीय कारोबारलाई नियमन गर्न नेपालमा कुन ऐन कार्यान्वयनमा रहेको छ?",
       "options": [
@@ -2472,7 +2472,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालको वर्तमान संविधान (नेपालको संविधान) संविधानसभाबाट कहिले जारी भएको हो?",
       "options": [
@@ -2494,7 +2494,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालको संविधानमा कति भाग, धारा र अनुसूचीहरू रहेका छन्?",
       "options": [
@@ -2516,7 +2516,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालको संविधानको कुन भागमा मौलिक हक र कर्तव्यको व्यवस्था गरिएको छ?",
       "options": [
@@ -2538,7 +2538,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "सङ्घीय संसदको तल्लो सदन 'प्रतिनिधि सभा' मा कुल कति जना सदस्य रहन्छन् र तीमध्ये कति जना प्रत्यक्ष निर्वाचन प्रणालीबाट चुनिन्छन्?",
       "options": [
@@ -2560,7 +2560,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "राष्ट्रिय सभा कस्तो प्रकारको सदन हो र यसका सदस्यहरूको पदावधि कति वर्षको हुन्छ?",
       "options": [
@@ -2582,7 +2582,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "नेपालको संविधान अनुसार सर्वोच्च अदालतको प्रधानन्यायाधीशको नियुक्ति कसले गर्दछ?",
       "options": [
@@ -2604,7 +2604,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "सर्वोच्च अदालतले असाधारण अधिकारक्षेत्र अन्तर्गत जारी गर्ने ५ प्रकारका रिटहरू (Writs) मा तलका मध्ये कुन पर्दैन?",
       "options": [
@@ -2626,7 +2626,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "कुनै पनि सार्वजनिक पद धारण गरेको व्यक्तिले भ्रष्टाचार गरी अख्तियारको दुरुपयोग गरेमा छानबिन र मुद्दा दायर गर्ने संवैधानिक आयोग कुन हो?",
       "options": [
@@ -2648,7 +2648,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालको संविधानको अनुसूचीहरूको सन्दर्भमा तलका मध्ये कुन जोडा सही छ?",
       "options": [
@@ -2670,7 +2670,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "वंशजका आधारमा नेपालको नागरिकता प्राप्त गर्ने व्यवस्थाका सन्दर्भमा संविधानको धारा ११ मा के उल्लेख छ?",
       "options": [
@@ -2692,7 +2692,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "सङ्घीय संसदको कुनै सदनमा पेस भएको अर्थ विधेयक (Money Bill) बाहेक अन्य विधेयक दुवै सदनबाट पारित भई प्रमाणीकरणका लागि राष्ट्रपतिसमक्ष पेस हुँदा राष्ट्रपतिले पुनर्विचारका लागि कति दिनभित्र फिर्ता पठाउन सक्ने संवैधानिक व्यवस्था छ?",
       "options": [
@@ -2714,7 +2714,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालमा वर्तमान संविधान बमोजिम कतिवटा संवैधानिक आयोगहरू रहेका छन् र ती आयोगका पदाधिकारीहरूको पदावधि नियुक्तिको मितिले कति वर्षको हुन्छ?",
       "options": [
@@ -2736,7 +2736,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "भूमध्यरेखा (०° अक्षांश) को दुवैतर्फ ५° उत्तरदेखि ५° दक्षिण अक्षांशसम्म फैलिएको जलवायु क्षेत्र कुन हो?",
       "options": [
@@ -2758,7 +2758,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "अक्षांश (Latitude) र देशान्तर (Longitude) रेखाहरूको कुल संख्या कति-कति हुन्छ (०° भूमध्यरेखा बाहेक अक्षांश गणना गर्दा)?",
       "options": [
@@ -2780,7 +2780,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "पृथ्वीको सतहमा अचानक आउने कम्पन वा थर्काइलाई भूकम्प भनिन्छ। पृथ्वीको भित्री भागमा जहाँबाट भूकम्पको उत्पत्ति हुन्छ, त्यस बिन्दुलाई के भनिन्छ?",
       "options": [
@@ -2802,7 +2802,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "विश्वको सबैभन्दा लामो पर्वत श्रृंखला 'एन्डिज' र सबैभन्दा ठूलो नदी 'अमेजन' कुन महादेशमा पर्दछन्?",
       "options": [
@@ -2824,7 +2824,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "१° देशान्तरको फरकमा कति मिनेट समयको भिन्नता पर्दछ र पूर्वतर्फ जाँदा समय के हुन्छ?",
       "options": [
@@ -2846,7 +2846,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "हिउँदमा वर्षा हुने र ग्रीष्म ऋतु सुख्खा र न्यानो हुने तथा रसिला फलफूल (सुन्तला, अंगुर, जैतुन) को खेतीका लागि प्रसिद्ध हावापानी कुन हो?",
       "options": [
@@ -2868,7 +2868,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "अफ्रिका महादेशको उष्ण तृणभूमि (घाँसे मैदान) लाई के नामले चिनिन्छ, जसलाई 'विश्वको चिडियाखाना' (Zoo of the World) पनि भनिन्छ?",
       "options": [
@@ -2890,7 +2890,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "उत्तर अमेरिका महादेशमा रहेका पाँचवटा ठूला तालहरूको समूह (Great Lakes) मा तलका मध्ये कुन ताल पर्दैन?",
       "options": [
@@ -2912,7 +2912,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "नेपालको धरातलीय स्वरूपलाई दक्षिणदेखि उत्तरतर्फ क्रमशः मिलाउँदा सही क्रम कुन हुन्छ?",
       "options": [
@@ -2934,7 +2934,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "अन्तर्राष्ट्रिय तिथि रेखा (International Date Line) कति डिग्री देशान्तर रेखालाई आधार मानेर निर्धारण गरिएको छ र यो कुन महासागर हुँदै जान्छ?",
       "options": [
@@ -2956,7 +2956,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "यदि ०° देशान्तरमा रहेको लन्डन (GMT) मा दिउँसो १२:०० बजेको छ भने ६०° पूर्वी देशान्तरमा रहेको स्थानमा कति बज्छ?",
       "options": [
@@ -2978,7 +2978,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "दक्षिण अमेरिका महादेशको अर्जेन्टिनामा फैलिएको समशीतोष्ण घाँसे मैदान 'पम्पास' आर्थिक रूपले केका लागि विश्वप्रसिद्ध छ?",
       "options": [
@@ -3000,7 +3000,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालमा मनसुनी वायु र पश्चिमी वायुले पार्ने प्रभावका सम्बन्धमा तलका मध्ये कुन भनाइ पूर्णतः सही छ?",
       "options": [
@@ -3022,7 +3022,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "भूमध्यरेखीय उष्ण सदाबहार वन (Selvas/Equatorial Rainforest) र कोणधारी वन (Taiga) बीचको मुख्य भिन्नता के हो?",
       "options": [
@@ -3044,7 +3044,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "अफ्रिका महादेशको पूर्वी भागमा उत्तरदेखि दक्षिणसम्म फैलिएको 'विशाल दरार उपत्यका' (Great Rift Valley) कुन भौगर्भिक प्रक्रियाबाट निर्माण भएको हो?",
       "options": [
@@ -3066,7 +3066,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नक्सा कोर्दा वास्तविक दूरी र नक्साको दूरीबीचको अनुपात देखाउने नाप (Scale) मा '१ : ५०,०००' लेखिएको छ भने यसलाई कुन प्रकारको नाप भनिन्छ?",
       "options": [
@@ -3088,7 +3088,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "जंगबहादुर राणाले राजदरबारका भारदारहरूको सामूहिक हत्या गरी राणा शासनको जग बसालेको 'कोतपर्व' कहिले घटेको थियो?",
       "options": [
@@ -3110,7 +3110,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "१०४ वर्षे जहानियाँ राणा शासनको अन्त्य भई नेपालमा प्रजातन्त्रको स्थापना कहिले भएको हो?",
       "options": [
@@ -3132,7 +3132,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "राजा महेन्द्रले वि.सं. २०१५ सालको जननिर्वाचित संसदीय सरकार र संसद विघटन गरी निर्दलीय पञ्चायती व्यवस्थाको सुरुवात कहिले गरेका थिए?",
       "options": [
@@ -3154,7 +3154,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "प्रथम विश्वयुद्ध कहिले सुरु भई कहिले अन्त्य भएको थियो?",
       "options": [
@@ -3176,7 +3176,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "प्रथम विश्वयुद्धको अन्त्यपछि मित्रराष्ट्रहरूले पराजित जर्मनीसँग सन् १९१९ जुन २८ मा गरेको अपमानजनक सन्धि कुन हो?",
       "options": [
@@ -3198,7 +3198,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "दोस्रो विश्वयुद्धको तात्कालिक कारण तलका मध्ये कुन घटनालाई मानिन्छ?",
       "options": [
@@ -3220,7 +3220,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "वि.सं. २०३६ सालमा विद्यार्थी आन्दोलन चर्किएपछि राजा वीरेन्द्रले वि.सं. २०३७ वैशाख २० गते गराएको जनमत संग्रहमा कुन दुई विकल्प राखिएको थियो?",
       "options": [
@@ -3242,7 +3242,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "वि.सं. २०४६ सालको प्रथम जनआन्दोलनका सर्वोच्च कमान्डर को थिए र यो आन्दोलन कति दिनसम्म चलेको थियो?",
       "options": [
@@ -3264,7 +3264,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "नेपालमा १० वर्षे सशस्त्र द्वन्द्वको औपचारिक अन्त्य गर्दै नेपाल सरकार र नेकपा (माओवादी) बीच विस्तृत शान्ति सम्झौता (Comprehensive Peace Accord) कहिले सम्पन्न भयो?",
       "options": [
@@ -3286,7 +3286,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "संविधानसभाको पहिलो बैठकले नेपालमा २४० वर्ष पुरानो राजतन्त्रको अन्त्य गरी 'संघीय लोकतान्त्रिक गणतन्त्र' को घोषणा कहिले गर्यो?",
       "options": [
@@ -3308,7 +3308,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "वि.सं. २००७ सालमा राणा, नेपाली कांग्रेस र राजा त्रिभुवनका बीच भारतको राजधानी दिल्लीमा भएको 'दिल्ली सम्झौता' का मुख्य बुँदामा तलका मध्ये कुन पर्दैन?",
       "options": [
@@ -3330,7 +3330,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "दोस्रो विश्वयुद्धका क्रममा अमेरिकाले जापानका हिरोसिमा र नागासाकी सहरमा कहिले-कहिले अणुबम (Atom Bomb) खसालेको थियो?",
       "options": [
@@ -3352,7 +3352,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "वि.सं. २०६२/६३ को दोस्रो जनआन्दोलनको आधारशिला मानिने सात राजनीतिक दल र नेकपा (माओवादी) बीचको ऐतिहासिक '१२ बुँदे समझदारी' कहिले भएको थियो?",
       "options": [
@@ -3374,7 +3374,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "प्रथम र दोस्रो विश्वयुद्धमा नेपालले खेलेको भूमिका र त्यसको परिणामका सम्बन्धमा तलका मध्ये कुन कथन सही छ?",
       "options": [
@@ -3396,7 +3396,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालको कुल गार्हस्थ्य उत्पादन (GDP) मा हाल सबैभन्दा बढी योगदान पुर्‍याउँदै आएको र तीव्र गतिमा विस्तार भइरहेको क्षेत्र कुन हो?",
       "options": [
@@ -3418,7 +3418,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "कुनै पनि देशको केन्द्रीय बैंकले जारी गरेको नोट र सिक्कालाई के भनिन्छ र नेपालमा नोट निष्कासन गर्ने एकमात्र आधिकारिक निकाय कुन हो?",
       "options": [
@@ -3440,7 +3440,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "नेपालमा योजनाबद्ध आर्थिक विकासको सुरुवात कहिले र कुन योजनाबाट भएको हो?",
       "options": [
@@ -3462,7 +3462,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "सहकारी संस्थाको अन्तर्राष्ट्रिय सिद्धान्तअनुसार सहकारीको सदस्यता र मतदान प्रक्रिया कस्तो हुन्छ?",
       "options": [
@@ -3484,7 +3484,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "कम्पनीहरूले सर्वसाधारणबाट पुँजी संकलन गर्न प्राथमिक बजारमा निष्कासन गर्ने साधारण शेयरलाई के भनिन्छ?",
       "options": [
@@ -3506,7 +3506,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "वैदेशिक रोजगारीमा जाने कामदारहरूले विदेशमा कमाएर बैंकिङ च्यानलमार्फत स्वदेशमा पठाउने रकमलाई अर्थशास्त्रको भाषामा के भनिन्छ?",
       "options": [
@@ -3528,7 +3528,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "प्रत्यक्ष कर (Direct Tax) र अप्रत्यक्ष कर (Indirect Tax) बीचको भिन्नताका आधारमा तलका मध्ये कुन कर 'अप्रत्यक्ष कर' अन्तर्गत पर्दछ?",
       "options": [
@@ -3550,7 +3550,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "यदि अमेरिकी डलरको तुलनामा नेपाली रूपैयाँको विनिमय दर १ डलर बराबर १३० रूपैयाँबाट बढेर १३५ रूपैयाँ पुग्यो भने यस अवस्थालाई के भनिन्छ र यसले निर्यात व्यापारमा कस्तो असर पार्छ?",
       "options": [
@@ -3572,7 +3572,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "जोखिम हस्तान्तरण र आर्थिक सुरक्षणको माध्यम 'बीमा' (Insurance) मा बीमितले निश्चित अवधिसम्म जीवित रहेमा वा बीचैमा मृत्यु भएमा आश्रित परिवारले बीमाङ्क रकम र बोनस पाउने बीमालाई के भनिन्छ?",
       "options": [
@@ -3594,7 +3594,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "बैंक तथा वित्तीय संस्थासम्बन्धी ऐन (BAFIA) अनुसार नेपाल राष्ट्र बैंकले वित्तीय संस्थाहरूलाई कति वर्गमा विभाजन गरेको छ? सही क्रम कुन हो?",
       "options": [
@@ -3616,7 +3616,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "दक्षिण एसियाली क्षेत्रीय सहयोग संगठन (सार्क - SAARC) को स्थापना कहिले र कहाँ भएको हो?",
       "options": [
@@ -3638,7 +3638,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "सार्क (SAARC) को सचिवालय कहाँ रहेको छ र हाल सार्कमा कतिवटा सदस्य राष्ट्रहरू छन्?",
       "options": [
@@ -3660,7 +3660,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "संयुक्त राष्ट्रसंघ (UNO) को स्थापना कहिले भएको हो र यसको प्रधान कार्यालय कहाँ रहेको छ?",
       "options": [
@@ -3682,7 +3682,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालले संयुक्त राष्ट्रसंघ (UNO) को सदस्यता कहिले प्राप्त गरेको हो?",
       "options": [
@@ -3704,7 +3704,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "संयुक्त राष्ट्रसंघको सुरक्षा परिषद् (Security Council) मा कुल कति सदस्य रहन्छन् र भिटो (Veto) अधिकार प्राप्त ५ स्थायी सदस्य राष्ट्रहरू कुन-कुन हुन्?",
       "options": [
@@ -3726,7 +3726,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "संयुक्त राष्ट्रसंघका ६ प्रमुख अङ्गहरूमध्ये नेदरल्यान्ड्सको हेगमा प्रधान कार्यालय रहेको एकमात्र अङ्ग कुन हो?",
       "options": [
@@ -3748,7 +3748,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "असंलग्न आन्दोलन (Non-Aligned Movement - NAM) को मुख्य मर्म र सिद्धान्त के हो?",
       "options": [
@@ -3770,7 +3770,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "सार्क बडापत्र (SAARC Charter) को धारा १० अनुसार सार्कका बैठकहरूमा निर्णय प्रक्रिया र छलफलका विषयवस्तुबारे के व्यवस्था छ?",
       "options": [
@@ -3792,7 +3792,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालको संविधानको धारा ५१(ड) अनुसार नेपालको अन्तर्राष्ट्रिय सम्बन्ध र परराष्ट्र नीतिको सञ्चालन केका आधारमा गरिने उल्लेख छ?",
       "options": [
@@ -3814,7 +3814,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "विश्वव्यापीकरण (Globalization) ले विकासोन्मुख राष्ट्रहरूमा पारेको सकारात्मक र नकारात्मक प्रभावको सन्तुलित विश्लेषण तलका मध्ये कुन हो?",
       "options": [
@@ -3836,7 +3836,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालमा प्रत्येक कति वर्षको अन्तरालमा राष्ट्रिय जनगणना गर्ने प्रचलन छ र वि.सं. १९६८ सालदेखि सुरु भएको जनगणना अनुसार वि.सं. २०७८ को जनगणना कतिऔँ हो?",
       "options": [
@@ -3858,7 +3858,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "कुनै निश्चित स्थान र समयमा प्रति १००० जीवित जन्ममा १ वर्षभन्दा कम उमेरका शिशुहरूको मृत्यु हुने संख्यालाई के भनिन्छ?",
       "options": [
@@ -3880,7 +3880,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "जनसांख्यिकीय हिसाबले कुन उमेर समूहको जनसंख्यालाई 'आर्थिक रूपले सक्रिय जनसंख्या' (Economically Active Population) र कुन समूहलाई 'आश्रित जनसंख्या' मानिन्छ?",
       "options": [
@@ -3902,7 +3902,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "हरितगृह प्रभाव (Greenhouse Effect) बढाउन र विश्वव्यापी उष्णता (Global Warming) निम्त्याउन प्रमुख भूमिका खेल्ने ग्यासहरू कुन-कुन हुन्?",
       "options": [
@@ -3924,7 +3924,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "मानिसहरू आफ्नो मूल थलो छोडेर अर्को स्थानमा बसाइँ सर्दा पुरानो स्थानमा रहेका असुविधाहरू (जस्तै: बेरोजगारी, विपद्, गरिबी) ले धकेल्ने तत्वलाई के भनिन्छ?",
       "options": [
@@ -3946,7 +3946,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "कुनै देश वा क्षेत्रको जनसंख्या दोब्बर हुन लाग्ने समय (Population Doubling Time) पत्ता लगाउने सूत्र कुन हो?",
       "options": [
@@ -3968,7 +3968,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "प्रकोप (Hazard) र विपद् (Disaster) व्यवस्थापन चक्र (Disaster Management Cycle) मा विपद् आउनुभन्दा अगाडि गरिने कार्य कुन हो?",
       "options": [
@@ -3990,7 +3990,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "वि.सं. २००७ सालअघि राणा शासनको विरोधमा जनतामा चेतना फैलाउन वि.सं. १९९३ जेठ २० मा स्थापित नेपालको पहिलो राजनीतिक दल कुन हो?",
       "options": [
@@ -4012,7 +4012,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "संयुक्त राष्ट्रसंघले मानवअधिकारको विश्वव्यापी घोषणापत्र (UDHR) कहिले जारी गरेको हो, जसको स्मरणमा प्रत्येक वर्ष मानवअधिकार दिवस मनाइन्छ?",
       "options": [
@@ -4034,7 +4034,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालको संविधान बमोजिम प्रदेश सभाको गठन र प्रदेश मन्त्रिपरिषद्को संख्याका सम्बन्धमा कुन व्यवस्था सही छ?",
       "options": [
@@ -4056,7 +4056,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालका चार महान् सहिदहरू (शुक्रराज शास्त्री, धर्मभक्त माथेमा, दशरथ चन्द र गंगालाल श्रेष्ठ) लाई राणा शासकहरूले कहिले मृत्युदण्ड दिएका थिए?",
       "options": [
@@ -4078,7 +4078,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "भ्रष्टाचारविरुद्ध जनचेतना फैलाउने र विश्वव्यापी रूपमा भ्रष्टाचार अवधारणा सूचकाङ्क (CPI) प्रकाशन गर्ने अन्तर्राष्ट्रिय गैरसरकारी संस्था कुन हो र यसको मुख्यालय कहाँ छ?",
       "options": [
@@ -4100,7 +4100,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालको स्थानीय तहको न्यायिक समिति (Judicial Committee) का सम्बन्धमा संविधानको धारा २१७ ले के व्यवस्था गरेको छ?",
       "options": [
@@ -4122,7 +4122,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालको प्रामाणिक समय (Standard Time) कुन हिमाललाई काटेर जाने कति डिग्री देशान्तर रेखालाई आधार मानेर निर्धारण गरिएको छ?",
       "options": [
@@ -4144,7 +4144,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "सुदूरपश्चिम र कर्णाली प्रदेशका जिल्लाहरूमा प्रचलित 'छलिया नाच' र 'हुड्केली नाच' कस्तो अवसरमा नाचिने लोकनाचहरू हुन्?",
       "options": [
@@ -4166,7 +4166,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "संयुक्त राष्ट्रसंघका विशिष्टीकृत संस्थाहरूमध्ये बालबालिकाको स्वास्थ्य, पोषण र शिक्षाका लागि काम गर्ने संस्था र श्रमिकको हकहितमा काम गर्ने संस्था क्रमशः कुन-कुन हुन्?",
       "options": [
@@ -4188,7 +4188,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "उपभोक्ता संरक्षण ऐन, २०७५ अनुसार उपभोक्ताले उपभोग्य वस्तु खरिद गर्दा पाउने अधिकारमा तलका मध्ये कुन पर्दैन?",
       "options": [
@@ -4210,7 +4210,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "नक्सामा विभिन्न भौगोलिक तथ्यहरू (जस्तै: नदी, बाटो, मन्दिर, विमानस्थल) लाई स्पष्ट रूपमा चिनाउन प्रयोग गरिने सर्वमान्य चित्र वा संकेतलाई के भनिन्छ?",
       "options": [
@@ -4232,7 +4232,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालमा सर्वप्रथम वि.सं. २०१६ सालमा सम्पन्न प्रथम संसदीय आमनिर्वाचनमा कुन दलले दुई तिहाइ बहुमत ल्याई प्रथम जननिर्वाचित सरकार गठन गरेको थियो?",
       "options": [
@@ -4254,7 +4254,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "उच्च हिमाली र उत्तरी ध्रुवीय (टुन्ड्रा) क्षेत्रमा बसोबास गर्ने एस्किमो (इन्युइट) जातिले हिउँका ढिक्काहरू जोडेर बनाउने अर्धगोलाकार घरलाई के भनिन्छ?",
       "options": [
@@ -4276,7 +4276,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालको जलविद्युत क्षमता र ऊर्जा संकट समाधानका सन्दर्भमा 'जलाशययुक्त आयोजना' (Reservoir Project) र 'नदी प्रवाही आयोजना' (Run-of-the-River Project) बीचको मुख्य भिन्नता के हो?",
       "options": [
@@ -4298,7 +4298,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Medium",
       "question": "नेपाल सरकारको वार्षिक आय र व्ययको अनुमानित विवरण (बजेट) संवैधानिक व्यवस्था अनुसार प्रत्येक वर्ष कुन मितिमा संघीय संसदको संयुक्त बैठकमा अर्थमन्त्रीले पेस गर्दछन्?",
       "options": [
@@ -4320,7 +4320,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालका प्रमुख तीन नदी प्रणालीहरू (कोशी, गण्डकी र कर्णाली) र तिनका सहायक नदीहरूको जोडा मिलाउँदा तलका मध्ये कुन समूह पूर्णतः सही छ?",
       "options": [
@@ -4342,7 +4342,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "राष्ट्रिय गौरवका आयोजनाहरू (National Pride Projects) छनोट र कार्यान्वयन गर्नुको मुख्य रणनीतिक उद्देश्य के हो?",
       "options": [
@@ -4364,7 +4364,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Easy",
       "question": "नेपालको प्रशासनिक विभाजन अनुसार हाल नेपालमा कतिवटा प्रदेश, जिल्ला र स्थानीय तहहरू रहेका छन्?",
       "options": [
@@ -4386,7 +4386,7 @@
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level / SEE (Class 9–10)",
       "sub_cat_id": "114",
-      "sub_cat_name": "Social Studies (इतिहास, भूगोल, संविधान, अन्तर्राष्ट्रिय)",
+      "sub_cat_name": "Social Studies",
       "level": "Hard",
       "question": "नेपालले अवलम्बन गरेको 'पञ्चशीलको सिद्धान्त' (Five Principles of Peaceful Coexistence) मा तलका मध्ये कुन बुँदा समावेश हुँदैन?",
       "options": [
