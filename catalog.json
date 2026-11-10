@@ -1,0 +1,68 @@
+[
+  {
+    "category_id": 1,
+    "category_name": "Primary & Basic Level",
+    "total_questions": 567,
+    "subcategories": [
+      {
+        "sub_cat_id": "101",
+        "sub_cat_name": "Junior GK",
+        "question_count": 91
+      },
+      {
+        "sub_cat_id": "102",
+        "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
+        "question_count": 97
+      },
+      {
+        "sub_cat_id": "103",
+        "sub_cat_name": "English",
+        "question_count": 89
+      },
+      {
+        "sub_cat_id": "104",
+        "sub_cat_name": "Mathematics",
+        "question_count": 224
+      },
+      {
+        "sub_cat_id": "105",
+        "sub_cat_name": "Science",
+        "question_count": 66
+      }
+    ]
+  },
+  {
+    "category_id": 2,
+    "category_name": "Lower Secondary",
+    "total_questions": 292,
+    "subcategories": [
+      {
+        "sub_cat_id": "106",
+        "sub_cat_name": "Nepali",
+        "question_count": 192
+      },
+      {
+        "sub_cat_id": "107",
+        "sub_cat_name": "English",
+        "question_count": 50
+      },
+      {
+        "sub_cat_id": "108",
+        "sub_cat_name": "Mathematics",
+        "question_count": 50
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "category_name": "Higher Secondary",
+    "total_questions": 100,
+    "subcategories": [
+      {
+        "sub_cat_id": "105",
+        "sub_cat_name": "Biology (Botany / Zoology)",
+        "question_count": 100
+      }
+    ]
+  }
+]
