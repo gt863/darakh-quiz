@@ -108,7 +108,7 @@
   {
     "category_id": 4,
     "category_name": "Higher Secondary",
-    "total_questions": 524,
+    "total_questions": 924,
     "subcategories": [
       {
         "sub_cat_id": "118",
@@ -124,6 +124,43 @@
         "sub_cat_id": "120",
         "sub_cat_name": "Biology (Botany / Zoology)",
         "question_count": 200
+      },
+      {
+        "sub_cat_id": "121",
+        "sub_cat_name": "Pro Mathematics",
+        "question_count": 100
+      },
+      {
+        "sub_cat_id": "122",
+        "sub_cat_name": "Principles of Accounting",
+        "question_count": 100
+      },
+      {
+        "sub_cat_id": "123",
+        "sub_cat_name": "Economics",
+        "question_count": 100
+      },
+      {
+        "sub_cat_id": "125",
+        "sub_cat_name": "Business Studies",
+        "question_count": 100
+      }
+    ]
+  },
+  {
+    "category_id": 5,
+    "category_name": "Sarkari Loksewa",
+    "total_questions": 400,
+    "subcategories": [
+      {
+        "sub_cat_id": "125",
+        "sub_cat_name": "General Knowledge - GK",
+        "question_count": 100
+      },
+      {
+        "sub_cat_id": "126",
+        "sub_cat_name": "General Mental Ability / IQ",
+        "question_count": 300
       }
     ]
   }
