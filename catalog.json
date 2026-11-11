@@ -150,7 +150,7 @@
   {
     "category_id": 5,
     "category_name": "Sarkari Loksewa",
-    "total_questions": 1300,
+    "total_questions": 2572,
     "subcategories": [
       {
         "sub_cat_id": "125",
@@ -171,6 +171,31 @@
         "sub_cat_id": "128",
         "sub_cat_name": "शासकीय प्रबन्ध",
         "question_count": 300
+      },
+      {
+        "sub_cat_id": "129",
+        "sub_cat_name": "सार्वजनिक वित्त र बजेट",
+        "question_count": 272
+      },
+      {
+        "sub_cat_id": "130",
+        "sub_cat_name": "लेखा समूह",
+        "question_count": 400
+      },
+      {
+        "sub_cat_id": "131",
+        "sub_cat_name": "राजस्व समूह",
+        "question_count": 200
+      },
+      {
+        "sub_cat_id": "132",
+        "sub_cat_name": "न्याय र कानुन समूह",
+        "question_count": 200
+      },
+      {
+        "sub_cat_id": "133",
+        "sub_cat_name": "परराष्ट्र सेवा",
+        "question_count": 200
       }
     ]
   }
