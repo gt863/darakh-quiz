@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "data_version": 1794328279539,
+  "data_version": 1794365323433,
   "total_categories": 5,
   "total_questions": 4997,
   "categories": [
@@ -132,7 +132,7 @@
         },
         "121": {
           "sub_cat_id": "121",
-          "sub_cat_name": "Mathematics",
+          "sub_cat_name": "Pro Mathematics",
           "question_count": 100
         },
         "122": {
@@ -92510,7 +92510,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "यदि A = {१,२,३} र B = {३,४,५} भए A ∩ B = ?",
       "options": [
@@ -92532,7 +92532,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "sin(π/६) = ?",
       "options": [
@@ -92554,7 +92554,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "x² - ५x + ६ = ० का मूलहरू के हुन्?",
       "options": [
@@ -92576,7 +92576,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "i² को मान कति हुन्छ?",
       "options": [
@@ -92598,7 +92598,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "५! = ?",
       "options": [
@@ -92620,7 +92620,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "(x+१)³ को विस्तारमा x² को गुणांक कति हुन्छ?",
       "options": [
@@ -92642,7 +92642,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "समानान्तर श्रेणी २,५,८,... को १०औँ पद कति हुन्छ?",
       "options": [
@@ -92664,7 +92664,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "रेखा y = २x + ३ को भुज (slope) कति हुन्छ?",
       "options": [
@@ -92686,7 +92686,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "lim_{x→०} (sin x)/x = ?",
       "options": [
@@ -92708,7 +92708,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "एउटा निष्पक्ष सिक्का उचाल्दा टाउको पर्ने सम्भाव्यता कति हुन्छ?",
       "options": [
@@ -92730,7 +92730,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "यदि A एउटा २×२ म्याट्रिक्स हो भने A को order के हुन्छ?",
       "options": [
@@ -92752,7 +92752,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "भेक्टर ३i + ४j को परिमाण कति हुन्छ?",
       "options": [
@@ -92774,7 +92774,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "x² को अवकलज (derivative) कति हुन्छ?",
       "options": [
@@ -92796,7 +92796,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "∫ x dx = ?",
       "options": [
@@ -92818,7 +92818,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "२,४,६,८ को माध्य (mean) कति हुन्छ?",
       "options": [
@@ -92840,7 +92840,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "d²y/dx² + y = ० भन्ने अवकल समीकरणको order कति हुन्छ?",
       "options": [
@@ -92862,7 +92862,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "यदि A={१,२}, B={२,३} भए A∪B = ?",
       "options": [
@@ -92884,7 +92884,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "cos(०) = ?",
       "options": [
@@ -92906,7 +92906,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "ax²+bx+c=० को विविक्तकर (discriminant) कुन हो?",
       "options": [
@@ -92928,7 +92928,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "३+४i को मापांक (modulus) कति हुन्छ?",
       "options": [
@@ -92950,7 +92950,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "३ वटा भिन्न वस्तुहरूलाई क्रमबद्ध गर्ने तरिकाको संख्या कति हुन्छ?",
       "options": [
@@ -92972,7 +92972,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "(a+b)^n को द्विपद विस्तारमा पदहरूको संख्या कति हुन्छ?",
       "options": [
@@ -92994,7 +92994,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "पहिलो n प्राकृतिक संख्याहरूको योग कति हुन्छ?",
       "options": [
@@ -93016,7 +93016,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "x-अक्षको समीकरण कुन हो?",
       "options": [
@@ -93038,7 +93038,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "lim_{x→०} (१-cos x)/x² = ?",
       "options": [
@@ -93060,7 +93060,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "असम्भव घटनाको सम्भाव्यता कति हुन्छ?",
       "options": [
@@ -93082,7 +93082,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "क्रम २ को identity matrix को determinant कति हुन्छ?",
       "options": [
@@ -93104,7 +93104,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "i र j को डट गुणनफल कति हुन्छ?",
       "options": [
@@ -93126,7 +93126,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "sin x को अवकलज कति हुन्छ?",
       "options": [
@@ -93148,7 +93148,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "∫ cos x dx = ?",
       "options": [
@@ -93170,7 +93170,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "यदि A={१,२,३}, B={३,४} भए A-B = ?",
       "options": [
@@ -93192,7 +93192,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "यदि sin θ = ३/५ भए cos θ = ? (θ न्यून कोण)",
       "options": [
@@ -93214,7 +93214,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "x²-५x+६=० का मूलहरू α,β भए α+β = ?",
       "options": [
@@ -93236,7 +93236,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "(१+i)² = ?",
       "options": [
@@ -93258,7 +93258,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "५ वटा वस्तुबाट २ वटा छान्ने तरिकाको संख्या कति हुन्छ?",
       "options": [
@@ -93280,7 +93280,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "(a+b)^n को सामान्य पद (general term) कुन हो?",
       "options": [
@@ -93302,7 +93302,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "अनन्त गुणोत्तर श्रेणीको योग (|r|<१) कुन सूत्रले दिन्छ? (पहिलो पद a)",
       "options": [
@@ -93324,7 +93324,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "बिन्दु (x₁,y₁) बाट रेखा Ax+By+C=० सम्मको दूरी कति हुन्छ?",
       "options": [
@@ -93346,7 +93346,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "परवलय (parabola) को उत्केन्द्रता (eccentricity) कति हुन्छ?",
       "options": [
@@ -93368,7 +93368,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "lim_{x→०} (e^x - १)/x = ?",
       "options": [
@@ -93390,7 +93390,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "ln x को अवकलज कति हुन्छ?",
       "options": [
@@ -93412,7 +93412,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "∫ १/x dx = ?",
       "options": [
@@ -93434,7 +93434,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "यदि P(A)=०.३, P(B)=०.४ र A,B स्वतन्त्र भए P(A∩B) = ?",
       "options": [
@@ -93456,7 +93456,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "यदि A २×२ म्याट्रिक्स र |A|=५ भए |२A| = ?",
       "options": [
@@ -93478,7 +93478,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "यदि a·b = ० भए भेक्टरहरू a र b कस्ता हुन्छन्?",
       "options": [
@@ -93500,7 +93500,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "x-अक्षको दिशा कोसाइन (direction cosines) कुन हुन्?",
       "options": [
@@ -93522,7 +93522,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "२,४,६,८ को भेरियन्स कति हुन्छ?",
       "options": [
@@ -93544,7 +93544,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "dy/dx = y को समाधान कुन हो?",
       "options": [
@@ -93566,7 +93566,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "यदि समूह A मा ३ वटा तत्व छन् भने A का उपसमूहहरूको संख्या कति हुन्छ?",
       "options": [
@@ -93588,7 +93588,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "tan(π/४) = ?",
       "options": [
@@ -93610,7 +93610,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "यदि द्विघात समीकरणका मूलहरू बराबर छन् भने विविक्तकर कति हुन्छ?",
       "options": [
@@ -93632,7 +93632,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "i³ को मान कति हुन्छ?",
       "options": [
@@ -93654,7 +93654,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "n भुजा भएको बहुभुजमा विकर्णहरूको संख्या कति हुन्छ?",
       "options": [
@@ -93676,7 +93676,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "(a+b)^४ को विस्तारको मध्य पद कुन हो?",
       "options": [
@@ -93698,7 +93698,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "यदि a, b, c समानान्तर श्रेणीमा छन् भने २b = ?",
       "options": [
@@ -93720,7 +93720,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "y = २x + १ रेखासँग लम्बवत् रेखाको भुज कति हुन्छ?",
       "options": [
@@ -93742,7 +93742,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "केन्द्र (०,०) र अर्धव्यास r भएको वृत्तको समीकरण कुन हो?",
       "options": [
@@ -93764,7 +93764,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "lim_{x→∞} (१+१/x)^x = ?",
       "options": [
@@ -93786,7 +93786,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "d/dx (x^n) = ?",
       "options": [
@@ -93808,7 +93808,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "∫ e^x dx = ?",
       "options": [
@@ -93830,7 +93830,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "यदि A र B परस्पर अपवर्जी (mutually exclusive) छन् भने P(A∪B) = ?",
       "options": [
@@ -93852,7 +93852,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "म्याट्रिक्स A को inverse अस्तित्व हुन के सर्त पूरा हुनुपर्छ?",
       "options": [
@@ -93874,7 +93874,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "भेक्टर a को दिशामा एकाइ भेक्टर कुन हो?",
       "options": [
@@ -93896,7 +93896,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "बिन्दु a भएर जाने र सामान्य भेक्टर n भएको समतलको समीकरण कुन हो?",
       "options": [
@@ -93918,7 +93918,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "मानक विचलन (standard deviation) कुन राशिको वर्गमूल हो?",
       "options": [
@@ -93940,7 +93940,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "dy/dx + Py = Q को integrating factor कुन हो?",
       "options": [
@@ -93962,7 +93962,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "डी मोर्गनको नियमअनुसार (A∪B)' = ?",
       "options": [
@@ -93984,7 +93984,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "sin²θ + cos²θ = ?",
       "options": [
@@ -94006,7 +94006,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "ax²+bx+c=० का मूलहरू α,β भए αβ = ?",
       "options": [
@@ -94028,7 +94028,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "जटिल संख्या z = r(cosθ + i sinθ) को ध्रुवीय रूपलाई अर्को कसरी लेखिन्छ?",
       "options": [
@@ -94050,7 +94050,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "समूह A मा सम्बन्ध R लाई तुल्य सम्बन्ध (equivalence relation) हुन के के गुण हुनुपर्छ?",
       "options": [
@@ -94072,7 +94072,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "यदि sin x = १/२ भए x को सामान्य समाधान कुन हो?",
       "options": [
@@ -94094,7 +94094,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "x³+px²+qx+r=० का मूलहरू α,β,γ भए α+β+γ = ?",
       "options": [
@@ -94116,7 +94116,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "एकताका घनमूल (cube roots of unity) कुन हुन्?",
       "options": [
@@ -94138,7 +94138,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "शब्द NEPAL का अक्षरहरूबाट बन्ने क्रमपरिवर्तनको संख्या कति हुन्छ?",
       "options": [
@@ -94160,7 +94160,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "(१+x)^१० को विस्तारमा x^५ को गुणांक कति हुन्छ?",
       "options": [
@@ -94182,7 +94182,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "१²+२²+...+n² को योग कुन सूत्रले दिन्छ?",
       "options": [
@@ -94204,7 +94204,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "y=m₁x+c₁ र y=m₂x+c₂ रेखाहरूबीचको कोण कुन सूत्रले दिन्छ?",
       "options": [
@@ -94226,7 +94226,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "दीर्घवृत्त x²/a² + y²/b² = १ (a>b) को नाभिलम्ब (latus rectum) को लम्बाइ कति हुन्छ?",
       "options": [
@@ -94248,7 +94248,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "lim_{x→०} (tan x - sin x)/x³ = ?",
       "options": [
@@ -94270,7 +94270,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "यदि y = x^x भए dy/dx = ?",
       "options": [
@@ -94292,7 +94292,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "∫ sin²x dx = ?",
       "options": [
@@ -94314,7 +94314,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "दुईवटा पासा फाल्दा योग ७ आउने सम्भाव्यता कति हुन्छ?",
       "options": [
@@ -94336,7 +94336,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "यदि A र B वर्ग म्याट्रिक्स भए (AB)^T = ?",
       "options": [
@@ -94358,7 +94358,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "स्केलर त्रिगुण गुणनफल [a b c] = ?",
       "options": [
@@ -94380,7 +94380,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "दुई तिर्यक रेखाहरू r = a₁ + λb₁ र r = a₂ + μb₂ बीचको न्यूनतम दूरी कुन सूत्रले दिन्छ?",
       "options": [
@@ -94402,7 +94402,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "यदि प्रत्येक अवलोकनलाई २ ले गुणन गरियो भने भेरियन्स कति हुन्छ?",
       "options": [
@@ -94424,7 +94424,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "dy/dx = (x+y)² लाई हल गर्न कुन प्रतिस्थापन उपयुक्त हुन्छ?",
       "options": [
@@ -94446,7 +94446,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "यदि A, B को उपसमूह हो भने A∪B = ?",
       "options": [
@@ -94468,7 +94468,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "यदि A+B+C=π भए sin२A+sin२B+sin२C = ?",
       "options": [
@@ -94490,7 +94490,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "यदि x²+px+q=० को एक मूल अर्कोको वर्ग हो भने कुन सर्त लागू हुन्छ?",
       "options": [
@@ -94512,7 +94512,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "यदि ω एकताको घनमूल हो भने १+ω+ω² = ?",
       "options": [
@@ -94534,7 +94534,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "शब्द MATHEMATICS का अक्षरहरूलाई यसरी मिलाउँदा स्वरहरू सँगै आउने तरिकाको संख्या कति हुन्छ?",
       "options": [
@@ -94556,7 +94556,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "(१+x)^n को विस्तारमा गुणांकहरूको योग कति हुन्छ?",
       "options": [
@@ -94578,7 +94578,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "यदि a,b,c गुणोत्तर श्रेणीमा छन् भने b² = ?",
       "options": [
@@ -94600,7 +94600,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "बिन्दु (x₁,y₁) भएर जाने र भुज m भएको रेखाको समीकरण कुन हो?",
       "options": [
@@ -94622,7 +94622,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 11",
       "question": "अतिपरवलय x²/a² - y²/b² = १ को उत्केन्द्रता कुन सूत्रले दिन्छ?",
       "options": [
@@ -94644,7 +94644,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "lim_{x→०} (a^x - १)/x = ?",
       "options": [
@@ -94666,7 +94666,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "यदि y = sin^{-१}x भए dy/dx = ?",
       "options": [
@@ -94688,7 +94688,7 @@
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
-      "sub_cat_name": "Mathematics",
+      "sub_cat_name": "Pro Mathematics",
       "level": "Class 12",
       "question": "∫ dx/(१+x²) = ?",
       "options": [
