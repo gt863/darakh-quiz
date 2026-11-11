@@ -150,16 +150,26 @@
   {
     "category_id": 5,
     "category_name": "Sarkari Loksewa",
-    "total_questions": 400,
+    "total_questions": 1300,
     "subcategories": [
       {
         "sub_cat_id": "125",
         "sub_cat_name": "General Knowledge - GK",
-        "question_count": 100
+        "question_count": 300
       },
       {
         "sub_cat_id": "126",
-        "sub_cat_name": "General Mental Ability / IQ",
+        "sub_cat_name": "बौद्धिक परीक्षण",
+        "question_count": 300
+      },
+      {
+        "sub_cat_id": "127",
+        "sub_cat_name": "सार्वजनिक प्रशासन र व्यवस्थापन",
+        "question_count": 400
+      },
+      {
+        "sub_cat_id": "128",
+        "sub_cat_name": "शासकीय प्रबन्ध",
         "question_count": 300
       }
     ]
