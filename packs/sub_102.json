@@ -1,6 +1,6 @@
 {
   "sub_cat_id": "102",
-  "data_version": 1794412402725,
+  "data_version": 1794491195766,
   "total_questions": 97,
   "questions": [
     {
@@ -43,7 +43,7 @@
       "option_b": "जल",
       "option_c": "हावा",
       "option_d": "माटो",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पानी' लाई 'जल', 'नीर', 'वारि' पनि भनिन्छ।",
       "is_pro": false
     },
@@ -65,7 +65,7 @@
       "option_b": "लेखन",
       "option_c": "लेखिका",
       "option_d": "लेखकी",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "लेखकको स्त्रीलिङ्गी रूप लेखिका हुन्छ।",
       "is_pro": false
     },
@@ -87,7 +87,7 @@
       "option_b": "हजुरआमा",
       "option_c": "दिदी",
       "option_d": "काका",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "भाले जाति बुझाउने शब्द 'काका' पुल्लिङ्गी हो।",
       "is_pro": false
     },
@@ -131,7 +131,7 @@
       "option_b": "रात",
       "option_c": "बिहान",
       "option_d": "साँझ",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "दिन' (Day) को उल्टो अर्थ 'रात' (Night) हुन्छ।",
       "is_pro": false
     },
@@ -153,7 +153,7 @@
       "option_b": "४",
       "option_c": "२",
       "option_d": "५",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपाली भाषामा वचन दुई प्रकारका हुन्छन्: एकवचन र बहुवचन।",
       "is_pro": false
     },
@@ -175,7 +175,7 @@
       "option_b": "पानी",
       "option_c": "हावा",
       "option_d": "तातो",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "चिसो (Cold) को ठीक उल्टो अर्थ तातो (Hot) हुन्छ।",
       "is_pro": false
     },
@@ -219,7 +219,7 @@
       "option_b": "भाइका",
       "option_c": "भाइहरू",
       "option_d": "भाइले",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "भाइ शब्दमा 'हरू' जोडेर बहुवचन बन्छ।",
       "is_pro": false
     },
@@ -241,7 +241,7 @@
       "option_b": "का",
       "option_c": "ले",
       "option_d": "हरू",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नेपालीमा बहुवचन बनाउँदा प्रायः 'हरू' (दीर्घ रू) प्रत्यय लगाइन्छ।",
       "is_pro": false
     },
@@ -285,7 +285,7 @@
       "option_b": "ती",
       "option_c": "तिनी",
       "option_d": "यी",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "त्यो' एकवचन हो र यसको बहुवचन 'ती' वा 'तिनीहरू' हुन्छ। यहाँ 'ती' सही छ।",
       "is_pro": false
     },
@@ -307,7 +307,7 @@
       "option_b": "कु",
       "option_c": "अ",
       "option_d": "सु",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सत्य' मा 'अ' उपसर्ग जोड्दा 'असत्य' (झुटो) बन्छ, जुन उल्टो अर्थ हो।",
       "is_pro": false
     },
@@ -329,7 +329,7 @@
       "option_b": "ड्यास दिएर",
       "option_c": "कोष्ठकमा",
       "option_d": "जोडेर",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नेपाली व्याकरण अनुसार नामयोगी (जस्तै: मा, तिर, सँग) सधैँ शब्दसँग जोडेर लेखिन्छ।",
       "is_pro": false
     },
@@ -373,7 +373,7 @@
       "option_b": "द्वितीय पुरुष",
       "option_c": "तृतीय पुरुष",
       "option_d": "चतुर्थ पुरुष",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "जससँग कुरा गरिँदैछ (सुन्ने व्यक्ति), त्यो द्वितीय पुरुष हो।",
       "is_pro": false
     },
@@ -395,7 +395,7 @@
       "option_b": "कुरुप",
       "option_c": "राम्रो",
       "option_d": "फोहोर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सुन्दर र राम्रो दुवैले एउटै अर्थ (Beautiful) दिन्छन्।",
       "is_pro": false
     },
@@ -417,7 +417,7 @@
       "option_b": "राम",
       "option_c": "पोखरा",
       "option_d": "माया",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "देख्न र छुन नसकिने तर अनुभव गर्न सकिने नामलाई भाववाचक नाम भनिन्छ, जस्तै: माया।",
       "is_pro": false
     },
@@ -461,7 +461,7 @@
       "option_b": "दुःख",
       "option_c": "हाँसो",
       "option_d": "शान्ति",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सुख' (Happiness) को ठीक उल्टो अर्थ 'दुःख' (Sadness) हुन्छ।",
       "is_pro": false
     },
@@ -483,7 +483,7 @@
       "option_b": "परीक्ष्या",
       "option_c": "परीक्षा",
       "option_d": "परिक्ष्या",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "परीक्षा शब्दमा 'री' दीर्घ हुन्छ र 'क्ष' को प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -505,7 +505,7 @@
       "option_b": "सफा",
       "option_c": "राम्रो",
       "option_d": "पुरानो",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नयाँ' (New) को उल्टो 'पुरानो' (Old) हुन्छ।",
       "is_pro": false
     },
@@ -549,7 +549,7 @@
       "option_b": "पाँच",
       "option_c": "मीठो",
       "option_d": "गरिब",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "संख्या बुझाउने विशेषणलाई संख्यावाचक विशेषण भनिन्छ, जस्तै: पाँच।",
       "is_pro": false
     },
@@ -571,7 +571,7 @@
       "option_b": "यिनी",
       "option_c": "यी",
       "option_d": "ती",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यो' को बहुवचन रूप 'यी' हुन्छ।",
       "is_pro": false
     },
@@ -593,7 +593,7 @@
       "option_b": "खानु",
       "option_c": "नुहाउनु",
       "option_d": "गुमाउनु",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "टुक्काको रूपमा 'हात धुनु' को अर्थ कुनै कुरा गुमाउनु वा वञ्चित हुनु हो।",
       "is_pro": false
     },
@@ -637,7 +637,7 @@
       "option_b": "अज्ञान",
       "option_c": "पहिचान",
       "option_d": "सम्मान",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "ज्ञान (Knowledge) को उल्टो अर्थ अज्ञान (Ignorance) हुन्छ।",
       "is_pro": false
     },
@@ -659,7 +659,7 @@
       "option_b": "संयोजक",
       "option_c": "नामयोगी",
       "option_d": "विस्मयादिबोधक",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नाम वा सर्वनामको पछाडि जोडिएर आउने शब्द नामयोगी हो।",
       "is_pro": false
     },
@@ -681,7 +681,7 @@
       "option_b": "पुण्य",
       "option_c": "कर्म",
       "option_d": "अधर्म",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "धर्म को उल्टो अर्थ अधर्म हुन्छ (पुण्यको उल्टो पाप हुन्छ)।",
       "is_pro": false
     },
@@ -725,7 +725,7 @@
       "option_b": "इज्जत फाल्नु",
       "option_c": "घाइते हुनु",
       "option_d": "रगत आउनु",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आफ्नो वा परिवारको बेइज्जती गर्नुलाई 'नाक काट्नु' भनिन्छ।",
       "is_pro": false
     },
@@ -747,7 +747,7 @@
       "option_b": "उनीहरू",
       "option_c": "हामी",
       "option_d": "महरू",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्रथम पुरुष एकवचन 'म' को बहुवचन 'हामी' हुन्छ।",
       "is_pro": false
     },
@@ -769,7 +769,7 @@
       "option_b": "१३",
       "option_c": "३३",
       "option_d": "३६",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नेपाली भाषामा 'क' देखि 'ज्ञ' सम्म ३६ वटा व्यञ्जन वर्णहरू छन्। (कतिपय व्याकरणमा ३३ पनि मानिन्छ, तर प्राथमिक तहमा ३६ पढाइन्छ)",
       "is_pro": false
     },
@@ -813,7 +813,7 @@
       "option_b": "प्रथम पुरुष",
       "option_c": "तृतीय पुरुष",
       "option_d": "कुनै पनि होइन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आफू वा बोल्ने व्यक्ति(हरू) बुझाउने सर्वनाम (म, हामी) प्रथम पुरुष हुन्।",
       "is_pro": false
     },
@@ -835,7 +835,7 @@
       "option_b": "प्रश्नवाचक वाक्य",
       "option_c": "अकरण वाक्य",
       "option_d": "आज्ञार्थक वाक्य",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "होइन, छैन, खान्नँ जस्ता नकारात्मक अर्थ दिने वाक्य अकरण (Negative) वाक्य हुन्।",
       "is_pro": false
     },
@@ -857,7 +857,7 @@
       "option_b": "खोला",
       "option_c": "जंगल",
       "option_d": "मार्ग",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बाटोलाई मार्ग, पथ वा सडक पनि भनिन्छ।",
       "is_pro": false
     },
@@ -901,7 +901,7 @@
       "option_b": "गोरु",
       "option_c": "साँढे",
       "option_d": "भैँसी",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "गाई' स्त्रीलिङ्गी शब्द हो र यसको भाले (पुल्लिङ्गी) रूप 'गोरु' हुन्छ।",
       "is_pro": false
     },
@@ -923,7 +923,7 @@
       "option_b": "आज्ञार्थक वाक्य",
       "option_c": "इच्छार्थक वाक्य",
       "option_d": "नकारात्मक वाक्य",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आशीर्वाद, इच्छा वा प्रार्थना बुझाउने वाक्य इच्छार्थक वाक्य हो।",
       "is_pro": false
     },
@@ -945,7 +945,7 @@
       "option_b": "१२",
       "option_c": "३६",
       "option_d": "१३",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नेपाली भाषामा 'अ' देखि 'अः' सम्म १३ वटा स्वर वर्णहरू छन्।",
       "is_pro": false
     },
@@ -989,7 +989,7 @@
       "option_b": "रावणलाई",
       "option_c": "मार्यो",
       "option_d": "कुनै पनि होइन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कर्ताले गरेको कामको फल भोग्नेलाई कर्म भनिन्छ, यहाँ रावण कर्म हो।",
       "is_pro": false
     },
@@ -1011,7 +1011,7 @@
       "option_b": "राम्रो",
       "option_c": "पढ्छ",
       "option_d": "हामी",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पढ्छ' ले पढ्ने काम बुझाएकोले यो क्रियापद हो।",
       "is_pro": false
     },
@@ -1033,7 +1033,7 @@
       "option_b": "हजुरआमा",
       "option_c": "दिदी",
       "option_d": "जननी",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आमा' लाई 'जननी', 'माता' आदि पनि भनिन्छ।",
       "is_pro": false
     },
@@ -1077,7 +1077,7 @@
       "option_b": "भविष्यत्",
       "option_c": "भूत",
       "option_d": "पूर्ण वर्तमान",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "भोलि हुने काम बुझाएकोले यो भविष्यत् काल हो।",
       "is_pro": false
     },
@@ -1099,7 +1099,7 @@
       "option_b": "इच्छार्थक वाक्य",
       "option_c": "प्रश्नवाचक वाक्य",
       "option_d": "विस्मयादिबोधक वाक्य",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यस वाक्यमा प्रश्नवाचक चिह्न (?) छ र प्रश्न सोधिएको छ।",
       "is_pro": false
     },
@@ -1121,7 +1121,7 @@
       "option_b": "भात",
       "option_c": "माथिका कुनै पनि होइनन्",
       "option_d": "खान्छ",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "वाक्यको अन्त्यमा आएर काम बुझाउने र वाक्य पूरा गर्ने शब्द 'खान्छ' क्रियापद हो।",
       "is_pro": false
     },
@@ -1165,7 +1165,7 @@
       "option_b": "पर्यायवाची शब्द",
       "option_c": "अनेकार्थी शब्द",
       "option_d": "श्रुतिसमभिन्नार्थक शब्द",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "समान अर्थ दिने शब्दहरूलाई पर्यायवाची शब्द भनिन्छ।",
       "is_pro": false
     },
@@ -1187,7 +1187,7 @@
       "option_b": "रुवाउनु",
       "option_c": "रिसाउनु",
       "option_d": "सुत्नु",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आँखा तर्नु' भन्नाले कसैप्रति रिस वा क्रोध देखाउनु भन्ने बुझिन्छ।",
       "is_pro": false
     },
@@ -1209,7 +1209,7 @@
       "option_b": "हिमाल",
       "option_c": "सुन्दर",
       "option_d": "बथान",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "धेरै व्यक्ति वा वस्तुको समूह बुझाउने नाम समूहवाचक नाम हो, जस्तै: बथान।",
       "is_pro": false
     },
@@ -1231,7 +1231,7 @@
       "option_b": "कुकुर्नी",
       "option_c": "कुकुरनी",
       "option_d": "कुकुरहरू",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कुकुरको स्त्रीलिङ्गी रूप 'कुकुर्नी' हो।",
       "is_pro": false
     },
@@ -1253,7 +1253,7 @@
       "option_b": "पूर्ण वर्तमान",
       "option_c": "अपूर्ण वर्तमान",
       "option_d": "अपूर्ण भूत",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "काम वर्तमान समयमा निरन्तर भइरहेको (पूरा नभएको) बुझाउने हुनाले यो अपूर्ण वर्तमान हो।",
       "is_pro": false
     },
@@ -1275,7 +1275,7 @@
       "option_b": "अपूर्ण वर्तमान",
       "option_c": "सामान्य भूत",
       "option_d": "पूर्ण वर्तमान",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "काम वर्तमान समयमै पूरा भएको बुझाएकोले पूर्ण वर्तमान हो।",
       "is_pro": false
     },
@@ -1319,7 +1319,7 @@
       "option_b": "प्रगतिमा बाधा हाल्नु",
       "option_c": "मालिस गर्नु",
       "option_d": "लडाउनु",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अरूको प्रगति देख्न नसकेर बाधा पुर्‍याउने कामलाई 'खुट्टा तान्नु' भनिन्छ।",
       "is_pro": false
     },
@@ -1341,7 +1341,7 @@
       "option_b": "द्वितीय पुरुष",
       "option_c": "तृतीय पुरुष",
       "option_d": "कुनै पनि होइन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "जसको बारेमा कुरा गरिँदैछ, त्यो तृतीय पुरुष (ऊ, उनी, तिनी, उहाँ, उनीहरू) हो।",
       "is_pro": false
     },
@@ -1363,7 +1363,7 @@
       "option_b": "ज्ञानी",
       "option_c": "सुन्दर",
       "option_d": "खराब",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "असल (Good) को उल्टो अर्थ खराब (Bad) हुन्छ।",
       "is_pro": false
     },
@@ -1407,7 +1407,7 @@
       "option_b": "खानु",
       "option_c": "रुनु",
       "option_d": "हाँस्नु",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कर्मको अपेक्षा गर्ने क्रियालाई सकर्मक क्रिया भनिन्छ। 'खानु' ले 'के खानु?' भन्ने प्रश्नको उत्तर (कर्म) खोज्छ।",
       "is_pro": false
     },
@@ -1429,7 +1429,7 @@
       "option_b": "दुवै हुन्",
       "option_c": "ठूलो",
       "option_d": "कुनै पनि होइनन्",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यहाँ 'ठूलो' शब्दले घरको आकार (विशेषता) बुझाएकोले यो विशेषण हो।",
       "is_pro": false
     },
@@ -1451,7 +1451,7 @@
       "option_b": "केटि",
       "option_c": "बालिका",
       "option_d": "केटी",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "केटा' शब्दको विपरित लिङ्ग 'केटी' हुन्छ।",
       "is_pro": false
     },
@@ -1495,7 +1495,7 @@
       "option_b": "कालो",
       "option_c": "खानु",
       "option_d": "म",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कालो' ले रङ वा गुण बुझाउने भएकोले यो विशेषण हो।",
       "is_pro": false
     },
@@ -1517,7 +1517,7 @@
       "option_b": "निपात",
       "option_c": "विस्मयादिबोधक",
       "option_d": "संयोजक",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यसले खुसी वा आश्चर्यको भाव प्रकट गरेकोले विस्मयादिबोधक अव्यय हो।",
       "is_pro": false
     },
@@ -1539,7 +1539,7 @@
       "option_b": "भविष्यत्",
       "option_c": "अपूर्ण",
       "option_d": "भूत",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "खाएँ ले काम भइसकेको समय (भूत काल) बुझाउँछ।",
       "is_pro": false
     },
@@ -1583,7 +1583,7 @@
       "option_b": "स्कुल",
       "option_c": "इस्कुल",
       "option_d": "स्कूल्",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नेपालीमा आगन्तुक शब्दलाई सामान्यतया ह्रस्व इकार/उकार दिएर 'स्कुल' लेखिन्छ।",
       "is_pro": false
     },
@@ -1605,7 +1605,7 @@
       "option_b": "बाघी",
       "option_c": "बघिनी",
       "option_d": "बाघन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "बाघ' पुल्लिङ्गी शब्द हो र यसको स्त्रीलिङ्गी रूप 'बघिनी' हुन्छ।",
       "is_pro": false
     },
@@ -1627,7 +1627,7 @@
       "option_b": "राजधानी",
       "option_c": "नेपालको",
       "option_d": "काठमाडौँ",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "यहाँ 'काठमाडौँ' एउटा ठाउँको नाम भएकोले नाम शब्द हो। (यद्यपि नेपाल पनि नाम हो, तर विकल्पमा काठमाडौँ मुख्य छ)",
       "is_pro": false
     },
@@ -1671,7 +1671,7 @@
       "option_b": "भविष्यत् काल",
       "option_c": "वर्तमान काल",
       "option_d": "अपूर्ण काल",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "काम आउने समयमा हुने कुरा बुझाएकोले यो भविष्यत् काल हो।",
       "is_pro": false
     },
@@ -1693,7 +1693,7 @@
       "option_b": "सानो",
       "option_c": "टेढो",
       "option_d": "ठूलो",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सही उखान 'नाच्न जान्दैन आँगन टेढो' हो, जसको अर्थ काम गर्न नजान्नेले बहाना बनाउँछ भन्ने हुन्छ।",
       "is_pro": false
     },
@@ -1715,7 +1715,7 @@
       "option_b": "किताबका",
       "option_c": "किताबहरुले",
       "option_d": "किताबहरू",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एकवचन शब्दमा 'हरू' जोडेर बहुवचन बनाइन्छ, त्यसैले 'किताबहरू' सही हो।",
       "is_pro": false
     },
@@ -1759,7 +1759,7 @@
       "option_b": "र",
       "option_c": "तिर",
       "option_d": "ओहो",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "र' ले दुई शब्द वा वाक्य जोड्ने काम गर्छ।",
       "is_pro": false
     },
@@ -1781,7 +1781,7 @@
       "option_b": "आकाश",
       "option_c": "सूर्य",
       "option_d": "बादल",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "घाम' र 'सूर्य' ले एउटै अर्थ (Sun) दिन्छन्।",
       "is_pro": false
     },
@@ -1803,7 +1803,7 @@
       "option_b": "श्लोक",
       "option_c": "कविता",
       "option_d": "टुक्का",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "विशिष्ट अर्थ दिने र धातु वा क्रियापदमा अन्त्य हुने पदावली टुक्का हो।",
       "is_pro": false
     },
@@ -1847,7 +1847,7 @@
       "option_b": "हामी",
       "option_c": "स्याउ",
       "option_d": "गयो",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हामी' व्यक्ति वा व्यक्तिहरूको समूहको नामको सट्टामा प्रयोग हुने भएकोले सर्वनाम हो।",
       "is_pro": false
     },
@@ -1869,7 +1869,7 @@
       "option_b": "सर्वनाम",
       "option_c": "विशेषण",
       "option_d": "नाम",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नाम वा सर्वनामको गुण, दोष, संख्या, वा मात्रा बुझाउने शब्दलाई विशेषण भनिन्छ।",
       "is_pro": false
     },
@@ -1891,7 +1891,7 @@
       "option_b": "भविष्यत् काल",
       "option_c": "कुनै पनि होइन",
       "option_d": "भूत काल",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "काम पहिले नै सम्पन्न भइसकेको बुझाउने भएकोले यो भूत काल हो।",
       "is_pro": false
     },
@@ -1935,7 +1935,7 @@
       "option_b": "सर्वनाम",
       "option_c": "नाम",
       "option_d": "क्रियापद",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नाम दोहोरिन नदिन नामको सट्टामा प्रयोग हुने शब्दलाई सर्वनाम भनिन्छ।",
       "is_pro": false
     },
@@ -1957,7 +1957,7 @@
       "option_b": "विध्यार्थी",
       "option_c": "विद्यार्थी",
       "option_d": "विद्धार्थी",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "विद्यार्थी' शब्दको सही हिज्जे यही हो।",
       "is_pro": false
     },
@@ -1979,7 +1979,7 @@
       "option_b": "काँडा",
       "option_c": "जरा",
       "option_d": "पुष्प",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "फूललाई संस्कृत र नेपालीमा पुष्प पनि भनिन्छ।",
       "is_pro": false
     },
@@ -2023,7 +2023,7 @@
       "option_b": "शत्रु",
       "option_c": "सँगी",
       "option_d": "भाइ",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "मित्र (Friend) को उल्टो अर्थ शत्रु (Enemy) हुन्छ।",
       "is_pro": false
     },
@@ -2045,7 +2045,7 @@
       "option_b": "धेरै",
       "option_c": "इमानदार",
       "option_d": "दुई",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नाम वा सर्वनामको गुण बुझाउने शब्द गुणवाचक विशेषण हो, जस्तै: इमानदार।",
       "is_pro": false
     },
@@ -2067,7 +2067,7 @@
       "option_b": "नम्सकार",
       "option_c": "नमसकर",
       "option_d": "नमस्कार",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "अभिवादन गर्ने सही शब्द 'नमस्कार' हो।",
       "is_pro": false
     },
@@ -2111,7 +2111,7 @@
       "option_b": "अग्नि",
       "option_c": "हावा",
       "option_d": "माटो",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आगोलाई अग्नि, पावक पनि भनिन्छ।",
       "is_pro": false
     },
@@ -2133,7 +2133,7 @@
       "option_b": "इच्छार्थक वाक्य",
       "option_c": "सामान्य वाक्य",
       "option_d": "आज्ञार्थक वाक्य",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आदेश वा आज्ञा दिइएको वाक्य आज्ञार्थक वाक्य हो।",
       "is_pro": false
     }
