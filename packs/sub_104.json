@@ -1,6 +1,6 @@
 {
   "sub_cat_id": "104",
-  "data_version": 1794412402725,
+  "data_version": 1794491195766,
   "total_questions": 100,
   "questions": [
     {
@@ -43,7 +43,7 @@
       "option_b": "७",
       "option_c": "-३",
       "option_d": "२",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "क्रय मूल्य = विक्रय मूल्य - नाफा = ५२ - ४५ = ७ हुन्छ।",
       "is_pro": false
     },
@@ -65,7 +65,7 @@
       "option_b": "१६२",
       "option_c": "१४४",
       "option_d": "१५२",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "जम्मा मूल्य = एउटाको मूल्य x सङ्ख्या = १८ x ८ = १४४ हुन्छ।",
       "is_pro": false
     },
@@ -87,7 +87,7 @@
       "option_b": "२५",
       "option_c": "२२",
       "option_d": "२३",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एक जनाले पाउने सुन्तला = जम्मा सुन्तला ÷ विद्यार्थी सङ्ख्या = ११५ ÷ ५ = २३ वटा हुन्छ।",
       "is_pro": false
     },
@@ -131,7 +131,7 @@
       "option_b": "७२",
       "option_c": "७४",
       "option_d": "३६",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (२२ + १४) = ७२ से.मि. हुन्छ।",
       "is_pro": false
     },
@@ -153,7 +153,7 @@
       "option_b": "२/७",
       "option_c": "३/७",
       "option_d": "४/७",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हर समान भएकोले अंशहरू जोड्दा: (१ + २) / ७ = ३/७ हुन्छ। (यहाँ अंश ३ हो)",
       "is_pro": false
     },
@@ -175,7 +175,7 @@
       "option_b": "९१",
       "option_c": "८४",
       "option_d": "९८",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "४ वटाको मूल्य = रु. ५६। १ वटाको मूल्य = ५६ ÷ ४ = रु. १४। त्यसैले ७ वटाको मूल्य = १४ x ७ = रु. ९८।",
       "is_pro": false
     },
@@ -219,7 +219,7 @@
       "option_b": "१४०",
       "option_c": "१३०",
       "option_d": "१२०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (५०० x ४ x ७) / १०० = रु. १४०।",
       "is_pro": false
     },
@@ -241,7 +241,7 @@
       "option_b": "१४९",
       "option_c": "१४८",
       "option_d": "१५८",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "७१ र ७७ को योगफल ७१ + ७७ = १४८ हुन्छ।",
       "is_pro": false
     },
@@ -263,7 +263,7 @@
       "option_b": "७४",
       "option_c": "७९",
       "option_d": "६९",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "क्रय मूल्य = विक्रय मूल्य - नाफा = ९९ - ३० = ६९ हुन्छ।",
       "is_pro": false
     },
@@ -307,7 +307,7 @@
       "option_b": "१२",
       "option_c": "१३",
       "option_d": "१०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "एक जनाले पाउने सुन्तला = जम्मा सुन्तला ÷ विद्यार्थी सङ्ख्या = ७२ ÷ ६ = १२ वटा हुन्छ।",
       "is_pro": false
     },
@@ -329,7 +329,7 @@
       "option_b": "११८",
       "option_c": "१२८",
       "option_d": "१३८",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आयतको क्षेत्रफल = लम्बाइ x चौडाइ = १६ x ८ = १२८ वर्ग मिटर हुन्छ।",
       "is_pro": false
     },
@@ -351,7 +351,7 @@
       "option_b": "३३६",
       "option_c": "४०",
       "option_d": "८०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (२८ + १२) = ८० से.मि. हुन्छ।",
       "is_pro": false
     },
@@ -395,7 +395,7 @@
       "option_b": "९६",
       "option_c": "१०८",
       "option_d": "८८",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "५ वटाको मूल्य = रु. ६०। १ वटाको मूल्य = ६० ÷ ५ = रु. १२। त्यसैले ८ वटाको मूल्य = १२ x ८ = रु. ९६।",
       "is_pro": false
     },
@@ -417,7 +417,7 @@
       "option_b": "१२",
       "option_c": "६",
       "option_d": "८",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "२ र ३ को कुनै साझा गुणनखण्ड नभएकोले, ल.स. = २ x ३ = ६ हुन्छ।",
       "is_pro": false
     },
@@ -439,7 +439,7 @@
       "option_b": "२५",
       "option_c": "५५",
       "option_d": "४५",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (३०० x ३ x ५) / १०० = रु. ४५।",
       "is_pro": false
     },
@@ -483,7 +483,7 @@
       "option_b": "७५",
       "option_c": "७०",
       "option_d": "८०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "क्रय मूल्य = विक्रय मूल्य - नाफा = ९४ - १९ = ७५ हुन्छ।",
       "is_pro": false
     },
@@ -505,7 +505,7 @@
       "option_b": "१२०",
       "option_c": "१००",
       "option_d": "८०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "जम्मा मूल्य = एउटाको मूल्य x सङ्ख्या = २० x ५ = १०० हुन्छ।",
       "is_pro": false
     },
@@ -527,7 +527,7 @@
       "option_b": "१९",
       "option_c": "१५",
       "option_d": "१७",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एक जनाले पाउने सुन्तला = जम्मा सुन्तला ÷ विद्यार्थी सङ्ख्या = १५३ ÷ ९ = १७ वटा हुन्छ।",
       "is_pro": false
     },
@@ -571,7 +571,7 @@
       "option_b": "५२",
       "option_c": "१६०",
       "option_d": "५४",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१६ + १०) = ५२ से.मि. हुन्छ।",
       "is_pro": false
     },
@@ -593,7 +593,7 @@
       "option_b": "८/९",
       "option_c": "४/९",
       "option_d": "६/९",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हर समान भएकोले अंशहरू जोड्दा: (३ + १) / ९ = ४/९ हुन्छ। (यहाँ अंश ४ हो)",
       "is_pro": false
     },
@@ -615,7 +615,7 @@
       "option_b": "७७",
       "option_c": "७२",
       "option_d": "८४",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "८ वटाको मूल्य = रु. ९६। १ वटाको मूल्य = ९६ ÷ ८ = रु. १२। त्यसैले ७ वटाको मूल्य = १२ x ७ = रु. ८४।",
       "is_pro": false
     },
@@ -659,7 +659,7 @@
       "option_b": "७०",
       "option_c": "९०",
       "option_d": "८०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (५०० x २ x ७) / १०० = रु. ७०।",
       "is_pro": false
     },
@@ -681,7 +681,7 @@
       "option_b": "१२२",
       "option_c": "१२३",
       "option_d": "१३३",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "४५ र ७८ को योगफल ४५ + ७८ = १२३ हुन्छ।",
       "is_pro": false
     },
@@ -703,7 +703,7 @@
       "option_b": "५०",
       "option_c": "४५",
       "option_d": "४०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "क्रय मूल्य = विक्रय मूल्य - नाफा = ५७ - १७ = ४० हुन्छ।",
       "is_pro": false
     },
@@ -747,7 +747,7 @@
       "option_b": "२४",
       "option_c": "२६",
       "option_d": "२२",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "एक जनाले पाउने सुन्तला = जम्मा सुन्तला ÷ विद्यार्थी सङ्ख्या = २४० ÷ १० = २४ वटा हुन्छ।",
       "is_pro": false
     },
@@ -769,7 +769,7 @@
       "option_b": "२७",
       "option_c": "७०",
       "option_d": "३४",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आयतको क्षेत्रफल = लम्बाइ x चौडाइ = १० x ७ = ७० वर्ग मिटर हुन्छ।",
       "is_pro": false
     },
@@ -791,7 +791,7 @@
       "option_b": "८४",
       "option_c": "४१",
       "option_d": "८२",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (३० + ११) = ८२ से.मि. हुन्छ।",
       "is_pro": false
     },
@@ -835,7 +835,7 @@
       "option_b": "७२",
       "option_c": "७८",
       "option_d": "६६",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "७ वटाको मूल्य = रु. ८४। १ वटाको मूल्य = ८४ ÷ ७ = रु. १२। त्यसैले ६ वटाको मूल्य = १२ x ६ = रु. ७२।",
       "is_pro": false
     },
@@ -857,7 +857,7 @@
       "option_b": "१२",
       "option_c": "१०",
       "option_d": "२०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "२ र ५ को कुनै साझा गुणनखण्ड नभएकोले, ल.स. = २ x ५ = १० हुन्छ।",
       "is_pro": false
     },
@@ -879,7 +879,7 @@
       "option_b": "१३०",
       "option_c": "१४०",
       "option_d": "१२०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (५०० x ४ x ६) / १०० = रु. १२०।",
       "is_pro": false
     },
@@ -923,7 +923,7 @@
       "option_b": "३०",
       "option_c": "४०",
       "option_d": "२०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "क्रय मूल्य = विक्रय मूल्य - नाफा = ७७ - ४७ = ३० हुन्छ।",
       "is_pro": false
     },
@@ -945,7 +945,7 @@
       "option_b": "९०",
       "option_c": "१०८",
       "option_d": "१०२",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "जम्मा मूल्य = एउटाको मूल्य x सङ्ख्या = १८ x ६ = १०८ हुन्छ।",
       "is_pro": false
     },
@@ -967,7 +967,7 @@
       "option_b": "१५",
       "option_c": "१६",
       "option_d": "१४",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एक जनाले पाउने सुन्तला = जम्मा सुन्तला ÷ विद्यार्थी सङ्ख्या = ९८ ÷ ७ = १४ वटा हुन्छ।",
       "is_pro": false
     },
@@ -1011,7 +1011,7 @@
       "option_b": "७४",
       "option_c": "७२",
       "option_d": "३००",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (२५ + १२) = ७४ से.मि. हुन्छ।",
       "is_pro": false
     },
@@ -1033,7 +1033,7 @@
       "option_b": "६/७",
       "option_c": "४/७",
       "option_d": "५/७",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हर समान भएकोले अंशहरू जोड्दा: (३ + १) / ७ = ४/७ हुन्छ। (यहाँ अंश ४ हो)",
       "is_pro": false
     },
@@ -1055,7 +1055,7 @@
       "option_b": "११२",
       "option_c": "१०५",
       "option_d": "१२०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "४ वटाको मूल्य = रु. ६०। १ वटाको मूल्य = ६० ÷ ४ = रु. १५। त्यसैले ८ वटाको मूल्य = १५ x ८ = रु. १२०।",
       "is_pro": false
     },
@@ -1099,7 +1099,7 @@
       "option_b": "६०",
       "option_c": "५०",
       "option_d": "४०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (२०० x ३ x १०) / १०० = रु. ६०।",
       "is_pro": false
     },
@@ -1121,7 +1121,7 @@
       "option_b": "११५",
       "option_c": "१०५",
       "option_d": "१०४",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "६८ र ३७ को योगफल ६८ + ३७ = १०५ हुन्छ।",
       "is_pro": false
     },
@@ -1143,7 +1143,7 @@
       "option_b": "२७",
       "option_c": "३२",
       "option_d": "३७",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "क्रय मूल्य = विक्रय मूल्य - नाफा = ५० - १३ = ३७ हुन्छ।",
       "is_pro": false
     },
@@ -1187,7 +1187,7 @@
       "option_b": "२५",
       "option_c": "२४",
       "option_d": "२३",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "एक जनाले पाउने सुन्तला = जम्मा सुन्तला ÷ विद्यार्थी सङ्ख्या = २५० ÷ १० = २५ वटा हुन्छ।",
       "is_pro": false
     },
@@ -1209,7 +1209,7 @@
       "option_b": "८०",
       "option_c": "९०",
       "option_d": "२९",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आयतको क्षेत्रफल = लम्बाइ x चौडाइ = १० x ९ = ९० वर्ग मिटर हुन्छ।",
       "is_pro": false
     },
@@ -1231,7 +1231,7 @@
       "option_b": "८४",
       "option_c": "४१",
       "option_d": "८२",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (२९ + १२) = ८२ से.मि. हुन्छ।",
       "is_pro": false
     },
@@ -1275,7 +1275,7 @@
       "option_b": "१४०",
       "option_c": "१२०",
       "option_d": "१३३",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "५ वटाको मूल्य = रु. १००। १ वटाको मूल्य = १०० ÷ ५ = रु. २०। त्यसैले ७ वटाको मूल्य = २० x ७ = रु. १४०।",
       "is_pro": false
     },
@@ -1297,7 +1297,7 @@
       "option_b": "१२",
       "option_c": "१०",
       "option_d": "२०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "२ र ५ को कुनै साझा गुणनखण्ड नभएकोले, ल.स. = २ x ५ = १० हुन्छ।",
       "is_pro": false
     },
@@ -1319,7 +1319,7 @@
       "option_b": "१६०",
       "option_c": "१३०",
       "option_d": "१४०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (५०० x ४ x ७) / १०० = रु. १४०।",
       "is_pro": false
     },
@@ -1363,7 +1363,7 @@
       "option_b": "३०",
       "option_c": "४०",
       "option_d": "२०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "क्रय मूल्य = विक्रय मूल्य - नाफा = ५६ - २६ = ३० हुन्छ।",
       "is_pro": false
     },
@@ -1385,7 +1385,7 @@
       "option_b": "८४",
       "option_c": "९१",
       "option_d": "९८",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "जम्मा मूल्य = एउटाको मूल्य x सङ्ख्या = १३ x ७ = ९१ हुन्छ।",
       "is_pro": false
     },
@@ -1407,7 +1407,7 @@
       "option_b": "१८",
       "option_c": "२०",
       "option_d": "१९",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एक जनाले पाउने सुन्तला = जम्मा सुन्तला ÷ विद्यार्थी सङ्ख्या = १५२ ÷ ८ = १९ वटा हुन्छ।",
       "is_pro": false
     },
@@ -1451,7 +1451,7 @@
       "option_b": "७२",
       "option_c": "७४",
       "option_d": "३६",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (२६ + १०) = ७२ से.मि. हुन्छ।",
       "is_pro": false
     },
@@ -1473,7 +1473,7 @@
       "option_b": "१०/६",
       "option_c": "५/६",
       "option_d": "४/६",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हर समान भएकोले अंशहरू जोड्दा: (१ + ४) / ६ = ५/६ हुन्छ। (यहाँ अंश ५ हो)",
       "is_pro": false
     },
@@ -1495,7 +1495,7 @@
       "option_b": "७०",
       "option_c": "५०",
       "option_d": "६०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "७ वटाको मूल्य = रु. ७०। १ वटाको मूल्य = ७० ÷ ७ = रु. १०। त्यसैले ६ वटाको मूल्य = १० x ६ = रु. ६०।",
       "is_pro": false
     },
@@ -1539,7 +1539,7 @@
       "option_b": "३०",
       "option_c": "४०",
       "option_d": "२०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (२०० x ३ x ५) / १०० = रु. ३०।",
       "is_pro": false
     },
@@ -1561,7 +1561,7 @@
       "option_b": "१५२",
       "option_c": "१४२",
       "option_d": "१४१",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "४८ र ९४ को योगफल ४८ + ९४ = १४२ हुन्छ।",
       "is_pro": false
     },
@@ -1583,7 +1583,7 @@
       "option_b": "४६",
       "option_c": "४१",
       "option_d": "५१",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "क्रय मूल्य = विक्रय मूल्य - नाफा = ८४ - ३३ = ५१ हुन्छ।",
       "is_pro": false
     },
@@ -1627,7 +1627,7 @@
       "option_b": "१४",
       "option_c": "१६",
       "option_d": "१३",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "एक जनाले पाउने सुन्तला = जम्मा सुन्तला ÷ विद्यार्थी सङ्ख्या = ८४ ÷ ६ = १४ वटा हुन्छ।",
       "is_pro": false
     },
@@ -1649,7 +1649,7 @@
       "option_b": "७०",
       "option_c": "६०",
       "option_d": "३४",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आयतको क्षेत्रफल = लम्बाइ x चौडाइ = १२ x ५ = ६० वर्ग मिटर हुन्छ।",
       "is_pro": false
     },
@@ -1671,7 +1671,7 @@
       "option_b": "५२",
       "option_c": "२७",
       "option_d": "५४",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१५ + १२) = ५४ से.मि. हुन्छ।",
       "is_pro": false
     },
@@ -1715,7 +1715,7 @@
       "option_b": "९८",
       "option_c": "८४",
       "option_d": "११२",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "३ वटाको मूल्य = रु. ४२। १ वटाको मूल्य = ४२ ÷ ३ = रु. १४। त्यसैले ७ वटाको मूल्य = १४ x ७ = रु. ९८।",
       "is_pro": false
     },
@@ -1737,7 +1737,7 @@
       "option_b": "४०",
       "option_c": "२०",
       "option_d": "२४",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "४ र ५ को कुनै साझा गुणनखण्ड नभएकोले, ल.स. = ४ x ५ = २० हुन्छ।",
       "is_pro": false
     },
@@ -1759,7 +1759,7 @@
       "option_b": "७४",
       "option_c": "४४",
       "option_d": "६४",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (४०० x २ x ८) / १०० = रु. ६४।",
       "is_pro": false
     },
@@ -1803,7 +1803,7 @@
       "option_b": "४३",
       "option_c": "५३",
       "option_d": "३३",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "क्रय मूल्य = विक्रय मूल्य - नाफा = ६० - १७ = ४३ हुन्छ।",
       "is_pro": false
     },
@@ -1825,7 +1825,7 @@
       "option_b": "१२०",
       "option_c": "१०८",
       "option_d": "९६",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "जम्मा मूल्य = एउटाको मूल्य x सङ्ख्या = १२ x ९ = १०८ हुन्छ।",
       "is_pro": false
     },
@@ -1847,7 +1847,7 @@
       "option_b": "१४",
       "option_c": "१३",
       "option_d": "१२",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एक जनाले पाउने सुन्तला = जम्मा सुन्तला ÷ विद्यार्थी सङ्ख्या = ९६ ÷ ८ = १२ वटा हुन्छ।",
       "is_pro": false
     },
@@ -1891,7 +1891,7 @@
       "option_b": "६४",
       "option_c": "३२",
       "option_d": "२४०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (२० + १२) = ६४ से.मि. हुन्छ।",
       "is_pro": false
     },
@@ -1913,7 +1913,7 @@
       "option_b": "१६/७",
       "option_c": "८/७",
       "option_d": "७/७",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हर समान भएकोले अंशहरू जोड्दा: (४ + ४) / ७ = ८/७ हुन्छ। (यहाँ अंश ८ हो)",
       "is_pro": false
     },
@@ -1935,7 +1935,7 @@
       "option_b": "८४",
       "option_c": "७८",
       "option_d": "९१",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "७ वटाको मूल्य = रु. ९१। १ वटाको मूल्य = ९१ ÷ ७ = रु. १३। त्यसैले ७ वटाको मूल्य = १३ x ७ = रु. ९१।",
       "is_pro": false
     },
@@ -1979,7 +1979,7 @@
       "option_b": "१०५",
       "option_c": "११५",
       "option_d": "९५",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (३०० x ५ x ७) / १०० = रु. १०५।",
       "is_pro": false
     },
@@ -2001,7 +2001,7 @@
       "option_b": "१३४",
       "option_c": "१४४",
       "option_d": "१५४",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "८६ र ५८ को योगफल ८६ + ५८ = १४४ हुन्छ।",
       "is_pro": false
     },
@@ -2023,7 +2023,7 @@
       "option_b": "८६",
       "option_c": "८१",
       "option_d": "७६",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "क्रय मूल्य = विक्रय मूल्य - नाफा = ९४ - १८ = ७६ हुन्छ।",
       "is_pro": false
     },
@@ -2067,7 +2067,7 @@
       "option_b": "१५",
       "option_c": "१७",
       "option_d": "१६",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "एक जनाले पाउने सुन्तला = जम्मा सुन्तला ÷ विद्यार्थी सङ्ख्या = १५० ÷ १० = १५ वटा हुन्छ।",
       "is_pro": false
     },
@@ -2089,7 +2089,7 @@
       "option_b": "११८",
       "option_c": "१०८",
       "option_d": "९८",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आयतको क्षेत्रफल = लम्बाइ x चौडाइ = १२ x ९ = १०८ वर्ग मिटर हुन्छ।",
       "is_pro": false
     },
@@ -2111,7 +2111,7 @@
       "option_b": "६८",
       "option_c": "२८६",
       "option_d": "७०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (२२ + १३) = ७० से.मि. हुन्छ।",
       "is_pro": false
     },
@@ -2155,7 +2155,7 @@
       "option_b": "१६२",
       "option_c": "१८०",
       "option_d": "१५३",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "५ वटाको मूल्य = रु. ९०। १ वटाको मूल्य = ९० ÷ ५ = रु. १८। त्यसैले ९ वटाको मूल्य = १८ x ९ = रु. १६२।",
       "is_pro": false
     },
@@ -2177,7 +2177,7 @@
       "option_b": "१२",
       "option_c": "६",
       "option_d": "८",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "२ र ३ को कुनै साझा गुणनखण्ड नभएकोले, ल.स. = २ x ३ = ६ हुन्छ।",
       "is_pro": false
     },
@@ -2199,7 +2199,7 @@
       "option_b": "१६०",
       "option_c": "१३०",
       "option_d": "१५०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (५०० x ३ x १०) / १०० = रु. १५०।",
       "is_pro": false
     }
