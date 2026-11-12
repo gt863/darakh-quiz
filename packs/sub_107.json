@@ -1,6 +1,6 @@
 {
   "sub_cat_id": "107",
-  "data_version": 1794412402725,
+  "data_version": 1794491195766,
   "total_questions": 50,
   "questions": [
     {
@@ -43,7 +43,7 @@
       "option_b": "Boys",
       "option_c": "Boies",
       "option_d": "Boy",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सामान्यतया व्यञ्जन वर्णभन्दा अगाडि स्वर वर्ण (Vowel) भएको 'y' बाट अन्त्य हुने शब्दमा 's' थपेर बहुवचन बनाइन्छ, त्यसैले 'Boys' सही हो।",
       "is_pro": false
     },
@@ -65,7 +65,7 @@
       "option_b": "Adverb",
       "option_c": "Pronoun",
       "option_d": "Adjective",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नाम (Noun) दोहोरिन नदिन त्यसको सट्टामा प्रयोग हुने शब्दलाई सर्वनाम (Pronoun) भनिन्छ, जस्तै: He, She, It।",
       "is_pro": false
     },
@@ -87,7 +87,7 @@
       "option_b": "Ugly",
       "option_c": "Handsome",
       "option_d": "Attractive",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Beautiful' (सुन्दर) को उल्टो अर्थ दिने शब्द 'Ugly' (कुरुप) हो।",
       "is_pro": false
     },
@@ -109,7 +109,7 @@
       "option_b": "Verb",
       "option_c": "Noun",
       "option_d": "Preposition",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कुनै पनि व्यक्ति, ठाउँ वा वस्तुको नाम बुझाउने शब्दलाई अङ्ग्रेजी व्याकरणमा Noun (नाम) भनिन्छ।",
       "is_pro": false
     },
@@ -131,7 +131,7 @@
       "option_b": "an",
       "option_c": "the",
       "option_d": "no article",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Honest' शब्दको उच्चारण स्वर वर्ण (Vowel sound 'अ') बाट सुरु हुने भएकाले यसको अगाडि 'an' को प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -175,7 +175,7 @@
       "option_b": "Childrens",
       "option_c": "Children",
       "option_d": "Childes",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "Child' शब्दको अनियमित बहुवचन (Irregular plural) रूप 'Children' हुन्छ, यसमा 's' वा 'es' थपिँदैन।",
       "is_pro": false
     },
@@ -197,7 +197,7 @@
       "option_b": "Sunday",
       "option_c": "Saturday",
       "option_d": "Friday",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अङ्ग्रेजी क्यालेन्डर र अन्तर्राष्ट्रिय मान्यता अनुसार हप्ताको पहिलो दिन आइतबार (Sunday) लाई मानिन्छ।",
       "is_pro": false
     },
@@ -219,7 +219,7 @@
       "option_b": "Going",
       "option_c": "Gone",
       "option_d": "Went",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "Go' क्रियाको पहिलो रूप (V1) हो भने यसको दोस्रो रूप वा भूतकाल (V2) 'Went' हुन्छ।",
       "is_pro": false
     },
@@ -241,7 +241,7 @@
       "option_b": "goes",
       "option_c": "going",
       "option_d": "gone",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Third person singular विषय (She, He, It) सँग Simple Present Tense मा क्रियामा 's' वा 'es' लाग्ने भएकाले 'goes' सही हुन्छ।",
       "is_pro": false
     },
@@ -263,7 +263,7 @@
       "option_b": "from",
       "option_c": "since",
       "option_d": "in",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कुनै निश्चित समयको बिन्दु (Point of time) जनाउन Present Perfect Continuous Tense मा 'since' को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -285,7 +285,7 @@
       "option_b": "More good",
       "option_c": "Best",
       "option_d": "Better",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "Good' (राम्रो) को Comparative Degree 'Better' र Superlative Degree 'Best' हुन्छ।",
       "is_pro": false
     },
@@ -307,7 +307,7 @@
       "option_b": "I ate an apple.",
       "option_c": "I am eating an apple.",
       "option_d": "I will eat an apple.",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "Subject + is/am/are + V4 (ing) + Object संरचना भएको वाक्य Present Continuous Tense हो।",
       "is_pro": false
     },
@@ -329,7 +329,7 @@
       "option_b": "an",
       "option_c": "the",
       "option_d": "कुनै पनि होइन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्रकृतिमा एउटा मात्र भएको अद्वितीय वस्तु (Unique object) को अगाडि सधैँ 'the' Article को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -351,7 +351,7 @@
       "option_b": "am",
       "option_c": "are",
       "option_d": "was",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "Subject 'They' (बहुवचन) र समय सूचक शब्द 'now' भएकोले यहाँ Present Continuous को सहायक क्रिया 'are' लाग्दछ।",
       "is_pro": false
     },
@@ -373,7 +373,7 @@
       "option_b": "Knives",
       "option_c": "Knifis",
       "option_d": "Knive",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अन्त्यमा 'fe' वा 'f' भएका धेरैजसो शब्दहरूलाई बहुवचन बनाउँदा 'fe/f' लाई हटाएर 'ves' थपिन्छ।",
       "is_pro": false
     },
@@ -395,7 +395,7 @@
       "option_b": "Verb",
       "option_c": "Adverb",
       "option_d": "Adjective",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "काम कसरी, कहिले वा कहाँ भयो भनेर क्रियाको विशेषता बताउने शब्दलाई Adverb (क्रियायोगी) भनिन्छ, 'Always' ले समय (Frequency) बुझाउँछ।",
       "is_pro": false
     },
@@ -417,7 +417,7 @@
       "option_b": "Common Noun",
       "option_c": "Material Noun",
       "option_d": "Collective Noun",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "गन्न नसकिने तर नापतौल गर्न सकिने पदार्थलाई बुझाउने नामलाई Material Noun (द्रव्यवाचक नाम) भनिन्छ।",
       "is_pro": false
     },
@@ -439,7 +439,7 @@
       "option_b": "on",
       "option_c": "at",
       "option_d": "under",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कुनै सतहलाई छोएर माथि रहेको अवस्था बुझाउन 'on' Preposition को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -461,7 +461,7 @@
       "option_b": "Faster",
       "option_c": "Fast",
       "option_d": "Fastest",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "Fast' शब्द आफैँमा Adjective र Adverb दुवै रूपमा प्रयोग हुन्छ, अङ्ग्रेजीमा 'Fastly' भन्ने शब्द हुँदैन।",
       "is_pro": false
     },
@@ -483,7 +483,7 @@
       "option_b": "with",
       "option_c": "from",
       "option_d": "in",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कुनै साधन वा हतियारको प्रयोग गरेर काम गरिएको बुझाउन 'with' Preposition को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -505,7 +505,7 @@
       "option_b": "flew",
       "option_c": "are flying",
       "option_d": "will fly",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "Look!' वा 'Listen!' जस्ता शब्दले वर्तमानमा काम भइरहेको सङ्केत गर्ने हुनाले यहाँ Present Continuous Tense (are flying) लाग्छ।",
       "is_pro": false
     },
@@ -527,7 +527,7 @@
       "option_b": "Oxen",
       "option_c": "Oxens",
       "option_d": "Oxs",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Ox' को बहुवचन बनाउँदा अन्त्यमा 'en' थपेर 'Oxen' बनाइन्छ, यो एउटा Irregular Plural हो।",
       "is_pro": false
     },
@@ -549,7 +549,7 @@
       "option_b": "Honesty",
       "option_c": "Honestness",
       "option_d": "Honest",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Honest' (इमानदार) एउटा Adjective हो भने यसको भाववाचक नाम (Abstract Noun) 'Honesty' (इमानदारी) हुन्छ।",
       "is_pro": false
     },
@@ -571,7 +571,7 @@
       "option_b": "than",
       "option_c": "to",
       "option_d": "from",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Comparative Degree मा दुई व्यक्ति वा वस्तुबीच तुलना गर्दा 'than' (भन्दा) को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -615,7 +615,7 @@
       "option_b": "Mice",
       "option_c": "Mices",
       "option_d": "Mouse",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Mouse' (मुसा) को बहुवचन रूप भित्री स्वर वर्ण परिवर्तन भई 'Mice' बन्दछ।",
       "is_pro": false
     },
@@ -637,7 +637,7 @@
       "option_b": "Feminine Gender",
       "option_c": "Common Gender",
       "option_d": "Neuter Gender",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "महिला र पुरुष दुवैलाई समान रूपले बुझाउने शब्दलाई Common Gender (उभयलिङ्ग) भनिन्छ।",
       "is_pro": false
     },
@@ -681,7 +681,7 @@
       "option_b": "He said that I was busy.",
       "option_c": "He said that he was busy.",
       "option_d": "He told that he was busy.",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "Reporting verb past tense (said) मा भएकोले Reported speech को 'am' परिवर्तन भई 'was' हुन्छ र 'I' परिवर्तन भई 'he' हुन्छ।",
       "is_pro": false
     },
@@ -747,7 +747,7 @@
       "option_b": "would fly",
       "option_c": "would have flown",
       "option_d": "can fly",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Type 2 Conditional Sentence (अवास्तविक कल्पना) मा If clause मा Past Tense (were/V2) हुँदा Main clause मा 'would + V1' प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -769,7 +769,7 @@
       "option_b": "amn't I?",
       "option_c": "aren't I?",
       "option_d": "don't I?",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "I am' बाट सुरु भएको सकारात्मक वाक्यको Question Tag सधैँ 'aren't I?' हुन्छ, अङ्ग्रेजीमा 'amn't I' को प्रयोग हुँदैन।",
       "is_pro": false
     },
@@ -813,7 +813,7 @@
       "option_b": "were",
       "option_c": "is",
       "option_d": "has",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Neither...nor' ले जोडिएका दुई Subject हरूमा क्रियापद सधैँ पछिल्लो Subject (यहाँ friends बहुवचन) अनुसार प्रयोग हुन्छ, त्यसैले 'were' लाग्छ।",
       "is_pro": false
     },
@@ -835,7 +835,7 @@
       "option_b": "of",
       "option_c": "by",
       "option_d": "with",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कुनै रोगको कारणले मृत्यु भएको अवस्थामा अङ्ग्रेजीमा 'die of' (died of cancer, cholera आदि) प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -857,7 +857,7 @@
       "option_b": "a few",
       "option_c": "a little",
       "option_d": "few",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "Milk' गन्न नसकिने (Uncountable noun) भएकोले थोरै मात्रा बुझाउन सकारात्मक अर्थमा 'a little' को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -923,7 +923,7 @@
       "option_b": "when",
       "option_c": "then",
       "option_d": "before",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अङ्ग्रेजी व्याकरणको नियम अनुसार 'Hardly' र 'Scarcely' सँग सधैँ 'when' Conjunction को जोडी प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -945,7 +945,7 @@
       "option_b": "than",
       "option_c": "then",
       "option_d": "but",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "No sooner' सँग सधैँ 'than' Conjunction को प्रयोग हुन्छ (No sooner... than)।",
       "is_pro": false
     },
@@ -967,7 +967,7 @@
       "option_b": "to",
       "option_c": "over",
       "option_d": "from",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कुनै कुराभन्दा अर्को कुरा बढी मन पर्छ भन्दा 'prefer' शब्दसँग सधैँ 'to' Preposition लाग्दछ।",
       "is_pro": false
     },
@@ -1011,7 +1011,7 @@
       "option_b": "will have finished",
       "option_c": "have finished",
       "option_d": "am finishing",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "भविष्यको कुनै निश्चित समयसम्ममा काम पूरा भइसक्ने बुझाउन Future Perfect Tense (will have + V3) को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -1033,7 +1033,7 @@
       "option_b": "are",
       "option_c": "was",
       "option_d": "has",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Cattle' (बस्तुभाउ) शब्द बहुवचनको अर्थ दिने Collective Noun हो, त्यसैले यसले बहुवचन क्रिया (are/were) लिन्छ।",
       "is_pro": false
     },
@@ -1099,7 +1099,7 @@
       "option_b": "Let the door be opened.",
       "option_c": "You are ordered open the door.",
       "option_d": "The door must be opened.",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आज्ञार्थक (Imperative) वाक्यलाई Passive Voice मा परिवर्तन गर्दा 'Let + Object + be + V3' को नियम प्रयोग गरिन्छ।",
       "is_pro": false
     }
