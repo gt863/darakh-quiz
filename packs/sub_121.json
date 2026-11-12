@@ -1,6 +1,6 @@
 {
   "sub_cat_id": "121",
-  "data_version": 1794412402725,
+  "data_version": 1794491195766,
   "total_questions": 100,
   "questions": [
     {
@@ -43,7 +43,7 @@
       "option_b": "१/२",
       "option_c": "१",
       "option_d": "०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "त्रिकोणमितीय मानअनुसार sin(π/६) = sin ३०° = १/२ हुन्छ।",
       "is_pro": false
     },
@@ -65,7 +65,7 @@
       "option_b": "{३,४}",
       "option_c": "{२,३}",
       "option_d": "{१,६}",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "x² - ५x + ६ = ० लाई खण्डीकरण गर्दा (x-२)(x-३)=० हुन्छ। त्यसैले मूलहरू {२,३} हुन्।",
       "is_pro": false
     },
@@ -87,7 +87,7 @@
       "option_b": "i",
       "option_c": "-i",
       "option_d": "-१",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "काल्पनिक एकाइ i को परिभाषाअनुसार i² = -१ हुन्छ।",
       "is_pro": false
     },
@@ -109,7 +109,7 @@
       "option_b": "१२०",
       "option_c": "६०",
       "option_d": "७२०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "५! = ५×४×३×२×१ = १२० हुन्छ।",
       "is_pro": false
     },
@@ -131,7 +131,7 @@
       "option_b": "२",
       "option_c": "३",
       "option_d": "४",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "(x+१)³ = x³ + ३x² + ३x + १ हुन्छ। त्यसैले x² को गुणांक ३ हुन्छ।",
       "is_pro": false
     },
@@ -153,7 +153,7 @@
       "option_b": "२८",
       "option_c": "३०",
       "option_d": "२९",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "AP को nऔँ पद a_n = a + (n-१)d हुन्छ। यहाँ a=२, d=३, n=१० हुँदा a_१० = २ + ९×३ = २९ हुन्छ।",
       "is_pro": false
     },
@@ -197,7 +197,7 @@
       "option_b": "∞",
       "option_c": "१",
       "option_d": "-१",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सीमाको मानक परिणामअनुसार lim_{x→०} (sin x)/x = १ हुन्छ।",
       "is_pro": false
     },
@@ -219,7 +219,7 @@
       "option_b": "१",
       "option_c": "१/४",
       "option_d": "१/२",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "निष्पक्ष सिक्कामा टाउको र पुच्छर दुवैको सम्भाव्यता बराबर हुन्छ। त्यसैले P(टाउको) = १/२ हुन्छ।",
       "is_pro": false
     },
@@ -263,7 +263,7 @@
       "option_b": "५",
       "option_c": "२५",
       "option_d": "√७",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "भेक्टरको परिमाण |v| = √(३² + ४²) = √(९+१६) = √२५ = ५ हुन्छ।",
       "is_pro": false
     },
@@ -285,7 +285,7 @@
       "option_b": "२",
       "option_c": "x²",
       "option_d": "२x",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "शक्ति नियमअनुसार d/dx(x²) = २x हुन्छ।",
       "is_pro": false
     },
@@ -329,7 +329,7 @@
       "option_b": "५",
       "option_c": "६",
       "option_d": "७",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "माध्य = (२+४+६+८)/४ = २०/४ = ५ हुन्छ।",
       "is_pro": false
     },
@@ -351,7 +351,7 @@
       "option_b": "१",
       "option_c": "२",
       "option_d": "३",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "अवकल समीकरणको order भन्नाले सबैभन्दा उच्च अवकलजको कोटि हो। यहाँ d²y/dx² दोस्रो कोटिको अवकलज भएकाले order २ हुन्छ।",
       "is_pro": false
     },
@@ -395,7 +395,7 @@
       "option_b": "१",
       "option_c": "-१",
       "option_d": "१/२",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "त्रिकोणमितीय मानअनुसार cos(०) = १ हुन्छ।",
       "is_pro": false
     },
@@ -417,7 +417,7 @@
       "option_b": "४ac-b²",
       "option_c": "b²-४ac",
       "option_d": "-b²-४ac",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "द्विघात समीकरण ax²+bx+c=० को विविक्तकर D = b² - ४ac हुन्छ।",
       "is_pro": false
     },
@@ -439,7 +439,7 @@
       "option_b": "२५",
       "option_c": "√७",
       "option_d": "५",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "जटिल संख्या z = a+bi को मापांक |z| = √(a²+b²) हुन्छ। यहाँ |३+४i| = √(९+१६) = ५ हुन्छ।",
       "is_pro": false
     },
@@ -461,7 +461,7 @@
       "option_b": "९",
       "option_c": "६",
       "option_d": "१२",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "३ वटा वस्तुको क्रमपरिवर्तन ३! = ३×२×१ = ६ हुन्छ।",
       "is_pro": false
     },
@@ -483,7 +483,7 @@
       "option_b": "n-१",
       "option_c": "२n",
       "option_d": "n+१",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "(a+b)^n को विस्तारमा पदहरूको संख्या n+१ हुन्छ।",
       "is_pro": false
     },
@@ -527,7 +527,7 @@
       "option_b": "y=०",
       "option_c": "x=y",
       "option_d": "x+y=०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "x-अक्षमा सबै बिन्दुहरूको y-निर्देशांक ० हुन्छ। त्यसैले x-अक्षको समीकरण y=० हो।",
       "is_pro": false
     },
@@ -549,7 +549,7 @@
       "option_b": "१",
       "option_c": "∞",
       "option_d": "१/२",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "त्रिकोणमितीय सीमाको मानक परिणामअनुसार lim_{x→०} (१-cos x)/x² = १/२ हुन्छ।",
       "is_pro": false
     },
@@ -593,7 +593,7 @@
       "option_b": "१",
       "option_c": "२",
       "option_d": "-१",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Identity matrix I₂ = [[१,०],[०,१]] को determinant = १×१ - ०×० = १ हुन्छ।",
       "is_pro": false
     },
@@ -615,7 +615,7 @@
       "option_b": "-१",
       "option_c": "०",
       "option_d": "i",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "एकाइ भेक्टर i र j परस्पर लम्बवत् छन्। त्यसैले i·j = ० हुन्छ।",
       "is_pro": false
     },
@@ -659,7 +659,7 @@
       "option_b": "sin x + C",
       "option_c": "-sin x + C",
       "option_d": "-cos x + C",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "समाकलनको नियमअनुसार ∫ cos x dx = sin x + C हुन्छ।",
       "is_pro": false
     },
@@ -681,7 +681,7 @@
       "option_b": "{४}",
       "option_c": "{१,२}",
       "option_d": "{१,२,३,४}",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "A-B भन्नाले A मा भएर B मा नभएका तत्वहरूको समूह हो। यहाँ A-B = {१,२} हुन्छ।",
       "is_pro": false
     },
@@ -703,7 +703,7 @@
       "option_b": "५/३",
       "option_c": "५/४",
       "option_d": "४/५",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "sin²θ + cos²θ = १ हुन्छ। (३/५)² + cos²θ = १ ⇒ cos²θ = १ - ९/२५ = १६/२५ ⇒ cos θ = ४/५ (न्यून कोणको लागि धनात्मक)।",
       "is_pro": false
     },
@@ -725,7 +725,7 @@
       "option_b": "५",
       "option_c": "-५",
       "option_d": "-६",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "द्विघात समीकरण ax²+bx+c=० मा मूलहरूको योग α+β = -b/a हुन्छ। यहाँ -(-५)/१ = ५ हुन्छ।",
       "is_pro": false
     },
@@ -747,7 +747,7 @@
       "option_b": "१-i",
       "option_c": "२i",
       "option_d": "२",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "(१+i)² = १² + २i + i² = १ + २i - १ = २i हुन्छ।",
       "is_pro": false
     },
@@ -769,7 +769,7 @@
       "option_b": "२०",
       "option_c": "१५",
       "option_d": "१०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "संयोजन C(५,२) = ५!/(२!३!) = १० हुन्छ।",
       "is_pro": false
     },
@@ -813,7 +813,7 @@
       "option_b": "a(१-r)",
       "option_c": "a/(१-r)",
       "option_d": "a(१+r)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "अनन्त GP को योग S = a/(१-r) हुन्छ, जब |r|<१ हुन्छ।",
       "is_pro": false
     },
@@ -835,7 +835,7 @@
       "option_b": "|Ax₁+By₁+C|/(A²+B²)",
       "option_c": "(Ax₁+By₁+C)/(A²+B²)",
       "option_d": "|Ax₁+By₁+C|/√(A²+B²)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बिन्दुबाट रेखासम्मको लम्ब दूरी d = |Ax₁+By₁+C|/√(A²+B²) हुन्छ।",
       "is_pro": false
     },
@@ -879,7 +879,7 @@
       "option_b": "१",
       "option_c": "e",
       "option_d": "∞",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "चरघातांकीय सीमाको मानक परिणामअनुसार lim_{x→०} (e^x - १)/x = १ हुन्छ।",
       "is_pro": false
     },
@@ -901,7 +901,7 @@
       "option_b": "ln x",
       "option_c": "e^x",
       "option_d": "१/x",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "अवकलनको नियमअनुसार d/dx(ln x) = १/x हुन्छ।",
       "is_pro": false
     },
@@ -945,7 +945,7 @@
       "option_b": "०.१२",
       "option_c": "०.१",
       "option_d": "०.५",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "स्वतन्त्र घटनाहरूको लागि P(A∩B) = P(A)×P(B) = ०.३×०.४ = ०.१२ हुन्छ।",
       "is_pro": false
     },
@@ -967,7 +967,7 @@
       "option_b": "५",
       "option_c": "२०",
       "option_d": "४०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यदि A n×n म्याट्रिक्स हो भने |kA| = k^n |A| हुन्छ। यहाँ n=२, k=२ हुँदा |२A| = २²×५ = २० हुन्छ।",
       "is_pro": false
     },
@@ -1011,7 +1011,7 @@
       "option_b": "(१,०,०)",
       "option_c": "(०,०,१)",
       "option_d": "(१,१,१)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "x-अक्षको एकाइ भेक्टर i हो। यसको direction cosines (१,०,०) हुन्छन्।",
       "is_pro": false
     },
@@ -1033,7 +1033,7 @@
       "option_b": "६",
       "option_c": "५",
       "option_d": "८",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "माध्य = ५, विचलनहरू -३,-१,१,३, वर्गहरू ९,१,१,९, योग=२०, भेरियन्स = २०/४ = ५ हुन्छ।",
       "is_pro": false
     },
@@ -1055,7 +1055,7 @@
       "option_b": "y = C",
       "option_c": "y = C ln x",
       "option_d": "y = Ce^x",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "dy/dx = y ⇒ dy/y = dx ⇒ ∫dy/y = ∫dx ⇒ ln|y| = x + C ⇒ y = Ce^x हुन्छ।",
       "is_pro": false
     },
@@ -1077,7 +1077,7 @@
       "option_b": "८",
       "option_c": "६",
       "option_d": "९",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "n तत्व भएको समूहका उपसमूहहरूको संख्या २^n हुन्छ। यहाँ २³ = ८ हुन्छ।",
       "is_pro": false
     },
@@ -1099,7 +1099,7 @@
       "option_b": "१/२",
       "option_c": "१",
       "option_d": "√३",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "त्रिकोणमितीय मानअनुसार tan(π/४) = tan ४५° = १ हुन्छ।",
       "is_pro": false
     },
@@ -1121,7 +1121,7 @@
       "option_b": "० भन्दा सानो",
       "option_c": "१",
       "option_d": "०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "द्विघात समीकरणका मूलहरू बराबर हुन विविक्तकर D = b²-४ac = ० हुनुपर्छ।",
       "is_pro": false
     },
@@ -1165,7 +1165,7 @@
       "option_b": "n(n-२)/२",
       "option_c": "n(n-३)/२",
       "option_d": "n(n-४)/२",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "n भुजा भएको बहुभुजमा कुल विकर्ण = n(n-३)/२ हुन्छ।",
       "is_pro": false
     },
@@ -1187,7 +1187,7 @@
       "option_b": "४ab³",
       "option_c": "a⁴",
       "option_d": "६a²b²",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "(a+b)^४ को विस्तारमा ५ पद छन्। मध्य पद तेस्रो पद T₃ = ६a²b² हुन्छ।",
       "is_pro": false
     },
@@ -1231,7 +1231,7 @@
       "option_b": "-१/२",
       "option_c": "१/२",
       "option_d": "-२",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "लम्बवत् रेखाहरूको भुजको गुणनफल -१ हुन्छ। यहाँ m₁=२, m₂ = -१/m₁ = -१/२ हुन्छ।",
       "is_pro": false
     },
@@ -1253,7 +1253,7 @@
       "option_b": "x²+y²=२r",
       "option_c": "x²+y²=r",
       "option_d": "x²+y²=r²",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "केन्द्र (h,k) र अर्धव्यास r भएको वृत्तको समीकरण (x-h)²+(y-k)²=r² हुन्छ। यहाँ (h,k)=(०,०) हुँदा x²+y²=r² हुन्छ।",
       "is_pro": false
     },
@@ -1297,7 +1297,7 @@
       "option_b": "n x^{n-१}",
       "option_c": "n x^n",
       "option_d": "x^n/n",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "शक्ति नियमअनुसार d/dx(x^n) = n x^{n-१} हुन्छ।",
       "is_pro": false
     },
@@ -1319,7 +1319,7 @@
       "option_b": "ln x + C",
       "option_c": "e^x + C",
       "option_d": "x e^x + C",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "समाकलनको नियमअनुसार ∫ e^x dx = e^x + C हुन्छ।",
       "is_pro": false
     },
@@ -1363,7 +1363,7 @@
       "option_b": "|A| ≠ ०",
       "option_c": "|A| > ०",
       "option_d": "|A| < ०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "म्याट्रिक्सको inverse अस्तित्व हुन त्यसको determinant शून्य हुनुहुँदैन। त्यसैले |A| ≠ ० हुनुपर्छ।",
       "is_pro": false
     },
@@ -1385,7 +1385,7 @@
       "option_b": "|a|/a",
       "option_c": "a/|a|",
       "option_d": "a+|a|",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "भेक्टर a को दिशामा एकाइ भेक्टर â = a/|a| हुन्छ, जहाँ |a| ≠ ०।",
       "is_pro": false
     },
@@ -1407,7 +1407,7 @@
       "option_b": "n×r = a",
       "option_c": "n+r = a",
       "option_d": "n·(r-a)=०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "समतलमा रहेको कुनै पनि बिन्दु r को लागि (r-a) सामान्य भेक्टर n मा लम्बवत् हुन्छ। त्यसैले n·(r-a)=० हुन्छ।",
       "is_pro": false
     },
@@ -1429,7 +1429,7 @@
       "option_b": "भेरियन्स",
       "option_c": "मध्यिका",
       "option_d": "बहुलक",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "मानक विचलन σ = √(भेरियन्स) हुन्छ। त्यसैले यो भेरियन्सको वर्गमूल हो।",
       "is_pro": false
     },
@@ -1451,7 +1451,7 @@
       "option_b": "∫P dx",
       "option_c": "e^{∫P dx}",
       "option_d": "∫Q dx",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्रथम कोटिको रैखिक अवकल समीकरण dy/dx + Py = Q को integrating factor IF = e^{∫P dx} हुन्छ।",
       "is_pro": false
     },
@@ -1473,7 +1473,7 @@
       "option_b": "A∪B",
       "option_c": "A∩B",
       "option_d": "A'∩B'",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "डी मोर्गनको नियमअनुसार (A∪B)' = A'∩B' हुन्छ।",
       "is_pro": false
     },
@@ -1517,7 +1517,7 @@
       "option_b": "b/a",
       "option_c": "c/a",
       "option_d": "-c/a",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "द्विघात समीकरणमा मूलहरूको गुणनफल αβ = c/a हुन्छ।",
       "is_pro": false
     },
@@ -1539,7 +1539,7 @@
       "option_b": "r(cosθ - i sinθ)",
       "option_c": "r(cosθ + i sinθ)",
       "option_d": "r e^{iθ}",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "युलरको सूत्र e^{iθ} = cosθ + i sinθ प्रयोग गर्दा z = r e^{iθ} हुन्छ।",
       "is_pro": false
     },
@@ -1583,7 +1583,7 @@
       "option_b": "x = nπ + (-१)^n (π/६)",
       "option_c": "x = २nπ + π/६",
       "option_d": "x = nπ/२ + π/६",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "sin x = १/२ को सामान्य समाधान x = nπ + (-१)^n (π/६) हुन्छ।",
       "is_pro": false
     },
@@ -1605,7 +1605,7 @@
       "option_b": "q",
       "option_c": "r",
       "option_d": "-p",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "घन समीकरणमा मूलहरूको योग α+β+γ = -p (x² को गुणांकको ऋणात्मक) हुन्छ।",
       "is_pro": false
     },
@@ -1649,7 +1649,7 @@
       "option_b": "१२०",
       "option_c": "६०",
       "option_d": "७२०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "NEPAL मा ५ वटा भिन्न अक्षर छन्। तिनीहरूको क्रमपरिवर्तन ५! = १२० हुन्छ।",
       "is_pro": false
     },
@@ -1671,7 +1671,7 @@
       "option_b": "२१०",
       "option_c": "२५२",
       "option_d": "३००",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "(१+x)^१० मा x^५ को गुणांक C(१०,५) = १०!/(५!५!) = २५२ हुन्छ।",
       "is_pro": false
     },
@@ -1715,7 +1715,7 @@
       "option_b": "tanθ = |(m₁-m₂)/(१+m₁m₂)|",
       "option_c": "tanθ = |(m₁+m₂)/(१-m₁m₂)|",
       "option_d": "tanθ = (m₁-m₂)/(१+m₁m₂)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "दुई रेखाबीचको कोणको सूत्र tanθ = |(m₁-m₂)/(१+m₁m₂)| हुन्छ।",
       "is_pro": false
     },
@@ -1737,7 +1737,7 @@
       "option_b": "b²/a",
       "option_c": "२b²/a",
       "option_d": "a²/b",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "दीर्घवृत्तको नाभिलम्बको लम्बाइ २b²/a हुन्छ।",
       "is_pro": false
     },
@@ -1759,7 +1759,7 @@
       "option_b": "१",
       "option_c": "१/३",
       "option_d": "१/२",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "tan x - sin x = sin x(१/cos x - १) = sin x(१-cos x)/cos x ≈ x·(x²/२) = x³/२ हुन्छ। त्यसैले सीमा १/२ हुन्छ।",
       "is_pro": false
     },
@@ -1781,7 +1781,7 @@
       "option_b": "x^x(१+ln x)",
       "option_c": "x^x",
       "option_d": "x^{x-१}",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "y = x^x ⇒ ln y = x ln x ⇒ (१/y)dy/dx = ln x + १ ⇒ dy/dx = x^x(१+ln x) हुन्छ।",
       "is_pro": false
     },
@@ -1803,7 +1803,7 @@
       "option_b": "-cos२x/२ + C",
       "option_c": "x/२ - sin२x/४ + C",
       "option_d": "sin२x/२ + C",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "sin²x = (१-cos२x)/२ हुँदा ∫sin²x dx = x/२ - sin२x/४ + C हुन्छ।",
       "is_pro": false
     },
@@ -1825,7 +1825,7 @@
       "option_b": "१/९",
       "option_c": "५/३६",
       "option_d": "१/६",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "योग ७ आउने जोडीहरू (१,६),(२,५),(३,४),(४,३),(५,२),(६,१) गरी ६ वटा छन्। कुल ३६ सम्भाव्य नतिजामध्ये P = ६/३६ = १/६ हुन्छ।",
       "is_pro": false
     },
@@ -1869,7 +1869,7 @@
       "option_b": "a·(b·c)",
       "option_c": "a·(b×c)",
       "option_d": "a×(b×c)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "स्केलर त्रिगुण गुणनफलको परिभाषा [a b c] = a·(b×c) हुन्छ।",
       "is_pro": false
     },
@@ -1891,7 +1891,7 @@
       "option_b": "|(a₂-a₁)×(b₁×b₂)|/|b₁×b₂|",
       "option_c": "|(a₁-a₂)·(b₁×b₂)|/|b₁×b₂|",
       "option_d": "|(a₂-a₁)·(b₁×b₂)|/|b₁×b₂|",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "तिर्यक रेखाहरूबीचको न्यूनतम दूरी d = |(a₂-a₁)·(b₁×b₂)|/|b₁×b₂| हुन्छ।",
       "is_pro": false
     },
@@ -1935,7 +1935,7 @@
       "option_b": "v = x+y",
       "option_c": "v = xy",
       "option_d": "v = x/y",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "dy/dx = (x+y)² मा v = x+y प्रतिस्थापन गर्दा dy/dx = dv/dx - १ हुन्छ र समीकरण सरल हुन्छ।",
       "is_pro": false
     },
@@ -1957,7 +1957,7 @@
       "option_b": "A∩B",
       "option_c": "A'",
       "option_d": "B",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "यदि A ⊆ B भए A∪B = B हुन्छ।",
       "is_pro": false
     },
@@ -2001,7 +2001,7 @@
       "option_b": "p³ - q(३p-१) + q² = ०",
       "option_c": "p³ + q(३p-१) + q² = ०",
       "option_d": "p³ - q(३p-१) - q² = ०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "मूलहरू α र α² हुँदा α+α² = -p र α³ = q हुन्छ। α लाई विलोपन गर्दा p³ - q(३p-१) + q² = ० प्राप्त हुन्छ।",
       "is_pro": false
     },
@@ -2023,7 +2023,7 @@
       "option_b": "-१",
       "option_c": "०",
       "option_d": "३",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "एकताका घनमूलहरूको योग १+ω+ω² = ० हुन्छ।",
       "is_pro": false
     },
@@ -2067,7 +2067,7 @@
       "option_b": "२^n",
       "option_c": "n+१",
       "option_d": "०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "x=१ राख्दा (१+१)^n = २^n हुन्छ, जुन गुणांकहरूको योग हो।",
       "is_pro": false
     },
@@ -2089,7 +2089,7 @@
       "option_b": "a-c",
       "option_c": "ac",
       "option_d": "a/c",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "गुणोत्तर श्रेणीमा b/a = c/b ⇒ b² = ac हुन्छ।",
       "is_pro": false
     },
@@ -2111,7 +2111,7 @@
       "option_b": "y-y₁ = m(x+x₁)",
       "option_c": "y+y₁ = m(x-x₁)",
       "option_d": "y-y₁ = m(x-x₁)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बिन्दु-भुज रूपअनुसार रेखाको समीकरण y-y₁ = m(x-x₁) हुन्छ।",
       "is_pro": false
     },
@@ -2133,7 +2133,7 @@
       "option_b": "√(१+b²/a²)",
       "option_c": "√(१-a²/b²)",
       "option_d": "√(१+a²/b²)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अतिपरवलयको उत्केन्द्रता e = √(१+b²/a²) हुन्छ।",
       "is_pro": false
     },
@@ -2155,7 +2155,7 @@
       "option_b": "१",
       "option_c": "ln a",
       "option_d": "e^a",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "चरघातांकीय सीमाको मानक परिणामअनुसार lim_{x→०} (a^x - १)/x = ln a हुन्छ।",
       "is_pro": false
     },
@@ -2177,7 +2177,7 @@
       "option_b": "-१/√(१-x²)",
       "option_c": "१/(१+x²)",
       "option_d": "१/√(१-x²)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "व्युत्क्रम त्रिकोणमितीय फलनको अवकलजअनुसार d/dx(sin^{-१}x) = १/√(१-x²) हुन्छ।",
       "is_pro": false
     },
