@@ -1,6 +1,6 @@
 {
   "sub_cat_id": "120",
-  "data_version": 1794412402725,
+  "data_version": 1794491195766,
   "total_questions": 200,
   "questions": [
     {
@@ -43,7 +43,7 @@
       "option_b": "शिरा (Vein)",
       "option_c": "केशिका (Capillary)",
       "option_d": "भल्भ (Valve)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "शिरा (Vein) ले शरीरका विभिन्न भागबाट कार्बन डाइअक्साइडयुक्त अशुद्ध रगत मुटुमा ल्याउँछ।",
       "is_pro": false
     },
@@ -65,7 +65,7 @@
       "option_b": "प्लाटीहेल्मिन्थेस",
       "option_c": "पोरिफेरा",
       "option_d": "इकिनोडर्माटा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "स्पन्ज एक ढाड नभएको जनावर हो जुन पोरिफेरा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -87,7 +87,7 @@
       "option_b": "प्रजनन प्रक्रियामा भाग लिने",
       "option_c": "प्रकाश संश्लेषणद्वारा खाना बनाउने",
       "option_d": "बीउलाई सुरक्षित राख्ने",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बिरुवाको फल ले मुख्यतया बीउलाई सुरक्षित राख्ने कार्य गर्दछ।",
       "is_pro": false
     },
@@ -131,7 +131,7 @@
       "option_b": "पन्छी (Aves)",
       "option_c": "स्तनधारी (Mammalia)",
       "option_d": "उभयचर (Amphibia)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार मयुर पन्छी (Aves) वर्गमा पर्दछ।",
       "is_pro": false
     },
@@ -153,7 +153,7 @@
       "option_b": "भिटामिन ए",
       "option_c": "भिटामिन सी",
       "option_d": "भिटामिन डी",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "शरीरमा भिटामिन सी को कमी हुँदा स्कर्भी रोग लाग्ने गर्दछ।",
       "is_pro": false
     },
@@ -175,7 +175,7 @@
       "option_b": "रतन्धो",
       "option_c": "बेरीबेरी",
       "option_d": "स्कर्भी",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "भिटामिन सी को कमीले मानिसमा स्कर्भी रोग लाग्दछ।",
       "is_pro": false
     },
@@ -219,7 +219,7 @@
       "option_b": "सिलेन्टेरेटा",
       "option_c": "आर्थ्रोपोडा",
       "option_d": "मोलस्का",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हाइड्रा एक ढाड नभएको जनावर हो जुन सिलेन्टेरेटा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -241,7 +241,7 @@
       "option_b": "एनेलिडा",
       "option_c": "पोरिफेरा",
       "option_d": "प्लाटीहेल्मिन्थेस",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "स्पोन्जिला एक ढाड नभएको जनावर हो जुन पोरिफेरा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -263,7 +263,7 @@
       "option_b": "भिटामिन ए",
       "option_c": "भिटामिन बी",
       "option_d": "भिटामिन डी",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "शरीरमा भिटामिन डी को कमी हुँदा रिकेट्स रोग लाग्ने गर्दछ।",
       "is_pro": false
     },
@@ -307,7 +307,7 @@
       "option_b": "भिटामिन ए",
       "option_c": "भिटामिन सी",
       "option_d": "भिटामिन डी",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "शरीरमा भिटामिन ए को कमी हुँदा रतन्धो रोग लाग्ने गर्दछ।",
       "is_pro": false
     },
@@ -329,7 +329,7 @@
       "option_b": "बेरीबेरी",
       "option_c": "रतन्धो",
       "option_d": "रिकेट्स",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "भिटामिन ए को कमीले मानिसमा रतन्धो रोग लाग्दछ।",
       "is_pro": false
     },
@@ -351,7 +351,7 @@
       "option_b": "मोलस्का",
       "option_c": "सिलेन्टेरेटा",
       "option_d": "नेमाथेल्मिन्थेस",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पिनवर्म एक ढाड नभएको जनावर हो जुन नेमाथेल्मिन्थेस फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -395,7 +395,7 @@
       "option_b": "स्तनधारी (Mammalia)",
       "option_c": "मत्स्य (Pisces)",
       "option_d": "पन्छी (Aves)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार गाई स्तनधारी (Mammalia) वर्गमा पर्दछ।",
       "is_pro": false
     },
@@ -417,7 +417,7 @@
       "option_b": "चार्ल्स डार्विन",
       "option_c": "अरस्तु (Aristotle)",
       "option_d": "लुई पास्चर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "जीवविज्ञानको व्यवस्थित अध्ययनको सुरुवात गरेकाले अरस्तुलाई जीवविज्ञानका पिता मानिन्छ।",
       "is_pro": false
     },
@@ -439,7 +439,7 @@
       "option_b": "२",
       "option_c": "३",
       "option_d": "४",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मानिसको मुटु दायाँ र बायाँ अरिकल र भेन्ट्रिकल गरी ४ कोठामा विभाजित हुन्छ।",
       "is_pro": false
     },
@@ -483,7 +483,7 @@
       "option_b": "प्रोटिन संश्लेषण गर्ने",
       "option_c": "कोषको सम्पूर्ण क्रियाकलाप नियन्त्रण गर्ने",
       "option_d": "कोषमा पदार्थको आवागमन नियन्त्रण गर्ने",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कोषको बनोट अनुसार राइबोजोम को मुख्य कार्य प्रोटिन संश्लेषण गर्ने हो।",
       "is_pro": false
     },
@@ -505,7 +505,7 @@
       "option_b": "इकिनोडर्माटा",
       "option_c": "सिलेन्टेरेटा",
       "option_d": "प्लाटीहेल्मिन्थेस",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "जेलीफिस एक ढाड नभएको जनावर हो जुन सिलेन्टेरेटा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -527,7 +527,7 @@
       "option_b": "शिरा (Vein)",
       "option_c": "केशिका (Capillary)",
       "option_d": "धमनी (Artery)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "धमनी (Artery) ले अक्सिजनयुक्त शुद्ध रगत मुटुबाट शरीरका अन्य भागमा लैजान्छ (पल्मोनरी धमनी बाहेक)।",
       "is_pro": false
     },
@@ -571,7 +571,7 @@
       "option_b": "प्लाटीहेल्मिन्थेस",
       "option_c": "आर्थ्रोपोडा",
       "option_d": "मोलस्का",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्लानारिया एक ढाड नभएको जनावर हो जुन प्लाटीहेल्मिन्थेस फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -593,7 +593,7 @@
       "option_b": "मोलस्का",
       "option_c": "आर्थ्रोपोडा",
       "option_d": "प्लाटीहेल्मिन्थेस",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "लामखुट्टे एक ढाड नभएको जनावर हो जुन आर्थ्रोपोडा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -615,7 +615,7 @@
       "option_b": "पाचन प्रणाली",
       "option_c": "स्नायु प्रणाली",
       "option_d": "श्वासप्रश्वास प्रणाली",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "फोक्सो ले मानव शरीरको श्वासप्रश्वास प्रणाली मा प्रमुख भूमिका खेल्दछ।",
       "is_pro": false
     },
@@ -659,7 +659,7 @@
       "option_b": "कोषको सम्पूर्ण क्रियाकलाप नियन्त्रण गर्ने",
       "option_c": "कोषमा पदार्थको आवागमन नियन्त्रण गर्ने",
       "option_d": "प्रोटिन संश्लेषण गर्ने",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कोषको बनोट अनुसार न्युक्लियस को मुख्य कार्य कोषको सम्पूर्ण क्रियाकलाप नियन्त्रण गर्ने हो।",
       "is_pro": false
     },
@@ -681,7 +681,7 @@
       "option_b": "शिरा (Vein)",
       "option_c": "धमनी (Artery)",
       "option_d": "भल्भ (Valve)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "धमनी (Artery) ले अक्सिजनयुक्त शुद्ध रगत मुटुबाट शरीरका अन्य भागमा लैजान्छ (पल्मोनरी धमनी बाहेक)।",
       "is_pro": false
     },
@@ -703,7 +703,7 @@
       "option_b": "अरस्तु",
       "option_c": "रोबर्ट हुक",
       "option_d": "ग्रेगर मेन्डल",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "ग्रेगर मेन्डलले केराउको बिरुवामा गरेको अनुसन्धानबाट वंशाणुगत नियमहरू प्रतिपादन गरेका थिए।",
       "is_pro": false
     },
@@ -747,7 +747,7 @@
       "option_b": "पन्छी (Aves)",
       "option_c": "स्तनधारी (Mammalia)",
       "option_d": "सरिसृप (Reptilia)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार सुगा पन्छी (Aves) वर्गमा पर्दछ।",
       "is_pro": false
     },
@@ -769,7 +769,7 @@
       "option_b": "पोरिफेरा",
       "option_c": "मोलस्का",
       "option_d": "प्लाटीहेल्मिन्थेस",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "शंखेकिरा एक ढाड नभएको जनावर हो जुन मोलस्का फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -791,7 +791,7 @@
       "option_b": "प्रजनन प्रक्रियामा भाग लिने",
       "option_c": "माटोबाट पानी र खनिज तत्व सोस्ने",
       "option_d": "बिरुवालाई ठाडो राख्ने र पानी ओसारपसार गर्ने",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बिरुवाको काण्ड ले मुख्यतया बिरुवालाई ठाडो राख्ने र पानी ओसारपसार गर्ने कार्य गर्दछ।",
       "is_pro": false
     },
@@ -835,7 +835,7 @@
       "option_b": "बेरीबेरी",
       "option_c": "स्कर्भी",
       "option_d": "रिकेट्स",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "भिटामिन बी को कमीले मानिसमा बेरीबेरी रोग लाग्दछ।",
       "is_pro": false
     },
@@ -857,7 +857,7 @@
       "option_b": "एनेलिडा",
       "option_c": "प्लाटीहेल्मिन्थेस",
       "option_d": "आर्थ्रोपोडा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "लिभर फ्ल्युक एक ढाड नभएको जनावर हो जुन प्लाटीहेल्मिन्थेस फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -879,7 +879,7 @@
       "option_b": "मोलस्का",
       "option_c": "प्लाटीहेल्मिन्थेस",
       "option_d": "पोरिफेरा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "युस्पोन्जिया एक ढाड नभएको जनावर हो जुन पोरिफेरा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -923,7 +923,7 @@
       "option_b": "O (ओ)",
       "option_c": "B (बी)",
       "option_d": "AB (एबी)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "रक्तसमूह 'O' मा एन्टिजेन नहुने भएकाले यसलाई विश्वव्यापी दाता भनिन्छ।",
       "is_pro": false
     },
@@ -945,7 +945,7 @@
       "option_b": "स्तनधारी (Mammalia)",
       "option_c": "मत्स्य (Pisces)",
       "option_d": "सरिसृप (Reptilia)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार सिहर्स मत्स्य (Pisces) वर्गमा पर्दछ।",
       "is_pro": false
     },
@@ -967,7 +967,7 @@
       "option_b": "आर्थ्रोपोडा",
       "option_c": "सिलेन्टेरेटा",
       "option_d": "मोलस्का",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "चिप्लेकिरा एक ढाड नभएको जनावर हो जुन मोलस्का फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1011,7 +1011,7 @@
       "option_b": "कोषको ऊर्जा केन्द्र (Powerhouse of the cell)",
       "option_c": "प्रोटिन संश्लेषण गर्ने",
       "option_d": "कोषको सम्पूर्ण क्रियाकलाप नियन्त्रण गर्ने",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कोषको बनोट अनुसार माइटोकोन्ड्रिया को मुख्य कार्य कोषको ऊर्जा केन्द्र (Powerhouse of the cell) हो।",
       "is_pro": false
     },
@@ -1033,7 +1033,7 @@
       "option_b": "नेमाथेल्मिन्थेस",
       "option_c": "प्लाटीहेल्मिन्थेस",
       "option_d": "इकिनोडर्माटा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "टेपवर्म एक ढाड नभएको जनावर हो जुन प्लाटीहेल्मिन्थेस फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1055,7 +1055,7 @@
       "option_b": "अक्सिजन",
       "option_c": "नाइट्रोजन",
       "option_d": "कार्बन डाइअक्साइड",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "प्रकाश संश्लेषण प्रक्रियामा बिरुवाले हावाबाट कार्बन डाइअक्साइड लिन्छ।",
       "is_pro": false
     },
@@ -1099,7 +1099,7 @@
       "option_b": "स्तनधारी (Mammalia)",
       "option_c": "पन्छी (Aves)",
       "option_d": "उभयचर (Amphibia)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार ह्वेल स्तनधारी (Mammalia) वर्गमा पर्दछ।",
       "is_pro": false
     },
@@ -1121,7 +1121,7 @@
       "option_b": "इकिनोडर्माटा",
       "option_c": "पोरिफेरा",
       "option_d": "आर्थ्रोपोडा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "साइकन एक ढाड नभएको जनावर हो जुन पोरिफेरा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1143,7 +1143,7 @@
       "option_b": "श्वासप्रश्वास प्रणाली",
       "option_c": "स्नायु प्रणाली",
       "option_d": "उत्सर्जन प्रणाली",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मिर्गौला ले मानव शरीरको उत्सर्जन प्रणाली मा प्रमुख भूमिका खेल्दछ।",
       "is_pro": false
     },
@@ -1187,7 +1187,7 @@
       "option_b": "आर्थ्रोपोडा",
       "option_c": "प्लाटीहेल्मिन्थेस",
       "option_d": "सिलेन्टेरेटा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पुतली एक ढाड नभएको जनावर हो जुन आर्थ्रोपोडा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1209,7 +1209,7 @@
       "option_b": "पन्छी (Aves)",
       "option_c": "मत्स्य (Pisces)",
       "option_d": "सरिसृप (Reptilia)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार सार्क मत्स्य (Pisces) वर्गमा पर्दछ।",
       "is_pro": false
     },
@@ -1231,7 +1231,7 @@
       "option_b": "स्तनधारी (Mammalia)",
       "option_c": "उभयचर (Amphibia)",
       "option_d": "मत्स्य (Pisces)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार सिहर्स मत्स्य (Pisces) वर्गमा पर्दछ।",
       "is_pro": false
     },
@@ -1275,7 +1275,7 @@
       "option_b": "प्लाटीहेल्मिन्थेस",
       "option_c": "प्रोटोजोवा",
       "option_d": "एनेलिडा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "रक्त फ्ल्युक एक ढाड नभएको जनावर हो जुन प्लाटीहेल्मिन्थेस फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1297,7 +1297,7 @@
       "option_b": "स्तनधारी (Mammalia)",
       "option_c": "मत्स्य (Pisces)",
       "option_d": "पन्छी (Aves)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार माछा मत्स्य (Pisces) वर्गमा पर्दछ।",
       "is_pro": false
     },
@@ -1319,7 +1319,7 @@
       "option_b": "इकिनोडर्माटा",
       "option_c": "सिलेन्टेरेटा",
       "option_d": "नेमाथेल्मिन्थेस",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "हुकवर्म एक ढाड नभएको जनावर हो जुन नेमाथेल्मिन्थेस फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1363,7 +1363,7 @@
       "option_b": "इकिनोडर्माटा",
       "option_c": "एनेलिडा",
       "option_d": "प्रोटोजोवा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सी-अर्चिन एक ढाड नभएको जनावर हो जुन इकिनोडर्माटा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1385,7 +1385,7 @@
       "option_b": "राइबो न्युक्लिक एसिड",
       "option_c": "डिअक्सीराइबो न्युक्लिक एसिड",
       "option_d": "डाइअक्सीराइबो न्युक्लिक एसिड",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "डी.एन.ए. को पूरा रूप Deoxyribonucleic acid (डिअक्सीराइबो न्युक्लिक एसिड) हो।",
       "is_pro": false
     },
@@ -1407,7 +1407,7 @@
       "option_b": "प्रोटोजोवा",
       "option_c": "नेमाथेल्मिन्थेस",
       "option_d": "मोलस्का",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "अक्टोपस एक ढाड नभएको जनावर हो जुन मोलस्का फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1451,7 +1451,7 @@
       "option_b": "इकिनोडर्माटा",
       "option_c": "सिलेन्टेरेटा",
       "option_d": "पोरिफेरा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सी-कुकुम्बर एक ढाड नभएको जनावर हो जुन इकिनोडर्माटा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1473,7 +1473,7 @@
       "option_b": "स्तनधारी (Mammalia)",
       "option_c": "उभयचर (Amphibia)",
       "option_d": "मत्स्य (Pisces)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार हाइला उभयचर (Amphibia) वर्गमा पर्दछ।",
       "is_pro": false
     },
@@ -1495,7 +1495,7 @@
       "option_b": "स्तनधारी (Mammalia)",
       "option_c": "मत्स्य (Pisces)",
       "option_d": "सरिसृप (Reptilia)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार गोही सरिसृप (Reptilia) वर्गमा पर्दछ।",
       "is_pro": false
     },
@@ -1539,7 +1539,7 @@
       "option_b": "प्रजनन प्रक्रियामा भाग लिने",
       "option_c": "प्रकाश संश्लेषणद्वारा खाना बनाउने",
       "option_d": "माटोबाट पानी र खनिज तत्व सोस्ने",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "बिरुवाको फूल ले मुख्यतया प्रजनन प्रक्रियामा भाग लिने कार्य गर्दछ।",
       "is_pro": false
     },
@@ -1561,7 +1561,7 @@
       "option_b": "सिलेन्टेरेटा",
       "option_c": "प्रोटोजोवा",
       "option_d": "पोरिफेरा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "युग्लिना एक ढाड नभएको जनावर हो जुन प्रोटोजोवा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1583,7 +1583,7 @@
       "option_b": "प्लाटीहेल्मिन्थेस",
       "option_c": "आर्थ्रोपोडा",
       "option_d": "प्रोटोजोवा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "अमिबा एक ढाड नभएको जनावर हो जुन प्रोटोजोवा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1627,7 +1627,7 @@
       "option_b": "सरिसृप (Reptilia)",
       "option_c": "पन्छी (Aves)",
       "option_d": "स्तनधारी (Mammalia)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार कछुवा सरिसृप (Reptilia) वर्गमा पर्दछ।",
       "is_pro": false
     },
@@ -1649,7 +1649,7 @@
       "option_b": "नेमाथेल्मिन्थेस",
       "option_c": "सिलेन्टेरेटा",
       "option_d": "मोलस्का",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कोरल एक ढाड नभएको जनावर हो जुन सिलेन्टेरेटा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1671,7 +1671,7 @@
       "option_b": "इकिनोडर्माटा",
       "option_c": "आर्थ्रोपोडा",
       "option_d": "नेमाथेल्मिन्थेस",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "फाइलेरिया एक ढाड नभएको जनावर हो जुन नेमाथेल्मिन्थेस फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1715,7 +1715,7 @@
       "option_b": "हेमोग्लोबिन",
       "option_c": "डब्लु.बी.सी.",
       "option_d": "प्लाज्मा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "रगतमा पाइने हेमोग्लोबिन नामक प्रोटिनले गर्दा रगत रातो देखिन्छ।",
       "is_pro": false
     },
@@ -1737,7 +1737,7 @@
       "option_b": "पोरिफेरा",
       "option_c": "एनेलिडा",
       "option_d": "इकिनोडर्माटा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेरिस एक ढाड नभएको जनावर हो जुन एनेलिडा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1759,7 +1759,7 @@
       "option_b": "भिटामिन ए",
       "option_c": "भिटामिन बी",
       "option_d": "भिटामिन डी",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "शरीरमा भिटामिन डी को कमी हुँदा रिकेट्स रोग लाग्ने गर्दछ।",
       "is_pro": false
     },
@@ -1803,7 +1803,7 @@
       "option_b": "आर्थ्रोपोडा",
       "option_c": "प्लाटीहेल्मिन्थेस",
       "option_d": "एनेलिडा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "माकुरा एक ढाड नभएको जनावर हो जुन आर्थ्रोपोडा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1825,7 +1825,7 @@
       "option_b": "रक्तसञ्चार प्रणाली",
       "option_c": "पाचन प्रणाली",
       "option_d": "श्वासप्रश्वास प्रणाली",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आमाशय ले मानव शरीरको पाचन प्रणाली मा प्रमुख भूमिका खेल्दछ।",
       "is_pro": false
     },
@@ -1847,7 +1847,7 @@
       "option_b": "रक्तसञ्चार प्रणाली",
       "option_c": "उत्सर्जन प्रणाली",
       "option_d": "पाचन प्रणाली",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सानो आन्द्रा ले मानव शरीरको पाचन प्रणाली मा प्रमुख भूमिका खेल्दछ।",
       "is_pro": false
     },
@@ -1891,7 +1891,7 @@
       "option_b": "मोलस्का",
       "option_c": "नेमाथेल्मिन्थेस",
       "option_d": "सिलेन्टेरेटा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अक्टोपस एक ढाड नभएको जनावर हो जुन मोलस्का फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -1913,7 +1913,7 @@
       "option_b": "थाइराइड ग्रन्थी",
       "option_c": "पिट्युटरी ग्रन्थी",
       "option_d": "प्यान्क्रियाज",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पिट्युटरी ग्रन्थीले अन्य ग्रन्थीहरूको कार्यलाई नियन्त्रण गर्ने भएकाले यसलाई मास्टर ग्रन्थी भनिन्छ।",
       "is_pro": false
     },
@@ -1935,7 +1935,7 @@
       "option_b": "थाइराइड ग्रन्थी",
       "option_c": "एड्रेनल ग्रन्थी",
       "option_d": "पिट्युटरी ग्रन्थी",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पिट्युटरी ग्रन्थीले अन्य ग्रन्थीहरूको कार्यलाई नियन्त्रण गर्ने भएकाले यसलाई मास्टर ग्रन्थी भनिन्छ।",
       "is_pro": false
     },
@@ -1979,7 +1979,7 @@
       "option_b": "उभयचर (Amphibia)",
       "option_c": "मत्स्य (Pisces)",
       "option_d": "स्तनधारी (Mammalia)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार टोड उभयचर (Amphibia) वर्गमा पर्दछ।",
       "is_pro": false
     },
@@ -2001,7 +2001,7 @@
       "option_b": "श्वासप्रश्वास प्रणाली",
       "option_c": "स्नायु प्रणाली",
       "option_d": "उत्सर्जन प्रणाली",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "मस्तिष्क ले मानव शरीरको स्नायु प्रणाली मा प्रमुख भूमिका खेल्दछ।",
       "is_pro": false
     },
@@ -2023,7 +2023,7 @@
       "option_b": "कोषको ऊर्जा केन्द्र (Powerhouse of the cell)",
       "option_c": "कोषको सम्पूर्ण क्रियाकलाप नियन्त्रण गर्ने",
       "option_d": "कोषमा पदार्थको आवागमन नियन्त्रण गर्ने",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कोषको बनोट अनुसार कोष झिल्ली (Cell membrane) को मुख्य कार्य कोषमा पदार्थको आवागमन नियन्त्रण गर्ने हो।",
       "is_pro": false
     },
@@ -2067,7 +2067,7 @@
       "option_b": "आर्थ्रोपोडा",
       "option_c": "नेमाथेल्मिन्थेस",
       "option_d": "सिलेन्टेरेटा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "झिँगा एक ढाड नभएको जनावर हो जुन आर्थ्रोपोडा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -2089,7 +2089,7 @@
       "option_b": "इकिनोडर्माटा",
       "option_c": "सिलेन्टेरेटा",
       "option_d": "प्लाटीहेल्मिन्थेस",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सी-एनिमोन एक ढाड नभएको जनावर हो जुन सिलेन्टेरेटा फाइलम अन्तर्गत पर्दछ।",
       "is_pro": false
     },
@@ -2111,7 +2111,7 @@
       "option_b": "सरिसृप (Reptilia)",
       "option_c": "मत्स्य (Pisces)",
       "option_d": "उभयचर (Amphibia)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार सालामान्डर उभयचर (Amphibia) वर्गमा पर्दछ।",
       "is_pro": false
     },
@@ -2155,7 +2155,7 @@
       "option_b": "प्रकाश संश्लेषणमा मद्दत गर्ने (वनस्पति कोषमा मात्र)",
       "option_c": "कोषको सम्पूर्ण क्रियाकलाप नियन्त्रण गर्ने",
       "option_d": "कोषमा पदार्थको आवागमन नियन्त्रण गर्ने",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कोषको बनोट अनुसार क्लोरोप्लास्ट को मुख्य कार्य प्रकाश संश्लेषणमा मद्दत गर्ने (वनस्पति कोषमा मात्र) हो।",
       "is_pro": false
     },
@@ -2177,7 +2177,7 @@
       "option_b": "पन्छी (Aves)",
       "option_c": "मत्स्य (Pisces)",
       "option_d": "स्तनधारी (Mammalia)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार रोहु मत्स्य (Pisces) वर्गमा पर्दछ।",
       "is_pro": false
     },
@@ -2199,7 +2199,7 @@
       "option_b": "स्तनधारी (Mammalia)",
       "option_c": "उभयचर (Amphibia)",
       "option_d": "सरिसृप (Reptilia)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार सर्प सरिसृप (Reptilia) वर्गमा पर्दछ।",
       "is_pro": false
     },
@@ -2221,7 +2221,7 @@
       "option_b": "AMP",
       "option_c": "ATP",
       "option_d": "GTP",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ATP (एडेनोसिन ट्राइफस्फेट) लाई कोषको ऊर्जा मुद्रा भनिन्छ किनभने यसको फस्फेट बन्धन तोड्दा ऊर्जा मुक्त हुन्छ।",
       "is_pro": false
     },
@@ -2265,7 +2265,7 @@
       "option_b": "NADPH",
       "option_c": "O₂",
       "option_d": "ग्लुकोज",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "प्रकाश अवस्थामा ATP, NADPH र O₂ उत्पादन हुन्छन्; ग्लुकोज क्याल्भिन चक्रमा बन्छ।",
       "is_pro": false
     },
@@ -2287,7 +2287,7 @@
       "option_b": "७.४",
       "option_c": "७.८",
       "option_d": "६.८",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "मानव रक्तको pH ७.३५ देखि ७.४५ सम्म हुन्छ, औसत ७.४।",
       "is_pro": false
     },
@@ -2309,7 +2309,7 @@
       "option_b": "मेटाफेज",
       "option_c": "एनाफेज",
       "option_d": "टेलोफेज",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "मेटाफेजमा क्रोमोजोमहरू स्पिन्डल फाइबरमा टाँसिएर इक्वेटरमा मिल्छन्।",
       "is_pro": false
     },
@@ -2331,7 +2331,7 @@
       "option_b": "मेटाफेज",
       "option_c": "एनाफेज",
       "option_d": "टेलोफेज",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "टेलोफेजमा न्यूक्लियर झिल्ली पुनः निर्माण हुन्छ र क्रोमोजोम डिकन्डेन्स हुन्छन्।",
       "is_pro": false
     },
@@ -2375,7 +2375,7 @@
       "option_b": "डार्विन",
       "option_c": "वाटसन र क्रिक",
       "option_d": "पाश्चर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सन् १९५३ मा जेम्स वाटसन र फ्रान्सिस क्रिकले डीएनएको डबल हेलिक्स मोडेल प्रस्तुत गरे।",
       "is_pro": false
     },
@@ -2419,7 +2419,7 @@
       "option_b": "प्यान्क्रियाजको बिटा कोष",
       "option_c": "एड्रिनल ग्रन्थि",
       "option_d": "पिट्युटरी",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्यान्क्रियाजको आइलेट्स अफ ल्याङ्गरह्यान्सको बिटा कोषले इन्सुलिन स्राव गर्छ।",
       "is_pro": false
     },
@@ -2441,7 +2441,7 @@
       "option_b": "भिटामिन C",
       "option_c": "भिटामिन A",
       "option_d": "भिटामिन D",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "भिटामिन A (रेटिनोल) को कमीले रतन्धो रोग लाग्छ।",
       "is_pro": false
     },
@@ -2463,7 +2463,7 @@
       "option_b": "प्रोजेस्टेरोन",
       "option_c": "इन्सुलिन",
       "option_d": "इस्ट्रोजेन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "अण्डाशयले इस्ट्रोजेन र प्रोजेस्टेरोन स्राव गर्छ; इस्ट्रोजेन मुख्य महिला हार्मोन हो।",
       "is_pro": false
     },
@@ -2485,7 +2485,7 @@
       "option_b": "क्रेब्स चक्र",
       "option_c": "पाइरुभेट अक्सिडेसन",
       "option_d": "इलेक्ट्रोन ट्रान्सपोर्ट चेन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "इलेक्ट्रोन ट्रान्सपोर्ट चेनमा अक्सिडेटिभ फस्फोरिलेसनद्वारा सबैभन्दा बढी ATP उत्पादन हुन्छ।",
       "is_pro": false
     },
@@ -2507,7 +2507,7 @@
       "option_b": "G2",
       "option_c": "S",
       "option_d": "M",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कोष चक्रको S (सिन्थेसिस) अवस्थामा डीएनए रेप्लिकेसन हुन्छ।",
       "is_pro": false
     },
@@ -2529,7 +2529,7 @@
       "option_b": "२",
       "option_c": "३",
       "option_d": "४",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "ABO प्रणालीमा A र B गरी दुई प्रकारका एन्टिजेन हुन्छन्; O मा कुनै हुँदैन।",
       "is_pro": false
     },
@@ -2573,7 +2573,7 @@
       "option_b": "ATP संश्लेषण",
       "option_c": "जलको फोटोलाइसिस",
       "option_d": "NADPH उत्पादन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्रकाश अवस्थामा जलको फोटोलाइसिसबाट O₂ मुक्त हुन्छ।",
       "is_pro": false
     },
@@ -2595,7 +2595,7 @@
       "option_b": "फोक्सो",
       "option_c": "छाला",
       "option_d": "मृगौला",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मृगौलाले रक्त छानेर मूत्र बनाउँछ र शरीरको जल-नुन सन्तुलन कायम राख्छ।",
       "is_pro": false
     },
@@ -2639,7 +2639,7 @@
       "option_b": "मेडुला ओब्लोङ्गाटा",
       "option_c": "सेरेबेलम",
       "option_d": "थालामस",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "मेडुला ओब्लोङ्गाटामा श्वास केन्द्र हुन्छ जसले श्वासप्रश्वास नियन्त्रण गर्छ।",
       "is_pro": false
     },
@@ -2661,7 +2661,7 @@
       "option_b": "राइबोसोम",
       "option_c": "माइटोकन्ड्रिया",
       "option_d": "गोल्जी बडी",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "राइबोसोममा mRNA को अनुवाद भई प्रोटिन संश्लेषण हुन्छ।",
       "is_pro": false
     },
@@ -2705,7 +2705,7 @@
       "option_b": "४४",
       "option_c": "४८",
       "option_d": "४६",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मानवमा २३ जोडा अर्थात् ४६ क्रोमोजोम हुन्छन्।",
       "is_pro": false
     },
@@ -2727,7 +2727,7 @@
       "option_b": "प्लेटलेट",
       "option_c": "श्वेत रक्तकोष",
       "option_d": "प्लाज्मा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "श्वेत रक्तकोषले रोगजनकहरूलाई नष्ट गरेर प्रतिरक्षा प्रदान गर्छ।",
       "is_pro": false
     },
@@ -2771,7 +2771,7 @@
       "option_b": "पेट",
       "option_c": "यकृत",
       "option_d": "सानो आन्द्रा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यकृतले पित्त रस उत्पादन गर्छ, जुन पित्तथैलीमा भण्डारण हुन्छ।",
       "is_pro": false
     },
@@ -2793,7 +2793,7 @@
       "option_b": "भिटामिन C",
       "option_c": "भिटामिन D",
       "option_d": "भिटामिन E",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "भिटामिन C पानीमा घुलनशील छ; भिटामिन A, D, E, K बोसोमा घुलनशील हुन्छन्।",
       "is_pro": false
     },
@@ -2815,7 +2815,7 @@
       "option_b": "अण्डाशय",
       "option_c": "योनि",
       "option_d": "फ्यालोपियन ट्युब",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "शुक्राणु र अण्डाको निषेचन फ्यालोपियन ट्युबमा हुन्छ।",
       "is_pro": false
     },
@@ -2837,7 +2837,7 @@
       "option_b": "रोबर्ट हुक",
       "option_c": "विर्चो",
       "option_d": "श्लाइडेन र श्वान",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "श्लाइडेन (वनस्पति) र श्वान (जन्तु) ले कोष सिद्धान्त प्रतिपादन गरे।",
       "is_pro": false
     },
@@ -2859,7 +2859,7 @@
       "option_b": "युरासिल",
       "option_c": "ग्वानिन",
       "option_d": "साइटोसिन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "डीएनएमा थाइमिन हुन्छ, युरासिल RNA मा मात्र हुन्छ।",
       "is_pro": false
     },
@@ -2881,7 +2881,7 @@
       "option_b": "यकृत",
       "option_c": "मृगौला",
       "option_d": "हृदय",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "मृगौलाले रेनिन-एन्जियोटेन्सिन प्रणालीमार्फत रक्तचाप नियन्त्रण गर्छ।",
       "is_pro": false
     },
@@ -2925,7 +2925,7 @@
       "option_b": "दायाँ निलय",
       "option_c": "बायाँ अलिन्द",
       "option_d": "बायाँ निलय",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "फोक्सोबाट अक्सिजनयुक्त रक्त बायाँ अलिन्दमा आउँछ।",
       "is_pro": false
     },
@@ -2969,7 +2969,7 @@
       "option_b": "हिमोग्लोबिन",
       "option_c": "श्वेत रक्तकोष",
       "option_d": "प्लेटलेट",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हिमोग्लोबिनले अक्सिजनसँग बन्धन बनाएर रक्तमा परिवहन गर्छ।",
       "is_pro": false
     },
@@ -2991,7 +2991,7 @@
       "option_b": "इन्सुलिन",
       "option_c": "एड्रिनलिन",
       "option_d": "ग्रोथ हार्मोन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पिट्युटरी ग्रन्थिको अग्र भागले ग्रोथ हार्मोन स्राव गर्छ जसले वृद्धि नियन्त्रण गर्छ।",
       "is_pro": false
     },
@@ -3013,7 +3013,7 @@
       "option_b": "अक्सिजनको मात्रा",
       "option_c": "CO₂ को मात्रा",
       "option_d": "तापमान",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्रकाश संश्लेषणमा O₂ उत्पादन हुन्छ, यसको मात्राले दरमा सामान्यतः असर पार्दैन।",
       "is_pro": false
     },
@@ -3035,7 +3035,7 @@
       "option_b": "१:२:१",
       "option_c": "१:१:१:१",
       "option_d": "९:३:३:१",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "द्विसंकर क्रसमा F2 पुस्तामा ९:३:३:१ फिनोटाइपिक अनुपात हुन्छ।",
       "is_pro": false
     },
@@ -3057,7 +3057,7 @@
       "option_b": "थाइरोइड",
       "option_c": "प्यान्क्रियाज",
       "option_d": "एड्रिनल ग्रन्थि",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्यान्क्रियाजले इन्सुलिन र ग्लुकागन स्राव गरेर रक्त शर्करा नियन्त्रण गर्छ।",
       "is_pro": false
     },
@@ -3123,7 +3123,7 @@
       "option_b": "पेट",
       "option_c": "सानो आन्द्रा",
       "option_d": "ठूलो आन्द्रा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पेप्सिन पेटमा प्रोटिनलाई पेप्टाइडमा विघटन गर्छ।",
       "is_pro": false
     },
@@ -3145,7 +3145,7 @@
       "option_b": "केशिका",
       "option_c": "लसिका",
       "option_d": "धमनी",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "धमनीले हृदयबाट रक्त शरीरका विभिन्न भागमा पुर्याउँछ।",
       "is_pro": false
     },
@@ -3167,7 +3167,7 @@
       "option_b": "८.०",
       "option_c": "६.०",
       "option_d": "५.०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "मूत्रको pH सामान्यतः ६.० (४.५–८.०) हुन्छ, जुन हल्का अम्लीय हुन्छ।",
       "is_pro": false
     },
@@ -3189,7 +3189,7 @@
       "option_b": "गोल्जी बडी",
       "option_c": "लाइसोसोम",
       "option_d": "माइटोकन्ड्रिया",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "माइटोकन्ड्रियामा अक्सिडेटिभ फस्फोरिलेसनद्वारा ATP उत्पादन हुन्छ।",
       "is_pro": false
     },
@@ -3211,7 +3211,7 @@
       "option_b": "रेप्लिकेसन",
       "option_c": "ट्रान्सक्रिप्शन",
       "option_d": "म्युटेसन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ट्रान्सक्रिप्शनमा डीएनएको टेम्प्लेटबाट mRNA संश्लेषण हुन्छ।",
       "is_pro": false
     },
@@ -3255,7 +3255,7 @@
       "option_b": "साइटोकाइनिन",
       "option_c": "जिबरेलिन",
       "option_d": "एब्सिसिक एसिड",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "साइटोकाइनिनले कोष विभाजन (साइटोकाइनेसिस) उत्तेजित गर्छ।",
       "is_pro": false
     },
@@ -3277,7 +3277,7 @@
       "option_b": "एनिमिया",
       "option_c": "मधुमेह",
       "option_d": "स्कर्वी",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "इन्सुलिनको कमीले रक्तमा ग्लुकोज बढेर मधुमेह हुन्छ।",
       "is_pro": false
     },
@@ -3299,7 +3299,7 @@
       "option_b": "हाइपोथालामस",
       "option_c": "सेरेबेलम",
       "option_d": "मेडुला",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हाइपोथालामसले शरीरको तापमान नियन्त्रण गर्छ।",
       "is_pro": false
     },
@@ -3343,7 +3343,7 @@
       "option_b": "एपिडिडाइमिस",
       "option_c": "शुक्रवाहक नली",
       "option_d": "वृषण",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "वृषणको सेमिनिफेरस ट्युब्युलमा शुक्राणु उत्पादन हुन्छ।",
       "is_pro": false
     },
@@ -3365,7 +3365,7 @@
       "option_b": "S",
       "option_c": "G2",
       "option_d": "M",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "S अवस्थामा डीएनए रेप्लिकेसन हुन्छ।",
       "is_pro": false
     },
@@ -3409,7 +3409,7 @@
       "option_b": "भिटामिन B",
       "option_c": "भिटामिन C",
       "option_d": "भिटामिन D",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "भिटामिन C को कमीले स्कर्वी (गिँडा रगत आउने) हुन्छ।",
       "is_pro": false
     },
@@ -3431,7 +3431,7 @@
       "option_b": "मेडुला",
       "option_c": "थालामस",
       "option_d": "सेरेबेलम",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सेरेबेलमले शरीरको सन्तुलन र समन्वय नियन्त्रण गर्छ।",
       "is_pro": false
     },
@@ -3475,7 +3475,7 @@
       "option_b": "५०००–१००००",
       "option_c": "१५००–४०००",
       "option_d": "४०००–११०००",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "श्वेत रक्तकोषको सामान्य संख्या ४,०००–११,०००/mm³ हुन्छ।",
       "is_pro": false
     },
@@ -3497,7 +3497,7 @@
       "option_b": "एड्रिनलिन",
       "option_c": "थाइरोक्सिन",
       "option_d": "ग्रोथ हार्मोन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "एड्रिनलिन (Adrenaline) आपत्कालीन हार्मोन हो जसले हृदय गति र श्वास बढाउँछ।",
       "is_pro": false
     },
@@ -3519,7 +3519,7 @@
       "option_b": "हार्मोन",
       "option_c": "पानी र खनिज",
       "option_d": "अक्सिजन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "जाइलमले जराबाट पानी र खनिज लवण पातसम्म पुर्याउँछ।",
       "is_pro": false
     },
@@ -3541,7 +3541,7 @@
       "option_b": "प्लेटलेट",
       "option_c": "श्वेत कोष",
       "option_d": "हिमोग्लोबिन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "हिमोग्लोबिनमा रहेको हेम समूहले रक्तलाई रातो रङ दिन्छ।",
       "is_pro": false
     },
@@ -3563,7 +3563,7 @@
       "option_b": "गोल्जी बडी",
       "option_c": "लाइसोसोम",
       "option_d": "माइटोकन्ड्रिया",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "गोल्जी बडीले प्रोटिनको मोडिफिकेसन, प्याकेजिङ र स्राव गर्छ।",
       "is_pro": false
     },
@@ -3607,7 +3607,7 @@
       "option_b": "मसल",
       "option_c": "एन्डोथेलियम",
       "option_d": "स्नायु",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "रक्तनलीको भित्री सतह एन्डोथेलियम उत्तकले बनेको हुन्छ।",
       "is_pro": false
     },
@@ -3629,7 +3629,7 @@
       "option_b": "ग्राना",
       "option_c": "स्ट्रोमा",
       "option_d": "कोष झिल्ली",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "क्याल्भिन चक्र क्लोरोप्लास्टको स्ट्रोमामा हुन्छ।",
       "is_pro": false
     },
@@ -3651,7 +3651,7 @@
       "option_b": "डेल्टा कोष",
       "option_c": "एसिनार कोष",
       "option_d": "बिटा कोष",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "प्यान्क्रियाजको आइलेट्स अफ ल्याङ्गरह्यान्सको बिटा कोषले इन्सुलिन स्राव गर्छ।",
       "is_pro": false
     },
@@ -3673,7 +3673,7 @@
       "option_b": "भिटामिन D",
       "option_c": "भिटामिन C",
       "option_d": "भिटामिन B",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "भिटामिन D को कमीले क्याल्सियम अवशोषण घटेर रिकेट्स हुन्छ।",
       "is_pro": false
     },
@@ -3717,7 +3717,7 @@
       "option_b": "प्लाज्मा",
       "option_c": "लसिका",
       "option_d": "अन्तरकोषीय तरल",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "रक्तको तरल भाग प्लाज्मा हो जसमा रक्तकोषहरू निलम्बित हुन्छन्।",
       "is_pro": false
     },
@@ -3739,7 +3739,7 @@
       "option_b": "राइबोसोम",
       "option_c": "इन्डोप्लाज्मिक रेटिकुलम",
       "option_d": "गोल्जी बडी",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ER ले प्रोटिन र लिपिडको संश्लेषण र परिवहन गर्छ।",
       "is_pro": false
     },
@@ -3761,7 +3761,7 @@
       "option_b": "गहुँ",
       "option_c": "धान",
       "option_d": "मटर",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मेन्डेलले मटर (Pisum sativum) बोटमा प्रयोग गरे।",
       "is_pro": false
     },
@@ -3827,7 +3827,7 @@
       "option_b": "कुनै पनि होइन",
       "option_c": "एन्टि-B",
       "option_d": "एन्टि-A र एन्टि-B",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "रक्त समूह AB मा A र B दुवै एन्टिजेन हुन्छन् तर कुनै एन्टिबडी हुँदैन।",
       "is_pro": false
     },
@@ -3849,7 +3849,7 @@
       "option_b": "इन्सुलिन",
       "option_c": "ग्रोथ हार्मोन",
       "option_d": "एड्रिनलिन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पिट्युटरी ग्रन्थिको ग्रोथ हार्मोनले वृद्धि नियन्त्रण गर्छ।",
       "is_pro": false
     },
@@ -3871,7 +3871,7 @@
       "option_b": "फल पाक्ने",
       "option_c": "जरा बढ्ने",
       "option_d": "तना लम्बाइ बढाउने",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "जिबरेलिनले तना लम्बाइ बढाउँछ र बीउ अंकुरण उत्तेजित गर्छ।",
       "is_pro": false
     },
@@ -3893,7 +3893,7 @@
       "option_b": "एल्भियोलस",
       "option_c": "नेफ्रिडिया",
       "option_d": "नेफ्रोन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मृगौलाको संरचनात्मक र कार्यिकी एकाइ नेफ्रोन हो।",
       "is_pro": false
     },
@@ -3937,7 +3937,7 @@
       "option_b": "एल्भियोलाइ",
       "option_c": "ट्र्याकिया",
       "option_d": "ल्यारिन्क्स",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "फोक्सोको एल्भियोलाइमा ग्यासको आदानप्रदान हुन्छ।",
       "is_pro": false
     },
@@ -3959,7 +3959,7 @@
       "option_b": "भिटामिन B",
       "option_c": "भिटामिन C",
       "option_d": "भिटामिन D",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "भिटामिन C लाई एस्कोर्बिक एसिड भनिन्छ।",
       "is_pro": false
     },
@@ -3981,7 +3981,7 @@
       "option_b": "मेटाफेज",
       "option_c": "एनाफेज",
       "option_d": "टेलोफेज",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "एनाफेजमा सिस्टर क्रोमाटिडहरू छुट्टिएर विपरीत ध्रुवतर्फ जान्छन्।",
       "is_pro": false
     },
@@ -4003,7 +4003,7 @@
       "option_b": "ग्लुकागन",
       "option_c": "थाइरोक्सिन",
       "option_d": "एड्रिनलिन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "ग्लुकागनले यकृतमा ग्लाइकोजेनोलाइसिस बढाएर रक्त ग्लुकोज बढाउँछ।",
       "is_pro": false
     },
@@ -4025,7 +4025,7 @@
       "option_b": "फल पाक्ने",
       "option_c": "बीउ सुत्ने",
       "option_d": "कोष लम्बाइ बढाउने",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "अक्सिनले कोषको लम्बाइ बढाएर वृद्धि उत्तेजित गर्छ।",
       "is_pro": false
     },
@@ -4069,7 +4069,7 @@
       "option_b": "थाइलाकोइड झिल्ली",
       "option_c": "कोष झिल्ली",
       "option_d": "साइटोप्लाज्म",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्रकाश अवस्था क्लोरोप्लास्टको थाइलाकोइड झिल्लीमा हुन्छ।",
       "is_pro": false
     },
@@ -4091,7 +4091,7 @@
       "option_b": "ग्वानिन",
       "option_c": "साइटोसिन",
       "option_d": "युरासिल",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "RNA मा थाइमिनको सट्टा युरासिल हुन्छ।",
       "is_pro": false
     },
@@ -4135,7 +4135,7 @@
       "option_b": "यकृत",
       "option_c": "मृगौला",
       "option_d": "छाला",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "मृगौलाले मूत्र उत्पादन गरेर जल-नुन सन्तुलन कायम राख्छ।",
       "is_pro": false
     },
@@ -4179,7 +4179,7 @@
       "option_b": "प्लाज्मामा घुलनशील",
       "option_c": "बाइकार्बोनेटको रूपमा",
       "option_d": "कार्बोनिक एसिडको रूपमा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "CO₂ मुख्यतः बाइकार्बोनेट (HCO₃⁻) को रूपमा प्लाज्मामा परिवहन हुन्छ।",
       "is_pro": false
     },
@@ -4201,7 +4201,7 @@
       "option_b": "जिबरेलिन",
       "option_c": "साइटोकाइनिन",
       "option_d": "एब्सिसिक एसिड",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एब्सिसिक एसिडले पात झर्ने र फल पाक्ने प्रक्रिया उत्तेजित गर्छ।",
       "is_pro": false
     },
@@ -4223,7 +4223,7 @@
       "option_b": "प्यान्क्रियाज",
       "option_c": "एड्रिनल",
       "option_d": "पिट्युटरी",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्यान्क्रियाजको आइलेट्स अफ ल्याङ्गरह्यान्सले इन्सुलिन र ग्लुकागन स्राव गर्छ।",
       "is_pro": false
     },
@@ -4245,7 +4245,7 @@
       "option_b": "ऊर्जा उत्पादन",
       "option_c": "डीएनए भण्डारण",
       "option_d": "पदार्थको आवागमन नियन्त्रण",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कोष झिल्लीले पदार्थको आवागमन नियन्त्रण गर्छ (चयनात्मक पारगम्यता)।",
       "is_pro": false
     },
@@ -4289,7 +4289,7 @@
       "option_b": "प्रतिरक्षा",
       "option_c": "रक्त जम्ने प्रक्रिया",
       "option_d": "पोषक तत्व परिवहन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्लेटलेटले रक्त जम्ने (Coagulation) प्रक्रियामा मद्दत गर्छ।",
       "is_pro": false
     },
@@ -4311,7 +4311,7 @@
       "option_b": "कोष भित्ता",
       "option_c": "न्यूक्लियस",
       "option_d": "साइटोप्लाज्म",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "वनस्पति कोषमा कोष भित्ताले आकार र सहारा दिन्छ।",
       "is_pro": false
     },
@@ -4333,7 +4333,7 @@
       "option_b": "क्याल्सियम",
       "option_c": "म्याग्नेसियम",
       "option_d": "पोटासियम",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "क्लोरोफिलको केन्द्रीय तत्व म्याग्नेसियम हो, जो प्रकाश अवशोषणका लागि आवश्यक छ।",
       "is_pro": false
     },
@@ -4355,7 +4355,7 @@
       "option_b": "एन्टि-A र एन्टि-B",
       "option_c": "कुनै पनि होइन",
       "option_d": "एन्टि-A",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "रक्त समूह B मा B एन्टिजेन र एन्टि-A एन्टिबडी हुन्छ।",
       "is_pro": false
     },
@@ -4377,7 +4377,7 @@
       "option_b": "थाइरोक्सिन",
       "option_c": "एड्रिनलिन",
       "option_d": "ग्रोथ हार्मोन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "थाइरोक्सिनले शरीरको चयापचय दर (BMR) नियन्त्रण गर्छ।",
       "is_pro": false
     },
