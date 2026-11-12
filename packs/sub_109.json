@@ -1,6 +1,6 @@
 {
   "sub_cat_id": "109",
-  "data_version": 1794412402725,
+  "data_version": 1794491195766,
   "total_questions": 300,
   "questions": [
     {
@@ -43,7 +43,7 @@
       "option_b": "Fe",
       "option_c": "In",
       "option_d": "I",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "फलामको ल्याटिन नाम 'Ferrum' भएकोले यसको रासायनिक सङ्केत 'Fe' राखिएको हो।",
       "is_pro": false
     },
@@ -65,7 +65,7 @@
       "option_b": "हेलियम (Helium)",
       "option_c": "हाइड्रोजन (Hydrogen)",
       "option_d": "नाइट्रोजन (Nitrogen)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हाइड्रोजन आवर्त तालिकाको पहिलो तत्त्व हो र यो सबैभन्दा हलुका ग्यास मानिन्छ।",
       "is_pro": false
     },
@@ -87,7 +87,7 @@
       "option_b": "स्वेदन (Transpiration)",
       "option_c": "परागसेचन (Pollination)",
       "option_d": "प्रकाश संश्लेषण (Photosynthesis)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बिरुवाले जराबाट पानी र पातबाट कार्बन डाइअक्साइड लिई सूर्यको प्रकाशमा खाना बनाउने प्रक्रियालाई प्रकाश संश्लेषण भनिन्छ।",
       "is_pro": false
     },
@@ -131,7 +131,7 @@
       "option_b": "१००°C",
       "option_c": "५०°C",
       "option_d": "८०°C",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "समुद्र सतहको सामान्य वायुमण्डलीय चापमा पानीको उम्लने बिन्दु (Boiling Point) १००°C हुन्छ।",
       "is_pro": false
     },
@@ -153,7 +153,7 @@
       "option_b": "ग्यास (Gas)",
       "option_c": "तरल (Liquid)",
       "option_d": "प्लाज्मा (Plasma)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "तरल पदार्थको आयतन निश्चित हुन्छ तर आकार निश्चित हुँदैन, यसलाई जुन भाँडोमा राख्यो त्यसैको आकार लिन्छ।",
       "is_pro": false
     },
@@ -175,7 +175,7 @@
       "option_b": "मङ्गल (Mars)",
       "option_c": "पृथ्वी (Earth)",
       "option_d": "बुध (Mercury)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सौर्यमण्डलका ८ ग्रहमध्ये सूर्यको सबैभन्दा नजिकको र सबैभन्दा सानो ग्रह बुध (Mercury) हो।",
       "is_pro": false
     },
@@ -219,7 +219,7 @@
       "option_b": "भिटामिन डी",
       "option_c": "भिटामिन सी",
       "option_d": "भिटामिन बी",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सूर्यको परावैजनी किरण हाम्रो छालामा पर्दा छालामा रहेको रसायन भिटामिन 'डी' मा परिणत हुन्छ।",
       "is_pro": false
     },
@@ -241,7 +241,7 @@
       "option_b": "तरल (Liquid)",
       "option_c": "शून्य (Vacuum)",
       "option_d": "ग्यास (Gas)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ध्वनि प्रसार हुन कुनै न कुनै भौतिक माध्यम आवश्यक पर्ने भएकाले यो शून्य (Vacuum) माध्यममा प्रसार हुन सक्दैन।",
       "is_pro": false
     },
@@ -263,7 +263,7 @@
       "option_b": "कार्बन डाइअक्साइड (Carbon dioxide)",
       "option_c": "आर्गन (Argon)",
       "option_d": "नाइट्रोजन (Nitrogen)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "वायुमण्डलमा नाइट्रोजनको मात्रा करिब ७८ प्रतिशत हुन्छ, जुन सबैभन्दा धेरै हो।",
       "is_pro": false
     },
@@ -307,7 +307,7 @@
       "option_b": "जुल (Joule)",
       "option_c": "पास्कल (Pascal)",
       "option_d": "वाट (Watt)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "बल र स्थानान्तरणको गुणनफललाई कार्य भनिन्छ र यसको एकाइ जुल (J) हो।",
       "is_pro": false
     },
@@ -329,7 +329,7 @@
       "option_b": "५ प्रकारका",
       "option_c": "६ प्रकारका",
       "option_d": "७ प्रकारका",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "साधारण यन्त्रहरू ६ प्रकारका हुन्छन्: उत्तोलक, घिर्नी, पाङ्ग्रा र बिँड, छड्के सतह, पेच र फाली।",
       "is_pro": false
     },
@@ -351,7 +351,7 @@
       "option_b": "नुनिलो",
       "option_c": "टर्रो",
       "option_d": "अमिलो",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सबै प्रकारका अम्ल (Acid) हरूको स्वाद अमिलो (Sour) हुन्छ, जस्तै: कागतीको रस।",
       "is_pro": false
     },
@@ -395,7 +395,7 @@
       "option_b": "वृहस्पति (Jupiter)",
       "option_c": "अरुण (Uranus)",
       "option_d": "वरुण (Neptune)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सौर्यमण्डलका ग्रहहरूमध्ये वृहस्पति (Jupiter) सबैभन्दा ठूलो र गह्रौँ ग्रह हो।",
       "is_pro": false
     },
@@ -417,7 +417,7 @@
       "option_b": "चाल्र्स डार्विन",
       "option_c": "रोबर्ट हुक",
       "option_d": "विलियम हार्वे",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सन् १६६५ मा बेलायती वैज्ञानिक रोबर्ट हुकले कर्कको पातलो पत्रलाई माइक्रोस्कोपमा हेर्दा पहिलोपटक कोष पत्ता लगाएका हुन्।",
       "is_pro": false
     },
@@ -439,7 +439,7 @@
       "option_b": "४ वटा",
       "option_c": "३ वटा",
       "option_d": "२ वटा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कुनै पनि चुम्बकमा उत्तरी ध्रुव (North Pole) र दक्षिणी ध्रुव (South Pole) गरी २ वटा ध्रुवहरू हुन्छन्।",
       "is_pro": false
     },
@@ -483,7 +483,7 @@
       "option_b": "सूर्य (Sun)",
       "option_c": "दाउरा",
       "option_d": "विद्युत्",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पृथ्वीका सबै जीव र प्राकृतिक चक्रका लागि आवश्यक ताप र प्रकाशको मुख्य स्रोत सूर्य हो।",
       "is_pro": false
     },
@@ -505,7 +505,7 @@
       "option_b": "३०६",
       "option_c": "२०६",
       "option_d": "२०८",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "एक वयस्क मानिसको शरीरमा जम्मा २०६ वटा हाडहरू रहेका हुन्छन्।",
       "is_pro": false
     },
@@ -527,7 +527,7 @@
       "option_b": "४°C",
       "option_c": "-१०°C",
       "option_d": "०°C",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सामान्य वायुमण्डलीय चापमा शुद्ध पानी ०°C (३२°F) तापक्रममा जमेर बरफ बन्दछ।",
       "is_pro": false
     },
@@ -571,7 +571,7 @@
       "option_b": "पिण्ड ÷ आयतन",
       "option_c": "आयतन ÷ पिण्ड",
       "option_d": "बल ÷ क्षेत्रफल",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कुनै वस्तुको एकाइ आयतनमा रहेको पिण्डलाई घनत्व भनिन्छ, तसर्थ घनत्व = पिण्ड / आयतन (d = m/v) हुन्छ।",
       "is_pro": false
     },
@@ -593,7 +593,7 @@
       "option_b": "ढुङ्गा",
       "option_c": "सफा सिसा",
       "option_d": "कागज",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्रकाश सजिलै वारपार जान सक्ने वस्तुलाई पारदर्शी वस्तु भनिन्छ, जसको उदाहरण सफा सिसा (Clear glass) हो।",
       "is_pro": false
     },
@@ -615,7 +615,7 @@
       "option_b": "लुइस पास्चर",
       "option_c": "अलेक्जेन्डर फ्लेमिङ",
       "option_d": "विलियम हार्वे",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सन् १६२८ मा विलियम हार्वेले मुटु र रक्तनली मार्फत रगत कसरी सञ्चार हुन्छ भन्ने पत्ता लगाएका हुन्।",
       "is_pro": false
     },
@@ -659,7 +659,7 @@
       "option_b": "ब्यारोमिटर",
       "option_c": "थर्मोमिटर",
       "option_d": "हाइड्रोमिटर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "वायुमण्डलले दिने चाप नाप्न ब्यारोमिटर (Barometer) को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -681,7 +681,7 @@
       "option_b": "ग्यास र पानी",
       "option_c": "लवण र पानी",
       "option_d": "लवण र ग्यास",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "अम्ल र क्षारबीच प्रतिक्रिया हुँदा एकअर्काको गुण नष्ट भई तटस्थ पदार्थहरू लवण (Salt) र पानी (Water) बन्दछन्।",
       "is_pro": false
     },
@@ -703,7 +703,7 @@
       "option_b": "शून्य (Vacuum)",
       "option_c": "तरल",
       "option_d": "ठोस",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "ठोस पदार्थका अणुहरू खाँदिएर रहेका हुनाले ध्वनिको गति तरल र ग्यासमा भन्दा ठोसमा सबैभन्दा बढी हुन्छ।",
       "is_pro": false
     },
@@ -747,7 +747,7 @@
       "option_b": "१००० kg/m³",
       "option_c": "१० kg/m³",
       "option_d": "१ kg/m³",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "शुद्ध पानीको घनत्व ४°C तापक्रममा सबैभन्दा बढी अर्थात् १००० किलोग्राम प्रति घनमिटर (1000 kg/m³) हुन्छ।",
       "is_pro": false
     },
@@ -769,7 +769,7 @@
       "option_b": "तेस्रो श्रेणी",
       "option_c": "दोस्रो श्रेणी",
       "option_d": "चौथो श्रेणी",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "भार बीचमा पर्ने उत्तोलक दोस्रो श्रेणीको उत्तोलक हो (जस्तै: सरोतो, ह्विलब्यारो)।",
       "is_pro": false
     },
@@ -791,7 +791,7 @@
       "option_b": "CaO",
       "option_c": "Ca(OH)2",
       "option_d": "CaCO3",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "क्याल्सियम, कार्बन र अक्सिजन मिलेर बन्ने चुनढुङ्गाको रासायनिक सुत्र CaCO3 हो।",
       "is_pro": false
     },
@@ -835,7 +835,7 @@
       "option_b": "३ × १०^८ m/s",
       "option_c": "३ × १०^१० m/s",
       "option_d": "३३२ m/s",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्रकाशको गति शून्य माध्यम (Vacuum) मा सबैभन्दा बढी अर्थात् लगभग ३ × १०^८ मिटर प्रति सेकेन्ड (३ लाख कि.मी./सेकेन्ड) हुन्छ।",
       "is_pro": false
     },
@@ -857,7 +857,7 @@
       "option_b": "भार × बल",
       "option_c": "भार ÷ बल",
       "option_d": "बल × भार दुरी",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यान्त्रिक फाइदा (MA) भन्नाले उत्तोलकमा लागेको भार र लगाएको बलको अनुपात हो (MA = Load / Effort)।",
       "is_pro": false
     },
@@ -879,7 +879,7 @@
       "option_b": "स्तनधारी (Mammal)",
       "option_c": "माछा (Pisces)",
       "option_d": "उभयचर (Amphibian)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "जमिन र पानी दुवै ठाउँमा बाँच्न सक्ने हुनाले भ्यागुतोलाई उभयचर (Amphibian) वर्गमा राखिएको छ।",
       "is_pro": false
     },
@@ -923,7 +923,7 @@
       "option_b": "४ वटा",
       "option_c": "३ वटा",
       "option_d": "५ वटा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "मानिसको मुटुमा दुईवटा अरिकल (Auricles) र दुईवटा भेन्ट्रिकल (Ventricles) गरी जम्मा ४ वटा कोठाहरू हुन्छन्।",
       "is_pro": false
     },
@@ -945,7 +945,7 @@
       "option_b": "हाइड्रोजन",
       "option_c": "कार्बन डाइअक्साइड",
       "option_d": "नाइट्रोजन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "अक्सिजनले बल्न मद्दत गर्छ भने कार्बन डाइअक्साइड ग्यास आगो निभाउने (Fire Extinguisher) काममा प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -967,7 +967,7 @@
       "option_b": "ठोस अक्सिजन",
       "option_c": "ठोस नाइट्रोजन",
       "option_d": "ठोस कार्बन डाइअक्साइड",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कार्बन डाइअक्साइड ग्यासलाई अत्यधिक चिस्याउँदा बन्ने ठोस पदार्थलाई सुक्खा बरफ (Dry Ice) भनिन्छ।",
       "is_pro": false
     },
@@ -1011,7 +1011,7 @@
       "option_b": "ओम (Ohm)",
       "option_c": "एम्पियर (Ampere)",
       "option_d": "वाट (Watt)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "विद्युत् प्रवाहमा उत्पन्न हुने अवरोधलाई प्रतिरोध भनिन्छ र यसलाई 'ओम' (Ohm, Ω) मा नापिन्छ।",
       "is_pro": false
     },
@@ -1033,7 +1033,7 @@
       "option_b": "थर्मोमिटर",
       "option_c": "ल्याक्टोमिटर",
       "option_d": "ब्यारोमिटर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "दूधमा पानीको मिसावट छ वा छैन भनी घनत्व नाप्न ल्याक्टोमिटर (Lactometer) को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -1055,7 +1055,7 @@
       "option_b": "फेरम (Ferrum)",
       "option_c": "नेट्रियम (Natrium)",
       "option_d": "क्यालियम (Kalium)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पोटासियमको ल्याटिन नाम क्यालियम (Kalium) हो, त्यसैले यसलाई 'K' सङ्केतले जनाइन्छ।",
       "is_pro": false
     },
@@ -1099,7 +1099,7 @@
       "option_b": "३७३ K",
       "option_c": "१०० K",
       "option_d": "० K",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सेल्सियसलाई केल्भिनमा लैजाँदा २७३ जोडिन्छ; १००°C + २७३ = ३७३ K हुन्छ।",
       "is_pro": false
     },
@@ -1121,7 +1121,7 @@
       "option_b": "न्युटनको तेस्रो नियम",
       "option_c": "शक्तिको संरक्षण नियम",
       "option_d": "पास्कलको नियम",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यस नियमअनुसार ब्रह्माण्डमा रहेको कुल शक्ति सधैँ स्थिर रहन्छ, जसलाई शक्तिको संरक्षण नियम (Law of Conservation of Energy) भनिन्छ।",
       "is_pro": false
     },
@@ -1143,7 +1143,7 @@
       "option_b": "Au",
       "option_c": "S",
       "option_d": "Ag",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "चाँदीको ल्याटिन नाम अर्जेन्टम (Argentum) भएकोले यसको सङ्केत 'Ag' राखिएको हो।",
       "is_pro": false
     },
@@ -1187,7 +1187,7 @@
       "option_b": "कूटपाद (Pseudopodia)",
       "option_c": "फ्लाजेला (Flagella)",
       "option_d": "टेन्टाकल्स (Tentacles)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अमिबाले आफ्नो शरीरको आकार परिवर्तन गरी नक्कली खुट्टा अर्थात् कूटपाद (Pseudopodia) को मद्दतले चाल देखाउँछ।",
       "is_pro": false
     },
@@ -1209,7 +1209,7 @@
       "option_b": "तरल माध्यममा मात्र",
       "option_c": "माध्यम नचाहिने / शून्यमा",
       "option_d": "ग्यास माध्यममा मात्र",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "विकिरण विधिबाट ताप सर्न कुनै पनि भौतिक माध्यमको आवश्यकता पर्दैन, सूर्यको ताप यसै विधिबाट पृथ्वीमा आउँछ।",
       "is_pro": false
     },
@@ -1231,7 +1231,7 @@
       "option_b": "सोडियम कार्बोनेट",
       "option_c": "सोडियम बाइकार्बोनेट",
       "option_d": "सोडियम क्लोराइड",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "खाने नुन सोडियम र क्लोरिन मिलेर बन्छ, जसको रासायनिक नाम सोडियम क्लोराइड (NaCl) हो।",
       "is_pro": false
     },
@@ -1275,7 +1275,7 @@
       "option_b": "१२० दिन",
       "option_c": "१ वर्ष",
       "option_d": "५ दिन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हाडकोसी (Bone marrow) मा बन्ने रातो रक्तकोषहरूको जीवनकाल औसत १२० दिनको हुन्छ।",
       "is_pro": false
     },
@@ -1297,7 +1297,7 @@
       "option_b": "१/२ mv",
       "option_c": "१/२ mv²",
       "option_d": "F × d",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कुनै 'm' पिण्ड भएको वस्तु 'v' गतिमा गुडिरहेको छ भने त्यसको गतिशक्ति (KE) = 1/2 mv² हुन्छ।",
       "is_pro": false
     },
@@ -1319,7 +1319,7 @@
       "option_b": "होमो सेपियन्स (Homo sapiens)",
       "option_c": "बोस इन्डिकस (Bos indicus)",
       "option_d": "एपिस (Apis)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मौरीको विभिन्न प्रजातिहरू हुन्छन् र तिनीहरूको वैज्ञानिक वंशाणुगत नाम एपिस (Apis) हो।",
       "is_pro": false
     },
@@ -1363,7 +1363,7 @@
       "option_b": "मकै",
       "option_c": "चना",
       "option_d": "तोरी",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "बीउको फक्ल्याँटा दुई भागमा नछुट्टिने र पातमा समानान्तर नसा हुने बिरुवा एक-दलिय हुन्, जसमध्ये मकै एक हो।",
       "is_pro": false
     },
@@ -1385,7 +1385,7 @@
       "option_b": "फेलिस डोमेस्टिका",
       "option_c": "होमो सेपियन्स (Homo sapiens)",
       "option_d": "प्यान्थेरा टाइग्रिस",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कार्लस लिनियसको द्विनाम पद्धति अनुसार मानिसको वैज्ञानिक नाम होमो सेपियन्स हो।",
       "is_pro": false
     },
@@ -1407,7 +1407,7 @@
       "option_b": "यसमा पात नहुनाले",
       "option_c": "यसमा सूर्यको प्रकाश नपर्नाले",
       "option_d": "यसमा क्लोरोफिल नहुनाले",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "ढुसी वनस्पति जस्तो देखिए तापनि यसमा हरियो पदार्थ (Chlorophyll) नहुने भएकाले यसले प्रकाश संश्लेषण गर्न सक्दैन।",
       "is_pro": false
     },
@@ -1451,7 +1451,7 @@
       "option_b": "दोस्रो नियम",
       "option_c": "तेस्रो नियम",
       "option_d": "गुरुत्वाकर्षणको नियम",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कुनै वस्तुमा उत्पन्न हुने प्रवेग लगाइएको बलसँग समानुपातिक र पिण्डसँग व्युत्क्रमानुपातिक हुन्छ भन्ने न्युटनको दोस्रो नियम हो।",
       "is_pro": false
     },
@@ -1473,7 +1473,7 @@
       "option_b": "पेट्रोलियम पदार्थ",
       "option_c": "जलविद्युत्",
       "option_d": "प्राकृतिक ग्यास",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्रयोग गर्दै जाँदा कहिल्यै नसकिने र बारम्बार प्रयोग गर्न सकिने ऊर्जा जलविद्युत्, सौर्य ऊर्जा आदि नवीकरणीय हुन्।",
       "is_pro": false
     },
@@ -1495,7 +1495,7 @@
       "option_b": "ल्याक्टोमिटर",
       "option_c": "भोल्टमिटर",
       "option_d": "सिस्मोग्राफ (Seismograph)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "भूकम्प जाँदा उत्पन्न हुने कम्पनको रेकर्ड र तीव्रता नाप्ने उपकरण सिस्मोग्राफ हो।",
       "is_pro": false
     },
@@ -1539,7 +1539,7 @@
       "option_b": "निल्स बोर (Niels Bohr)",
       "option_c": "जोन डाल्टन",
       "option_d": "म्याडम क्युरी",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "निल्स बोरले परमाणुको केन्द्रमा न्युक्लियस रहने र बाहिर निश्चित कक्षमा इलेक्ट्रोन घुम्ने सिद्धान्त प्रतिपादन गरेका थिए।",
       "is_pro": false
     },
@@ -1561,7 +1561,7 @@
       "option_b": "४९० जुल",
       "option_c": "४९०० जुल",
       "option_d": "४९ जुल",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "PE = m × g × h हुन्छ। ५० × ९.८ × १० = ४९०० जुल शक्ति सञ्चय हुन्छ।",
       "is_pro": false
     },
@@ -1583,7 +1583,7 @@
       "option_b": "१५ ओम",
       "option_c": "१० ओम",
       "option_d": "५ ओम",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "समानान्तर जडानमा 1/R = 1/R1 + 1/R2 हुन्छ। 1/10 + 1/10 = 2/10 = 1/5। तसर्थ समतुल्य प्रतिरोध ५ ओम हुन्छ।",
       "is_pro": false
     },
@@ -1627,7 +1627,7 @@
       "option_b": "ध्रुवमा बढी र भूमध्य रेखामा कम",
       "option_c": "सबै ठाउँमा बराबर",
       "option_d": "दुवै ठाउँमा शून्य",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पृथ्वी ध्रुवतिर केही चेप्टो भएकोले अर्धव्यास कम हुन्छ, जसले गर्दा गुरुत्वप्रवेग ध्रुवमा बढी (९.८३ m/s²) र भूमध्य रेखामा कम (९.७८ m/s²) हुन्छ।",
       "is_pro": false
     },
@@ -1649,7 +1649,7 @@
       "option_b": "२००",
       "option_c": "५",
       "option_d": "०.२",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यान्त्रिक फाइदा (MA) = भार ÷ बल = १००० ÷ २०० = ५ हुन्छ।",
       "is_pro": false
     },
@@ -1671,7 +1671,7 @@
       "option_b": "८४००० जुल",
       "option_c": "४२०० जुल",
       "option_d": "८४०० जुल",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "Q = m × s × dt। पिण्ड m=०.२ kg, तापक्रम फरक dt=१०। Q = ०.२ × ४२०० × १० = ८४०० जुल।",
       "is_pro": false
     },
@@ -1715,7 +1715,7 @@
       "option_b": "९८",
       "option_c": "१०८",
       "option_d": "६४",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "(१×२) + ३२ + (१६×४) = २ + ३२ + ६४ = ९८ हुन्छ।",
       "is_pro": false
     },
@@ -1737,7 +1737,7 @@
       "option_b": "४ जुल",
       "option_c": "१०० जुल",
       "option_d": "१००० जुल",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कार्य (W) = बल (F) × पार गरेको दूरी (d) = २० × ५ = १०० जुल हुन्छ।",
       "is_pro": false
     },
@@ -1759,7 +1759,7 @@
       "option_b": "2H2 + O2 -> 2H2O",
       "option_c": "NaOH + HCl -> NaCl + H2O",
       "option_d": "2H2O -> 2H2 + O2",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एउटा यौगिक टुक्रिएर दुई वा दुईभन्दा बढी तत्त्व वा यौगिक बन्ने प्रतिक्रिया विच्छेदन हो (यहाँ पानी टुक्रिएर हाइड्रोजन र अक्सिजन बनेको छ)।",
       "is_pro": false
     },
@@ -1803,7 +1803,7 @@
       "option_b": "४°C",
       "option_c": "१००°C",
       "option_d": "-४°C",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पानीलाई ०°C बाट तताउँदा ४°C सम्म यसको आयतन घट्छ र घनत्व बढ्छ, त्यसैले ४°C मा घनत्व अधिकतम हुन्छ।",
       "is_pro": false
     },
@@ -1825,7 +1825,7 @@
       "option_b": "ओहमको नियम",
       "option_c": "पारस्परिक प्रेरण (Mutual Induction)",
       "option_d": "पास्कलको नियम",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ट्रान्सफर्मरले एउटा कोइलमा बगेको एसी करेन्टको चुम्बकीय प्रभावले अर्को कोइलमा भोल्टेज उत्पन्न गर्ने म्युचुअल इन्डक्सन सिद्धान्तमा काम गर्छ।",
       "is_pro": false
     },
@@ -1847,7 +1847,7 @@
       "option_b": "१५० युनिट",
       "option_c": "३० युनिट",
       "option_d": "१५ युनिट",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "विद्युत् खपत (kWh) = (P × t × d) / १००० = (१०० × ५ × ३०) / १००० = १५००० / १००० = १५ युनिट।",
       "is_pro": false
     },
@@ -1891,7 +1891,7 @@
       "option_b": "म्यागनिज डाइअक्साइड (MnO2)",
       "option_c": "हाइड्रोजन पेरोक्साइड",
       "option_d": "सल्फ्युरिक अम्ल",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पोटासियम क्लोरेटलाई तताएर अक्सिजन बनाउँदा प्रतिक्रिया छिटो गराउन म्यागनिज डाइअक्साइड उत्प्रेरक प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -1913,7 +1913,7 @@
       "option_b": "१२",
       "option_c": "२३",
       "option_d": "२२",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "परमाणु भार भनेको प्रोटोन र न्युट्रोन सङ्ख्याको योगफल हो। ११ + १२ = २३ (जुन सोडियमको परमाणु भार हो)।",
       "is_pro": false
     },
@@ -1935,7 +1935,7 @@
       "option_b": "४.८९ न्युटन",
       "option_c": "४८९ न्युटन",
       "option_d": "४८.९ न्युटन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "तौल W = m × g। चन्द्रमामा तौल = ३० × १.६३ = ४८.९ न्युटन हुन्छ (पिण्ड जताततै स्थिर रहन्छ)।",
       "is_pro": false
     },
@@ -1979,7 +1979,7 @@
       "option_b": "डिअक्सीराइबो न्युक्लिक एसिड",
       "option_c": "राइबो न्युक्लिक एसिड",
       "option_d": "डिअक्सी अक्सिजन एसिड",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कोषको न्युक्लियसमा पाइने क्रोमोजोम निर्माण गर्ने मुख्य पदार्थ DNA को पूरा रूप Deoxyribonucleic Acid हो।",
       "is_pro": false
     },
@@ -2001,7 +2001,7 @@
       "option_b": "अष्टमीको दिन",
       "option_c": "औँसीको दिन",
       "option_d": "एकादशीको दिन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सूर्य र पृथ्वीको बिचमा चन्द्रमा पर्न गई सूर्यलाई छेक्ने अवस्था सूर्यग्रहण हो, जुन औँसी (New Moon) को दिन मात्र सम्भव हुन्छ।",
       "is_pro": false
     },
@@ -2023,7 +2023,7 @@
       "option_b": "शाकाहारी जीव",
       "option_c": "विघटक (ब्याक्टेरिया)",
       "option_d": "हरिया बिरुवाहरू",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सूर्यको प्रकाशबाट आफ्नो खाना आफैँ बनाउन सक्ने हरिया बिरुवाहरूलाई पारिस्थितिक प्रणालीमा उत्पादक भनिन्छ।",
       "is_pro": false
     },
@@ -2067,7 +2067,7 @@
       "option_b": "०.०२ सेकेन्ड",
       "option_c": "०.०५ सेकेन्ड",
       "option_d": "२ सेकेन्ड",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "समयान्तर (T) = 1/f हुन्छ। त्यसैले 1/50 = ०.०२ सेकेन्ड हुन्छ।",
       "is_pro": false
     },
@@ -2089,7 +2089,7 @@
       "option_b": "४० न्युटन",
       "option_c": "३० न्युटन",
       "option_d": "१० न्युटन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आर्किमिडिजको सिद्धान्तअनुसार वस्तुमा लाग्ने उध्र्वचाप (Upthrust) विस्थापित पानीको तौल बराबर (१० N) हुन्छ। पानीमा तौल = ४० - १० = ३० न्युटन।",
       "is_pro": false
     },
@@ -2111,7 +2111,7 @@
       "option_b": "केशिका (Capillary)",
       "option_c": "भल्भ (Valve)",
       "option_d": "धमनी (Artery)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मुटुबाट शरीरका अङ्गहरूमा शुद्ध रगत लैजाने बाक्लो भित्ता भएको रक्तनलीलाई धमनी (Artery) भनिन्छ (पल्मोनरी धमनी बाहेक)।",
       "is_pro": false
     },
@@ -2155,7 +2155,7 @@
       "option_b": "२० न्युटन",
       "option_c": "१२ न्युटन",
       "option_d": "८ न्युटन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "न्युटनको दोस्रो नियमअनुसार F = m × a = १० × २ = २० न्युटन बल लागेको हुन्छ।",
       "is_pro": false
     },
@@ -2177,7 +2177,7 @@
       "option_b": "३३४ हर्ज",
       "option_c": "१६६ हर्ज",
       "option_d": "३३० हर्ज",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "तरङ्गको गति (v) = f × λ हुन्छ। ३३२ = f × २, तसर्थ f = ३३२/२ = १६६ हर्ज हुन्छ।",
       "is_pro": false
     },
@@ -2199,7 +2199,7 @@
       "option_b": "हाइड्रोक्लोरिक अम्ल र पोटासियम",
       "option_c": "एमोनियम सल्फेट र सोडियम",
       "option_d": "एमोनियम क्लोराइड र क्याल्सियम हाइड्रोअक्साइड",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "प्रयोगशालामा एमोनियम क्लोराइड र क्याल्सियम हाइड्रोअक्साइड (चुनपानी) को मिश्रणलाई तताएर एमोनिया ग्यास बनाइन्छ।",
       "is_pro": false
     },
@@ -2243,7 +2243,7 @@
       "option_b": "टर्रो",
       "option_c": "गुलियो",
       "option_d": "नुनिलो",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अम्लको स्वाद अमिलो हुन्छ भने क्षार (Base) को स्वाद टर्रो (Bitter) हुन्छ।",
       "is_pro": false
     },
@@ -2265,7 +2265,7 @@
       "option_b": "वृहस्पति",
       "option_c": "मङ्गल",
       "option_d": "शनि",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "मङ्गल ग्रहको माटोमा आइरन अक्साइड (फलामको खिया) को मात्रा धेरै भएकोले यो रातो देखिन्छ।",
       "is_pro": false
     },
@@ -2287,7 +2287,7 @@
       "option_b": "सिसा",
       "option_c": "सुन",
       "option_d": "हिरा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कार्बनको शुद्ध रूप हिरा (Diamond) प्राकृतिक रूपमा पाइने सबैभन्दा कडा पदार्थ हो।",
       "is_pro": false
     },
@@ -2331,7 +2331,7 @@
       "option_b": "कुलम्ब (Coulomb)",
       "option_c": "भोल्ट",
       "option_d": "ओम",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "विद्युतीय चार्जलाई कुलम्ब (C) मा नापिन्छ, जबकि करेन्टलाई एम्पियरमा नापिन्छ।",
       "is_pro": false
     },
@@ -2353,7 +2353,7 @@
       "option_b": "Ag",
       "option_c": "Au",
       "option_d": "Gd",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सुनको ल्याटिन नाम औरम (Aurum) भएकोले यसको रासायनिक सङ्केत 'Au' राखिएको हो।",
       "is_pro": false
     },
@@ -2375,7 +2375,7 @@
       "option_b": "२४",
       "option_c": "२८",
       "option_d": "३२",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एक स्वस्थ वयस्क मानिसको मुखमा इन्साइजर, क्यानाइन, प्रिमोलार र मोलार गरी जम्मा ३२ वटा स्थायी दाँतहरू हुन्छन्।",
       "is_pro": false
     },
@@ -2419,7 +2419,7 @@
       "option_b": "घिर्नी",
       "option_c": "छड्के सतह",
       "option_d": "पेच",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "डोरीको सहायताले भार उचाल्न प्रयोग गरिने पाङ्ग्राको रूप नै घिर्नी (Pulley) हो।",
       "is_pro": false
     },
@@ -2441,7 +2441,7 @@
       "option_b": "बेरीबेरी",
       "option_c": "स्कर्भी (Scurvy)",
       "option_d": "रिकेट्स",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "भिटामिन 'सी' को कमीले गिजाबाट रगत आउने स्कर्भी (Scurvy) रोग लाग्दछ।",
       "is_pro": false
     },
@@ -2463,7 +2463,7 @@
       "option_b": "२:२",
       "option_c": "१:१",
       "option_d": "२:१",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पानीको रासायनिक सुत्र H2O हो, जसमा २ वटा हाइड्रोजन र १ वटा अक्सिजन परमाणु (२:१ को अनुपात) हुन्छन्।",
       "is_pro": false
     },
@@ -2507,7 +2507,7 @@
       "option_b": "सेकेन्ड",
       "option_c": "मिनेट",
       "option_d": "दिन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अन्तर्राष्ट्रिय नापतौल प्रणालीअनुसार समयको आधारभूत एकाइ सेकेन्ड (Second) हो।",
       "is_pro": false
     },
@@ -2529,7 +2529,7 @@
       "option_b": "वरुण",
       "option_c": "शनि (Saturn)",
       "option_d": "वृहस्पति",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "शनि ग्रहको वरिपरि बरफ र धुलोका कणहरूले बनेको स्पष्ट र सुन्दर रिङ (Ring) देखिन्छ।",
       "is_pro": false
     },
@@ -2551,7 +2551,7 @@
       "option_b": "उपग्रह",
       "option_c": "उल्का",
       "option_d": "तारा (Star)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सूर्य आफैँले प्रकाश र ताप उत्पन्न गर्ने एक मध्यम आकारको तारा (Star) हो।",
       "is_pro": false
     },
@@ -2595,7 +2595,7 @@
       "option_b": "निलो ह्वेल (Blue Whale)",
       "option_c": "जिराफ",
       "option_d": "गैँडा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पानीमा बस्ने निलो ह्वेल (Blue Whale) हाल पृथ्वीमा पाइने सबैभन्दा ठूलो जीव र स्तनधारी हो।",
       "is_pro": false
     },
@@ -2617,7 +2617,7 @@
       "option_b": "मृग",
       "option_c": "चितुवा (Cheetah)",
       "option_d": "घोडा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "चितुवा (Cheetah) जमिनमा सबैभन्दा छिटो (१०० किमी/घण्टाभन्दा बढी) दौडन सक्ने जनावर हो।",
       "is_pro": false
     },
@@ -2639,7 +2639,7 @@
       "option_b": "स्थिति शक्ति",
       "option_c": "ताप शक्ति",
       "option_d": "गति शक्ति (Kinetic Energy)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "गुडिरहेको गाडी वा बगिरहेको पानीमा झैँ चालको कारणले वस्तुमा हुने शक्ति गति शक्ति हो।",
       "is_pro": false
     },
@@ -2683,7 +2683,7 @@
       "option_b": "हेलियम (Helium)",
       "option_c": "नाइट्रोजन",
       "option_d": "कार्बन डाइअक्साइड",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हेलियम हावाभन्दा निकै हलुका र निष्क्रिय ग्यास भएकाले बेलुन उडाउन प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -2705,7 +2705,7 @@
       "option_b": "कलेजो",
       "option_c": "मुटु (Heart)",
       "option_d": "मिर्गौला",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "मुटु (Heart) ले खुम्चने र फुक्ने प्रक्रियाद्वारा शरीरका सबै भागमा रगत पम्प गर्ने काम गर्छ।",
       "is_pro": false
     },
@@ -2727,7 +2727,7 @@
       "option_b": "तरल",
       "option_c": "ग्यास",
       "option_d": "प्लाज्मा (Plasma)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "अत्यधिक उच्च तापक्रममा ग्यास आयनहरूमा परिणत हुँदा बन्ने पदार्थको चौथो अवस्था प्लाज्मा हो (जस्तै: सूर्यमा)।",
       "is_pro": false
     },
@@ -2771,7 +2771,7 @@
       "option_b": "चन्द्रमा (Moon)",
       "option_c": "मङ्गल",
       "option_d": "तारा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पृथ्वीको वरिपरि घुम्ने एकमात्र प्राकृतिक उपग्रह चन्द्रमा (Moon) हो।",
       "is_pro": false
     },
@@ -2793,7 +2793,7 @@
       "option_b": "कक्ष (Orbit)",
       "option_c": "न्युक्लियस (Nucleus)",
       "option_d": "अणु (Molecule)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "परमाणुको केन्द्रमा प्रोटोन र न्युट्रोन मिलेर बनेको गह्रौँ भाग हुन्छ, जसलाई न्युक्लियस भनिन्छ।",
       "is_pro": false
     },
@@ -2815,7 +2815,7 @@
       "option_b": "न्युट्रोन",
       "option_c": "फोटोन",
       "option_d": "प्रोटोन (Proton)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "परमाणुमा प्रोटोन धनात्मक, इलेक्ट्रोन ऋणात्मक र न्युट्रोन चार्जविहीन कण हुन्।",
       "is_pro": false
     },
@@ -2859,7 +2859,7 @@
       "option_b": "भौतिक तराजु (Beam Balance)",
       "option_c": "कमानी तराजु",
       "option_d": "थर्मोमिटर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "वस्तुको पिण्ड नाप्न भौतिक तराजु (Beam Balance/Pan Balance) र तौल नाप्न स्प्रिङ तराजु प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -2881,7 +2881,7 @@
       "option_b": "३",
       "option_c": "१",
       "option_d": "०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "स्थिर घिर्नीले बलको दिशा मात्र परिवर्तन गर्ने भएकोले यसले बल गुणा गर्दैन, तसर्थ यसको MA १ हुन्छ।",
       "is_pro": false
     },
@@ -2903,7 +2903,7 @@
       "option_b": "चाल (Speed)",
       "option_c": "दूरी (Distance)",
       "option_d": "गति (Velocity)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "निश्चित दिशा तोकिएको पार गरेको दूरी (विस्थापन) लाई एकाइ समयमा नाप्दा गति (Velocity) भनिन्छ।",
       "is_pro": false
     },
@@ -2947,7 +2947,7 @@
       "option_b": "४२०० J/kg°C",
       "option_c": "४२ J/kg°C",
       "option_d": "२४०० J/kg°C",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "१ किलोग्राम पानीको तापक्रम १°C ले बढाउन ४२०० जुल तापशक्ति आवश्यक पर्छ, जसलाई विशिष्ट तापधारण क्षमता भनिन्छ।",
       "is_pro": false
     },
@@ -2969,7 +2969,7 @@
       "option_b": "प्रकाशको विच्छेदन",
       "option_c": "प्रकाशको परावर्तन (Reflection)",
       "option_d": "प्रकाशको विकीरण",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ऐना वा चिल्लो सतहमा प्रकाशका किरणहरू ठोक्किएर सोही माध्यममा फर्किने प्रक्रियालाई परावर्तन (Reflection) भनिन्छ।",
       "is_pro": false
     },
@@ -2991,7 +2991,7 @@
       "option_b": "प्रकाशको आवर्तन",
       "option_c": "प्रकाशको सञ्चालन",
       "option_d": "प्रकाशको विच्छेदन (Dispersion)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सेतो प्रकाश पारदर्शी प्रिज्माबाट पार हुँदा यसमा रहेका सातवटा रङहरू छुट्टिने प्रक्रिया प्रकाशको विच्छेदन (Dispersion of Light) हो।",
       "is_pro": false
     },
@@ -3035,7 +3035,7 @@
       "option_b": "इलेक्ट्रोनको (Electrons)",
       "option_c": "न्युट्रोनको",
       "option_d": "परमाणुको",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सुचालक तारमा स्वतन्त्र इलेक्ट्रोनहरू एक दिशाबाट अर्को दिशामा बग्नु नै विद्युत् प्रवाह (Current Flow) हो।",
       "is_pro": false
     },
@@ -3057,7 +3057,7 @@
       "option_b": "ओम",
       "option_c": "भोल्ट (Volt)",
       "option_d": "वाट",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पोटेन्सियल फरक वा भोल्टेज नाप्न भोल्ट (V) एकाइ प्रयोग गरिन्छ, जसलाई भोल्टमिटरले नापिन्छ।",
       "is_pro": false
     },
@@ -3079,7 +3079,7 @@
       "option_b": "५ भोल्ट",
       "option_c": "२ भोल्ट",
       "option_d": "१.५ भोल्ट",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बजारमा पाइने साधारण ड्राई सेल (जस्तै AA वा AAA ब्याट्री) को भोल्टेज १.५ भोल्ट (1.5 V) हुन्छ।",
       "is_pro": false
     },
@@ -3123,7 +3123,7 @@
       "option_b": "६",
       "option_c": "१२",
       "option_d": "१४",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आवर्त तालिकामा हाइड्रोजन, हेलियम, लिथियम, बेरिलियम, बोरोन पछि कार्बन छैटौँ स्थानमा आउँछ, त्यसैले यसको परमाणु सङ्ख्या ६ हो।",
       "is_pro": false
     },
@@ -3145,7 +3145,7 @@
       "option_b": "मैन",
       "option_c": "कपुर (Camphor)",
       "option_d": "फलाम",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कपुर, आयोडिन जस्ता पदार्थहरू तताउँदा तरलमा नबदलिई सीधै बाफ वा ग्यासमा परिणत हुन्छन्, जसलाई ऊर्ध्वपातन (Sublimation) भनिन्छ।",
       "is_pro": false
     },
@@ -3167,7 +3167,7 @@
       "option_b": "तामा र टिन",
       "option_c": "सुन र चाँदी",
       "option_d": "तामा र जस्ता (Copper & Zinc)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पित्तल एउटा मिश्रधातु (Alloy) हो जुन तामा (Copper) र जस्ता (Zinc) धातुहरू पगालेर मिसाई बनाइन्छ।",
       "is_pro": false
     },
@@ -3211,7 +3211,7 @@
       "option_b": "निलो (Blue) हुन्छ",
       "option_c": "पहेँलो हुन्छ",
       "option_d": "सेतो हुन्छ",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "क्षारले रातो लिटमस पेपरलाई निलो बनाउँछ भने अम्लले निलो लिटमस पेपरलाई रातो बनाउँछ।",
       "is_pro": false
     },
@@ -3233,7 +3233,7 @@
       "option_b": "ग्रुप AB",
       "option_c": "ग्रुप O",
       "option_d": "ग्रुप B",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "रक्तसमूह 'O' (विशेषगरी O नेगेटिभ) मा कुनै एन्टिजेन नहुने भएकाले यसको रगत अरू सबै समूहलाई दिन मिल्छ।",
       "is_pro": false
     },
@@ -3255,7 +3255,7 @@
       "option_b": "प्लेटलेट्स",
       "option_c": "प्लाज्मा",
       "option_d": "सेतो रक्तकोष (WBC)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सेतो रक्तकोष (White Blood Cells) ले हाम्रो शरीरमा प्रवेश गरेका बाह्य कीटाणुहरूलाई नष्ट गरी रोग लाग्नबाट बचाउँछ।",
       "is_pro": false
     },
@@ -3299,7 +3299,7 @@
       "option_b": "विखण्डन (Binary Fission)",
       "option_c": "पुनरुत्पादन (Regeneration)",
       "option_d": "भेजिटेटिभ प्रोपागेसन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "एककोषीय अमिबा वयस्क भएपछि यसको न्युक्लियस र कोषद्रव्य दुई भागमा बाँडिएर प्रजनन गर्छ, जसलाई विखण्डन भनिन्छ।",
       "is_pro": false
     },
@@ -3321,7 +3321,7 @@
       "option_b": "फोक्सोबाट मात्र",
       "option_c": "छाला र फोक्सो दुवैबाट",
       "option_d": "मुखबाट मात्र",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "भ्यागुतो पानीमा हुँदा ओसिलो छालाबाट र जमिनमा हुँदा फोक्सोबाट श्वासप्रश्वास गर्दछ।",
       "is_pro": false
     },
@@ -3343,7 +3343,7 @@
       "option_b": "न्युक्लियस",
       "option_c": "साइटोप्लाज्म",
       "option_d": "कोषभित्ता (Cell Wall)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सेलुलोजबाट बनेको कोषभित्ता (Cell Wall) वनस्पति कोषको बाहिरी तह हो, जसले यसलाई कडा र निश्चित आकार दिन्छ।",
       "is_pro": false
     },
@@ -3387,7 +3387,7 @@
       "option_b": "म्यागनिज डाइअक्साइड (MnO2)",
       "option_c": "सोडियम क्लोराइड",
       "option_d": "चुनढुङ्गा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पोटासियम क्लोरेटलाई छिटो र कम तापक्रममै टुक्र्याउन म्यागनिज डाइअक्साइडलाई उत्प्रेरकका रूपमा प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -3409,7 +3409,7 @@
       "option_b": "सल्फ्युरिक अम्ल",
       "option_c": "हाइड्रोक्लोरिक अम्ल (HCl)",
       "option_d": "एसिटिक अम्ल",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्रयोगशालामा मार्बल वा चुनढुङ्गाका टुक्राहरूमा फिक्का हाइड्रोक्लोरिक अम्ल राखेर CO2 ग्यास बनाइन्छ।",
       "is_pro": false
     },
@@ -3431,7 +3431,7 @@
       "option_b": "ग्यालियम",
       "option_c": "फलाम",
       "option_d": "पारो (Mercury)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पारो (Mercury - Hg) एक धातु हो तर यो सामान्य तापक्रममा तरल अवस्थामा रहन्छ (ब्रोमिन तरल अधातु हो)।",
       "is_pro": false
     },
@@ -3475,7 +3475,7 @@
       "option_b": "बल × विस्थापन (W = F × d)",
       "option_c": "पिण्ड × प्रवेग",
       "option_d": "शक्ति × समय",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कुनै वस्तुमा बल (Force) लगाउँदा त्यो वस्तु बलकै दिशामा विस्थापन (Displacement) भयो भने कार्य भएको मानिन्छ (W=F×d)।",
       "is_pro": false
     },
@@ -3497,7 +3497,7 @@
       "option_b": "(प्रतिफल कार्य ÷ लगानी कार्य) × ५०%",
       "option_c": "(प्रतिफल कार्य ÷ लगानी कार्य) × १००%",
       "option_d": "लगानी कार्य + प्रतिफल कार्य",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "मेसिनले गरेको काम (Output work) र मेसिनमा गरिएको काम (Input work) को अनुपातलाई प्रतिशतमा लाँदा कार्यक्षमता निस्कन्छ।",
       "is_pro": false
     },
@@ -3519,7 +3519,7 @@
       "option_b": "पास्कलको नियम",
       "option_c": "ग्यालिलियोको नियम",
       "option_d": "आर्किमिडिजको सिद्धान्त (Archimedes' Principle)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आर्किमिडिजले पत्ता लगाएका हुन् कि तरलमा डुबेको वस्तुले आफ्नो तौल बराबरको तरल पदार्थ विस्थापित गर्दछ।",
       "is_pro": false
     },
@@ -3563,7 +3563,7 @@
       "option_b": "चाप बढ्छ",
       "option_c": "समान रहन्छ",
       "option_d": "शून्य हुन्छ",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "तरलको चाप (P = hdg) गहिराइ (h) सँग समानुपातिक हुन्छ, त्यसैले जति गहिराइ बढ्यो चाप त्यति नै बढ्छ।",
       "is_pro": false
     },
@@ -3585,7 +3585,7 @@
       "option_b": "तरल माध्यममा",
       "option_c": "ठोस माध्यममा (Solid)",
       "option_d": "शून्य माध्यममा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ठोस पदार्थका अणुहरू आफ्नै ठाउँमा कम्पन भई एउटाबाट अर्कोमा ताप सर्ने विधिलाई कन्डक्सन भनिन्छ।",
       "is_pro": false
     },
@@ -3607,7 +3607,7 @@
       "option_b": "केल्भिन",
       "option_c": "सेल्सियस",
       "option_d": "जुल वा क्यालोरी (Joule or Calorie)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "ताप एक प्रकारको शक्ति हो, त्यसैले यसलाई जुल (J) मा नापिन्छ र पुरानो चलनअनुसार क्यालोरीमा पनि नापिन्छ (तापक्रम चाहिँ केल्भिन/सेल्सियसमा नापिन्छ)।",
       "is_pro": false
     },
@@ -3651,7 +3651,7 @@
       "option_b": "अवास्तविक र सुल्टो (Virtual and Erect)",
       "option_c": "वास्तविक र सानो",
       "option_d": "अवास्तविक र ठूलो",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हामीले घरमा हेर्ने ऐनामा आकृति सधैँ पर्दामा उतार्न नसकिने (अवास्तविक), सुल्टो र वस्तुको आकार बराबरको हुन्छ।",
       "is_pro": false
     },
@@ -3673,7 +3673,7 @@
       "option_b": "बल ÷ समय",
       "option_c": "कार्य ÷ समय (P = W/t)",
       "option_d": "कार्य × समय",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "एकाइ समयमा गरिएको कार्यलाई सामर्थ्य भनिन्छ। तसर्थ सामर्थ्य (P) = कार्य (W) / समय (t) हुन्छ।",
       "is_pro": false
     },
@@ -3695,7 +3695,7 @@
       "option_b": "डाइरेक्ट करेन्ट (DC) मा",
       "option_c": "स्थिर विद्युत्मा",
       "option_d": "अल्टरनेटिङ करेन्ट (AC) मा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "ट्रान्सफर्मर म्युचुअल इन्डक्सन सिद्धान्तमा काम गर्ने भएकाले यसले समयसँगै दिशा बदल्ने AC (Alternating Current) मा मात्र काम गर्छ।",
       "is_pro": false
     },
@@ -3739,7 +3739,7 @@
       "option_b": "न्यून पग्लाङ्क विन्दु (Low melting point)",
       "option_c": "उच्च विद्युत् सुचालकता",
       "option_d": "धेरै मोटोपन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "परिपथमा धेरै करेन्ट बग्दा फ्युज तार पग्लिएर लाइन काटिनुपर्ने भएकाले यसको पग्लने बिन्दु (Melting point) न्यून हुनुपर्छ।",
       "is_pro": false
     },
@@ -3761,7 +3761,7 @@
       "option_b": "९८ जुल",
       "option_c": "४९० जुल",
       "option_d": "४९ जुल",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कार्य W = स्थिति शक्ति (mgh) सँग बराबर हुन्छ। १० × ९.८ × ५ = ४९० जुल कार्य हुन्छ।",
       "is_pro": false
     },
@@ -3783,7 +3783,7 @@
       "option_b": "८ जुल",
       "option_c": "३२ जुल",
       "option_d": "१६ जुल",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "KE = 1/2 mv² = 1/2 × २ × (४)² = १ × १६ = १६ जुल हुन्छ।",
       "is_pro": false
     },
@@ -3827,7 +3827,7 @@
       "option_b": "४४० भोल्ट",
       "option_c": "२२० भोल्ट",
       "option_d": "८८० भोल्ट",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सुत्र Vp/Vs = Np/Ns अनुसार २२०/Vs = १००/२०० => Vs = (२२० × २००) / १०० = ४४० भोल्ट आउँछ।",
       "is_pro": false
     },
@@ -3849,7 +3849,7 @@
       "option_b": "१ मिटर",
       "option_c": "२ मिटर",
       "option_d": "४ मिटर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सुत्र v = f × λ अनुसार ३३२ = १६६ × λ हुन्छ। तसर्थ λ = ३३२ ÷ १६६ = २ मिटर हुन्छ।",
       "is_pro": false
     },
@@ -3871,7 +3871,7 @@
       "option_b": "०.२ m/s²",
       "option_c": "१६ m/s²",
       "option_d": "५ m/s²",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "न्युटनको दोस्रो नियम F = ma अनुसार २० = ४ × a हुन्छ, तसर्थ a = २० ÷ ४ = ५ m/s² प्रवेग उत्पन्न हुन्छ।",
       "is_pro": false
     },
@@ -3915,7 +3915,7 @@
       "option_b": "१०४°F",
       "option_c": "४०°F",
       "option_d": "१२०°F",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सुत्र F = (C × ९/५) + ३२ हो। (४० × ९/५) + ३२ = (८ × ९) + ३२ = ७२ + ३२ = १०४°F हुन्छ।",
       "is_pro": false
     },
@@ -3937,7 +3937,7 @@
       "option_b": "१५० g/cm³",
       "option_c": "४ g/cm³",
       "option_d": "०.२५ g/cm³",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "घनत्व (d) = पिण्ड (m) ÷ आयतन (v) = २०० ÷ ५० = ४ ग्राम प्रति घन सेन्टिमिटर (g/cm³) हुन्छ।",
       "is_pro": false
     },
@@ -3959,7 +3959,7 @@
       "option_b": "२, ८, ९, १",
       "option_c": "२, १८",
       "option_d": "२, ८, ८, २",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बोरको 2n² नियमअनुसार पहिलो (K) मा २, दोस्रो (L) मा ८, तेस्रो (M) मा ८ र चौथो (N) मा २ वटा इलेक्ट्रोन (२,८,८,२) रहन्छन्।",
       "is_pro": false
     },
@@ -4003,7 +4003,7 @@
       "option_b": "२",
       "option_c": "३",
       "option_d": "४",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "समीकरण सन्तुलन गर्दा नाइट्रोजन २ वटा र हाइड्रोजन ६ वटा हुनुपर्छ, त्यसैले NH3 को अगाडि २ राख्दा (2NH3) सन्तुलन हुन्छ।",
       "is_pro": false
     },
@@ -4025,7 +4025,7 @@
       "option_b": "हाइड्रोजन",
       "option_c": "पानी (Water)",
       "option_d": "अक्सिजन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "अम्ल र क्षारबीच प्रतिक्रिया हुँदा हाइड्रोजन आयन (H+) र हाइड्रोक्साइड आयन (OH-) मिलेर सधैँ पानी (H2O) बन्दछ।",
       "is_pro": false
     },
@@ -4047,7 +4047,7 @@
       "option_b": "०.६६",
       "option_c": "२.०",
       "option_d": "१.५",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "रिफ्रयाक्टिभ इन्डेक्स = हावामा प्रकाशको गति / सिसामा प्रकाशको गति = (३×१०^८) ÷ (२×१०^८) = ३/२ = १.५ हुन्छ।",
       "is_pro": false
     },
@@ -4091,7 +4091,7 @@
       "option_b": "४५ मिटर",
       "option_c": "१५ मिटर",
       "option_d": "९० मिटर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सुत्र s = ut + 1/2 gt² मा u=० राख्दा, s = 1/2 × १० × (३)² = ५ × ९ = ४५ मिटर हुन्छ।",
       "is_pro": false
     },
@@ -4113,7 +4113,7 @@
       "option_b": "१५ एम्पियर",
       "option_c": "२ एम्पियर",
       "option_d": "०.५ एम्पियर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ओहमको नियम V = I × R अनुसार I = V ÷ R हुन्छ। १० ÷ ५ = २ एम्पियर करेन्ट बग्दछ।",
       "is_pro": false
     },
@@ -4135,7 +4135,7 @@
       "option_b": "१०५ वाट",
       "option_c": "५ वाट",
       "option_d": "२० वाट",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सामर्थ्य (P) = कार्य (W) ÷ समय (t) = १०० ÷ ५ = २० वाट (W) हुन्छ।",
       "is_pro": false
     },
@@ -4179,7 +4179,7 @@
       "option_b": "स्पष्ट न्युक्लियस (True Nucleus) भएको कोष",
       "option_c": "कोष भित्ता नभएको कोष",
       "option_d": "भाइरसको कोष",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "न्युक्लियर मेम्ब्रेनले घेरिएको स्पष्ट न्युक्लियस र पूर्ण कोष अङ्गहरू भएको कोषलाई युक्यारियोटिक कोष भनिन्छ।",
       "is_pro": false
     },
@@ -4201,7 +4201,7 @@
       "option_b": "पिण्ड फरक तर तौल समान हुन्छ",
       "option_c": "दुवै ठाउँमा तौल फरक तर पिण्ड समान हुन्छ",
       "option_d": "तौल र पिण्ड दुवै फरक हुन्छ",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पिण्ड (Mass) वस्तुमा रहेको पदार्थको परिमाण हो जुन जहाँ पनि स्थिर रहन्छ, तर गुरुत्वप्रवेग फरक हुने भएकाले तौल (Weight) फरक हुन्छ।",
       "is_pro": false
     },
@@ -4223,7 +4223,7 @@
       "option_b": "दुई गुणा बढी",
       "option_c": "१० गुणा कम",
       "option_d": "६ गुणा कम (१/६ भाग)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "चन्द्रमाको पिण्ड पृथ्वीको तुलनामा निकै कम भएकोले त्यहाँको गुरुत्वप्रवेग पृथ्वीको लगभग १/६ भाग (१.६३ m/s²) मात्र हुन्छ।",
       "is_pro": false
     },
@@ -4267,7 +4267,7 @@
       "option_b": "आफ्नो पूरा तौल बराबरको तरल",
       "option_c": "तरलको घनत्व बराबर",
       "option_d": "शून्य",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "तैरिइरहेको वस्तुले जहिले पनि आफ्नो तौल जति छ, त्यति नै तौल बराबरको तरल पदार्थ विस्थापित गर्दछ।",
       "is_pro": false
     },
@@ -4289,7 +4289,7 @@
       "option_b": "३३४ J/kg",
       "option_c": "३.३४ × १०^५ J/kg",
       "option_d": "४२०० J/kg",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "०°C को १ किलोग्राम बरफलाई ०°C कै पानीमा परिणत गर्न ३.३४ × १०^५ जुल तापशक्तिको आवश्यकता पर्दछ।",
       "is_pro": false
     },
@@ -4311,7 +4311,7 @@
       "option_b": "फलाम",
       "option_c": "म्याग्नेसियम",
       "option_d": "आयोडिन (Iodine)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "थाइरोक्सिन हर्मोन उत्पादन गर्न आयोडिन नभई नहुने तत्त्व हो, यसको कमीले घाँटीमा पासो (Goiter) आउँछ।",
       "is_pro": false
     },
@@ -4355,7 +4355,7 @@
       "option_b": "सेरेबेलम (Cerebellum)",
       "option_c": "मेडुला अब्लोन्गाटा",
       "option_d": "स्पाइनल कर्ड",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "मस्तिष्कको पछाडिको सानो भाग सेरेबेलम (अनुमस्तिष्क) ले मांसपेशीहरूको चाल नियन्त्रण गरी शरीरको सन्तुलन कायम राख्छ।",
       "is_pro": false
     },
@@ -4377,7 +4377,7 @@
       "option_b": "थाइरोइड ग्रन्थि",
       "option_c": "प्यान्क्रियाज (Pancreas)",
       "option_d": "एड्रिनल ग्रन्थि",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्यान्क्रियाज (प्याङ्क्रियाज / अग्न्याशय) मा रहेको आइलेट्स अफ ल्याङ्गरह्यान्सले इन्सुलिन हर्मोन उत्पादन गर्छ।",
       "is_pro": false
     },
@@ -4399,7 +4399,7 @@
       "option_b": "ट्रान्सफर्मर",
       "option_c": "ब्याट्री",
       "option_d": "विद्युतीय मोटर (Electric Motor)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मोटरले विद्युत् शक्ति लिएर वस्तुलाई घुमाउने (चालमा ल्याउने) काम गर्ने हुनाले यसले विद्युत्लाई यान्त्रिक शक्तिमा बदल्छ (जेनेरेटरले ठीक उल्टो गर्छ)।",
       "is_pro": false
     },
@@ -4443,7 +4443,7 @@
       "option_b": "m/s (मिटर/सेकेन्ड)",
       "option_c": "m²",
       "option_d": "kg m/s",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "विस्थापनलाई समयले भाग गर्दा गति (Velocity) निस्कन्छ, जसको एकाइ मिटर प्रति सेकेन्ड (m/s) हो।",
       "is_pro": false
     },
@@ -4465,7 +4465,7 @@
       "option_b": "ब्यारोमिटर",
       "option_c": "क्यालोरीमिटर (Calorimeter)",
       "option_d": "ल्याक्टोमिटर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "तापक्रम नाप्न थर्मोमिटर प्रयोग गरिन्छ भने तापशक्तिको परिमाण नाप्न क्यालोरीमिटरको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -4487,7 +4487,7 @@
       "option_b": "३०० वटा",
       "option_c": "५०० वटा",
       "option_d": "६०० भन्दा बढी",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मानिसको शरीरमा २०६ वटा हाडहरू हुन्छन् भने ६०० भन्दा बढी (करिब ६३९) मांसपेशीहरू हुन्छन्।",
       "is_pro": false
     },
@@ -4531,7 +4531,7 @@
       "option_b": "कलेजो (Liver)",
       "option_c": "थाइरोइड",
       "option_d": "पिट्युटरी",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "मानव शरीरमा पाइने सबैभन्दा ठूलो आन्तरिक अङ्ग र ग्रन्थि कलेजो हो, जसले पित्त रस उत्पादन गर्छ।",
       "is_pro": false
     },
@@ -4553,7 +4553,7 @@
       "option_b": "पेरिस्कोप",
       "option_c": "माइक्रोस्कोप (Microscope)",
       "option_d": "क्यालिडोस्कोप",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ब्याक्टेरिया, कोष जस्ता नाङ्गो आँखाले नदेखिने सुक्ष्म जीव तथा वस्तुहरू हेर्न माइक्रोस्कोप प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -4575,7 +4575,7 @@
       "option_b": "एडिस एजिप्टाइ",
       "option_c": "भाले एनोफिलिस",
       "option_d": "पोथी एनोफिलिस (Female Anopheles)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मलेरिया रोग प्लाज्मोडियम नामक परजीवीबाट लाग्छ, जसलाई पोथी एनोफिलिस लामखुट्टेले सार्ने काम गर्छ।",
       "is_pro": false
     },
@@ -4619,7 +4619,7 @@
       "option_b": "२१%",
       "option_c": "०.०३%",
       "option_d": "१%",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हाम्रो वायुमण्डलमा सबैभन्दा धेरै नाइट्रोजन (७८%) र दोस्रोमा अक्सिजन (२१%) रहेको छ।",
       "is_pro": false
     },
@@ -4641,7 +4641,7 @@
       "option_b": "उल्का",
       "option_c": "तारापुञ्ज (Galaxy)",
       "option_d": "पुच्छ्रेतारा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "लाखौँ करोडौँ ताराहरू, ग्यास र धुलोको कणहरूको विशाल समूहलाई तारापुञ्ज भनिन्छ।",
       "is_pro": false
     },
@@ -4663,7 +4663,7 @@
       "option_b": "भित्री कोर",
       "option_c": "बाहिरी कोर",
       "option_d": "मेन्टल (Mantle)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पृथ्वीको दोस्रो तह मेन्टलमा अत्यधिक तापक्रमका कारण चट्टानहरू पग्लिएको अवस्थामा हुन्छन् जसलाई म्याग्मा भनिन्छ।",
       "is_pro": false
     },
@@ -4707,7 +4707,7 @@
       "option_b": "तामा (Copper)",
       "option_c": "चाँदी",
       "option_d": "टिन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "तामा विद्युत्को राम्रो सुचालक हुनुका साथै सस्तो र लचिलो हुने भएकाले तार बनाउन बढी प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -4729,7 +4729,7 @@
       "option_b": "प्रतिध्वनि",
       "option_c": "ध्वनि प्रदूषण (Sound Pollution)",
       "option_d": "कम्पन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "मानिसको सुन्ने क्षमताभन्दा बढी र स्वास्थ्यमा असर पुर्‍याउने अवाञ्छित ध्वनिलाई ध्वनि प्रदूषण भनिन्छ।",
       "is_pro": false
     },
@@ -4751,7 +4751,7 @@
       "option_b": "एक दिन",
       "option_c": "एक प्रकाश वर्ष",
       "option_d": "एक वर्ष (One Year)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पृथ्वीले आफ्नो अक्षमा घुम्न १ दिन र सूर्यको वरिपरि एक फन्को लगाउन ३६५ दिन अर्थात् एक वर्ष लगाउँछ।",
       "is_pro": false
     },
@@ -4795,7 +4795,7 @@
       "option_b": "एभ्स (Aves)",
       "option_c": "उभयचर",
       "option_d": "सरीसृप",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्वाँख भएका, पखेटा भएका र फुल पार्ने चराहरूको वर्गलाई विज्ञानमा एभ्स (Aves) भनिन्छ।",
       "is_pro": false
     },
@@ -4817,7 +4817,7 @@
       "option_b": "सेतो रक्तकोष",
       "option_c": "प्लेटलेट्स (Platelets)",
       "option_d": "प्लाज्मा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "घाउ लाग्दा रगत बग्न नदिन त्यहाँ जाली बनाएर रगत जमाउने मुख्य काम प्लेटलेट्सको हो।",
       "is_pro": false
     },
@@ -4839,7 +4839,7 @@
       "option_b": "काण्ड",
       "option_c": "फूल",
       "option_d": "पात (Leaf)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बिरुवाका पातहरूमा क्लोरोफिल हुने भएकाले त्यहीँ प्रकाश संश्लेषण प्रक्रियाद्वारा खाना बन्छ।",
       "is_pro": false
     },
@@ -4883,7 +4883,7 @@
       "option_b": "अलेक्जेन्डर फ्लेमिङ",
       "option_c": "एडवार्ड जेन्नर",
       "option_d": "रोबर्ट कोच",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सन् १९२८ मा अलेक्जेन्डर फ्लेमिङले पेनिसिलियम नामक ढुसीबाट विश्वको पहिलो एन्टिबायोटिक पेनिसिलिन पत्ता लगाएका थिए।",
       "is_pro": false
     },
@@ -4905,7 +4905,7 @@
       "option_b": "भिटामिन बी",
       "option_c": "भिटामिन डी",
       "option_d": "भिटामिन सी",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "क्याल्सियम सोस्न र हाड बलियो बनाउन भिटामिन 'डी' आवश्यक पर्छ, जसको कमीले रिकेट्स रोग लाग्छ।",
       "is_pro": false
     },
@@ -4927,7 +4927,7 @@
       "option_b": "हातको हाड",
       "option_c": "खप्परको हाड",
       "option_d": "फिमर (Femur)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मानिसको तिघ्रामा हुने फिमर हाड शरीरको सबैभन्दा लामो र बलियो हाड हो।",
       "is_pro": false
     },
@@ -4971,7 +4971,7 @@
       "option_b": "डिस्टिलेसन (Distillation)",
       "option_c": "थिग्राउने विधि",
       "option_d": "उर्ध्वपातन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पानीमा घुलेका अशुद्धिहरू हटाएर शुद्ध पानी प्राप्त गर्न डिस्टिलेसन (स्रावण) विधिको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -4993,7 +4993,7 @@
       "option_b": "च्याउ",
       "option_c": "क्ल्यामाइडोमोनास (Chlamydomonas)",
       "option_d": "अमिबा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "क्ल्यामाइडोमोनास एककोषीय हरियो लेउ (Algae) हो, जबकि अमिबा एककोषीय जन्तु हो।",
       "is_pro": false
     },
@@ -5015,7 +5015,7 @@
       "option_b": "आफ्नै ताप हुन्छ",
       "option_c": "तारा जस्तै चम्किन्छन्",
       "option_d": "आफ्नै प्रकाश हुँदैन (Reflect light)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "ग्रह र उपग्रहहरूको आफ्नो प्रकाश हुँदैन, यिनीहरू सूर्य जस्ता ताराको प्रकाश परावर्तन गरेर मात्र चम्किन्छन्।",
       "is_pro": false
     },
@@ -5059,7 +5059,7 @@
       "option_b": "यौगिक (Compound)",
       "option_c": "अणु",
       "option_d": "धातु",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "निश्चित अनुपातमा तत्त्वहरू मिलेर बन्ने र आफ्ना मौलिक गुणहरू गुमाउने पदार्थ यौगिक हो (जस्तै पानी H2O)।",
       "is_pro": false
     },
@@ -5081,7 +5081,7 @@
       "option_b": "डिस्टिलेसन",
       "option_c": "फिल्ट्रेसन (Filtration)",
       "option_d": "क्रिस्टलाइजेसन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "बालुवा र पानी जस्ता नघुल्ने मिश्रणलाई फिल्टर पेपरको प्रयोग गरी छान्ने (फिल्ट्रेसन) विधिबाट छुट्याइन्छ।",
       "is_pro": false
     },
@@ -5103,7 +5103,7 @@
       "option_b": "आयाम (Amplitude)",
       "option_c": "समयान्तर (Time Period)",
       "option_d": "आवृत्ति (Frequency)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एक सेकेन्डमा हुने जम्मा कम्पन वा तरङ्गको सङ्ख्या आवृत्ति हो, जसलाई हर्ज (Hz) मा नापिन्छ।",
       "is_pro": false
     },
@@ -5147,7 +5147,7 @@
       "option_b": "२० Hz देखि २०,००० Hz",
       "option_c": "२० kHz देखि माथि",
       "option_d": "० Hz देखि २० Hz",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "स्वस्थ मानव कानले २० हर्जदेखि २०,००० हर्जसम्मको आवृत्ति भएको ध्वनि मात्र सुन्न सक्छ।",
       "is_pro": false
     },
@@ -5169,7 +5169,7 @@
       "option_b": "बल × भार = बल दूरी × भार दूरी",
       "option_c": "बल × बल दूरी = भार × भार दूरी",
       "option_d": "भार × बल = भार दूरी",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सन्तुलित उत्तोलकमा सधैँ लगाइएको बल र बल दूरीको गुणनफल भार र भार दूरीको गुणनफलसँग बराबर हुन्छ (Effort × Effort arm = Load × Load arm)।",
       "is_pro": false
     },
@@ -5191,7 +5191,7 @@
       "option_b": "शून्य",
       "option_c": "पानी",
       "option_d": "सिसा (Glass)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "माध्यम जति बाक्लो (घनत्व बढी) हुन्छ प्रकाशको गति त्यति नै कम हुन्छ; दिएकामध्ये सिसा सबैभन्दा बाक्लो माध्यम हो।",
       "is_pro": false
     },
@@ -5235,7 +5235,7 @@
       "option_b": "समानान्तर (Parallel) क्रममा",
       "option_c": "स्विचसँग",
       "option_d": "ब्याट्रीको भित्र",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "दुई बिन्दुबीचको पोटेन्सियल फरक नाप्न भोल्टमिटरलाई सधैँ समानान्तर (Parallel) क्रममा जोडिन्छ।",
       "is_pro": false
     },
@@ -5257,7 +5257,7 @@
       "option_b": "अर्धचालक (Semiconductors)",
       "option_c": "सुचालक (Conductors)",
       "option_d": "प्रतिरोधक",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "धातुहरूमा स्वतन्त्र इलेक्ट्रोनहरू हुने भएकाले यिनीहरू ताप र विद्युत्का सुचालक (Conductors) हुन्छन्।",
       "is_pro": false
     },
@@ -5279,7 +5279,7 @@
       "option_b": "दोमट माटो",
       "option_c": "मलिलो माटो",
       "option_d": "बलौटे माटो (Sandy Soil)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बलौटे माटोका कणहरू ठूला हुने र कणहरूबीच खाली ठाउँ धेरै हुने भएकाले यसले पानी अड्याएर राख्न सक्दैन।",
       "is_pro": false
     },
@@ -5323,7 +5323,7 @@
       "option_b": "एस्ट्रोजेन (Estrogen)",
       "option_c": "इन्सुलिन",
       "option_d": "एड्रिनालिन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "महिलाको डिम्बाशय (Ovary) बाट निस्कने एस्ट्रोजेन र प्रोजेस्टेरोन हर्मोनले महिलाहरूमा शारीरिक परिवर्तन ल्याउँछन्।",
       "is_pro": false
     },
@@ -5345,7 +5345,7 @@
       "option_b": "रक्तसञ्चार प्रणाली",
       "option_c": "रोग प्रतिरोधात्मक प्रणाली (Immune System)",
       "option_d": "श्वासप्रश्वास प्रणाली",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "खोपमा भएका निष्क्रिय कीटाणुहरूले शरीरको रोग प्रतिरोधात्मक क्षमतालाई एन्टिबडी बनाउन सिकाएर रोग लाग्नबाट बचाउँछन्।",
       "is_pro": false
     },
@@ -5367,7 +5367,7 @@
       "option_b": "लाइसोजोम",
       "option_c": "माइटोकोन्ड्रिया",
       "option_d": "क्रोमोजोम (Chromosome)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "डीएनए र प्रोटिन मिलेर बनेको क्रोमोजोमले आमाबाबुका गुणहरू सन्तानमा सार्ने काम गर्छ।",
       "is_pro": false
     },
@@ -5411,7 +5411,7 @@
       "option_b": "आर्द्रता (Humidity)",
       "option_c": "चाप",
       "option_d": "घनत्व",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "वायुमण्डलमा रहेको पानीको बाफको मात्रा वा ओसिलोपनलाई आर्द्रता (Humidity) भनिन्छ।",
       "is_pro": false
     },
@@ -5433,7 +5433,7 @@
       "option_b": "निलोलाई पहेँलो",
       "option_c": "निलोलाई रातो (निलो लिटमस रातो)",
       "option_d": "रङ परिवर्तन गर्दैन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कपर सल्फेट एउटा अम्लीय लवण (Acidic salt) हो, त्यसैले यसले निलो लिटमसलाई रातो बनाउँछ।",
       "is_pro": false
     },
@@ -5455,7 +5455,7 @@
       "option_b": "अल्टरनेटिङ करेन्ट",
       "option_c": "इन्डक्सन",
       "option_d": "स्थिर विद्युत् (Static Electricity)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "घर्षणको कारणले वस्तुमा उत्पन्न हुने र नबग्ने विद्युत्लाई स्थिर विद्युत् भनिन्छ।",
       "is_pro": false
     },
@@ -5499,7 +5499,7 @@
       "option_b": "पानी (Water)",
       "option_c": "हाइड्रोजन पेरोक्साइड",
       "option_d": "ओजोन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "2H2 + O2 प्रतिक्रिया भई 2H2O अर्थात् पानी बन्दछ।",
       "is_pro": false
     },
@@ -5521,7 +5521,7 @@
       "option_b": "विच्छेदन",
       "option_c": "प्रकाशको आवर्तन (Refraction)",
       "option_d": "विकीरण",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "माध्यमको घनत्व फरक पर्दा प्रकाशको गति परिवर्तन भई किरण बाङ्गो हुन्छ, जसलाई आवर्तन (Refraction) भनिन्छ।",
       "is_pro": false
     },
@@ -5543,7 +5543,7 @@
       "option_b": "परावर्तन कोण ठूलो हुन्छ",
       "option_c": "सधैँ फरक हुन्छन्",
       "option_d": "सधैँ बराबर हुन्छन् (i = r)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "परावर्तनको नियमअनुसार समतल सतहमा प्रकाश ठोक्किँदा आपतन कोण र परावर्तन कोण सधैँ बराबर हुन्छन्।",
       "is_pro": false
     },
@@ -5587,7 +5587,7 @@
       "option_b": "अक्सिजन (Oxygen)",
       "option_c": "कार्बन डाइअक्साइड",
       "option_d": "हेलियम",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कुनै पनि इन्धन बल्नका लागि अक्सिजन ग्यासको उपस्थिति अनिवार्य हुन्छ।",
       "is_pro": false
     },
@@ -5609,7 +5609,7 @@
       "option_b": "टाउको दुखाइ",
       "option_c": "झाडापखाला (Diarrhea)",
       "option_d": "मलेरिया",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "झाडापखाला लाग्दा शरीरमा पानी र नुनको मात्रा कम हुने (Dehydration) भएकाले त्यसको पूर्ति गर्न जीवनजल खुवाइन्छ।",
       "is_pro": false
     },
@@ -5631,7 +5631,7 @@
       "option_b": "भूमध्य रेखामा",
       "option_c": "सगरमाथाको चुचुरोमा",
       "option_d": "पृथ्वीको केन्द्रमा (Center of the Earth)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पृथ्वीको सतहबाट जति तल गयो गुरुत्वप्रवेग घट्दै जान्छ र ठ्याक्कै केन्द्रमा शून्य हुन्छ।",
       "is_pro": false
     },
@@ -5675,7 +5675,7 @@
       "option_b": "क्षारीय (Basic)",
       "option_c": "तटस्थ (Neutral)",
       "option_d": "ग्यासीय",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "साबुन वा डिटर्जेन्टहरू क्षार (Base) र बोसोको प्रतिक्रियाबाट बन्ने हुनाले यिनीहरूको घोल क्षारीय प्रकृतिको हुन्छ।",
       "is_pro": false
     },
@@ -5697,7 +5697,7 @@
       "option_b": "हरितगृह प्रभाव",
       "option_c": "अम्ल वर्षा (Acid Rain)",
       "option_d": "ओजोन तह विनाश",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कारखानाबाट निस्कने SO2 ग्यास आकाशको पानीसँग मिसिएर सल्फ्युरस/सल्फ्युरिक अम्ल बन्छ र अम्ल वर्षा गराउँछ।",
       "is_pro": false
     },
@@ -5719,7 +5719,7 @@
       "option_b": "जुल",
       "option_c": "पास्कल",
       "option_d": "एकाइ हुँदैन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "यान्त्रिक फाइदा भनेको दुईवटा बलहरूको (भार/बल) अनुपात भएकाले यसको कुनै एकाइ हुँदैन।",
       "is_pro": false
     },
@@ -5763,7 +5763,7 @@
       "option_b": "सङ्घनन (Condensation)",
       "option_c": "हिमीकरण",
       "option_d": "उर्ध्वपातन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "ग्यास पदार्थ चिसिएर तरलमा बदलिने प्रक्रियालाई सङ्घनन भनिन्छ, यही प्रक्रियाबाट बादलबाट पानी पर्छ।",
       "is_pro": false
     },
@@ -5785,7 +5785,7 @@
       "option_b": "ताप क्षमता",
       "option_c": "ताप (Heat)",
       "option_d": "विशिष्ट ताप",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ताप भनेको वस्तुमा रहेका अणुहरूको कुल गतिशक्ति हो भने तापक्रम ती अणुहरूको औसत गतिशक्ति हो।",
       "is_pro": false
     },
@@ -5807,7 +5807,7 @@
       "option_b": "सुक्खा माटो",
       "option_c": "सेतो कपडा",
       "option_d": "चिल्लो र टल्कने (Smooth & Shiny)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "समतल ऐना वा टल्किने चिल्लो सतहबाट प्रकाशका किरणहरू नियमित परावर्तन भई स्पष्ट आकृति बन्छ।",
       "is_pro": false
     },
@@ -5851,7 +5851,7 @@
       "option_b": "ओजोन तहले (Ozone Layer)",
       "option_c": "अक्सिजन ग्यासले",
       "option_d": "कार्वन डाइअक्साइडले",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "समतापमण्डल (Stratosphere) मा रहेको ओजोन तहले सूर्यको परावैजनी किरण सोसेर पृथ्वीका जीवहरूलाई क्यान्सर हुनबाट बचाउँछ।",
       "is_pro": false
     },
@@ -5873,7 +5873,7 @@
       "option_b": "पल्मोनरी शिरा",
       "option_c": "पल्मोनरी धमनी (Pulmonary Artery)",
       "option_d": "सुपेरियर भेनाकाभा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "शरीरका सबै धमनीले शुद्ध रगत बोक्छन् तर पल्मोनरी धमनी मात्र यस्तो धमनी हो जसले मुटुबाट अशुद्ध रगत फोक्सोमा लैजान्छ।",
       "is_pro": false
     },
@@ -5895,7 +5895,7 @@
       "option_b": "फलाममा खिया लाग्नु",
       "option_c": "दूधबाट दही बन्नु",
       "option_d": "बरफ पग्लनु (Melting of Ice)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बरफ पग्लिएर पानी बन्दा नयाँ पदार्थ बन्दैन र त्यसलाई फेरि जमाएर बरफ बनाउन सकिन्छ, त्यसैले यो भौतिक परिवर्तन हो।",
       "is_pro": false
     },
@@ -5939,7 +5939,7 @@
       "option_b": "बबको लम्बाइमा (Length of Pendulum)",
       "option_c": "बबको आकारमा",
       "option_d": "विस्थापनमा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पेन्डुलमको समयान्तर सुत्र T = 2π√(l/g) अनुसार धागोको लम्बाइ (l) र गुरुत्वप्रवेग (g) मा मात्र भर पर्छ।",
       "is_pro": false
     },
@@ -5961,7 +5961,7 @@
       "option_b": "५०० न्युटन",
       "option_c": "१०० न्युटन",
       "option_d": "२५० न्युटन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्रवेग a = (v-u)/t = (०-१०)/५ = -२ m/s²। बल F = ma = ५० × (-२) = -१०० न्युटन (विपरीत दिशामा १०० N)।",
       "is_pro": false
     },
@@ -5983,7 +5983,7 @@
       "option_b": "५०० के.जी.",
       "option_c": "२०० के.जी.",
       "option_d": "३०० के.जी.",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "P = W/t => P = mgh/t => ५०० = (m × १० × १०) / ६० => ५०० = १००m / ६० => १००m = ३०००० => m = ३०० के.जी.।",
       "is_pro": false
     },
@@ -6027,7 +6027,7 @@
       "option_b": "१.२ ओम",
       "option_c": "६ ओम",
       "option_d": "२.५ ओम",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "1/R = 1/2 + 1/3 = (3+2)/6 = 5/6। तसर्थ R = 6/5 = १.२ ओम हुन्छ।",
       "is_pro": false
     },
@@ -6049,7 +6049,7 @@
       "option_b": "८०० वाट",
       "option_c": "८० वाट",
       "option_d": "२०० वाट",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कार्य W = F × d = २०० × ४ = ८०० जुल। सामर्थ्य P = W / t = ८०० / १० = ८० वाट।",
       "is_pro": false
     },
@@ -6071,7 +6071,7 @@
       "option_b": "४०/१००",
       "option_c": "०.४",
       "option_d": "४०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "घुलनशीलता भन्नाले १०० ग्राम घोलकमा घुल्न सक्ने घुलित पदार्थको अधिकतम मात्रा हो, तसर्थ यो ४० हो (एकाइ हुँदैन)।",
       "is_pro": false
     },
@@ -6115,7 +6115,7 @@
       "option_b": "०.००१ m³",
       "option_c": "०.१ m³",
       "option_d": "१० m³",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "U = Vdg => १० = V × १००० × १० => १० = १००००V => V = १०/१०००० = १/१००० = ०.००१ m³।",
       "is_pro": false
     },
@@ -6137,7 +6137,7 @@
       "option_b": "KO2",
       "option_c": "K2O",
       "option_d": "K2O3",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पोटासियमको संयोज्यता १ र अक्सिजनको २ हुन्छ। क्रस-मल्टिप्लाई गर्दा K2O बन्दछ।",
       "is_pro": false
     },
@@ -6159,7 +6159,7 @@
       "option_b": "१३२०० एम्पियर",
       "option_c": "२२० एम्पियर",
       "option_d": "३.६६ एम्पियर",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "ओहमको नियम I = V / R अनुसार I = २२० / ६० = ३.६६ एम्पियर हुन्छ।",
       "is_pro": false
     },
@@ -6203,7 +6203,7 @@
       "option_b": "४",
       "option_c": "८",
       "option_d": "१६",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "घिर्नी प्रणाली (Block and Tackle) को गति अनुपात (VR) जहिले पनि त्यसमा प्रयोग भएका डोरीको खण्ड सङ्ख्या (Number of ropes supporting the load) सँग बराबर हुन्छ, तसर्थ ४ हुन्छ।",
       "is_pro": false
     },
@@ -6225,7 +6225,7 @@
       "option_b": "२",
       "option_c": "३",
       "option_d": "४",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "२, ८, ३ को विन्यासअनुसार यसको सबैभन्दा बाहिरी कक्षमा ३ वटा इलेक्ट्रोन हुन्छन्, जसलाई भ्यालेन्स इलेक्ट्रोन भनिन्छ।",
       "is_pro": false
     },
@@ -6247,7 +6247,7 @@
       "option_b": "नाइट्रिक अम्ल",
       "option_c": "एसिटिक अम्ल",
       "option_d": "हाइड्रोक्लोरिक अम्ल (HCl)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आमाशयले हाइड्रोक्लोरिक अम्ल (HCl) उत्पादन गर्छ जसले खानामा आएका कीटाणु मार्छ र पेप्सिन इन्जाइमलाई सक्रिय बनाउँछ।",
       "is_pro": false
     },
@@ -6291,7 +6291,7 @@
       "option_b": "२.२५ × १०^८ m/s",
       "option_c": "२ × १०^८ m/s",
       "option_d": "१.३३ × १०^८ m/s",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सुत्र µ = c/v अनुसार ४/३ = (३ × १०^८) / v हुन्छ। v = (३ × ३ × १०^८) / ४ = ९/४ × १०^८ = २.२५ × १०^८ m/s।",
       "is_pro": false
     },
@@ -6313,7 +6313,7 @@
       "option_b": "५० के.जी.",
       "option_c": "५ के.जी.",
       "option_d": "४५ के.जी.",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "तौल (W) = mg। हावामा तौल ५० न्युटन छ, तसर्थ ५० = m × १० => m = ५ के.जी. हुन्छ। (पानीमा जोख्दा तौल घटे पनि पिण्ड समान रहन्छ)।",
       "is_pro": false
     },
@@ -6335,7 +6335,7 @@
       "option_b": "जसको प्रोटोन सङ्ख्या फरक हुन्छ",
       "option_c": "जसको परमाणु सङ्ख्या र भार दुवै फरक हुन्छ",
       "option_d": "जसको न्युट्रोन सङ्ख्या फरक हुन्छ",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एउटै तत्त्वका परमाणुहरू जसमा प्रोटोन सङ्ख्या (परमाणु सङ्ख्या) समान तर न्युट्रोन सङ्ख्या (परमाणु भार) फरक हुन्छ, तिनीहरूलाई आइसोटोप्स भनिन्छ।",
       "is_pro": false
     },
@@ -6379,7 +6379,7 @@
       "option_b": "०.५ मिटर",
       "option_c": "२ मिटर",
       "option_d": "०.२ मिटर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सुत्र P = 1/f (मिटरमा) अनुसार 2 = 1/f => f = 1/2 मिटर = ०.५ मिटर हुन्छ।",
       "is_pro": false
     },
@@ -6401,7 +6401,7 @@
       "option_b": "चुनढुङ्गा (Limestone)",
       "option_c": "निभेको चुन (Slaked Lime)",
       "option_d": "जिप्सम",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पानीमा कली चुन (CaO) मिसाएपछि बन्ने क्षारीय घोल क्याल्सियम हाइड्रोक्साइड हो, जसलाई निभेको चुन (Slaked Lime) वा चुनपानी भनिन्छ।",
       "is_pro": false
     },
@@ -6423,7 +6423,7 @@
       "option_b": "५० जुल",
       "option_c": "२०० जुल",
       "option_d": "२० जुल",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "जुलको तापसम्बन्धी नियम H = I²Rt अनुसार H = (२)² × १० × ५ = ४ × ५० = २०० जुल तापशक्ति उत्पन्न हुन्छ।",
       "is_pro": false
     },
@@ -6467,7 +6467,7 @@
       "option_b": "सोडियम नाइट्राइट (NaNO2)",
       "option_c": "सल्फ्युरिक अम्ल",
       "option_d": "क्याल्सियम कार्बोनेट",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्रयोगशालामा एमोनियम क्लोराइड र सोडियम नाइट्राइटको मिश्रणलाई तताएर नाइट्रोजन ग्यास उत्पादन गरिन्छ।",
       "is_pro": false
     },
@@ -6489,7 +6489,7 @@
       "option_b": "प्यान्क्रियाज",
       "option_c": "पिट्युटरी (Pituitary)",
       "option_d": "एड्रिनल",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "मस्तिष्कको फेदमा रहेको पिट्युटरी ग्रन्थिले शरीरका अन्य सबै इन्डोक्राइन ग्रन्थिहरूको कार्यलाई नियन्त्रण गर्ने भएकाले यसलाई मास्टर ग्रन्थि भनिन्छ।",
       "is_pro": false
     },
@@ -6511,7 +6511,7 @@
       "option_b": "३७३ K",
       "option_c": "२४३ K",
       "option_d": "३०३ K",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सुत्र K = C + २७३ अनुसार ३० + २७३ = ३०३ K हुन्छ।",
       "is_pro": false
     },
@@ -6555,7 +6555,7 @@
       "option_b": "१६८००० जुल",
       "option_c": "८४००० जुल",
       "option_d": "२००००० जुल",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Q = m × s × dt। पिण्ड m = ०.५ kg, dt = (१०० - २०) = ८०। Q = ०.५ × ४२०० × ८० = १६८००० जुल।",
       "is_pro": false
     },
@@ -6577,7 +6577,7 @@
       "option_b": "शून्य हुन्छ",
       "option_c": "४ गुणाले (१/४ हुन्छ)",
       "option_d": "आधा हुन्छ",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सुत्र g' = GM / (R+h)² मा h = R राख्दा g' = GM / (2R)² = GM / 4R² हुन्छ। त्यसैले गुरुत्वप्रवेग र तौल दुवै ४ गुणाले घट्छ (१/४ भाग हुन्छ)।",
       "is_pro": false
     },
@@ -6599,7 +6599,7 @@
       "option_b": "अवतल (Concave), -०.५ मिटर",
       "option_c": "उत्तल (Convex), ०.५ मिटर",
       "option_d": "अवतल (Concave), -२ मिटर",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पावर ऋणात्मक (-) भएको लेन्स अवतल (Concave) हो। f = 1/P = 1/-0.5 = -२ मिटर फोकस दूरी हुन्छ।",
       "is_pro": false
     }
