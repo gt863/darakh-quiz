@@ -1,6 +1,6 @@
 {
   "sub_cat_id": "101",
-  "data_version": 1794412402725,
+  "data_version": 1794491195766,
   "total_questions": 215,
   "questions": [
     {
@@ -43,7 +43,7 @@
       "option_b": "डाँफे",
       "option_c": "सुगा",
       "option_d": "काग",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नेपालको उच्च हिमाली भेगमा पाइने डाँफे राष्ट्रिय पन्छी हो।",
       "is_pro": false
     },
@@ -65,7 +65,7 @@
       "option_b": "बाघ",
       "option_c": "गाई",
       "option_d": "गैँडा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हिन्दू धर्ममा पवित्र मानिने गाई नेपालको राष्ट्रिय जनावर हो।",
       "is_pro": false
     },
@@ -87,7 +87,7 @@
       "option_b": "सयपत्री",
       "option_c": "मखमली",
       "option_d": "लालीगुराँस",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पहाडी र हिमाली भेगमा फुल्ने लालीगुराँस राष्ट्रिय फूल हो।",
       "is_pro": false
     },
@@ -131,7 +131,7 @@
       "option_b": "सूर्य र चन्द्रमा",
       "option_c": "चन्द्रमा र तारा",
       "option_d": "पृथ्वी र सूर्य",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "झण्डाको माथिल्लो भागमा चन्द्रमा र तल्लो भागमा सूर्यको चित्र छ।",
       "is_pro": false
     },
@@ -153,7 +153,7 @@
       "option_b": "अम्बर गुरुङ",
       "option_c": "प्रदीप कुमार राई (व्याकुल माइला)",
       "option_d": "माधवप्रसाद घिमिरे",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपालको वर्तमान राष्ट्रिय गानका रचनाकार व्याकुल माइला हुन्।",
       "is_pro": false
     },
@@ -175,7 +175,7 @@
       "option_b": "नारायण गोपाल",
       "option_c": "भक्तराज आचार्य",
       "option_d": "अम्बर गुरुङ",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "राष्ट्रिय गानमा सङ्गीत अम्बर गुरुङले दिएका हुन्।",
       "is_pro": false
     },
@@ -219,7 +219,7 @@
       "option_b": "भलिबल",
       "option_c": "क्रिकेट",
       "option_d": "डन्डीबियो",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सन् २०१७ देखि भलिबललाई नेपालको राष्ट्रिय खेल घोषणा गरिएको हो।",
       "is_pro": false
     },
@@ -241,7 +241,7 @@
       "option_b": "माछापुच्छ्रे",
       "option_c": "सगरमाथा",
       "option_d": "कञ्चनजङ्घा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "८८४८.८६ मिटर उचाइ भएको सगरमाथा संसारकै सर्वोच्च शिखर हो।",
       "is_pro": false
     },
@@ -263,7 +263,7 @@
       "option_b": "ताप्लेजुङ",
       "option_c": "मनाङ",
       "option_d": "सोलुखुम्बु",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सगरमाथा नेपालको कोशी प्रदेशअन्तर्गत सोलुखुम्बु जिल्लामा पर्दछ।",
       "is_pro": false
     },
@@ -307,7 +307,7 @@
       "option_b": "रारा ताल",
       "option_c": "तिलिचो ताल",
       "option_d": "बेगनास ताल",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "मुगु जिल्लामा पर्ने रारा ताल नेपालको सबैभन्दा ठूलो ताल हो।",
       "is_pro": false
     },
@@ -329,7 +329,7 @@
       "option_b": "५ (पाँच)",
       "option_c": "७ (सात)",
       "option_d": "७७ (सतहत्तर)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपाललाई ७ वटा प्रदेशमा विभाजन गरिएको छ।",
       "is_pro": false
     },
@@ -351,7 +351,7 @@
       "option_b": "७५ (पचहत्तर)",
       "option_c": "१४ (चौध)",
       "option_d": "७७ (सतहत्तर)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नेपालमा जम्मा ७७ वटा जिल्लाहरू रहेका छन्।",
       "is_pro": false
     },
@@ -395,7 +395,7 @@
       "option_b": "लुम्बिनी",
       "option_c": "पोखरा",
       "option_d": "जनकपुर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "गौतम बुद्धको जन्म नेपालको रूपन्देही जिल्लाको लुम्बिनीमा भएको थियो।",
       "is_pro": false
     },
@@ -417,7 +417,7 @@
       "option_b": "कोशी",
       "option_c": "गण्डकी",
       "option_d": "महाकाली",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपालको सबैभन्दा गहिरो नदी गण्डकी (नारायणी) हो।",
       "is_pro": false
     },
@@ -439,7 +439,7 @@
       "option_b": "गण्डकी",
       "option_c": "कर्णाली",
       "option_d": "कोशी",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पानीको बहावको आधारमा नेपालको सबैभन्दा ठूलो नदी कोशी हो।",
       "is_pro": false
     },
@@ -483,7 +483,7 @@
       "option_b": "अष्ट्रेलिया",
       "option_c": "अन्टार्कटिका",
       "option_d": "दक्षिण अमेरिका",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "क्षेत्रफलको हिसाबले अष्ट्रेलिया संसारको सबैभन्दा सानो महादेश हो।",
       "is_pro": false
     },
@@ -505,7 +505,7 @@
       "option_b": "५ (पाँच)",
       "option_c": "७ (सात)",
       "option_d": "८ (आठ)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पृथ्वीमा जम्मा ७ वटा महादेशहरू छन्।",
       "is_pro": false
     },
@@ -527,7 +527,7 @@
       "option_b": "आन्ध्र महासागर",
       "option_c": "हिन्द महासागर",
       "option_d": "प्रशान्त महासागर",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "प्रशान्त महासागर संसारको सबैभन्दा ठूलो र गहिरो महासागर हो।",
       "is_pro": false
     },
@@ -571,7 +571,7 @@
       "option_b": "पश्चिम",
       "option_c": "उत्तर",
       "option_d": "दक्षिण",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पृथ्वीको घूर्णनको कारण सूर्य पश्चिम दिशामा अस्ताउँछ।",
       "is_pro": false
     },
@@ -593,7 +593,7 @@
       "option_b": "९ (नौ)",
       "option_c": "८ (आठ)",
       "option_d": "१० (दश)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यम (Pluto) लाई ग्रहबाट हटाएपछि ८ वटा मात्र ग्रह छन्।",
       "is_pro": false
     },
@@ -615,7 +615,7 @@
       "option_b": "चन्द्रमा",
       "option_c": "ध्रुव तारा",
       "option_d": "सूर्य",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सूर्य एउटा तारा हो जुन पृथ्वीको सबैभन्दा नजिक छ।",
       "is_pro": false
     },
@@ -659,7 +659,7 @@
       "option_b": "७ (सात)",
       "option_c": "६ (छ)",
       "option_d": "८ (आठ)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आइतबारदेखि शनिबारसम्म १ हप्तामा ७ दिन हुन्छन्।",
       "is_pro": false
     },
@@ -681,7 +681,7 @@
       "option_b": "३० (तीस)",
       "option_c": "३२ (बत्तीस)",
       "option_d": "२८ (अठ्ठाइस)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "एक सामान्य वयस्क मानिसको मुखमा ३२ वटा दाँत हुन्छन्।",
       "is_pro": false
     },
@@ -703,7 +703,7 @@
       "option_b": "२००",
       "option_c": "३०६",
       "option_d": "२०६",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "वयस्क मानिसको शरीरमा २०६ वटा हड्डी हुन्छन्।",
       "is_pro": false
     },
@@ -747,7 +747,7 @@
       "option_b": "फोक्सो",
       "option_c": "पेट",
       "option_d": "कलेजो",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हामीले नाकबाट तानेको हावा फोक्सोमा गएर अक्सिजन रगतमा मिसिन्छ।",
       "is_pro": false
     },
@@ -769,7 +769,7 @@
       "option_b": "कान",
       "option_c": "आँखा",
       "option_d": "जिब्रो",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आँखाले हामीलाई बाहिरी संसार देख्न मद्दत गर्छ।",
       "is_pro": false
     },
@@ -791,7 +791,7 @@
       "option_b": "आँखा",
       "option_c": "नाक",
       "option_d": "कान",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कानको मद्दतले हामी विभिन्न आवाजहरू सुन्छौँ।",
       "is_pro": false
     },
@@ -813,7 +813,7 @@
       "option_b": "नाक",
       "option_c": "कान",
       "option_d": "आँखा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "गन्ध थाहा पाउन हामी नाकको प्रयोग गर्छौँ।",
       "is_pro": false
     },
@@ -835,7 +835,7 @@
       "option_b": "१००°C (सेल्सियस)",
       "option_c": "५०°C",
       "option_d": "९०°C",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सामान्य वायुमण्डलीय चापमा पानी १००°C मा उम्लन्छ।",
       "is_pro": false
     },
@@ -857,7 +857,7 @@
       "option_b": "१००°C",
       "option_c": "०°C (सेल्सियस)",
       "option_d": "-१०°C",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पानी ०°C मा जमेर बरफ बन्छ।",
       "is_pro": false
     },
@@ -879,7 +879,7 @@
       "option_b": "कार्बन डाइअक्साइड",
       "option_c": "नाइट्रोजन",
       "option_d": "अक्सिजन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बाँच्नको लागि हामी अक्सिजन ग्यास भित्र लिन्छौँ।",
       "is_pro": false
     },
@@ -923,7 +923,7 @@
       "option_b": "सिंह",
       "option_c": "हात्ती",
       "option_d": "भालु",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सिंहलाई जङ्गलको राजा (King of the Jungle) भनिन्छ।",
       "is_pro": false
     },
@@ -945,7 +945,7 @@
       "option_b": "हात्ती",
       "option_c": "जिराफ",
       "option_d": "घोडा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "लामो घाँटी हुने जिराफ संसारकै सबैभन्दा अग्लो जनावर हो।",
       "is_pro": false
     },
@@ -967,7 +967,7 @@
       "option_b": "जिराफ",
       "option_c": "गैँडा",
       "option_d": "हात्ती",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "हात्ती जमिनमा पाइने सबैभन्दा ठूलो जनावर हो।",
       "is_pro": false
     },
@@ -1011,7 +1011,7 @@
       "option_b": "चितुवा (Cheetah)",
       "option_c": "सिंह",
       "option_d": "हरिण",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "चितुवा जमिनमा सबैभन्दा तीव्र गतिमा कुद्न सक्ने जनावर हो।",
       "is_pro": false
     },
@@ -1033,7 +1033,7 @@
       "option_b": "पेन्गुइन",
       "option_c": "अस्ट्रिच (Ostrich)",
       "option_d": "सुगा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "अस्ट्रिच संसारको सबैभन्दा ठूलो चरा हो तर यसले उड्न सक्दैन।",
       "is_pro": false
     },
@@ -1055,7 +1055,7 @@
       "option_b": "जंगबहादुर राणा",
       "option_c": "मातृकाप्रसाद कोइराला",
       "option_d": "भीमसेन थापा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नेपालको इतिहासमा पहिलो प्रधानमन्त्री भीमसेन थापालाई मानिन्छ।",
       "is_pro": false
     },
@@ -1099,7 +1099,7 @@
       "option_b": "रुपैयाँ",
       "option_c": "युरो",
       "option_d": "पाउन्ड",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नेपालमा चलनचल्तीमा रहेको पैसालाई रुपैयाँ भनिन्छ।",
       "is_pro": false
     },
@@ -1121,7 +1121,7 @@
       "option_b": "तिहार",
       "option_c": "होली (फागु पूर्णिमा)",
       "option_d": "छठ",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "विभिन्न रङहरू दलेर खेलिने चाड होली हो।",
       "is_pro": false
     },
@@ -1143,7 +1143,7 @@
       "option_b": "दसैँ",
       "option_c": "होली",
       "option_d": "तिहार (दीपावली)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "घरभरि झिलीमिली बत्ती बालेर मनाइने चाड तिहार हो।",
       "is_pro": false
     },
@@ -1187,7 +1187,7 @@
       "option_b": "सूर्य",
       "option_c": "शिव",
       "option_d": "विष्णु",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "छठ पर्वमा उदाउँदो र अस्ताउँदो सूर्यको पूजा गरिन्छ।",
       "is_pro": false
     },
@@ -1209,7 +1209,7 @@
       "option_b": "कुरान",
       "option_c": "गीता (वा वेद)",
       "option_d": "त्रिपिटक",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "श्रीमद्भगवद्गीता र वेद हिन्दूहरूका पवित्र ग्रन्थ हुन्।",
       "is_pro": false
     },
@@ -1231,7 +1231,7 @@
       "option_b": "बाइबल",
       "option_c": "त्रिपिटक",
       "option_d": "कुरान",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "इस्लाम वा मुस्लिम धर्मको पवित्र ग्रन्थ कुरान हो।",
       "is_pro": false
     },
@@ -1275,7 +1275,7 @@
       "option_b": "गौतम बुद्ध",
       "option_c": "महावीर",
       "option_d": "मोहम्मद",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "बौद्ध धर्मको सुरुवात शान्तिका दूत गौतम बुद्धले गरेका हुन्।",
       "is_pro": false
     },
@@ -1297,7 +1297,7 @@
       "option_b": "लुम्बिनी",
       "option_c": "बोधगया",
       "option_d": "कुशीनगर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "बुद्धले भारतको बोधगया भन्ने ठाउँमा तपस्या गरी ज्ञान प्राप्त गरेका थिए।",
       "is_pro": false
     },
@@ -1319,7 +1319,7 @@
       "option_b": "३६६ दिन",
       "option_c": "३६० दिन",
       "option_d": "३६५ दिन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "साधारणतया एक वर्षमा ३६५ दिन हुन्छन्।",
       "is_pro": false
     },
@@ -1363,7 +1363,7 @@
       "option_b": "चैत",
       "option_c": "वैशाख",
       "option_d": "पुस",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपाली नयाँ वर्ष वैशाख १ गतेबाट सुरु हुन्छ।",
       "is_pro": false
     },
@@ -1385,7 +1385,7 @@
       "option_b": "वैशाख",
       "option_c": "फागुन",
       "option_d": "चैत",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "चैत महिना वर्षको १२औँ वा अन्तिम महिना हो।",
       "is_pro": false
     },
@@ -1429,7 +1429,7 @@
       "option_b": "पानीजहाज (डुङ्गा)",
       "option_c": "रेल",
       "option_d": "बस",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पानीजहाज वा डुङ्गा पानीमा चलाइन्छ।",
       "is_pro": false
     },
@@ -1451,7 +1451,7 @@
       "option_b": "ड्राइभर",
       "option_c": "पाइलट",
       "option_d": "इन्जिनियर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "जहाज उडाउने व्यक्तिलाई पाइलट भनिन्छ।",
       "is_pro": false
     },
@@ -1473,7 +1473,7 @@
       "option_b": "शिक्षक",
       "option_c": "वकिल",
       "option_d": "डाक्टर",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "अस्पतालमा बिरामीको जाँच र उपचार डाक्टरले गर्छन्।",
       "is_pro": false
     },
@@ -1517,7 +1517,7 @@
       "option_b": "सुचीकार (Tailor)",
       "option_c": "डकर्मी",
       "option_d": "सुनार",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कपडा सिलाउने पेसा गर्ने व्यक्तिलाई सुचीकार भनिन्छ।",
       "is_pro": false
     },
@@ -1539,7 +1539,7 @@
       "option_b": "डाक्टर",
       "option_c": "हुलाकी (Postman)",
       "option_d": "सैनिक",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हुलाकबाट चिठ्ठीपत्र पुर्‍याउने व्यक्ति हुलाकी हो।",
       "is_pro": false
     },
@@ -1561,7 +1561,7 @@
       "option_b": "मुम्बई",
       "option_c": "कोलकाता",
       "option_d": "नयाँ दिल्ली",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "भारतको प्रशासनिक राजधानी नयाँ दिल्ली हो।",
       "is_pro": false
     },
@@ -1605,7 +1605,7 @@
       "option_b": "६० मिनेट",
       "option_c": "१०० मिनेट",
       "option_d": "२४ मिनेट",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "घडीमा १ घण्टा पूरा हुन ६० मिनेट लाग्छ।",
       "is_pro": false
     },
@@ -1627,7 +1627,7 @@
       "option_b": "१२ घण्टा",
       "option_c": "२४ घण्टा",
       "option_d": "४८ घण्टा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "दिन र रात गरी १ दिनमा जम्मा २४ घण्टा हुन्छन्।",
       "is_pro": false
     },
@@ -1649,7 +1649,7 @@
       "option_b": "घोडा",
       "option_c": "गधा",
       "option_d": "ऊँट",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बालुवामा सजिलै हिँड्ने र धेरै दिन पानीविना बाँच्न सक्ने भएकोले ऊँटलाई मरुभूमिको जहाज भनिन्छ।",
       "is_pro": false
     },
@@ -1693,7 +1693,7 @@
       "option_b": "दूध",
       "option_c": "अण्डा",
       "option_d": "मह",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "गाईबाट हामीलाई पिउनको लागि पौष्टिक दूध प्राप्त हुन्छ।",
       "is_pro": false
     },
@@ -1715,7 +1715,7 @@
       "option_b": "कमिला",
       "option_c": "माकुरा",
       "option_d": "लामखुट्टे",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "माकुराले कीरा फसाउन र बस्नको लागि जालो (Web) बनाउँछ।",
       "is_pro": false
     },
@@ -1759,7 +1759,7 @@
       "option_b": "युरोप",
       "option_c": "एसिया",
       "option_d": "अष्ट्रेलिया",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपाल एसिया महादेशको दक्षिण भागमा पर्दछ।",
       "is_pro": false
     },
@@ -1803,7 +1803,7 @@
       "option_b": "महेन्द्र राजमार्ग",
       "option_c": "पृथ्वी राजमार्ग",
       "option_d": "अरनिको राजमार्ग",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पूर्व-पश्चिम फैलिएको महेन्द्र राजमार्ग नेपालको सबैभन्दा लामो राजमार्ग हो।",
       "is_pro": false
     },
@@ -1825,7 +1825,7 @@
       "option_b": "ललितपुर",
       "option_c": "भक्तपुर",
       "option_d": "पर्वत",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "११९ वर्ग कि.मि. क्षेत्रफल भएको भक्तपुर नेपालको सबैभन्दा सानो जिल्ला हो।",
       "is_pro": false
     },
@@ -1847,7 +1847,7 @@
       "option_b": "हुम्ला",
       "option_c": "मुगु",
       "option_d": "डोल्पा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "क्षेत्रफलको हिसाबले डोल्पा नेपालको सबैभन्दा ठूलो जिल्ला हो।",
       "is_pro": false
     },
@@ -1891,7 +1891,7 @@
       "option_b": "बिरालो",
       "option_c": "गाई",
       "option_d": "बाख्रा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "बिरालोले म्याउँ म्याउँ आवाज निकाल्छ।",
       "is_pro": false
     },
@@ -1913,7 +1913,7 @@
       "option_b": "ग्रह",
       "option_c": "तारा",
       "option_d": "उल्का",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सूर्य आफ्नै प्रकाश भएको एउटा तारा हो।",
       "is_pro": false
     },
@@ -1957,7 +1957,7 @@
       "option_b": "छाउरो (Puppy)",
       "option_c": "पाठो",
       "option_d": "बछेडो",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कुकुरको सानो बच्चालाई छाउरो भनिन्छ।",
       "is_pro": false
     },
@@ -1979,7 +1979,7 @@
       "option_b": "बाच्छा वा बाच्छी",
       "option_c": "पाडो वा पाडी",
       "option_d": "छाउरो",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "भैँसीको बच्चालाई भाले भए पाडो र पोथी भए पाडी भनिन्छ।",
       "is_pro": false
     },
@@ -2001,7 +2001,7 @@
       "option_b": "पाडो",
       "option_c": "बाच्छा",
       "option_d": "बछेडो वा बछेडी",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "घोडाको सानो बच्चालाई बछेडो भनिन्छ।",
       "is_pro": false
     },
@@ -2045,7 +2045,7 @@
       "option_b": "डाँफे",
       "option_c": "मुनाल",
       "option_d": "ढुकुर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नेपालको हिमाली भेगमा पाइने रङ्गीचङ्गी चरा डाँफे (Lophophorus) नेपालको राष्ट्रिय चरा हो।",
       "is_pro": false
     },
@@ -2067,7 +2067,7 @@
       "option_b": "कञ्चनजङ्घा",
       "option_c": "सगरमाथा",
       "option_d": "मकालु",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपालमा अवस्थित सगरमाथा (Mount Everest) विश्वको सबैभन्दा अग्लो हिमाल हो।",
       "is_pro": false
     },
@@ -2089,7 +2089,7 @@
       "option_b": "बोधगया",
       "option_c": "कुशीनगर",
       "option_d": "लुम्बिनी",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "शान्तिका अग्रदूत गौतम बुद्धको जन्म नेपालको रूपन्देही जिल्लाको लुम्बिनीमा भएको थियो।",
       "is_pro": false
     },
@@ -2133,7 +2133,7 @@
       "option_b": "गाई",
       "option_c": "हात्ती",
       "option_d": "गैँडा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हिन्दु धर्मको प्रभाव र सांस्कृतिक महत्त्वका कारण गाईलाई नेपालको राष्ट्रिय जनावर मानिएको छ।",
       "is_pro": false
     },
@@ -2155,7 +2155,7 @@
       "option_b": "नीलो",
       "option_c": "सिम्रिक",
       "option_d": "सेतो",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपालको संविधानले सिम्रिक रङलाई नेपालको आधिकारिक राष्ट्रिय रङको मान्यता दिएको छ।",
       "is_pro": false
     },
@@ -2177,7 +2177,7 @@
       "option_b": "ललितपुर",
       "option_c": "भक्तपुर",
       "option_d": "काठमाडौँ",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नेपालको ऐतिहासिक, प्रशासनिक र सङ्घीय राजधानी काठमाडौँ हो।",
       "is_pro": false
     },
@@ -2221,7 +2221,7 @@
       "option_b": "कर्णाली",
       "option_c": "गण्डकी",
       "option_d": "महाकाली",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नेपालभित्र करिब ५०७ किलोमिटर लामो दूरीसम्म बग्ने कर्णाली नेपालको सबैभन्दा लामो नदी हो।",
       "is_pro": false
     },
@@ -2243,7 +2243,7 @@
       "option_b": "कर्णाली",
       "option_c": "नारायणी (गण्डकी)",
       "option_d": "मेची",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "गल्छी बनाएर बग्ने भएकाले गण्डकी (नारायणी) नदीलाई नेपालको सबैभन्दा गहिरो नदी मानिन्छ।",
       "is_pro": false
     },
@@ -2265,7 +2265,7 @@
       "option_b": "तिलिचो ताल",
       "option_c": "फोक्सुण्डो ताल",
       "option_d": "रारा ताल",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मुगु जिल्लामा अवस्थित रारा ताल (महेन्द्र ताल) नेपालको सबैभन्दा ठूलो र फराकिलो ताल हो।",
       "is_pro": false
     },
@@ -2309,7 +2309,7 @@
       "option_b": "तिलिचो ताल",
       "option_c": "फोक्सुण्डो ताल",
       "option_d": "गोसाइँकुण्ड",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "मनाङ जिल्लामा ४,९१९ मिटर उचाइमा रहेको तिलिचो ताललाई पाठ्यपुस्तकमा उच्च स्थानको ताल मानिन्छ।",
       "is_pro": false
     },
@@ -2331,7 +2331,7 @@
       "option_b": "७६",
       "option_c": "७७",
       "option_d": "७४",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "संविधान निर्माणपछि रुकुम र नवलपरासीलाई दुई-दुई भागमा विभाजन गर्दा नेपालमा ७७ जिल्लाहरू कायम भएका छन्।",
       "is_pro": false
     },
@@ -2353,7 +2353,7 @@
       "option_b": "६",
       "option_c": "१४",
       "option_d": "७",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सङ्घीयता कार्यान्वयनसँगै नेपाललाई ७ वटा प्रदेशहरूमा विभाजन गरिएको छ।",
       "is_pro": false
     },
@@ -2397,7 +2397,7 @@
       "option_b": "६",
       "option_c": "११",
       "option_d": "७",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नेपालमा काठमाडौँ, ललितपुर, भरतपुर, पोखरा, वीरगन्ज र विराटनगर गरी ६ वटा महानगरपालिकाहरू छन्।",
       "is_pro": false
     },
@@ -2419,7 +2419,7 @@
       "option_b": "१०",
       "option_c": "११",
       "option_d": "१२",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "स्थानीय तहको संरचना अनुसार नेपालमा जम्मा ११ वटा उपमहानगरपालिकाहरू रहेका छन्।",
       "is_pro": false
     },
@@ -2441,7 +2441,7 @@
       "option_b": "जङ्गबहादुर राणा",
       "option_c": "राजा त्रिभुवन",
       "option_d": "पृथ्वीनारायण शाह",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बाइसे र चौबिसे राज्यहरूमा बाँडिएको नेपाललाई एकीकरण गर्ने श्रेय पृथ्वीनारायण शाहलाई जान्छ।",
       "is_pro": false
     },
@@ -2485,7 +2485,7 @@
       "option_b": "वि.सं. २०६५",
       "option_c": "वि.सं. २०७२",
       "option_d": "वि.सं. २०६२",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पहिलो संविधान सभाको पहिलो बैठकले वि.सं. २०६५ जेठ १५ गते नेपाललाई गणतन्त्र घोषणा गरेको थियो।",
       "is_pro": false
     },
@@ -2507,7 +2507,7 @@
       "option_b": "वि.सं. २०४७",
       "option_c": "वि.सं. २०७२",
       "option_d": "वि.सं. २०१९",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "संविधान सभाबाट पारित भई वि.सं. २०७२ असोज ३ गते वर्तमान संविधान जारी भएको हो।",
       "is_pro": false
     },
@@ -2529,7 +2529,7 @@
       "option_b": "रामचन्द्र पौडेल",
       "option_c": "सुवास नेम्वाङ",
       "option_d": "डा. रामवरण यादव",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "राजतन्त्रको अन्त्यपछि डा. रामवरण यादव नेपालको पहिलो राष्ट्रपति निर्वाचित भएका थिए।",
       "is_pro": false
     },
@@ -2573,7 +2573,7 @@
       "option_b": "विश्वेश्वरप्रसाद कोइराला",
       "option_c": "मातृकाप्रसाद कोइराला",
       "option_d": "टङ्कप्रसाद आचार्य",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "वि.सं. २०१५ सालको आम निर्वाचनपछि विश्वेश्वरप्रसाद (बी.पी.) कोइराला पहिलो जननिर्वाचित प्रधानमन्त्री बनेका थिए।",
       "is_pro": false
     },
@@ -2595,7 +2595,7 @@
       "option_b": "वीरशमशेर",
       "option_c": "जङ्गबहादुर राणा",
       "option_d": "देवशमशेर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "वि.सं. १९०३ को कोतपर्वपछि जङ्गबहादुर कुँवर (राणा) ले नेपालमा पारिवारिक राणा शासन सुरु गरेका थिए।",
       "is_pro": false
     },
@@ -2617,7 +2617,7 @@
       "option_b": "भृकुटी",
       "option_c": "सीता",
       "option_d": "अरनिको",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "१३औँ शताब्दीमा चीन पुगेर सेतो चैत्यलगायतका कलात्मक संरचना बनाउने अरनिको प्रसिद्ध नेपाली वास्तुकार हुन्।",
       "is_pro": false
     },
@@ -2661,7 +2661,7 @@
       "option_b": "अम्बर गुरुङ",
       "option_c": "गोपाल योञ्जन",
       "option_d": "नारायण गोपाल",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नेपालको राष्ट्रिय गान 'सयौँ थुँगा फूलका हामी' मा प्रसिद्ध सङ्गीतकार अम्बर गुरुङले सङ्गीत भरेका हुन्।",
       "is_pro": false
     },
@@ -2683,7 +2683,7 @@
       "option_b": "नयाँ दिल्ली",
       "option_c": "काठमाडौँ",
       "option_d": "कोलम्बो",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सार्क राष्ट्रहरूको समन्वयका लागि सन् १९८७ मा नेपालको राजधानी काठमाडौँमा सार्क सचिवालय स्थापना गरिएको हो।",
       "is_pro": false
     },
@@ -2705,7 +2705,7 @@
       "option_b": "सन् १९८१",
       "option_c": "सन् १९९०",
       "option_d": "सन् १९८५",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "दक्षिण एसियाका ७ राष्ट्रहरू मिलेर ८ डिसेम्बर १९८५ मा बङ्गलादेशको ढाकामा सार्कको स्थापना गरेका थिए।",
       "is_pro": false
     },
@@ -2749,7 +2749,7 @@
       "option_b": "२४ अक्टोबर १९४५",
       "option_c": "१० डिसेम्बर १९४८",
       "option_d": "सन् १९१९",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "दोस्रो विश्वयुद्धको समाप्तिपछि २४ अक्टोबर १९४५ मा संयुक्त राष्ट्रसङ्घको विधिवत स्थापना भएको हो।",
       "is_pro": false
     },
@@ -2771,7 +2771,7 @@
       "option_b": "युरोप",
       "option_c": "एसिया",
       "option_d": "उत्तर अमेरिका",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "विश्वको करिब ३०% जमिन र ६०% जनसङ्ख्या ओगटेको एसिया महादेश सबैभन्दा ठूलो महादेश हो।",
       "is_pro": false
     },
@@ -2793,7 +2793,7 @@
       "option_b": "हिन्द महासागर",
       "option_c": "सुमेरु महासागर",
       "option_d": "प्रशान्त महासागर",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पृथ्वीको करिब एक तिहाइ भाग ओगटेको प्रशान्त महासागर (Pacific Ocean) सबैभन्दा ठूलो महासागर हो।",
       "is_pro": false
     },
@@ -2837,7 +2837,7 @@
       "option_b": "सहारा मरुभूमि",
       "option_c": "कालाहारी मरुभूमि",
       "option_d": "थार मरुभूमि",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अफ्रिका महादेशको उत्तरी भागमा फैलिएको सहारा मरुभूमि क्षेत्रफलको आधारमा सबैभन्दा ठूलो तातो मरुभूमि हो।",
       "is_pro": false
     },
@@ -2859,7 +2859,7 @@
       "option_b": "नाउरु",
       "option_c": "भ्याटिकन सिटी",
       "option_d": "मालदिभ्स",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "इटालीको रोम सहरभित्र अवस्थित इसाईहरूको पवित्र स्थल भ्याटिकन सिटी विश्वकै सबैभन्दा सानो स्वतन्त्र राष्ट्र हो।",
       "is_pro": false
     },
@@ -2881,7 +2881,7 @@
       "option_b": "भुटान",
       "option_c": "पाकिस्तान",
       "option_d": "चीन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नेपालको उत्तरमा चीनको स्वशासित क्षेत्र तिब्बत पर्छ भने पूर्व, पश्चिम र दक्षिणमा भारत पर्दछ।",
       "is_pro": false
     },
@@ -2925,7 +2925,7 @@
       "option_b": "सोलुखुम्बु",
       "option_c": "सङ्खुवासभा",
       "option_d": "दोलखा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सगरमाथा कोसी प्रदेश अन्तर्गत पर्ने सोलुखुम्बु जिल्लाको खुम्बु पासाङल्हामु गाउँपालिकामा पर्दछ।",
       "is_pro": false
     },
@@ -2947,7 +2947,7 @@
       "option_b": "धवलागिरि",
       "option_c": "कञ्चनजङ्घा",
       "option_d": "ल्होत्से",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "८५८६ मिटर अग्लो कञ्चनजङ्घा नेपालको दोस्रो र विश्वको तेस्रो अग्लो हिमाल हो।",
       "is_pro": false
     },
@@ -2969,7 +2969,7 @@
       "option_b": "पाँचथर",
       "option_c": "सङ्खुवासभा",
       "option_d": "ताप्लेजुङ",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कञ्चनजङ्घा हिमाल नेपालको सुदूर पूर्वी जिल्ला ताप्लेजुङ र भारतको सिक्किमको सिमानामा पर्दछ।",
       "is_pro": false
     },
@@ -3013,7 +3013,7 @@
       "option_b": "मुगु",
       "option_c": "जुम्ला",
       "option_d": "हुम्ला",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नेपालको सबैभन्दा ठूलो रारा ताल कर्णाली प्रदेशको मुगु जिल्लामा अवस्थित छ।",
       "is_pro": false
     },
@@ -3035,7 +3035,7 @@
       "option_b": "मनाङ",
       "option_c": "डोल्पा",
       "option_d": "रुकुम",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपालको सबैभन्दा गहिरो र 'निर्जीव ताल' भनेर चिनिने शे-फोक्सुण्डो ताल डोल्पा जिल्लामा पर्दछ।",
       "is_pro": false
     },
@@ -3057,7 +3057,7 @@
       "option_b": "सगरमाथा राष्ट्रिय निकुञ्ज",
       "option_c": "लामटाङ राष्ट्रिय निकुञ्ज",
       "option_d": "चितवन राष्ट्रिय निकुञ्ज",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एकसिङ्गे गैँडा र पाटे बाघका लागि प्रसिद्ध चितवन राष्ट्रिय निकुञ्ज नेपालको पहिलो राष्ट्रिय निकुञ्ज हो।",
       "is_pro": false
     },
@@ -3101,7 +3101,7 @@
       "option_b": "शे-फोक्सुण्डो राष्ट्रिय निकुञ्ज",
       "option_c": "सगरमाथा राष्ट्रिय निकुञ्ज",
       "option_d": "चितवन राष्ट्रिय निकुञ्ज",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "३५५५ वर्ग कि.मी. क्षेत्रफलमा फैलिएको शे-फोक्सुण्डो राष्ट्रिय निकुञ्ज नेपालको सबैभन्दा ठूलो राष्ट्रिय निकुञ्ज हो।",
       "is_pro": false
     },
@@ -3123,7 +3123,7 @@
       "option_b": "खप्तड राष्ट्रिय निकुञ्ज",
       "option_c": "रारा राष्ट्रिय निकुञ्ज",
       "option_d": "बाँके राष्ट्रिय निकुञ्ज",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "मुगु र जुम्लामा फैलिएको १०६ वर्ग कि.मी. क्षेत्रफलको रारा राष्ट्रिय निकुञ्ज नेपालकै सबैभन्दा सानो राष्ट्रिय निकुञ्ज हो।",
       "is_pro": false
     },
@@ -3145,7 +3145,7 @@
       "option_b": "कर्णाली प्रदेश",
       "option_c": "लुम्बिनी प्रदेश",
       "option_d": "मधेस प्रदेश",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "८ वटा तराईका जिल्लाहरू मात्र रहेको मधेस प्रदेश (९,६६१ वर्ग कि.मी.) क्षेत्रफलको हिसाबले सबैभन्दा सानो प्रदेश हो।",
       "is_pro": false
     },
@@ -3189,7 +3189,7 @@
       "option_b": "बागमती प्रदेश",
       "option_c": "कोसी प्रदेश",
       "option_d": "लुम्बिनी प्रदेश",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "राजधानी काठमाडौँ समेत रहेको बागमती प्रदेशमा नेपालमै सबैभन्दा बढी जनसङ्ख्या (करिब २०.९७%) बसोबास गर्दछन्।",
       "is_pro": false
     },
@@ -3211,7 +3211,7 @@
       "option_b": "मोहम्मद",
       "option_c": "गौतम बुद्ध",
       "option_d": "कन्फुसियस",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "शान्तिको सन्देश विश्वभरि फैलाएका कारण गौतम बुद्धलाई 'एसियाका तारा' भनिन्छ।",
       "is_pro": false
     },
@@ -3233,7 +3233,7 @@
       "option_b": "चैत्र शुक्ल नवमी",
       "option_c": "फागुन कृष्ण चतुर्दशी",
       "option_d": "वैशाख शुक्ल पूर्णिमा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "हरेक वर्ष वैशाख महिनाको पूर्णिमाको दिनलाई बुद्ध जयन्तीको रूपमा भव्यताका साथ मनाइन्छ।",
       "is_pro": false
     },
@@ -3277,7 +3277,7 @@
       "option_b": "विजयादशमी",
       "option_c": "कोजाग्रत पूर्णिमा",
       "option_d": "महाअष्टमी",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नवदुर्गा भवानीको प्रसाद स्वरूप मान्यजनबाट टीका र जमरा ग्रहण गरिने दशैँको दशौँ दिन विजयादशमी हो।",
       "is_pro": false
     },
@@ -3299,7 +3299,7 @@
       "option_b": "भाद्र",
       "option_c": "आश्विन (असोज)",
       "option_d": "कार्तिक",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "बडादशैँ आश्विन शुक्ल प्रतिपदा (घटस्थापना) देखि सुरु भई कोजाग्रत पूर्णिमासम्म मनाइन्छ।",
       "is_pro": false
     },
@@ -3321,7 +3321,7 @@
       "option_b": "गोवर्धन पूजा",
       "option_c": "काग तिहार",
       "option_d": "भाइटीका",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "दिदीबहिनीले दाजुभाइको दीर्घायुको कामना गर्दै सप्तरङ्गी टीका लगाइदिने भाइटीका तिहारको मुख्य दिन हो।",
       "is_pro": false
     },
@@ -3365,7 +3365,7 @@
       "option_b": "जयप्रकाश मल्ल",
       "option_c": "गुणकामदेव",
       "option_d": "शिवसिंह मल्ल",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कान्तिपुरका अन्तिम मल्ल राजा जयप्रकाश मल्लले जीवित देवी कुमारीको रथजात्रा गर्ने परम्परा बसालेका हुन्।",
       "is_pro": false
     },
@@ -3387,7 +3387,7 @@
       "option_b": "काठमाडौँ",
       "option_c": "भक्तपुर",
       "option_d": "कीर्तिपुर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हरेक नयाँ वर्ष (वैशाख १) को अवसरमा भक्तपुरमा रथ तानेर र लिङ्गो ठड्याएर बिस्केट जात्रा मनाइन्छ।",
       "is_pro": false
     },
@@ -3409,7 +3409,7 @@
       "option_b": "इन्द्रजात्रा",
       "option_c": "रातो मच्छिन्द्रनाथको जात्रा सुरु हुँदा",
       "option_d": "रातो मच्छिन्द्रनाथको रथयात्राको अन्तिम दिन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "रातो मच्छिन्द्रनाथको रथ तानेर जावलाखेल पुर्‍याएपछि अन्तिम दिन सबैलाई भोटो देखाएर जात्रा समापन गरिन्छ।",
       "is_pro": false
     },
@@ -3453,7 +3453,7 @@
       "option_b": "११० जना",
       "option_c": "२७५ जना",
       "option_d": "५९ जना",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्रतिनिधि सभामा कुल सदस्यमध्ये ४० प्रतिशत अर्थात् ११० जना समानुपातिक बन्दसूचीबाट निर्वाचित हुने व्यवस्था छ।",
       "is_pro": false
     },
@@ -3475,7 +3475,7 @@
       "option_b": "५९ जना",
       "option_c": "१६५ जना",
       "option_d": "२७५ जना",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "देशभरिका १६५ वटा निर्वाचन क्षेत्रबाट प्रत्यक्ष मतदानमार्फत १६५ जना सांसद निर्वाचित हुने व्यवस्था छ।",
       "is_pro": false
     },
@@ -3497,7 +3497,7 @@
       "option_b": "१६५ जना",
       "option_c": "११० जना",
       "option_d": "२७५ जना",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "प्रत्यक्षबाट १६५ र समानुपातिकबाट ११० गरी प्रतिनिधि सभामा जम्मा २७५ जना सदस्यहरू रहन्छन्।",
       "is_pro": false
     },
@@ -3541,7 +3541,7 @@
       "option_b": "३१ वटा",
       "option_c": "३५ वटा",
       "option_d": "३०८ वटा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "संविधानको भाग ३ मा धारा १६ देखि ४६ सम्म जम्मा ३१ वटा मौलिक हकहरू लिपिवद्ध गरिएका छन्।",
       "is_pro": false
     },
@@ -3563,7 +3563,7 @@
       "option_b": "३१",
       "option_c": "३५",
       "option_d": "३०८",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपालको संविधानलाई व्यवस्थित रूपमा जम्मा ३५ भागमा बाँडिएको छ।",
       "is_pro": false
     },
@@ -3585,7 +3585,7 @@
       "option_b": "३०६",
       "option_c": "३०७",
       "option_d": "३०८",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "वि.सं. २०७२ मा जारी भएको नेपालको मूल कानुनमा जम्मा ३०८ वटा धाराहरू रहेका छन्।",
       "is_pro": false
     },
@@ -3629,7 +3629,7 @@
       "option_b": "८",
       "option_c": "९",
       "option_d": "१०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सुरुमा ७ राष्ट्र मात्र भए पनि पछि अफगानिस्तान थपिएपछि सार्कमा हाल ८ सदस्य राष्ट्रहरू छन्।",
       "is_pro": false
     },
@@ -3651,7 +3651,7 @@
       "option_b": "मालदिभ्स",
       "option_c": "अफगानिस्तान",
       "option_d": "श्रीलङ्का",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सार्कको नयाँ र सबैभन्दा कान्छो सदस्य राष्ट्रको रूपमा अफगानिस्तानलाई समावेश गरिएको हो।",
       "is_pro": false
     },
@@ -3673,7 +3673,7 @@
       "option_b": "श्रीलङ्का",
       "option_c": "नेपाल",
       "option_d": "मालदिभ्स",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "हिन्द महासागरमा रहेका साना टापुहरू मिलेर बनेको मालदिभ्स सार्कको सबैभन्दा सानो सदस्य राष्ट्र हो।",
       "is_pro": false
     },
@@ -3717,7 +3717,7 @@
       "option_b": "१० डिसेम्बर",
       "option_c": "८ मार्च",
       "option_d": "१ मे",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "संयुक्त राष्ट्रसङ्घले १० डिसेम्बर १९४८ मा मानव अधिकारको विश्वव्यापी घोषणापत्र जारी गरेको सम्झनामा यो दिवस मनाइन्छ।",
       "is_pro": false
     },
@@ -3739,7 +3739,7 @@
       "option_b": "१० डिसेम्बर",
       "option_c": "जुन ५ (June 5)",
       "option_d": "२२ अप्रिल",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सन् १९७२ को स्टकहोम सम्मेलनको निर्णयअनुसार हरेक वर्ष जुन ५ तारिखमा विश्व वातावरण दिवस मनाइन्छ।",
       "is_pro": false
     },
@@ -3761,7 +3761,7 @@
       "option_b": "५ जुन",
       "option_c": "१० डिसेम्बर",
       "option_d": "८ मार्च (March 8)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "महिला अधिकारको विश्वव्यापी आन्दोलनको सम्मान गर्दै हरेक वर्ष मार्च ८ मा अन्तर्राष्ट्रिय नारी दिवस मनाइन्छ।",
       "is_pro": false
     },
@@ -3805,7 +3805,7 @@
       "option_b": "भूपतीन्द्र मल्ल",
       "option_c": "सिद्धिनरसिंह मल्ल",
       "option_d": "यक्ष मल्ल",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "भक्तपुर दरबार स्क्वायरमा रहेको काठको उत्कृष्ट नमुना ५५ झ्याले दरबार मल्ल राजा भूपतीन्द्र मल्लले निर्माण गराएका हुन्।",
       "is_pro": false
     },
@@ -3827,7 +3827,7 @@
       "option_b": "भूपतीन्द्र मल्ल",
       "option_c": "सिद्धिनरसिंह मल्ल",
       "option_d": "शिवसिंह मल्ल",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "शिखर शैलीमा निर्मित पाटनको कृष्ण मन्दिर राजा सिद्धिनरसिंह मल्लले वि.सं. १६९३ मा बनाएका हुन्।",
       "is_pro": false
     },
@@ -3849,7 +3849,7 @@
       "option_b": "सन् १८१५",
       "option_c": "सन् १८१७",
       "option_d": "सन् १८१६",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "अङ्ग्रेजसँगको युद्धपछि नेपालले आफ्नो एक तिहाइ भूभाग गुमाउने गरी सन् १८१६ मा सुगौली सन्धि लागू भएको थियो।",
       "is_pro": false
     },
@@ -3893,7 +3893,7 @@
       "option_b": "चन्द्रशमशेर",
       "option_c": "वीरशमशेर",
       "option_d": "जुद्धशमशेर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "तत्कालीन राणा प्रधानमन्त्री चन्द्रशमशेरले वि.सं. १९७७ असार २५ गते सती प्रथाको अन्त्य गरेका थिए।",
       "is_pro": false
     },
@@ -3915,7 +3915,7 @@
       "option_b": "वीरशमशेर",
       "option_c": "देवशमशेर",
       "option_d": "जङ्गबहादुर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "उदार विचारका राणा प्रधानमन्त्री देवशमशेरले जनतालाई सूचना दिन गोरखापत्रको प्रकाशन सुरु गराएका हुन्।",
       "is_pro": false
     },
@@ -3937,7 +3937,7 @@
       "option_b": "वि.सं. १९५६",
       "option_c": "वि.सं. १९६०",
       "option_d": "वि.सं. १९५८",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "वि.सं. १९५८ वैशाख २४ गतेदेखि साप्ताहिक रूपमा गोरखापत्रको प्रकाशन सुरु भएको हो।",
       "is_pro": false
     },
@@ -3981,7 +3981,7 @@
       "option_b": "अंशुवर्मा",
       "option_c": "नरेन्द्रदेव",
       "option_d": "शिवदेव",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "चिनियाँ यात्री ह्वेन साङले समेत वर्णन गरेको साततले कैलाशकुट भवन अंशुवर्माले बनाएका थिए।",
       "is_pro": false
     },
@@ -4003,7 +4003,7 @@
       "option_b": "नरेन्द्रदेव",
       "option_c": "मानदेव",
       "option_d": "शिवदेव",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "वि.सं. ५२१ मा राजा मानदेवले चाँगुनारायणमा राख्न लगाएको गरुड स्तम्भको अभिलेख नै नेपालको पहिलो प्रामाणिक अभिलेख हो।",
       "is_pro": false
     },
@@ -4025,7 +4025,7 @@
       "option_b": "वि.सं. १७७७ पुस २७",
       "option_c": "वि.सं. १७७८ पुस २७",
       "option_d": "वि.सं. १७७९ पुस २७",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "गोरखाका राजा नरभूपाल शाह र रानी कौशल्यावतीको कोखबाट वि.सं. १७७९ पुस २७ गते पृथ्वीनारायण शाहको जन्म भएको थियो।",
       "is_pro": false
     },
@@ -4069,7 +4069,7 @@
       "option_b": "वि.सं. १८३१",
       "option_c": "वि.सं. १८३२",
       "option_d": "वि.सं. १८३३",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "एकीकरण अभियान चलिरहेकै बेला वि.सं. १८३१ माघे सङ्क्रान्तिका दिन नुवाकोटको देवीघाटमा ५२ वर्षको उमेरमा उनको निधन भएको थियो।",
       "is_pro": false
     },
@@ -4091,7 +4091,7 @@
       "option_b": "जयस्थिति मल्ल",
       "option_c": "भुक्तमान",
       "option_d": "मानदेव",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "गोपाल वंशावलीका अनुसार गाई पालेर बस्ने गोपाल वंशीहरूका पहिलो राजा भुक्तमान (धर्माकर) थिए।",
       "is_pro": false
     },
@@ -4113,7 +4113,7 @@
       "option_b": "जितेदास्ती",
       "option_c": "गस्ती",
       "option_d": "यलम्वर",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "महिषपाल वंशलाई पराजित गरी काठमाडौँ उपत्यकामा शासन सुरु गर्ने प्रथम किराँत राजा यलम्वर हुन्।",
       "is_pro": false
     },
@@ -4157,7 +4157,7 @@
       "option_b": "+५ घण्टा ४५ मिनेट",
       "option_c": "+५ घण्टा १५ मिनेट",
       "option_d": "+६ घण्टा ०० मिनेट",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नेपालको समय बेलायतको ग्रीनविचको समयभन्दा ५ घण्टा ४५ मिनेट अगाडि छ।",
       "is_pro": false
     },
@@ -4179,7 +4179,7 @@
       "option_b": "स्टिभ जब्स",
       "option_c": "चार्ल्स ब्याबेज",
       "option_d": "एलन ट्युरिङ",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "एनालाइटिकल इन्जिनको डिजाइन गरी आधुनिक कम्प्युटरको जग बसालेका कारण चार्ल्स ब्याबेजलाई कम्प्युटरका पिता भनिन्छ।",
       "is_pro": false
     },
@@ -4201,7 +4201,7 @@
       "option_b": "पोकली झरना",
       "option_c": "सुलिगाड झरना",
       "option_d": "पचाल झरना",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कालिकोट जिल्लामा अवस्थित ३८१ मिटर लामो पचाल झरना नेपालको सबैभन्दा लामो झरना हो।",
       "is_pro": false
     },
@@ -4245,7 +4245,7 @@
       "option_b": "लापाज (La Paz)",
       "option_c": "थिम्पु",
       "option_d": "उलानबाटर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "बोलिभियाको राजधानी लापाज समुद्र सतहबाट करिब ३,६५० मिटर उचाइमा रहेको विश्वकै अग्लो राजधानी सहर हो।",
       "is_pro": false
     },
@@ -4267,7 +4267,7 @@
       "option_b": "कार्ल मार्क्स",
       "option_c": "गेइरार्ड हर्टफोर्ड (Geirard Herkward / इतिहासकार तथा वैज्ञानिक अनुसन्धान)",
       "option_d": "प्रचण्ड नारायण",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "चोभारको डाँडो काटेर पानी बाहिर पठाएपछि काठमाडौँ उपत्यका वस्ती योग्य भएको भन्ने मान्यता वैज्ञानिक तथा भूगर्भशास्त्रीहरूको अध्ययनले पुष्टि गरेको छ।",
       "is_pro": false
     },
@@ -4289,7 +4289,7 @@
       "option_b": "युरोप",
       "option_c": "उत्तर अमेरिका",
       "option_d": "अस्ट्रेलिया",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "क्षेत्रफलको आधारमा अस्ट्रेलिया महाद्वीप विश्वको सबैभन्दा सानो महाद्वीप हो।",
       "is_pro": false
     },
@@ -4333,7 +4333,7 @@
       "option_b": "दार्चुला",
       "option_c": "कञ्चनपुर",
       "option_d": "डडेल्धुरा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नेपालको सबैभन्दा पश्चिमी सीमामा अवस्थित जिल्ला दार्चुला हो।",
       "is_pro": false
     },
@@ -4355,7 +4355,7 @@
       "option_b": "मुगु",
       "option_c": "डोल्पा",
       "option_d": "मुस्ताङ",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपालको सबैभन्दा उत्तरमा फैलिएको जिल्ला हुम्ला हो।",
       "is_pro": false
     },
@@ -4377,7 +4377,7 @@
       "option_b": "सुनसरी",
       "option_c": "रौतहट",
       "option_d": "झापा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नेपालको सबैभन्दा दक्षिणमा पर्ने बिन्दु झापा जिल्लामा अवस्थित छ।",
       "is_pro": false
     },
@@ -4421,7 +4421,7 @@
       "option_b": "बेलायत (England)",
       "option_c": "भारत",
       "option_d": "दक्षिण अफ्रिका",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आधुनिक क्रिकेट खेलको सुरुवात र विकास बेलायत (इङ्ल्यान्ड) मा भएको हो।",
       "is_pro": false
     },
@@ -4443,7 +4443,7 @@
       "option_b": "अर्जेन्टिना",
       "option_c": "उरुग्वे",
       "option_d": "जर्मनी",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सन् १९३० मा भएको पहिलो फिफा विश्वकपको फाइनलमा अर्जेन्टिनालाई हराउँदै उरुग्वे पहिलो विजेता बनेको थियो।",
       "is_pro": false
     },
@@ -4465,7 +4465,7 @@
       "option_b": "१९०",
       "option_c": "२००",
       "option_d": "२०६",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एक वयस्क स्वस्थ मानिसको शरीरमा जम्मा २०६ वटा हाडहरू हुन्छन्।",
       "is_pro": false
     },
@@ -4509,7 +4509,7 @@
       "option_b": "११४८ वर्ग कि.मी.",
       "option_c": "१६५० वर्ग कि.मी.",
       "option_d": "७१० वर्ग कि.मी.",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "खुम्बु क्षेत्रमा फैलिएको सगरमाथा राष्ट्रिय निकुञ्जको क्षेत्रफल ११४८ वर्ग किलोमिटर छ।",
       "is_pro": false
     },
@@ -4531,7 +4531,7 @@
       "option_b": "१.५ कि.मी.",
       "option_c": "२.६८ कि.मी. (मुख्य सुरुङ २.६८ कि.मी.)",
       "option_d": "५ कि.मी.",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "काठमाडौँ जोडने नागढुङ्गा सुरुङमार्गको मुख्य सुरुङको लम्बाइ २.६८ किलोमिटर रहेको छ।",
       "is_pro": false
     },
@@ -4553,7 +4553,7 @@
       "option_b": "६ वटा",
       "option_c": "८ वटा",
       "option_d": "७ वटा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सन् १९८५ मा सार्क स्थापना हुँदा नेपाल, भारत, पाकिस्तान, बङ्गलादेश, भुटान, श्रीलङ्का र माल्दिभ्स गरी ७ राष्ट्र थिए।",
       "is_pro": false
     },
@@ -4597,7 +4597,7 @@
       "option_b": "५०० किलोवाट",
       "option_c": "१००० किलोवाट",
       "option_d": "१०० किलोवाट",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "फर्पिङ जलविद्युत् आयोजनाबाट सुरुमा ५०० किलोवाट विद्युत् उत्पादन गरिएको थियो।",
       "is_pro": false
     },
@@ -4619,7 +4619,7 @@
       "option_b": "धर्मभक्त माथेमा",
       "option_c": "लखन थापा",
       "option_d": "गंगालाल श्रेष्ठ",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "वि.सं. १९३३ मा राणा शासनविरुद्ध आवाज उठाउने लखन थापालाई नेपालको पहिलो सहिद मानिन्छ।",
       "is_pro": false
     },
@@ -4641,7 +4641,7 @@
       "option_b": "दशरथ चन्द",
       "option_c": "लखन थापा",
       "option_d": "गंगालाल श्रेष्ठ",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "लखन थापा १९९७ भन्दा धेरै अघिका सहिद हुन् भने १९९७ मा सहिद हुनेहरू शुक्रराज, धर्मभक्त, दशरथ र गंगालाल हुन्।",
       "is_pro": false
     },
@@ -4685,7 +4685,7 @@
       "option_b": "एरिक शिप्टन",
       "option_c": "मौरिस हर्जोग",
       "option_d": "फ्राम्कोइस",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "न्युजिल्यान्डका सर एडमन्ड हिलारी र नेपालका तेन्जिङ नोर्गे शेर्पाले पहिलोपटक सगरमाथाको चुचुरोमा पाइला टेकेका थिए।",
       "is_pro": false
     },
@@ -4707,7 +4707,7 @@
       "option_b": "२५ वटा",
       "option_c": "३१ वटा",
       "option_d": "३५ वटा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपालको संविधानको भाग ३ (धारा १६ देखि ४६ सम्म) मा ३१ वटा मौलिक हकहरू सुरक्षित गरिएको छ।",
       "is_pro": false
     },
@@ -4729,7 +4729,7 @@
       "option_b": "७ वटा",
       "option_c": "८ वटा",
       "option_d": "१० वटा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सार्कको उद्देश्य, सञ्चालन र व्यवस्थापन स्पष्ट पार्ने बडापत्रमा जम्मा १० वटा धारा छन्।",
       "is_pro": false
     }
