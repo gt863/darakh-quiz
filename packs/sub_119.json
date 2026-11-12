@@ -1,6 +1,6 @@
 {
   "sub_cat_id": "119",
-  "data_version": 1794412402725,
+  "data_version": 1794491195766,
   "total_questions": 124,
   "questions": [
     {
@@ -43,7 +43,7 @@
       "option_b": "४०",
       "option_c": "२०",
       "option_d": "४४",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (१२० x ५) / १५ = ४०।",
       "is_pro": false
     },
@@ -65,7 +65,7 @@
       "option_b": "३८",
       "option_c": "८८",
       "option_d": "१९",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आयतको क्षेत्रफल = लम्बाइ x चौडाइ = ११ x ८ = ८८ वर्ग से.मि.।",
       "is_pro": false
     },
@@ -87,7 +87,7 @@
       "option_b": "८",
       "option_c": "९",
       "option_d": "७",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "२x + २० = ३४ => २x = ३४ - २० => २x = १४ => x = ७।",
       "is_pro": false
     },
@@ -131,7 +131,7 @@
       "option_b": "३९",
       "option_c": "७८",
       "option_d": "२९",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ४६१ - ३३० = १३१। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (१३१ / ३३०) x १००% = ३९%।",
       "is_pro": false
     },
@@ -153,7 +153,7 @@
       "option_b": "२८",
       "option_c": "३०",
       "option_d": "६०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (१२० x ५) / २० = ३०।",
       "is_pro": false
     },
@@ -175,7 +175,7 @@
       "option_b": "२०",
       "option_c": "७०",
       "option_d": "७५",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आयतको क्षेत्रफल = लम्बाइ x चौडाइ = १५ x ५ = ७५ वर्ग से.मि.।",
       "is_pro": false
     },
@@ -219,7 +219,7 @@
       "option_b": "१८००",
       "option_c": "२०००",
       "option_d": "३६००",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (९००० x २ x १०) / १०० = रु. १८००।",
       "is_pro": false
     },
@@ -241,7 +241,7 @@
       "option_b": "२५",
       "option_c": "२०",
       "option_d": "१०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ५६४ - ४७० = ९४। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (९४ / ४७०) x १००% = २०%।",
       "is_pro": false
     },
@@ -263,7 +263,7 @@
       "option_b": "१४",
       "option_c": "५६",
       "option_d": "२८",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (१४० x ४) / २० = २८।",
       "is_pro": false
     },
@@ -307,7 +307,7 @@
       "option_b": "५",
       "option_c": "६",
       "option_d": "४",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "२x + १८ = २८ => २x = २८ - १८ => २x = १० => x = ५।",
       "is_pro": false
     },
@@ -329,7 +329,7 @@
       "option_b": "१७२०",
       "option_c": "१६२०",
       "option_d": "१५२०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (९००० x ३ x ६) / १०० = रु. १६२०।",
       "is_pro": false
     },
@@ -351,7 +351,7 @@
       "option_b": "३०",
       "option_c": "४०",
       "option_d": "२०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ४८० - ४०० = ८०। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (८० / ४००) x १००% = २०%।",
       "is_pro": false
     },
@@ -395,7 +395,7 @@
       "option_b": "६६",
       "option_c": "३४",
       "option_d": "७६",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आयतको क्षेत्रफल = लम्बाइ x चौडाइ = ११ x ६ = ६६ वर्ग से.मि.।",
       "is_pro": false
     },
@@ -417,7 +417,7 @@
       "option_b": "४",
       "option_c": "३",
       "option_d": "२",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "२x + १८ = २४ => २x = २४ - १८ => २x = ६ => x = ३।",
       "is_pro": false
     },
@@ -439,7 +439,7 @@
       "option_b": "११००",
       "option_c": "१४००",
       "option_d": "१२००",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (२००० x ५ x १२) / १०० = रु. १२००।",
       "is_pro": false
     },
@@ -483,7 +483,7 @@
       "option_b": "२४",
       "option_c": "२२",
       "option_d": "२८",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (१२० x ३) / १५ = २४।",
       "is_pro": false
     },
@@ -505,7 +505,7 @@
       "option_b": "१७२",
       "option_c": "१६२",
       "option_d": "२७",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आयतको क्षेत्रफल = लम्बाइ x चौडाइ = १८ x ९ = १६२ वर्ग से.मि.।",
       "is_pro": false
     },
@@ -527,7 +527,7 @@
       "option_b": "१",
       "option_c": "४",
       "option_d": "२",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "२x + २० = २४ => २x = २४ - २० => २x = ४ => x = २।",
       "is_pro": false
     },
@@ -571,7 +571,7 @@
       "option_b": "१४",
       "option_c": "७",
       "option_d": "२८",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (४२ x २) / ६ = १४।",
       "is_pro": false
     },
@@ -593,7 +593,7 @@
       "option_b": "३२",
       "option_c": "३६",
       "option_d": "४६",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (११ + ७) = ३६ से.मि.।",
       "is_pro": false
     },
@@ -615,7 +615,7 @@
       "option_b": "८",
       "option_c": "१२",
       "option_d": "९",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "३x - १५ = १२ => ३x = १२ + १५ => ३x = २७ => x = ९।",
       "is_pro": false
     },
@@ -659,7 +659,7 @@
       "option_b": "२०",
       "option_c": "४०",
       "option_d": "२५",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = १५६ - १३० = २६। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (२६ / १३०) x १००% = २०%।",
       "is_pro": false
     },
@@ -681,7 +681,7 @@
       "option_b": "३४",
       "option_c": "३६",
       "option_d": "१८",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (१४४ x ४) / १६ = ३६।",
       "is_pro": false
     },
@@ -703,7 +703,7 @@
       "option_b": "२९",
       "option_c": "६८",
       "option_d": "५८",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (२० + ९) = ५८ से.मि.।",
       "is_pro": false
     },
@@ -747,7 +747,7 @@
       "option_b": "२६४०",
       "option_c": "५२८०",
       "option_d": "२८४०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (८००० x ३ x ११) / १०० = रु. २६४०।",
       "is_pro": false
     },
@@ -769,7 +769,7 @@
       "option_b": "४५",
       "option_c": "५०",
       "option_d": "१००",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ७५० - ५०० = २५०। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (२५० / ५००) x १००% = ५०%।",
       "is_pro": false
     },
@@ -791,7 +791,7 @@
       "option_b": "१०",
       "option_c": "२३",
       "option_d": "२१",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (१०५ x ३) / १५ = २१।",
       "is_pro": false
     },
@@ -835,7 +835,7 @@
       "option_b": "३",
       "option_c": "२",
       "option_d": "६",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "३x - ३० = -२१ => ३x = -२१ + ३० => ३x = ९ => x = ३।",
       "is_pro": false
     },
@@ -857,7 +857,7 @@
       "option_b": "२८००",
       "option_c": "१४००",
       "option_d": "१६००",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (५००० x ४ x ७) / १०० = रु. १४००।",
       "is_pro": false
     },
@@ -879,7 +879,7 @@
       "option_b": "५०",
       "option_c": "३५",
       "option_d": "४०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ३०८ - २२० = ८८। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (८८ / २२०) x १००% = ४०%।",
       "is_pro": false
     },
@@ -923,7 +923,7 @@
       "option_b": "३६",
       "option_c": "४६",
       "option_d": "१८",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१३ + ५) = ३६ से.मि.।",
       "is_pro": false
     },
@@ -945,7 +945,7 @@
       "option_b": "३",
       "option_c": "४",
       "option_d": "५",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "३x - १८ = -६ => ३x = -६ + १८ => ३x = १२ => x = ४।",
       "is_pro": false
     },
@@ -967,7 +967,7 @@
       "option_b": "४३२०",
       "option_c": "२३६०",
       "option_d": "२१६०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (९००० x ३ x ८) / १०० = रु. २१६०।",
       "is_pro": false
     },
@@ -1011,7 +1011,7 @@
       "option_b": "३५",
       "option_c": "१७",
       "option_d": "३७",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (१४० x ५) / २० = ३५।",
       "is_pro": false
     },
@@ -1033,7 +1033,7 @@
       "option_b": "४६",
       "option_c": "५०",
       "option_d": "११४",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१९ + ६) = ५० से.मि.।",
       "is_pro": false
     },
@@ -1055,7 +1055,7 @@
       "option_b": "३",
       "option_c": "८",
       "option_d": "४",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "३x - २४ = -१२ => ३x = -१२ + २४ => ३x = १२ => x = ४।",
       "is_pro": false
     },
@@ -1099,7 +1099,7 @@
       "option_b": "२०",
       "option_c": "३०",
       "option_d": "१५",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = २१६ - १८० = ३६। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (३६ / १८०) x १००% = २०%।",
       "is_pro": false
     },
@@ -1121,7 +1121,7 @@
       "option_b": "४८",
       "option_c": "२४",
       "option_d": "२६",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (४८ x ४) / ८ = २४।",
       "is_pro": false
     },
@@ -1143,7 +1143,7 @@
       "option_b": "९१",
       "option_c": "५०",
       "option_d": "४०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१३ + ७) = ४० से.मि.।",
       "is_pro": false
     },
@@ -1187,7 +1187,7 @@
       "option_b": "२१००",
       "option_c": "४२००",
       "option_d": "२०००",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (६००० x ५ x ७) / १०० = रु. २१००।",
       "is_pro": false
     },
@@ -1209,7 +1209,7 @@
       "option_b": "१०",
       "option_c": "२०",
       "option_d": "४०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ४९२ - ४१० = ८२। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (८२ / ४१०) x १००% = २०%।",
       "is_pro": false
     },
@@ -1231,7 +1231,7 @@
       "option_b": "१६",
       "option_c": "२२",
       "option_d": "१८",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (९० x २) / १० = १८।",
       "is_pro": false
     },
@@ -1275,7 +1275,7 @@
       "option_b": "६",
       "option_c": "१२",
       "option_d": "५",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "३x - २४ = -६ => ३x = -६ + २४ => ३x = १८ => x = ६।",
       "is_pro": false
     },
@@ -1297,7 +1297,7 @@
       "option_b": "६१६०",
       "option_c": "३०८०",
       "option_d": "२९८०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (७००० x ४ x ११) / १०० = रु. ३०८०।",
       "is_pro": false
     },
@@ -1319,7 +1319,7 @@
       "option_b": "०",
       "option_c": "२०",
       "option_d": "१०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = २२० - २०० = २०। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (२० / २००) x १००% = १०%।",
       "is_pro": false
     },
@@ -1363,7 +1363,7 @@
       "option_b": "४२",
       "option_c": "२१",
       "option_d": "५२",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१३ + ८) = ४२ से.मि.।",
       "is_pro": false
     },
@@ -1385,7 +1385,7 @@
       "option_b": "७",
       "option_c": "६",
       "option_d": "५",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "३x - ३० = -१२ => ३x = -१२ + ३० => ३x = १८ => x = ६।",
       "is_pro": false
     },
@@ -1407,7 +1407,7 @@
       "option_b": "११६०",
       "option_c": "१३६०",
       "option_d": "१२६०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (७००० x २ x ९) / १०० = रु. १२६०।",
       "is_pro": false
     },
@@ -1451,7 +1451,7 @@
       "option_b": "२१",
       "option_c": "४२",
       "option_d": "१९",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (८४ x ३) / १२ = २१।",
       "is_pro": false
     },
@@ -1473,7 +1473,7 @@
       "option_b": "२८",
       "option_c": "३२",
       "option_d": "६०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१० + ६) = ३२ से.मि.।",
       "is_pro": false
     },
@@ -1495,7 +1495,7 @@
       "option_b": "४",
       "option_c": "२",
       "option_d": "३",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "३x - १८ = -९ => ३x = -९ + १८ => ३x = ९ => x = ३।",
       "is_pro": false
     },
@@ -1539,7 +1539,7 @@
       "option_b": "१०",
       "option_c": "२०",
       "option_d": "५",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = २९७ - २७० = २७। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (२७ / २७०) x १००% = १०%।",
       "is_pro": false
     },
@@ -1561,7 +1561,7 @@
       "option_b": "२२",
       "option_c": "१८",
       "option_d": "३६",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (९० x ३) / १५ = १८।",
       "is_pro": false
     },
@@ -1583,7 +1583,7 @@
       "option_b": "९८",
       "option_c": "५२",
       "option_d": "४२",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१४ + ७) = ४२ से.मि.।",
       "is_pro": false
     },
@@ -1627,7 +1627,7 @@
       "option_b": "४८०",
       "option_c": "३८०",
       "option_d": "९६०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (१००० x ४ x १२) / १०० = रु. ४८०।",
       "is_pro": false
     },
@@ -1649,7 +1649,7 @@
       "option_b": "१००",
       "option_c": "५०",
       "option_d": "४५",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ७३५ - ४९० = २४५। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (२४५ / ४९०) x १००% = ५०%।",
       "is_pro": false
     },
@@ -1671,7 +1671,7 @@
       "option_b": "२०",
       "option_c": "३२",
       "option_d": "१६",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (६४ x २) / ८ = १६।",
       "is_pro": false
     },
@@ -1715,7 +1715,7 @@
       "option_b": "३",
       "option_c": "४",
       "option_d": "२",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "३x - २४ = -१५ => ३x = -१५ + २४ => ३x = ९ => x = ३।",
       "is_pro": false
     },
@@ -1737,7 +1737,7 @@
       "option_b": "४८००",
       "option_c": "२४००",
       "option_d": "२५००",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (८००० x ५ x ६) / १०० = रु. २४००।",
       "is_pro": false
     },
@@ -1759,7 +1759,7 @@
       "option_b": "४९",
       "option_c": "२९",
       "option_d": "३९",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ५०३ - ३६० = १४३। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (१४३ / ३६०) x १००% = ३९%।",
       "is_pro": false
     },
@@ -1803,7 +1803,7 @@
       "option_b": "३२",
       "option_c": "२८",
       "option_d": "६०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१० + ६) = ३२ से.मि.।",
       "is_pro": false
     },
@@ -1825,7 +1825,7 @@
       "option_b": "१६",
       "option_c": "८",
       "option_d": "७",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "३x - २७ = -३ => ३x = -३ + २७ => ३x = २४ => x = ८।",
       "is_pro": false
     },
@@ -1847,7 +1847,7 @@
       "option_b": "७५०",
       "option_c": "११००",
       "option_d": "५५०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (१००० x ५ x ११) / १०० = रु. ५५०।",
       "is_pro": false
     },
@@ -1891,7 +1891,7 @@
       "option_b": "२७",
       "option_c": "५४",
       "option_d": "२९",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (१०८ x ३) / १२ = २७।",
       "is_pro": false
     },
@@ -1913,7 +1913,7 @@
       "option_b": "६२",
       "option_c": "५२",
       "option_d": "४८",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (२० + ६) = ५२ से.मि.।",
       "is_pro": false
     },
@@ -1935,7 +1935,7 @@
       "option_b": "१०",
       "option_c": "४",
       "option_d": "५",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "३x - १८ = -३ => ३x = -३ + १८ => ३x = १५ => x = ५।",
       "is_pro": false
     },
@@ -1979,7 +1979,7 @@
       "option_b": "२०",
       "option_c": "१५",
       "option_d": "२५",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ३८४ - ३२० = ६४। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (६४ / ३२०) x १००% = २०%।",
       "is_pro": false
     },
@@ -2001,7 +2001,7 @@
       "option_b": "३१",
       "option_c": "२७",
       "option_d": "५४",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (१३५ x ३) / १५ = २७।",
       "is_pro": false
     },
@@ -2023,7 +2023,7 @@
       "option_b": "४८",
       "option_c": "१४४",
       "option_d": "५२",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१८ + ८) = ५२ से.मि.।",
       "is_pro": false
     },
@@ -2067,7 +2067,7 @@
       "option_b": "२४०",
       "option_c": "४४०",
       "option_d": "१४०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (१००० x ४ x ६) / १०० = रु. २४०।",
       "is_pro": false
     },
@@ -2089,7 +2089,7 @@
       "option_b": "०",
       "option_c": "१०",
       "option_d": "१५",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ३०८ - २८० = २८। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (२८ / २८०) x १००% = १०%।",
       "is_pro": false
     },
@@ -2111,7 +2111,7 @@
       "option_b": "३८",
       "option_c": "३४",
       "option_d": "३६",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (१८० x ४) / २० = ३६।",
       "is_pro": false
     },
@@ -2155,7 +2155,7 @@
       "option_b": "३",
       "option_c": "६",
       "option_d": "२",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "३x - २४ = -१५ => ३x = -१५ + २४ => ३x = ९ => x = ३।",
       "is_pro": false
     },
@@ -2177,7 +2177,7 @@
       "option_b": "२८००",
       "option_c": "२७००",
       "option_d": "५४००",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (९००० x ३ x १०) / १०० = रु. २७००।",
       "is_pro": false
     },
@@ -2199,7 +2199,7 @@
       "option_b": "६०",
       "option_c": "५५",
       "option_d": "५०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = १५० - १०० = ५०। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (५० / १००) x १००% = ५०%।",
       "is_pro": false
     },
@@ -2243,7 +2243,7 @@
       "option_b": "४८",
       "option_c": "१२८",
       "option_d": "४४",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१६ + ८) = ४८ से.मि.।",
       "is_pro": false
     },
@@ -2265,7 +2265,7 @@
       "option_b": "३",
       "option_c": "४",
       "option_d": "७",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "३x - १५ = -३ => ३x = -३ + १५ => ३x = १२ => x = ४।",
       "is_pro": false
     },
@@ -2287,7 +2287,7 @@
       "option_b": "४४०",
       "option_c": "४८०",
       "option_d": "२४०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (१००० x ३ x ८) / १०० = रु. २४०।",
       "is_pro": false
     },
@@ -2331,7 +2331,7 @@
       "option_b": "२१",
       "option_c": "२५",
       "option_d": "४२",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (१०५ x ३) / १५ = २१।",
       "is_pro": false
     },
@@ -2353,7 +2353,7 @@
       "option_b": "२८",
       "option_c": "५६",
       "option_d": "१७१",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१९ + ९) = ५६ से.मि.।",
       "is_pro": false
     },
@@ -2375,7 +2375,7 @@
       "option_b": "४",
       "option_c": "१",
       "option_d": "२",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "३x - २४ = -१८ => ३x = -१८ + २४ => ३x = ६ => x = २।",
       "is_pro": false
     },
@@ -2419,7 +2419,7 @@
       "option_b": "१०",
       "option_c": "१५",
       "option_d": "५",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ३७४ - ३४० = ३४। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (३४ / ३४०) x १००% = १०%।",
       "is_pro": false
     },
@@ -2441,7 +2441,7 @@
       "option_b": "४८",
       "option_c": "२४",
       "option_d": "२८",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (४८ x ४) / ८ = २४।",
       "is_pro": false
     },
@@ -2463,7 +2463,7 @@
       "option_b": "२६",
       "option_c": "४८",
       "option_d": "५२",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१९ + ७) = ५२ से.मि.।",
       "is_pro": false
     },
@@ -2507,7 +2507,7 @@
       "option_b": "१६००",
       "option_c": "१५००",
       "option_d": "१८००",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (८००० x २ x १०) / १०० = रु. १६००।",
       "is_pro": false
     },
@@ -2529,7 +2529,7 @@
       "option_b": "८०",
       "option_c": "४०",
       "option_d": "३०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ४०६ - २९० = ११६। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (११६ / २९०) x १००% = ४०%।",
       "is_pro": false
     },
@@ -2551,7 +2551,7 @@
       "option_b": "२४",
       "option_c": "१६",
       "option_d": "१२",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (२४ x २) / ४ = १२।",
       "is_pro": false
     },
@@ -2595,7 +2595,7 @@
       "option_b": "७",
       "option_c": "१०",
       "option_d": "६",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "३x - ६ = १५ => ३x = १५ + ६ => ३x = २१ => x = ७।",
       "is_pro": false
     },
@@ -2617,7 +2617,7 @@
       "option_b": "५२०",
       "option_c": "३२०",
       "option_d": "२२०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (१००० x ४ x ८) / १०० = रु. ३२०।",
       "is_pro": false
     },
@@ -2639,7 +2639,7 @@
       "option_b": "६०",
       "option_c": "४०",
       "option_d": "३०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = २२१ - १७० = ५१। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (५१ / १७०) x १००% = ३०%।",
       "is_pro": false
     },
@@ -2683,7 +2683,7 @@
       "option_b": "३८",
       "option_c": "७०",
       "option_d": "४८",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१४ + ५) = ३८ से.मि.।",
       "is_pro": false
     },
@@ -2705,7 +2705,7 @@
       "option_b": "६",
       "option_c": "५",
       "option_d": "८",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "३x - ९ = ६ => ३x = ६ + ९ => ३x = १५ => x = ५।",
       "is_pro": false
     },
@@ -2727,7 +2727,7 @@
       "option_b": "४३००",
       "option_c": "४१००",
       "option_d": "४२००",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (७००० x ५ x १२) / १०० = रु. ४२००।",
       "is_pro": false
     }
