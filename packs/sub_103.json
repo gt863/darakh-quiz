@@ -1,6 +1,6 @@
 {
   "sub_cat_id": "103",
-  "data_version": 1794412402725,
+  "data_version": 1794491195766,
   "total_questions": 89,
   "questions": [
     {
@@ -43,7 +43,7 @@
       "option_b": "an",
       "option_c": "the",
       "option_d": "no article",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "honest' शब्दको उच्चारण 'अनेस्ट' (Vowel sound) बाट सुरु हुने भएकोले 'an' को प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -65,7 +65,7 @@
       "option_b": "an",
       "option_c": "a",
       "option_d": "all",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "Consonant sound (व्यञ्जन वर्णको ध्वनि) बाट सुरु हुने एकवचन नामको अगाडि 'a' को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -87,7 +87,7 @@
       "option_b": "a",
       "option_c": "an",
       "option_d": "the",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "विश्वमा अद्वितीय (unique) वा एउटा मात्र भएको वस्तु (जस्तै: the Sun, the Earth) को अगाडि 'the' को प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -131,7 +131,7 @@
       "option_b": "the",
       "option_c": "Kathmandu",
       "option_d": "of",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यस वाक्यमा 'Kathmandu' एउटा ठाउँको नाम भएकोले यो Noun हो।",
       "is_pro": false
     },
@@ -153,7 +153,7 @@
       "option_b": "Run",
       "option_c": "Beautiful",
       "option_d": "Dog",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "Dog' (कुकुर) एउटा जनावरको नाम भएकोले यो Noun हो। बाँकी शब्दहरू Verb, Adjective र Adverb हुन्।",
       "is_pro": false
     },
@@ -197,7 +197,7 @@
       "option_b": "Collective Noun",
       "option_c": "Material Noun",
       "option_d": "Abstract Noun",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "व्यक्ति वा वस्तुको समूह बुझाउने नामलाई Collective Noun (समूहवाचक नाम) भनिन्छ।",
       "is_pro": false
     },
@@ -219,7 +219,7 @@
       "option_b": "Verb",
       "option_c": "Pronoun",
       "option_d": "Adverb",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नाम दोहोरिन नदिन नामको सट्टामा प्रयोग गरिने शब्दलाई Pronoun (सर्वनाम) भनिन्छ।",
       "is_pro": false
     },
@@ -241,7 +241,7 @@
       "option_b": "She",
       "option_c": "It",
       "option_d": "He",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "Ram' पुल्लिङ्गी (Masculine) एकवचन भएकोले यसको सट्टामा 'He' प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -285,7 +285,7 @@
       "option_b": "It",
       "option_c": "She",
       "option_d": "They",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "निर्जीव वस्तु, जनावर वा साना शिशुको लागि एकवचनमा 'It' को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -307,7 +307,7 @@
       "option_b": "You",
       "option_c": "We",
       "option_d": "They",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आफू र अरू समावेश भएको समूह बुझाउन 'We' (हामी) को प्रयोग हुन्छ, जुन First Person Plural हो।",
       "is_pro": false
     },
@@ -329,7 +329,7 @@
       "option_b": "Noun",
       "option_c": "Pronoun",
       "option_d": "Verb",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कुनै काम भएको वा गर्ने (Action) बुझाउने शब्दलाई Verb (क्रियापद) भनिन्छ।",
       "is_pro": false
     },
@@ -373,7 +373,7 @@
       "option_b": "v4 (ing form)",
       "option_c": "v2",
       "option_d": "v3",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Present Continuous Tense मा काम भइरहेको बुझाउन Verb सँग 'ing' (v4) जोडिएको हुन्छ।",
       "is_pro": false
     },
@@ -395,7 +395,7 @@
       "option_b": "v2",
       "option_c": "v5 (s/es)",
       "option_d": "v3",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "Simple Present Tense मा Third Person Singular Subject (He, She, It) सँग Verb मा s/es (v5) लाग्छ।",
       "is_pro": false
     },
@@ -417,7 +417,7 @@
       "option_b": "goes",
       "option_c": "going",
       "option_d": "went",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "Go' को दोस्रो रूप (Past form - V2) 'went' हुन्छ।",
       "is_pro": false
     },
@@ -439,7 +439,7 @@
       "option_b": "beautiful",
       "option_c": "is",
       "option_d": "girl",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "यस वाक्यमा 'beautiful' ले केटीको विशेषता (गुण) बुझाएको छ, त्यसैले यो Adjective हो।",
       "is_pro": false
     },
@@ -461,7 +461,7 @@
       "option_b": "Gooder",
       "option_c": "Better",
       "option_d": "More good",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "Adjective 'Good' को Comparative रूप 'Better' र Superlative रूप 'Best' हुन्छ।",
       "is_pro": false
     },
@@ -483,7 +483,7 @@
       "option_b": "Adjective of Quality",
       "option_c": "Adjective of Quantity",
       "option_d": "Adjective of Number",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "Noun को सङ्ख्या (गन्ती) बुझाउने विशेषणलाई Adjective of Number भनिन्छ।",
       "is_pro": false
     },
@@ -527,7 +527,7 @@
       "option_b": "old",
       "option_c": "slowly",
       "option_d": "walks",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "काम कसरी भयो (बिस्तारै - slowly) भनेर बुझाएकोले 'slowly' Adverb हो।",
       "is_pro": false
     },
@@ -549,7 +549,7 @@
       "option_b": "ing",
       "option_c": "ed",
       "option_d": "ly",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "धेरैजसो Adverb of manner को अन्त्यमा 'ly' (जस्तै: quickly, loudly) जोडिएको हुन्छ।",
       "is_pro": false
     },
@@ -593,7 +593,7 @@
       "option_b": "Manner",
       "option_c": "Place",
       "option_d": "Frequency",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Clearly' ले बोल्ने तरिका वा ढङ्ग बुझाएकोले यो Adverb of Manner हो।",
       "is_pro": false
     },
@@ -615,7 +615,7 @@
       "option_b": "on",
       "option_c": "in",
       "option_d": "under",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कुनै वस्तुको ठीक मुनि भएको अवस्था बुझाउन 'under' को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -659,7 +659,7 @@
       "option_b": "at",
       "option_c": "on",
       "option_d": "for",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "घडीको निश्चित समय (Point of time) देखाउन 'at' को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -681,7 +681,7 @@
       "option_b": "at",
       "option_c": "in",
       "option_d": "by",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "महिना (Months) र वर्ष (Years) को अगाडि 'in' को प्रयोग गरिन्छ (जस्तै: in January, in 2023)।",
       "is_pro": false
     },
@@ -725,7 +725,7 @@
       "option_b": "because",
       "option_c": "but",
       "option_d": "so",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कारण (Reason) बुझाउनुपर्दा 'because' (किनभने) को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -747,7 +747,7 @@
       "option_b": "so",
       "option_c": "but",
       "option_d": "if",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "दुई फरक वा विपरीत अर्थ दिने वाक्य जोड्न 'but' (तर) को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -769,7 +769,7 @@
       "option_b": "and",
       "option_c": "but",
       "option_d": "or",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "दुईमध्ये एक रोज्न वा विकल्प देखाउन 'or' (वा) को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -791,7 +791,7 @@
       "option_b": "Hurrah",
       "option_c": "Oh",
       "option_d": "Ouch",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "खुसी वा विजय प्रकट गर्न 'Hurrah' शब्दको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -813,7 +813,7 @@
       "option_b": "Hurrah",
       "option_c": "Alas",
       "option_d": "Hello",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "शोक वा दुःख (Sorrow) व्यक्त गर्न 'Alas' को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -835,7 +835,7 @@
       "option_b": "Wow",
       "option_c": "Hurrah",
       "option_d": "Ouch",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "चोट लाग्दा वा अचानक पीडा हुँदा 'Ouch' शब्द प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -857,7 +857,7 @@
       "option_b": "Singular",
       "option_c": "Noun",
       "option_d": "Verb",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "एकवचन (एउटा मात्र व्यक्ति वा वस्तु) बुझाउने रूपलाई Singular भनिन्छ।",
       "is_pro": false
     },
@@ -879,7 +879,7 @@
       "option_b": "Boies",
       "option_c": "Boys",
       "option_d": "Boys'",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सामान्यतया Noun को अन्त्यमा 's' थपेर Plural बनाइन्छ। 'Boy' को 'Boys' हुन्छ।",
       "is_pro": false
     },
@@ -901,7 +901,7 @@
       "option_b": "Childs",
       "option_c": "Childrens",
       "option_d": "Children",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "Child' शब्दको बहुवचन अनियमित (Irregular) हुन्छ र यो 'Children' बन्छ।",
       "is_pro": false
     },
@@ -923,7 +923,7 @@
       "option_b": "Leaves",
       "option_c": "Leavs",
       "option_d": "Leafes",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अन्त्यमा 'f' वा 'fe' भएका शब्दहरूमा 'f/fe' लाई हटाएर 'ves' थपिन्छ।",
       "is_pro": false
     },
@@ -945,7 +945,7 @@
       "option_b": "Homophones",
       "option_c": "Synonyms",
       "option_d": "Homonyms",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "अङ्ग्रेजीमा समान अर्थ दिने शब्दहरूलाई Synonyms भनिन्छ।",
       "is_pro": false
     },
@@ -967,7 +967,7 @@
       "option_b": "Tiny",
       "option_c": "Little",
       "option_d": "Large",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "Big' र 'Large' दुवैको अर्थ 'ठूलो' हुन्छ।",
       "is_pro": false
     },
@@ -1011,7 +1011,7 @@
       "option_b": "Fast",
       "option_c": "Lazy",
       "option_d": "Late",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Quick' भनेको छिटो हो र 'Fast' को अर्थ पनि छिटो नै हुन्छ।",
       "is_pro": false
     },
@@ -1033,7 +1033,7 @@
       "option_b": "Stop",
       "option_c": "Start",
       "option_d": "Finish",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "Begin' को अर्थ सुरु गर्नु हो, जसको समान अर्थ 'Start' हुन्छ।",
       "is_pro": false
     },
@@ -1055,7 +1055,7 @@
       "option_b": "Verbs",
       "option_c": "Pronouns",
       "option_d": "Antonyms",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "अङ्ग्रेजीमा उल्टो अर्थ बुझाउने शब्दहरूलाई Antonyms भनिन्छ।",
       "is_pro": false
     },
@@ -1099,7 +1099,7 @@
       "option_b": "Night",
       "option_c": "Evening",
       "option_d": "Light",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Day' (दिन) को उल्टो अर्थ 'Night' (रात) हुन्छ।",
       "is_pro": false
     },
@@ -1121,7 +1121,7 @@
       "option_b": "Best",
       "option_c": "Bad",
       "option_d": "Nice",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "Good' (राम्रो) को विपरीतार्थी शब्द 'Bad' (नराम्रो) हो।",
       "is_pro": false
     },
@@ -1143,7 +1143,7 @@
       "option_b": "Money",
       "option_c": "King",
       "option_d": "Poor",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "Rich' को उल्टो अर्थ गरिब अर्थात् 'Poor' हुन्छ।",
       "is_pro": false
     },
@@ -1187,7 +1187,7 @@
       "option_b": "Past Tense",
       "option_c": "Future Tense",
       "option_d": "Continuous Tense",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "बितिसकेको समय वा काम बुझाउन Past Tense (भूत काल) को प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -1209,7 +1209,7 @@
       "option_b": "Present Tense",
       "option_c": "Future Tense",
       "option_d": "None",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पछि हुने काम वा समय बुझाउन Future Tense (भविष्यत् काल) को प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -1231,7 +1231,7 @@
       "option_b": "Past Tense",
       "option_c": "Past Continuous",
       "option_d": "Future Tense",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "will' र 'shall' को प्रयोगले काम भविष्यमा हुने बुझाउँछ, त्यसैले यो Future Tense हो।",
       "is_pro": false
     },
@@ -1275,7 +1275,7 @@
       "option_b": "Book",
       "option_c": "Bag",
       "option_d": "Table",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "किताबलाई अङ्ग्रेजीमा Book भनिन्छ।",
       "is_pro": false
     },
@@ -1297,7 +1297,7 @@
       "option_b": "Orange",
       "option_c": "Apple",
       "option_d": "Mango",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "स्याउलाई अङ्ग्रेजीमा Apple भनिन्छ।",
       "is_pro": false
     },
@@ -1319,7 +1319,7 @@
       "option_b": "Driver",
       "option_c": "Farmer",
       "option_d": "Teacher",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पढाउने व्यक्तिलाई अङ्ग्रेजीमा Teacher (शिक्षक/शिक्षिका) भनिन्छ।",
       "is_pro": false
     },
@@ -1363,7 +1363,7 @@
       "option_b": "School",
       "option_c": "Market",
       "option_d": "Park",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पढ्न जाने ठाउँलाई School (विद्यालय) भनिन्छ।",
       "is_pro": false
     },
@@ -1385,7 +1385,7 @@
       "option_b": "Neuter",
       "option_c": "Masculine",
       "option_d": "Common",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "भाले जाति (Male) बुझाउने शब्दहरू Masculine Gender अन्तर्गत पर्छन्।",
       "is_pro": false
     },
@@ -1407,7 +1407,7 @@
       "option_b": "Neuter",
       "option_c": "Common",
       "option_d": "Feminine",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पोथी जाति (Female) बुझाउने शब्दहरू Feminine Gender हुन्।",
       "is_pro": false
     },
@@ -1451,7 +1451,7 @@
       "option_b": "Mother",
       "option_c": "Sister",
       "option_d": "Uncle",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Father' (बुबा) को स्त्रीलिङ्गी रूप 'Mother' (आमा) हो।",
       "is_pro": false
     },
@@ -1473,7 +1473,7 @@
       "option_b": "Prince",
       "option_c": "Queen",
       "option_d": "Lady",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "King' को पोथी वा स्त्रीलिङ्गी रूप 'Queen' (रानी) हुन्छ।",
       "is_pro": false
     },
@@ -1495,7 +1495,7 @@
       "option_b": "Affirmative",
       "option_c": "Interrogative",
       "option_d": "Imperative",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हो' वा सकारात्मक अर्थ दिने वाक्यलाई Affirmative Sentence भनिन्छ।",
       "is_pro": false
     },
@@ -1517,7 +1517,7 @@
       "option_b": "Interrogative",
       "option_c": "Exclamatory",
       "option_d": "Negative Imperative",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "यसले कुनै काम नगर्न आदेश वा निषेध गरेको हुनाले यो Negative Imperative हो।",
       "is_pro": false
     },
@@ -1561,7 +1561,7 @@
       "option_b": "21",
       "option_c": "26",
       "option_d": "24",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "२६ वटा अक्षरमध्ये ५ वटा Vowel बाहेक बाँकी २१ वटा Consonant letters हुन्।",
       "is_pro": false
     },
@@ -1583,7 +1583,7 @@
       "option_b": "Sckool",
       "option_c": "School",
       "option_d": "Scool",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "विद्यालय बुझाउने सही अङ्ग्रेजी शब्द 'School' हो।",
       "is_pro": false
     },
@@ -1605,7 +1605,7 @@
       "option_b": "Teecher",
       "option_c": "Tacher",
       "option_d": "Teacher",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "शिक्षक बुझाउने सही हिज्जे 'Teacher' हो।",
       "is_pro": false
     },
@@ -1649,7 +1649,7 @@
       "option_b": "12",
       "option_c": "11",
       "option_d": "13",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अङ्ग्रेजी क्यालेन्डर अनुसार एक वर्षमा १२ महिनाहरू (Months) हुन्छन्।",
       "is_pro": false
     },
@@ -1671,7 +1671,7 @@
       "option_b": "6",
       "option_c": "7",
       "option_d": "8",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "एक हप्तामा ७ दिनहरू (Days) हुन्छन्।",
       "is_pro": false
     },
@@ -1693,7 +1693,7 @@
       "option_b": "Calf",
       "option_c": "Cub",
       "option_d": "Puppy",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कुकुरको छाउरालाई अङ्ग्रेजीमा 'Puppy' भनिन्छ।",
       "is_pro": false
     },
@@ -1737,7 +1737,7 @@
       "option_b": "Calf",
       "option_c": "Kid",
       "option_d": "Fowl",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "गाईको बाच्छा वा बाच्छीलाई अङ्ग्रेजीमा 'Calf' भनिन्छ।",
       "is_pro": false
     },
@@ -1759,7 +1759,7 @@
       "option_b": "are",
       "option_c": "am",
       "option_d": "be",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "Present Tense मा 'I' सँग सधैँ 'am' को प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -1781,7 +1781,7 @@
       "option_b": "are",
       "option_c": "were",
       "option_d": "is",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "Singular Subject 'He' सँग Present Continuous मा 'is' को प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -1825,7 +1825,7 @@
       "option_b": "म",
       "option_c": "तिमी",
       "option_d": "उनीहरू",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "I' भनेको प्रथम पुरुष एकवचन सर्वनाम हो, जसको नेपाली अर्थ 'म' हुन्छ।",
       "is_pro": false
     },
@@ -1847,7 +1847,7 @@
       "option_b": "ऊ",
       "option_c": "तिमी/तपाईँ",
       "option_d": "हामी",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "You' ले सुन्ने व्यक्तिलाई बुझाउँछ जसको अर्थ 'तिमी' वा 'तपाईँ' हुन्छ।",
       "is_pro": false
     },
@@ -1869,7 +1869,7 @@
       "option_b": "Tea",
       "option_c": "Oil",
       "option_d": "Water",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पिउने पानीलाई अङ्ग्रेजीमा Water भनिन्छ।",
       "is_pro": false
     },
@@ -1913,7 +1913,7 @@
       "option_b": "are",
       "option_c": "is",
       "option_d": "was",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Plural subject 'We' सँग Present Continuous मा 'are' को प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -1935,7 +1935,7 @@
       "option_b": "reading",
       "option_c": "read (v2)",
       "option_d": "read (v1)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "yesterday' (हिजो) ले Past Tense बुझाउने हुनाले 'read' को v2 (जसको हिज्जे उही हुन्छ तर उच्चारण 'रेड' हुन्छ) लाग्छ।",
       "is_pro": false
     },
@@ -1957,7 +1957,7 @@
       "option_b": "v2",
       "option_c": "v3",
       "option_d": "ing form (v4)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "काम भइरहेको निरन्तरता बुझाउन सबै Continuous Tense मा 'ing' (v4) को प्रयोग हुन्छ।",
       "is_pro": false
     }
