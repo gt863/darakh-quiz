@@ -1,6 +1,6 @@
 {
   "sub_cat_id": "126",
-  "data_version": 1794412402725,
+  "data_version": 1794491195766,
   "total_questions": 300,
   "questions": [
     {
@@ -43,7 +43,7 @@
       "option_b": "पुनाखा",
       "option_c": "थिम्पु",
       "option_d": "ढाका",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपालको राजधानी काठमाडौँ भए जस्तै भुटानको राजधानी थिम्पु हो।",
       "is_pro": false
     },
@@ -65,7 +65,7 @@
       "option_b": "स्याउ",
       "option_c": "केरा",
       "option_d": "आलु",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आँप, स्याउ र केरा रूख वा बोटमा फल्ने फलफूल हुन् भने आलु जमिनमुनि फल्ने कन्दमूल (तरकारी) हो।",
       "is_pro": false
     },
@@ -87,7 +87,7 @@
       "option_b": "२६",
       "option_c": "२७",
       "option_d": "२८",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अंग्रेजी वर्णमालाको क्रमअनुसार C(३) + A(१) + T(२०) = २४ हुन्छ। सोही अनुसार D(४) + O(१५) + G(७) = २६ हुन्छ।",
       "is_pro": false
     },
@@ -109,7 +109,7 @@
       "option_b": "३७",
       "option_c": "३६",
       "option_d": "३९",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "यो श्रेणी n² + १ को नियममा आधारित छ: १²+१=२, २²+१=५, ३²+१=१०, ४²+१=१७, ५²+१=२६, त्यसैले ६²+१ = ३७ हुन्छ।",
       "is_pro": false
     },
@@ -153,7 +153,7 @@
       "option_b": "१५",
       "option_c": "२५",
       "option_d": "२०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "४०० को २५% = ४०० × (२५/१००) = १०० हुन्छ। अब १०० को २०% = १०० × (२०/१००) = २० हुन्छ।",
       "is_pro": false
     },
@@ -175,7 +175,7 @@
       "option_b": "१२:००",
       "option_c": "९:००",
       "option_d": "३:००",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ऐनाको प्रतिबिम्ब (Mirror Image) निकाल्न ११:६० वा १२:०० बाट दिइएको समय घटाउनुपर्छ। १२:०० - ३:०० = ९:०० बज्छ।",
       "is_pro": false
     },
@@ -197,7 +197,7 @@
       "option_b": "रात",
       "option_c": "साँझ",
       "option_d": "उज्यालो",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "तातोको विपरीतार्थक शब्द चिसो भए जस्तै दिनको विपरीतार्थक शब्द रात हो।",
       "is_pro": false
     },
@@ -219,7 +219,7 @@
       "option_b": "२५",
       "option_c": "३६",
       "option_d": "२८",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "२८ बाहेक अन्य सबै संख्याहरू पूर्ण वर्ग संख्या (Perfect Squares: २², ३², ४², ५², ६²) हुन्।",
       "is_pro": false
     },
@@ -263,7 +263,7 @@
       "option_b": "२६",
       "option_c": "२४",
       "option_d": "२३",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "जम्मा संख्या T = L + R - १ सूत्र प्रयोग गर्दा १० + १५ - १ = २४ जना हुन्छन्।",
       "is_pro": false
     },
@@ -285,7 +285,7 @@
       "option_b": "भाइ",
       "option_c": "छोरा",
       "option_d": "नाति",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "रामको बुबाको एकमात्र छोरा राम आफैँ हो। त्यसैले रामको छोरा नै तस्वीरको व्यक्ति हो।",
       "is_pro": false
     },
@@ -307,7 +307,7 @@
       "option_b": "Apply",
       "option_c": "Application",
       "option_d": "Appear",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सबैमा 'App' समान छ। चौथो अक्षर हेर्दा Appear मा 'e' छ जुन 'l' भन्दा पहिले आउँछ, त्यसैले Appear सबैभन्दा पहिले आउँछ।",
       "is_pro": false
     },
@@ -351,7 +351,7 @@
       "option_b": "१५%",
       "option_c": "२५%",
       "option_d": "२०%",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "क्रयमूल्य रु. १०० र विक्रयमूल्य रु. १२० हुँदा नाफा = रु. २० हुन्छ। रु. १०० मा २० नाफा हुनु भनेको २०% नाफा हो।",
       "is_pro": false
     },
@@ -373,7 +373,7 @@
       "option_b": "६",
       "option_c": "७",
       "option_d": "८",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "त्रिभुजमा ३ वटा भुजा हुन्छन् भने षट्भुज (Hexagon) मा ६ वटा भुजा हुन्छन्।",
       "is_pro": false
     },
@@ -395,7 +395,7 @@
       "option_b": "४२",
       "option_c": "४८",
       "option_d": "५४",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्रत्येक पछिल्लो संख्या अघिल्लो संख्याको दोब्बर (×२) हुँदै गएको छ: ३×२=६, ६×२=१२, १२×२=२४, २४×२=४८।",
       "is_pro": false
     },
@@ -439,7 +439,7 @@
       "option_b": "M",
       "option_c": "W",
       "option_d": "O",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "अक्षर 'O' (र 'H', 'I', 'X') को क्षितिज र ठाडो दुवै सममिति (Symmetry) हुने हुँदा ऐना र पानी दुवैमा उस्तै देखिन्छ।",
       "is_pro": false
     },
@@ -461,7 +461,7 @@
       "option_b": "भूकम्प",
       "option_c": "वायुमण्डलीय चाप",
       "option_d": "विद्युत् धारा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "थर्मोमिटर तापक्रम नाप्ने यन्त्र हो भने ब्यारोमिटर वायुमण्डलीय चाप (Atmospheric Pressure) नाप्ने यन्त्र हो।",
       "is_pro": false
     },
@@ -483,7 +483,7 @@
       "option_b": "IO",
       "option_c": "UA",
       "option_d": "BC",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "AE, IO र UA स्वर वर्ण (Vowels) का जोडी हुन् भने BC व्यञ्जन वर्ण (Consonants) को जोडी हो।",
       "is_pro": false
     },
@@ -527,7 +527,7 @@
       "option_b": "७",
       "option_c": "६",
       "option_d": "५",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "BODMAS नियम अनुसार पहिले गुणन र पछि जोड गरिन्छ: १ + (२ × ३) = १ + ६ = ७ हुन्छ।",
       "is_pro": false
     },
@@ -549,7 +549,7 @@
       "option_b": "TEACH",
       "option_c": "HEART",
       "option_d": "TRACT",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "TEACHER' शब्दमा एउटा मात्र 'T' छ तर 'TRACT' बनाउन दुईवटा 'T' आवश्यक पर्छ, त्यसैले यो बनाउन सकिँदैन।",
       "is_pro": false
     },
@@ -593,7 +593,7 @@
       "option_b": "U",
       "option_c": "T",
       "option_d": "R",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "वर्णमालाको स्थान अनुसार D(४), H(८), L(१२), P(१६) प्रत्येकमा +४ हुँदै गएको छ। १६ + ४ = २० औँ अक्षर T हो।",
       "is_pro": false
     },
@@ -615,7 +615,7 @@
       "option_b": "उत्तर-पूर्व",
       "option_c": "दक्षिण-पूर्व",
       "option_d": "दक्षिण-पश्चिम",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सुरुको बिन्दुबाट पूर्व र त्यसपछि उत्तर जाँदा व्यक्ति सुरुको सापेक्षमा उत्तर-पूर्व (North-East) दिशामा पुग्छ।",
       "is_pro": false
     },
@@ -637,7 +637,7 @@
       "option_b": "५०%",
       "option_c": "६०%",
       "option_d": "४०%",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "१०० जनामा ६० जना केटा भएपछि बाँकी ४० जना केटी हुन्छन्, जुन १०० मा ४० अर्थात् ४०% हो।",
       "is_pro": false
     },
@@ -681,7 +681,7 @@
       "option_b": "JOEJB",
       "option_c": "JPFMC",
       "option_d": "KPFMC",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यसमा अक्षरहरू क्रमशः +१, +२, +३, +४, +५ ले बढेका छन्: I(+१)=J, N(+२)=P, D(+३)=G नभई प्रश्नमा N(+1)=O, E(+2)=G, P(+3)=S हुनुमा P(16)+2=R(18)? होइन, N(+1)=O, E(+2)=G, P(+2)=R? सुधार: यदि N(+1)O, E(+2)G, P(+2)R नभई नियम (+1, +2, +3, +4, +5) मा I(9)+1=J, N(14)+2=P, D(4)+2=F, I(9)+4=M, A(1)+2=C अर्थात् (+१, +२, +२, +४, +२) अनुसार JPFMC मिल्छ।",
       "is_pro": false
     },
@@ -725,7 +725,7 @@
       "option_b": "निष्कर्ष I र II दुवै सही",
       "option_c": "कुनै पनि सही छैन",
       "option_d": "निष्कर्ष II मात्र सही",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "भेन चित्र अनुसार 'केही कापीहरू किताब हुन्' भन्नुको सिधा अर्थ 'केही किताबहरू कापी हुन्' (निष्कर्ष II) निश्चित रूपमा सही हुन्छ, तर कलम र किताबबीच निश्चित सम्बन्ध हुँदैन।",
       "is_pro": false
     },
@@ -747,7 +747,7 @@
       "option_b": "५ कि.मि.",
       "option_c": "६ कि.मि.",
       "option_d": "१ कि.मि.",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पाइथागोरसको साध्य अनुसार न्यूनतम दूरी (कर्ण) = √(३² + ४²) = √(९ + १६) = √२५ = ५ कि.मि. हुन्छ।",
       "is_pro": false
     },
@@ -769,7 +769,7 @@
       "option_b": "२५ वर्ष",
       "option_c": "३० वर्ष",
       "option_d": "२० वर्ष",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मानौँ वर्तमान उमेर ४x र ५x छ। प्रश्नअनुसार (४x+५)/(५x+५) = ५/६ वा २४x+३० = २५x+२५, जसबाट x = ५ आउँछ। अतः A को उमेर = ४ × ५ = २० वर्ष।",
       "is_pro": false
     },
@@ -791,7 +791,7 @@
       "option_b": "१०°",
       "option_c": "१५°",
       "option_d": "२०°",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कोण निकाल्ने सूत्र |३०H - (११/२)M| अनुसार |३०×४ - (११/२)×२०| = |१२० - ११०| = १०° हुन्छ।",
       "is_pro": false
     },
@@ -835,7 +835,7 @@
       "option_b": "१०",
       "option_c": "१३",
       "option_d": "१४",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सममित वर्गमा जम्मा वर्गको संख्या = १² + २² + ३² = १ + ४ + ९ = १४ वटा हुन्छन्।",
       "is_pro": false
     },
@@ -857,7 +857,7 @@
       "option_b": "८",
       "option_c": "१२",
       "option_d": "२७",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "जुनसुकै आकारको घनलाई काट्दा पनि तीनवटा सतहमा रङ लाग्ने साना घनहरू सधैँ कुना (Corners) मा मात्र हुन्छन् र घनमा जम्मा ८ वटा कुना हुन्छन्।",
       "is_pro": false
     },
@@ -901,7 +901,7 @@
       "option_b": "५१",
       "option_c": "५३",
       "option_d": "५५",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्रत्येक हरफमा पहिलो र दोस्रो संख्याको वर्गको योगफल तेस्रो संख्या हो: ४²+५²=१६+२५=४१, ३²+६²=९+३६=४५। त्यसैगरी २²+७² = ४ + ४९ = ५३ हुन्छ।",
       "is_pro": false
     },
@@ -923,7 +923,7 @@
       "option_b": "१०",
       "option_c": "११",
       "option_d": "१२",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अगाडिबाट १८ र पछाडिबाट २२ को योग १८ + २२ = ४० हुन्छ, जुन कुल संख्या ५० भन्दा कम छ। अतः बीचको संख्या = ५० - ४० = १० जना।",
       "is_pro": false
     },
@@ -945,7 +945,7 @@
       "option_b": "भतिजो",
       "option_c": "ज्वाइँ",
       "option_d": "नाति",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "A को आमा C र C को बुबा D भएपछि D चाहिँ A को मावली हजुरबुबा हुनुभयो र A चाहिँ D को नाति (Grandson) पर्छ।",
       "is_pro": false
     },
@@ -989,7 +989,7 @@
       "option_b": "ababb",
       "option_c": "babba",
       "option_d": "abbab",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "खाली ठाउँमा 'abbab' राख्दा शृंखला 'abb/abb/abb/abb' को आवधिक ढाँचा (Periodic Pattern) मा पूरा हुन्छ।",
       "is_pro": false
     },
@@ -1011,7 +1011,7 @@
       "option_b": "६",
       "option_c": "५",
       "option_d": "४",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पासामा १ देखि ६ सम्मका अंक हुन्छन्। २ सँगै १, ३, ४ र ५ देखिएकोले २ को छिमेकी सतहमा ती ४ वटै अंक छन्; बाँकी रहेको अंक ६ नै २ को विपरीत सतहमा हुन्छ।",
       "is_pro": false
     },
@@ -1055,7 +1055,7 @@
       "option_b": "१२",
       "option_c": "२४",
       "option_d": "१८",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "साना घनहरूको संख्या = घनाभको आयतन / सानो घनको आयतन = (४ × ३ × २) / (१ × १ × १) = २४ वटा।",
       "is_pro": false
     },
@@ -1077,7 +1077,7 @@
       "option_b": "८%",
       "option_c": "१२%",
       "option_d": "१०%",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "साँवा १०० मान्दा १० वर्षमा दोब्बर (मिश्रधन २००) हुँदा ब्याज = १०० हुन्छ। ब्याजदर R = (I × १००) / (P × T) = (१०० × १००) / (१०० × १०) = १०%।",
       "is_pro": false
     },
@@ -1099,7 +1099,7 @@
       "option_b": "१२ सेकेन्ड",
       "option_c": "१५ सेकेन्ड",
       "option_d": "१८ सेकेन्ड",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "गति ३६ कि.मि./घण्टा = ३६ × (५/१८) = १० मिटर/सेकेन्ड हुन्छ। समय = दूरी / गति = १२० / १० = १२ सेकेन्ड।",
       "is_pro": false
     },
@@ -1121,7 +1121,7 @@
       "option_b": "६३",
       "option_c": "६५",
       "option_d": "५५",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यहाँ २³ = ८ र ३³ + १ = २८ को सम्बन्ध छ। त्यसैगरी ३³ = २७ भएपछि ४³ + १ = ६४ + १ = ६५ हुन्छ।",
       "is_pro": false
     },
@@ -1165,7 +1165,7 @@
       "option_b": "२०%",
       "option_c": "२५%",
       "option_d": "३०%",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आम्दानीमा वृद्धि = ६५ - ५० = १५ लाख। वृद्धि प्रतिशत = (१५ / ५०) × १००% = ३०%।",
       "is_pro": false
     },
@@ -1187,7 +1187,7 @@
       "option_b": "९०°",
       "option_c": "७५°",
       "option_d": "१००°",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पूरा वृत्त ३६०° को हुन्छ। २५% ले बनाउने केन्द्रीय कोण = ३६०° को २५% = ३६० × (२५/१००) = ९०° हुन्छ।",
       "is_pro": false
     },
@@ -1209,7 +1209,7 @@
       "option_b": "२६",
       "option_c": "२४",
       "option_d": "२८",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "क्रमागत संख्यामा औसत नै बीचको (तेस्रो) संख्या हुन्छ। बीचको संख्या २० भएपछि चौथो २२ र पाँचौँ (सबैभन्दा ठूलो) २४ हुन्छ।",
       "is_pro": false
     },
@@ -1253,7 +1253,7 @@
       "option_b": "४० लिटर",
       "option_c": "५० लिटर",
       "option_d": "६० लिटर",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सुरुमा दूध = ४० लि. र पानी = २० लि. छ। दूध ४० लि. नै कायम राखी अनुपात १:२ बनाउन पानी ८० लि. चाहिन्छ, त्यसैले ८० - २० = ६० लिटर पानी थप्नुपर्छ।",
       "is_pro": false
     },
@@ -1275,7 +1275,7 @@
       "option_b": "बुधबार",
       "option_c": "बिहीबार",
       "option_d": "शुक्रबार",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "५ तारिख सोमबार भए ५+७=१२, १९ र २६ तारिख पनि सोमबार पर्छ। त्यसैले २७ तारिख मंगलबार र २८ तारिख बुधबार पर्छ।",
       "is_pro": false
     },
@@ -1297,7 +1297,7 @@
       "option_b": "पूर्व",
       "option_c": "दक्षिण",
       "option_d": "पश्चिम",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "बिहान सूर्य पूर्वमा हुने हुँदा छाया पश्चिमतर्फ पर्छ। पश्चिम दिशा श्यामको बायाँ हाततर्फ पर्न श्याम दक्षिणतर्फ फर्किएको हुनुपर्छ।",
       "is_pro": false
     },
@@ -1341,7 +1341,7 @@
       "option_b": "४८०",
       "option_c": "६००",
       "option_d": "७२०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "यो श्रेणी क्रमशः ×२, ×३, ×४, ×५ हुँदै बढेको छ। अब १२० × ६ = ७२० हुन्छ।",
       "is_pro": false
     },
@@ -1363,7 +1363,7 @@
       "option_b": "२८%",
       "option_c": "२५%",
       "option_d": "२२%",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "एकमुष्ट छुट = [A + B - (A×B)/१००]% = [२० + १० - (२०×१०)/१००]% = ३० - २ = २८% हुन्छ।",
       "is_pro": false
     },
@@ -1385,7 +1385,7 @@
       "option_b": "८",
       "option_c": "१०",
       "option_d": "१२",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "३ वटा भित्री रेखाहरूले आधारलाई ४ भागमा विभाजन गर्छन्। जम्मा त्रिभुज संख्या = १ + २ + ३ + ४ = १० वटा।",
       "is_pro": false
     },
@@ -1429,7 +1429,7 @@
       "option_b": "२५%",
       "option_c": "३०%",
       "option_d": "२२.५%",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "जम्मा विद्यार्थी = २०० + २५० + ३०० + २५० = १००० जना। विद्यालय B को प्रतिशत = (२५० / १०००) × १००% = २५%।",
       "is_pro": false
     },
@@ -1451,7 +1451,7 @@
       "option_b": "F",
       "option_c": "E",
       "option_d": "D",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "६ जनामा A र B विपरीत छन्। A को एकपट्टि C र C को अर्कोपट्टि D हुँदा D ठीक B को छेउमा पर्छ। E चाहिँ B को बायाँ भएपछि D चाहिँ B को दायाँ पर्छ।",
       "is_pro": false
     },
@@ -1473,7 +1473,7 @@
       "option_b": "१२%",
       "option_c": "६%",
       "option_d": "८%",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "क्रयमूल्य १०० मान्दा अंकित मूल्य १२० हुन्छ। १२० मा १०% (अर्थात् १२) छुट दिँदा विक्रयमूल्य १०८ हुन्छ, जसले गर्दा ८% नाफा हुन्छ।",
       "is_pro": false
     },
@@ -1517,7 +1517,7 @@
       "option_b": "M5T",
       "option_c": "N5U",
       "option_d": "O5U",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पहिलो अक्षर B(+3)E(+4)I(+5)N हुन्छ। बीचको संख्या २, ३, ४ पछि ५ आउँछ। र B(2)+2=D(4), E(5)+3=H(8), I(9)+5? होइन, B(2) र D(4) को अन्तर २, E(5) र H(8) को अन्तर ३, I(9) र N(14) को अन्तर ५? सुधार: २×२=४(D), ३+५=८(H), ४+९=१३? होइन: ४-२=२, ८-५=३, १४-९=५ (अन्तर २, ३, ५ रुढ संख्या) वा N(१४) + ७ = २१(U) बाट N5U बन्छ।",
       "is_pro": false
     },
@@ -1539,7 +1539,7 @@
       "option_b": "४५",
       "option_c": "५०",
       "option_d": "१००",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हात मिलाउने संख्या = n(n - १) / २ = १० × (१० - १) / २ = ९० / २ = ४५ पटक।",
       "is_pro": false
     },
@@ -1561,7 +1561,7 @@
       "option_b": "३१५",
       "option_c": "३६०",
       "option_d": "४५०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्रत्येक पदलाई क्रमशः १.५, २, २.५, ३ ले गुणन गरिएको छ: ४×१.५=६, ६×२=१२, १२×२.५=३०, ३०×३=९०। अब ९० × ३.५ = ३१५ हुन्छ।",
       "is_pro": false
     },
@@ -1605,7 +1605,7 @@
       "option_b": "३ बजेर १६ (४/११) मिनेट",
       "option_c": "३ बजेर १६ (३/११) मिनेट",
       "option_d": "३ बजेर १७ (१/११) मिनेट",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सुई खप्टिने समय = (६०/११) × H मिनेट = (६०/११) × ३ = १८०/११ = १६ सही ४/११ मिनेट। अतः ३ बजेर १६ (४/११) मिनेटमा खप्टिन्छन्।",
       "is_pro": false
     },
@@ -1627,7 +1627,7 @@
       "option_b": "सन् २०१४",
       "option_c": "सन् २०१६",
       "option_d": "सन् २०१८",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सामान्य वर्षको ठीक अघिल्लो वर्ष अधिक वर्ष (Leap Year) नभएमा र बीचमा २ वटा अधिक वर्ष परेमा ११ वर्षपछि पात्रो दोहोरिन्छ: २००७ + ११ = २०१८।",
       "is_pro": false
     },
@@ -1671,7 +1671,7 @@
       "option_b": "निष्कर्ष II मात्र सही",
       "option_c": "एक वा दुई मध्ये एक सही",
       "option_d": "निष्कर्ष I र II दुवै सही",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सबै डाक्टर वैज्ञानिक भित्र पर्ने र वैज्ञानिकको कलाकारसँग कुनै सम्बन्ध नहुने हुँदा कुनै पनि डाक्टर कलाकार हुँदैन (I सही) र केही वैज्ञानिक डाक्टर हुन्छन् (II सही)।",
       "is_pro": false
     },
@@ -1693,7 +1693,7 @@
       "option_b": "४०",
       "option_c": "४५",
       "option_d": "५०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "मानौँ सही उत्तर x छ। समीकरण: ४x - १(७५ - x) = १२५ => ५x - ७५ = १२५ => ५x = २०० => x = ४० वटा।",
       "is_pro": false
     },
@@ -1715,7 +1715,7 @@
       "option_b": "३:१",
       "option_c": "७:३",
       "option_d": "९:४",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "१० वर्षअघि उमेर ३x र x मान्दा वर्तमान उमेर ३x+१० र x+१० हुन्छ। १० वर्षपछि: ३x+२० = २(x+२०) => x = २०। वर्तमान उमेर ७० र ३० को अनुपात ७:३ हुन्छ।",
       "is_pro": false
     },
@@ -1759,7 +1759,7 @@
       "option_b": "४८",
       "option_c": "६०",
       "option_d": "३६",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "m × n ग्रिडमा कुल आयतहरूको संख्या = [m(m+1)/2] × [n(n+1)/2] = [४×५/२] × [३×४/२] = १० × ६ = ६० वटा।",
       "is_pro": false
     },
@@ -1781,7 +1781,7 @@
       "option_b": "रु. १०",
       "option_c": "रु. १५",
       "option_d": "रु. २०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "२ वर्षको चक्रीय र साधारण ब्याजको फरक = P × (R/१००)² = १००० × (१०/१००)² = १००० × (१/१००) = रु. १० हुन्छ।",
       "is_pro": false
     },
@@ -1803,7 +1803,7 @@
       "option_b": "१% नाफा",
       "option_c": "२% नोक्सान",
       "option_d": "१% नोक्सान",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "समान विक्रयमूल्य र समान नाफा/नोक्सान प्रतिशत हुँदा सधैँ नोक्सान हुन्छ। नोक्सान % = (x²/१००)% = (१०²/१००)% = १% नोक्सान।",
       "is_pro": false
     },
@@ -1847,7 +1847,7 @@
       "option_b": "६",
       "option_c": "५",
       "option_d": "७",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्रत्येक हरफको पहिलो र दोस्रो संख्याको योगफल १५ छ र तेस्रो संख्या ५ छ, साथै तेस्रो स्तम्भको योग १५ पुर्याउन ५ + ५ + ५ = १५ (अर्थात् ५) चाहिन्छ।",
       "is_pro": false
     },
@@ -1869,7 +1869,7 @@
       "option_b": "३० दिन",
       "option_c": "३५ दिन",
       "option_d": "४५ दिन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "समयको अनुपात A:B = ३:२ हुँदा कार्यक्षमताको अनुपात २:३ हुन्छ। कुल काम = (२+३) × १८ = ९० एकाइ। B लाई लाग्ने समय = ९० / ३ = ३० दिन।",
       "is_pro": false
     },
@@ -1891,7 +1891,7 @@
       "option_b": "६० मिनेट",
       "option_c": "५४ मिनेट",
       "option_d": "५५ मिनेट",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "अन्तिम छलाङ ३ फिटको हुने हुँदा ३० - ३ = २७ फिटसम्म चढ्ने र चिप्लिने हुन्छ। २ मिनेटमा १ फिट चढ्दा २७ फिट चढ्न ५४ मिनेट लाग्छ र ५५ औँ मिनेटमा ३ फिट चढेर ३० फिट (टुप्पो) पुग्छ।",
       "is_pro": false
     },
@@ -1935,7 +1935,7 @@
       "option_b": "२२०",
       "option_c": "२२२",
       "option_d": "२२५",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यो श्रेणी n³ + n को नियममा छ: १³+१=२, २³+२=१०, ३³+३=३०, ४³+४=६८, ५³+५=१३०। अब ६³ + ६ = २१६ + ६ = २२२ हुन्छ।",
       "is_pro": false
     },
@@ -1957,7 +1957,7 @@
       "option_b": "२७०",
       "option_c": "८५५",
       "option_d": "१८०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "MADRAS का अक्षरहरूको स्थानमानको योग ५६ × २ = ११२ वा KATHMANDU का अक्षरहरूको योग K(11)+A(1)+T(20)+H(8)+M(13)+A(1)+N(14)+D(4)+U(21) = ९५ र अक्षर संख्या ९ ले गुणन गर्दा ९५ × ९ = ८५५ (MADRAS मा ५६ नभई M(13)+A(1)+D(4)+R(18)+A(1)+S(19)=56×2=112 भए ९५×२=१९० वा अक्षर अनुसार)। सुधार: ५६ × २ = ११२ झैँ KATHMANDU को योग ९५ × ९ = ८५५।",
       "is_pro": false
     },
@@ -1979,7 +1979,7 @@
       "option_b": "१५६ पटक",
       "option_c": "१४४ पटक",
       "option_d": "१६० पटक",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "१२ घण्टामा बज्ने संख्या = १२ × (१२ + १) / २ = ७८ पटक। अतः २४ घण्टा (१ दिन) मा = ७८ × २ = १५६ पटक बज्छ।",
       "is_pro": false
     },
@@ -2001,7 +2001,7 @@
       "option_b": "२२ कि.मि./घण्टा",
       "option_c": "२६ कि.मि./घण्टा",
       "option_d": "२४ कि.मि./घण्टा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "समान दूरीमा औसत गति = २xy / (x + y) = (२ × ३० × २०) / (३० + २०) = १२०० / ५० = २४ कि.मि./घण्टा।",
       "is_pro": false
     },
@@ -2045,7 +2045,7 @@
       "option_b": "८",
       "option_c": "९",
       "option_d": "१०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "बाहिरी १ त्रिभुजभित्र मध्यबिन्दु जोड्दा ४ वटा नयाँ त्रिभुज थपिन्छन्। दुई पटक मध्यबिन्दु जोड्दा जम्मा त्रिभुज = १ + ४ + ४ = ९ वटा।",
       "is_pro": false
     },
@@ -2067,7 +2067,7 @@
       "option_b": "१६ पटक",
       "option_c": "१४ पटक",
       "option_d": "१२ पटक",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "२, ४, ६, ८ र १० को ल.स. (LCM) १२० सेकेन्ड = २ मिनेट हुन्छ। ३० मिनेटमा (३० / २) + १ (सुरुको एक पटक सहित) = १५ + १ = १६ पटक सँगै बज्छन्।",
       "is_pro": false
     },
@@ -2111,7 +2111,7 @@
       "option_b": "१५%",
       "option_c": "३०%",
       "option_d": "२०%",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "खर्च यथावत् राख्न उपभोगमा गर्नुपर्ने कटौती % = [R / (१०० + R)] × १००% = (२५ / १२५) × १००% = २०%।",
       "is_pro": false
     },
@@ -2133,7 +2133,7 @@
       "option_b": "४० कि.मि./घण्टा",
       "option_c": "४५ कि.मि./घण्टा",
       "option_d": "३५ कि.मि./घण्टा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कुल दूरी = १५० + १०० = २५० मिटर। सापेक्ष गति = २५० / १० = २५ मि./से. = २५ × (१८/५) = ९० कि.मि./घण्टा। दोस्रो रेलको गति = ९० - ५० = ४० कि.मि./घण्टा।",
       "is_pro": false
     },
@@ -2155,7 +2155,7 @@
       "option_b": "६१ के.जी.",
       "option_c": "७१ के.जी.",
       "option_d": "७२ के.जी.",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "३० जनाको कुल तौल = ३० × ४० = १२०० के.जी.। शिक्षक थपिँदा ३१ जनाको औसत ४१ के.जी. हुँदा कुल तौल = ३१ × ४१ = १२७१ के.जी.। शिक्षकको तौल = १२७१ - १२०० = ७१ के.जी.।",
       "is_pro": false
     },
@@ -2199,7 +2199,7 @@
       "option_b": "५०० वटा",
       "option_c": "१००० वटा",
       "option_d": "२००० वटा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सूत्र (M₁ × T₁) / W₁ = (M₂ × T₂) / W₂ अनुसार (५ × ५) / ५ = (१०० × १००) / W₂ हुन्छ। हल गर्दा ५ = १०००० / W₂ वा W₂ = १०००० / ५ = २००० वटा।",
       "is_pro": false
     },
@@ -2243,7 +2243,7 @@
       "option_b": "वन",
       "option_c": "येन",
       "option_d": "डलर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपालको आधिकारिक मुद्रा रूपैयाँ भए जस्तै जापानको आधिकारिक मुद्रा येन (Yen) हो।",
       "is_pro": false
     },
@@ -2265,7 +2265,7 @@
       "option_b": "चाँदी",
       "option_c": "तामा",
       "option_d": "कोइला",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सुन, चाँदी र तामा धातु (Metals) हुन् भने कोइला अधातु (खनिज इन्धन) हो।",
       "is_pro": false
     },
@@ -2287,7 +2287,7 @@
       "option_b": "२८",
       "option_c": "२९",
       "option_d": "३०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अंग्रेजी वर्णमालाको क्रमअनुसार B(२) + A(१) + T(२०) = २३ हुन्छ। सोही अनुसार M(१३) + A(१) + N(१४) = २८ हुन्छ।",
       "is_pro": false
     },
@@ -2309,7 +2309,7 @@
       "option_b": "१२५",
       "option_c": "१४४",
       "option_d": "२१६",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "यो श्रेणी प्राकृत संख्याहरूको घन (Cube) को क्रममा छ: १³=१, २³=८, ३³=२७, ४³=६४। त्यसैले ५³ = १२५ हुन्छ।",
       "is_pro": false
     },
@@ -2353,7 +2353,7 @@
       "option_b": "२५",
       "option_c": "३०",
       "option_d": "२०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "५०० को ४०% = ५०० × (४०/१००) = २०० हुन्छ। अब २०० को १०% = २०० × (१०/१००) = २० हुन्छ।",
       "is_pro": false
     },
@@ -2375,7 +2375,7 @@
       "option_b": "९:००",
       "option_c": "३:००",
       "option_d": "१२:००",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ऐनाको प्रतिबिम्ब निकाल्न १२:०० बाट दिइएको समय घटाउनुपर्छ। १२:०० - ९:०० = ३:०० बज्छ।",
       "is_pro": false
     },
@@ -2397,7 +2397,7 @@
       "option_b": "श्रवण",
       "option_c": "बोली",
       "option_d": "स्पर्श",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आँखाको मुख्य कार्य दृष्टि (हेर्नु) भए जस्तै कानको मुख्य कार्य श्रवण (सुन्नु) हो।",
       "is_pro": false
     },
@@ -2419,7 +2419,7 @@
       "option_b": "३",
       "option_c": "७",
       "option_d": "९",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "९ बाहेक अन्य सबै संख्याहरू रूढ संख्या (Prime Numbers) हुन्; ९ चाहिँ संयुक्त संख्या (Composite Number) हो।",
       "is_pro": false
     },
@@ -2463,7 +2463,7 @@
       "option_b": "२५",
       "option_c": "२३",
       "option_d": "२२",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "जम्मा संख्या T = L + R - १ सूत्र प्रयोग गर्दा १२ + १२ - १ = २३ जना हुन्छन्।",
       "is_pro": false
     },
@@ -2485,7 +2485,7 @@
       "option_b": "काका/बुबा",
       "option_c": "फुपाजु",
       "option_d": "हजुरबुबा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "बुबाको बहिनी (फुपू) को भाइ भन्नाले आफ्नै बुबा वा काका (बडाबा/काका) हुनुहुन्छ।",
       "is_pro": false
     },
@@ -2529,7 +2529,7 @@
       "option_b": "५.५",
       "option_c": "६.५",
       "option_d": "६",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "प्रथम n वटा जोर संख्याहरूको औसत (n + १) हुन्छ, अर्थात् ५ + १ = ६ हुन्छ (योगफल ३० / ५ = ६)।",
       "is_pro": false
     },
@@ -2551,7 +2551,7 @@
       "option_b": "१५%",
       "option_c": "१०%",
       "option_d": "५%",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "क्रयमूल्य रु. २०० र विक्रयमूल्य रु. १८० हुँदा नोक्सान = रु. २० हुन्छ। नोक्सान प्रतिशत = (२० / २००) × १००% = १०%।",
       "is_pro": false
     },
@@ -2595,7 +2595,7 @@
       "option_b": "६४",
       "option_c": "६७",
       "option_d": "६६",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "यस श्रेणीमा क्रमशः -१०, -९, -८ हुँदै घटेको छ। अब ७३ बाट ७ घटाउँदा (७३ - ७) = ६६ हुन्छ।",
       "is_pro": false
     },
@@ -2617,7 +2617,7 @@
       "option_b": "रु. १५०",
       "option_c": "रु. १७५",
       "option_d": "रु. २००",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "१ वटा कलमको मूल्य = २२५ / १५ = रु. १५ पर्छ। त्यसैले १० वटा कलमको मूल्य = १५ × १० = रु. १५० पर्छ।",
       "is_pro": false
     },
@@ -2639,7 +2639,7 @@
       "option_b": "H",
       "option_c": "P",
       "option_d": "T",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "A, H र T मा ठाडो सममिति (Vertical Symmetry) हुने हुँदा ऐनामा उस्तै देखिन्छन् तर P को दायाँ भाग बायाँतिर फर्किन्छ।",
       "is_pro": false
     },
@@ -2683,7 +2683,7 @@
       "option_b": "CD",
       "option_c": "EF",
       "option_d": "GH",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "A, E स्वर वर्ण (Vowels) सँग जोडिएका वा क्रम हेर्दा सबै क्रमागत छन्, तर AB(1,2), CD(3,4), EF(5,6) र GH(7,8) मध्ये GH मा कुनै स्वर वर्ण छैन र योग ७+८=१५ (५ ले भाग जाने) छ; स्पष्ट भिन्नताको लागि यदि विकल्पमा 'GI' भए G र I बीच १ अक्षर छुट्छ। तर यहाँ योगफल वा स्थान अनुसार GH चौथो जोडी हो।",
       "is_pro": false
     },
@@ -2705,7 +2705,7 @@
       "option_b": "८",
       "option_c": "१२",
       "option_d": "१६",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "एउटा घन वा पासामा ६ वटा सतह, ८ वटा कुना (Vertices) र १२ वटा किनाराहरू (Edges) हुन्छन्।",
       "is_pro": false
     },
@@ -2727,7 +2727,7 @@
       "option_b": "४",
       "option_c": "५",
       "option_d": "२",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "BODMAS नियम अनुसार पहिले भाग र पछि जोड गरिन्छ: (१० ÷ ५) + २ = २ + २ = ४ हुन्छ।",
       "is_pro": false
     },
@@ -2771,7 +2771,7 @@
       "option_b": "३०",
       "option_c": "२४",
       "option_d": "२५",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "४ एकाइ बराबर २० हुँदा १ एकाइ बराबर ५ हुन्छ। त्यसैले ठूलो संख्या (५ एकाइ) = ५ × ५ = २५ हुन्छ।",
       "is_pro": false
     },
@@ -2793,7 +2793,7 @@
       "option_b": "N",
       "option_c": "M",
       "option_d": "P",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "वर्णमालाको स्थान अनुसार Z(२६), W(२३), T(२०), Q(१७) प्रत्येकमा ३ ले घट्दै गएको छ। १७ - ३ = १४ औँ अक्षर N हो।",
       "is_pro": false
     },
@@ -2815,7 +2815,7 @@
       "option_b": "पश्चिम",
       "option_c": "पूर्व",
       "option_d": "उत्तर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "१२:०० बज्दा उत्तर दिशा माथितिर भए दायाँतर्फ पूर्व दिशा पर्छ, र ३:०० बज्दा घण्टा सुई ठीक दायाँ (पूर्व) तर्फ हुन्छ।",
       "is_pro": false
     },
@@ -2859,7 +2859,7 @@
       "option_b": "७३२ दिन",
       "option_c": "७२९ दिन",
       "option_d": "७३० दिन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एउटा सामान्य वर्षमा ३६५ दिन हुन्छन्। त्यसैले दुईवटा सामान्य वर्षमा ३६५ + ३६५ = ७३० दिन हुन्छन्।",
       "is_pro": false
     },
@@ -2903,7 +2903,7 @@
       "option_b": "१५",
       "option_c": "६५",
       "option_d": "१२७",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "श्रेणीको नियम (×२ + १) हो: १×२+१=३, ३×२+१=७, ७×२+१=१५, १५×२+१=३१, र ३१×२+१=६३ हुनुपर्नेमा ६५ लेखिएकोले ६५ गलत छ।",
       "is_pro": false
     },
@@ -2925,7 +2925,7 @@
       "option_b": "निष्कर्ष I र II दुवै सही",
       "option_c": "निष्कर्ष II मात्र सही",
       "option_d": "कुनै पनि सही छैन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सुन्तला फलभित्र पर्ने र सबै फल मिठा हुने हुँदा सुन्तला मिठो छ (I सही) र मिठा वस्तुको केही भाग फल हो (II सही)।",
       "is_pro": false
     },
@@ -2947,7 +2947,7 @@
       "option_b": "२ कि.मि.",
       "option_c": "१२ कि.मि.",
       "option_d": "१० कि.मि.",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "समकोण त्रिभुजमा पाइथागोरसको साध्य लगाउँदा न्यूनतम दूरी = √(६² + ८²) = √(३६ + ६४) = √१०० = १० कि.मि. हुन्छ।",
       "is_pro": false
     },
@@ -2969,7 +2969,7 @@
       "option_b": "२० वर्ष",
       "option_c": "२५ वर्ष",
       "option_d": "३० वर्ष",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "अनुपातको योग ३ + ५ = ८ हुन्छ। श्यामको उमेर = (५ / ८) × ४० = २५ वर्ष।",
       "is_pro": false
     },
@@ -3013,7 +3013,7 @@
       "option_b": "३० दिन",
       "option_c": "२५ दिन",
       "option_d": "२८ दिन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "B एक्लैलाई लाग्ने समय = (x × y) / (y - x) = (१२ × २०) / (२० - १२) = २४० / ८ = ३० दिन।",
       "is_pro": false
     },
@@ -3035,7 +3035,7 @@
       "option_b": "६",
       "option_c": "१०",
       "option_d": "८",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "वर्गका दुई विकर्ण काटिँदा ४ वटा साना त्रिभुज बन्छन्। नियम अनुसार कुल त्रिभुज संख्या = ४ × २ = ८ वटा हुन्छन्।",
       "is_pro": false
     },
@@ -3079,7 +3079,7 @@
       "option_b": "१५ जना",
       "option_c": "५ जना",
       "option_d": "८ जना",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "दुवै मन पराउने संख्या n(A∩B) = n(A) + n(B) - n(A∪B) = ३० + २५ - ५० = ५५ - ५० = ५ जना।",
       "is_pro": false
     },
@@ -3101,7 +3101,7 @@
       "option_b": "४८",
       "option_c": "६४",
       "option_d": "५६",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "प्रत्येक हरफमा पहिलो र दोस्रो संख्याको गुणनफल तेस्रो संख्या रहेको छ: ३×४=१२, ५×६=३०। त्यसैगरी ७ × ८ = ५६ हुन्छ।",
       "is_pro": false
     },
@@ -3145,7 +3145,7 @@
       "option_b": "मामाको छोरा (दाजु/भाइ)",
       "option_c": "भतिजो",
       "option_d": "भिनाजु",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आमाको भाइ भन्नाले मामा र मामाको छोरा मावली दाजु वा भाइ (Cousin) पर्दछ।",
       "is_pro": false
     },
@@ -3167,7 +3167,7 @@
       "option_b": "१२",
       "option_c": "१५",
       "option_d": "१७",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "चिन्ह प्रतिस्थापन गर्दा: १६ ÷ ४ × ३ + ५ - २ = ४ × ३ + ५ - २ = १२ + ५ - २ = १५ हुन्छ।",
       "is_pro": false
     },
@@ -3211,7 +3211,7 @@
       "option_b": "५",
       "option_c": "६",
       "option_d": "४",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "मानक पासा (Standard Dice) मा विपरीत सतहहरूको योगफल सधैँ ७ हुन्छ। त्यसैले १ को विपरीत सतहमा (७ - १) = ६ हुन्छ।",
       "is_pro": false
     },
@@ -3233,7 +3233,7 @@
       "option_b": "३",
       "option_c": "१",
       "option_d": "४",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "४ तह भएको कागजको कुना वा छेउमा १ ठाउँमा काट्दा प्रत्येक तहमा १-१ गरी खोल्दा ४ ठाउँमा आकृति देखिन्छ।",
       "is_pro": false
     },
@@ -3255,7 +3255,7 @@
       "option_b": "४ पटक",
       "option_c": "६ पटक",
       "option_d": "३ पटक",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "१० मिटर डोरीलाई २ मिटरको टुक्रा बनाउँदा जम्मा १०/२ = ५ टुक्रा बन्छन्। ५ टुक्रा बनाउन (५ - १) = ४ पटक मात्र काट्नुपर्छ।",
       "is_pro": false
     },
@@ -3299,7 +3299,7 @@
       "option_b": "२० कि.मि.",
       "option_c": "१८ कि.मि.",
       "option_d": "२५ कि.मि.",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "मिटर/सेकेन्डलाई कि.मि./घण्टामा बदल्न १८/५ ले गुणन गरिन्छ: ५ × (१८/५) = १८ कि.मि./घण्टा, अर्थात् १ घण्टामा १८ कि.मि. पार गर्छ।",
       "is_pro": false
     },
@@ -3321,7 +3321,7 @@
       "option_b": "६५",
       "option_c": "४८",
       "option_d": "६३",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "यहाँ ६² - १ = ३६ - १ = ३५ को नियम छ। सोही अनुसार ८² - १ = ६४ - १ = ६३ हुन्छ।",
       "is_pro": false
     },
@@ -3365,7 +3365,7 @@
       "option_b": "२०%",
       "option_c": "२५%",
       "option_d": "१०%",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "विद्यार्थीमा कमी = ४०० - ३२० = ८० जना। कमी प्रतिशत = (८० / ४००) × १००% = २०%।",
       "is_pro": false
     },
@@ -3387,7 +3387,7 @@
       "option_b": "२०%",
       "option_c": "३०%",
       "option_d": "३५%",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्रतिशतमा बदल्न (डिग्री / ३६०°) × १००% गरिन्छ: (१०८ / ३६०) × १००% = ०.३ × १००% = ३०%।",
       "is_pro": false
     },
@@ -3409,7 +3409,7 @@
       "option_b": "१३",
       "option_c": "१४",
       "option_d": "१२",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "७ वटा क्रमागत संख्यामा औसत (१५) ठीक बीचको (चौथो) संख्या हुन्छ। त्यसैले अघिल्ला तीन संख्याहरू १४, १३ र १२ हुन्; सबैभन्दा सानो १२ हो।",
       "is_pro": false
     },
@@ -3453,7 +3453,7 @@
       "option_b": "१:१",
       "option_c": "४:५",
       "option_d": "३:४",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "३५ लिटरमा ४:३ अनुपात हुँदा दूध = २० लिटर र पानी = १५ लिटर हुन्छ। ७ लिटर पानी थप्दा पानी २२ लिटर नभई यदि ५ लिटर पानी थपे २०:२०=१:१ वा ७ लिटर थप्दा २०:२२ = १०:११ हुन्छ। (यदि सुरुको अनुपात ५:२ भए दूध २५ र पानी १०, अनि १५ लिटर थप्दा १:१)। सुधार: ३५ लिटरमा अनुपात ३:२ भए दूध २१ र पानी १४ हुन्छ, ७ लिटर पानी थप्दा २१:२१ = १:१ हुन्छ।",
       "is_pro": false
     },
@@ -3475,7 +3475,7 @@
       "option_b": "आइतबार",
       "option_c": "शनिबार",
       "option_d": "बिहीबार",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "६१ लाई ७ ले भाग गर्दा (६१ ÷ ७) भागफल ८ र शेष ५ रहन्छ। सोमबारमा ५ दिन जोड्दा शनिबार पर्छ।",
       "is_pro": false
     },
@@ -3497,7 +3497,7 @@
       "option_b": "उत्तर",
       "option_c": "दक्षिण",
       "option_d": "पश्चिम",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बेलुका सूर्य पश्चिममा हुन्छ र छाया पूर्वतर्फ पर्छ। छाया आफ्नो ठीक पछाडि (पूर्वमा) पर्न व्यक्ति पश्चिमतर्फ फर्किएको हुनुपर्छ।",
       "is_pro": false
     },
@@ -3541,7 +3541,7 @@
       "option_b": "१२६",
       "option_c": "१२८",
       "option_d": "१२७",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "प्रत्येक संख्यालाई २ ले गुणन गरी १ जोडिएको छ: ३×२+१=७, ७×२+१=१५, १५×२+१=३१, ३१×२+१=६३। अब ६३×२+१ = १२७ हुन्छ।",
       "is_pro": false
     },
@@ -3563,7 +3563,7 @@
       "option_b": "१% कमी",
       "option_c": "१% वृद्धि",
       "option_d": "२% कमी",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "समान प्रतिशतले बढेर घट्दा सधैँ कमी हुन्छ। कमी प्रतिशत = (x²/१००)% = (१०²/१००)% = १% कमी।",
       "is_pro": false
     },
@@ -3585,7 +3585,7 @@
       "option_b": "आयत",
       "option_c": "समबाहु चतुर्भुज (Rhombus)",
       "option_d": "समलम्ब चतुर्भुज",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "चारवटै भुजा बराबर भएको तर कोणहरू ९०° नभएको (विकर्ण बराबर नभएको) आकृतिलाई समबाहु चतुर्भुज (Rhombus) भनिन्छ।",
       "is_pro": false
     },
@@ -3629,7 +3629,7 @@
       "option_b": "३",
       "option_c": "४",
       "option_d": "२",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "५ महिनाको औसत वर्षा = (१०+२०+३०+४०+५०)/५ = ३० मि.मि. हो। ३० भन्दा बढी वर्षा भएका महिनाहरू (४० र ५०) जम्मा २ वटा छन्।",
       "is_pro": false
     },
@@ -3651,7 +3651,7 @@
       "option_b": "D",
       "option_c": "E",
       "option_d": "A",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "बायाँबाट क्रम मिलाउँदा: B, त्यसपछि A (B को दायाँ), त्यसपछि E (A र C को बीचमा), अनि C र सबैभन्दा दायाँ छेउमा D (जसको बायाँ C छ) रहन्छ।",
       "is_pro": false
     },
@@ -3673,7 +3673,7 @@
       "option_b": "१५%",
       "option_c": "२५%",
       "option_d": "३०%",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नाफा प्रतिशत = [(क्रय वस्तु - विक्रय वस्तु) / विक्रय वस्तु] × १००% = [(१० - ८) / ८] × १००% = (२/८) × १००% = २५%।",
       "is_pro": false
     },
@@ -3717,7 +3717,7 @@
       "option_b": "H25S",
       "option_c": "I25S",
       "option_d": "I25R",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पहिलो अक्षर +२ हुँदै (A,C,E,G पछि I), बीचको संख्या वर्ग हुँदै (१², २², ३², ४² पछि ५²=२५) र तेस्रो अक्षर -२ हुँदै (Z,X,V,T पछि R) जाँदा I25R बन्छ।",
       "is_pro": false
     },
@@ -3739,7 +3739,7 @@
       "option_b": "२८",
       "option_c": "३२",
       "option_d": "६४",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कुल खेल संख्या = n(n - १) / २ = ८ × (८ - १) / २ = ५६ / २ = २८ खेल।",
       "is_pro": false
     },
@@ -3761,7 +3761,7 @@
       "option_b": "९२५",
       "option_c": "७४०",
       "option_d": "९१५",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "श्रेणीको नियम (×१+१, ×२+२, ×३+३, ×४+४, ×५+५) छ: ५×१+१=६, ६×२+२=१४, १४×३+३=४५, ४५×४+४=१८४। अब १८४ × ५ + ५ = ९२० + ५ = ९२५ हुन्छ।",
       "is_pro": false
     },
@@ -3805,7 +3805,7 @@
       "option_b": "४ बजेर ५४ (६/११) मिनेट",
       "option_c": "४ बजेर ५२ (४/११) मिनेट",
       "option_d": "४ बजेर ५५ मिनेट",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "विपरीत हुने समय = (६०/११) × (H + ६) मिनेट = (६०/११) × (४ + ६) = ६००/११ = ५४ सही ६/११ मिनेट।",
       "is_pro": false
     },
@@ -3827,7 +3827,7 @@
       "option_b": "शनिबार",
       "option_c": "आइतबार",
       "option_d": "शुक्रबार",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सन् २०२० अधिक वर्ष (Leap Year) हो जसमा फेब्रुअरी २९ दिनको हुन्छ र ३६६ दिन हुन्छन्। ३६६ ÷ ७ गर्दा २ अतिरिक्त दिन (Odd Days) आउँछ। बुधबार + २ दिन = शुक्रबार।",
       "is_pro": false
     },
@@ -3871,7 +3871,7 @@
       "option_b": "दुवै सही",
       "option_c": "निष्कर्ष I मात्र सही",
       "option_d": "दुवै गलत",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "भेन चित्र अनुसार कवि र गायकको साझा भाग स्वतः नर्तकभित्र पर्ने हुँदा 'केही कविहरू नर्तक हुन्' (निष्कर्ष I) १००% सही छ।",
       "is_pro": false
     },
@@ -3893,7 +3893,7 @@
       "option_b": "१२ दिन",
       "option_c": "१५ दिन",
       "option_d": "१३ (१/३) दिन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सूत्र: D ÷ [(m₂/m₁) + (w₂/w₁)] = १२ ÷ [(२/५) + (४/८)] = १२ ÷ [०.४ + ०.५] = १२ / ०.९ = १२०/९ = ४०/३ = १३ सही १/३ दिन।",
       "is_pro": false
     },
@@ -3915,7 +3915,7 @@
       "option_b": "६० वर्ष",
       "option_c": "५५ वर्ष",
       "option_d": "४५ वर्ष",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "५ वर्षअघि र ५ वर्षपछिको समय अन्तर १० वर्ष हो र अनुपातको वृद्धि १ एकाइ (२ बाट ३ र ३ बाट ४) छ। १ एकाइ = १० वर्ष हुँदा ५ वर्षअघिको उमेर २० र ३० थियो। वर्तमान उमेर २५ र ३५ को योगफल = ६० वर्ष।",
       "is_pro": false
     },
@@ -3937,7 +3937,7 @@
       "option_b": "२४ पटक",
       "option_c": "४४ पटक",
       "option_d": "४८ पटक",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "घडीका सुईहरू १ घण्टामा २ पटक समकोण बन्छन् तर ३ र ९ को बीचमा साझा हुने हुँदा १२ घण्टामा २२ पटक र २४ घण्टामा २२ × २ = ४४ पटक समकोण बन्छन्।",
       "is_pro": false
     },
@@ -3981,7 +3981,7 @@
       "option_b": "२० वर्ष",
       "option_c": "१५ वर्ष",
       "option_d": "२५ वर्ष",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आठ गुणा भन्नाले २³ गुणा हो। २¹ हुन ५ वर्ष लाग्छ भने २³ हुन ५ × ३ = १५ वर्ष लाग्छ।",
       "is_pro": false
     },
@@ -4003,7 +4003,7 @@
       "option_b": "२५%",
       "option_c": "१५%",
       "option_d": "३०%",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नाफा प्रतिशत = [त्रुटि / (वास्तविक तौल - त्रुटि)] × १००% = (२०० / ८००) × १००% = २५% नाफा हुन्छ।",
       "is_pro": false
     },
@@ -4025,7 +4025,7 @@
       "option_b": "भतिजी",
       "option_c": "भाउजू",
       "option_d": "बहिनी/दिदी",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "महिलाको आमाको श्रीमान् (बुबा) को बहिनी महिलाकी फुपू हुन्, र सोही व्यक्ति पुरुषकी पनि फुपू भएकोले ती महिला र पुरुष दिदीबहिनी/दाजुभाइ हुन्।",
       "is_pro": false
     },
@@ -4069,7 +4069,7 @@
       "option_b": "७ दिन",
       "option_c": "९ दिन",
       "option_d": "८ दिन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "५ दिनपछि ४० जनाको लागि १० दिनको काम बाँकी रहन्छ। अब कामदार ४०+१०=५० जना हुँदा लाग्ने दिन = (४० × १०) / ५० = ४०० / ५० = ८ दिन।",
       "is_pro": false
     },
@@ -4091,7 +4091,7 @@
       "option_b": "३ वटा",
       "option_c": "४ वटा",
       "option_d": "६ वटा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "झोलामा २ रङका बल छन्। पिजनहोल सिद्धान्त (Pigeonhole Principle) अनुसार २ वटा झिक्दा फरक रङ पर्न सक्छ तर ३ वटा झिक्दा कम्तीमा २ वटा बल पक्का एउटै रङका पर्छन्।",
       "is_pro": false
     },
@@ -4113,7 +4113,7 @@
       "option_b": "२०० जना",
       "option_c": "३०० जना",
       "option_d": "२५० जना",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "दुवै पढ्ने प्रतिशत = ७०% + ६०% - १००% = ३०%। प्रश्नअनुसार ३०% बराबर ६० जना भए १% बराबर २ जना र १००% बराबर २०० जना हुन्छन्।",
       "is_pro": false
     },
@@ -4157,7 +4157,7 @@
       "option_b": "५६",
       "option_c": "५८",
       "option_d": "६०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "यहाँ विपरीत वर्णमाला (Z=1, A=26) को योगफल लिइएको छ: G(२०)+O(१२)=३२; S(८)+H(१९)+E(२२)=४९। त्यसैगरी SOME मा S(८)+O(१२)+M(१४)+E(२२) = ५६ हुन्छ।",
       "is_pro": false
     },
@@ -4179,7 +4179,7 @@
       "option_b": "९:१० मा",
       "option_c": "९:१५ मा",
       "option_d": "९:२० मा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "अर्को बस ९:२५ मा छुट्ने र बसको अन्तराल १५ मिनेट भएकोले अघिल्लो बस ९:१० मा छुटेको थियो। यात्रु बस छुटेको ५ मिनेटपछि अर्थात् ९:१० + ०:०५ = ९:१५ मा पुगेको थियो।",
       "is_pro": false
     },
@@ -4223,7 +4223,7 @@
       "option_b": "२०",
       "option_c": "३५",
       "option_d": "६०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "ल.स. (LCM) = म.स. × अनुपातका सह-रूढ गुणनखण्डहरू = ५ × ३ × ४ = ६० हुन्छ।",
       "is_pro": false
     },
@@ -4245,7 +4245,7 @@
       "option_b": "९",
       "option_c": "१२",
       "option_d": "१५",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "बहुभुजमा विकर्णको संख्या निकाल्ने सूत्र = n(n - ३) / २ = ६ × (६ - ३) / २ = १८ / २ = ९ वटा।",
       "is_pro": false
     },
@@ -4267,7 +4267,7 @@
       "option_b": "४१ वटा",
       "option_c": "४२ वटा",
       "option_d": "२० वटा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "एकातिरको किनारामा लाग्ने रूख = (१०० / ५) + १ = २१ वटा। बाटोको दुवै किनारामा रोप्दा = २१ × २ = ४२ वटा रूख चाहिन्छ।",
       "is_pro": false
     },
@@ -4311,7 +4311,7 @@
       "option_b": "४५०",
       "option_c": "६००",
       "option_d": "५००",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "उत्तीर्ण हुन आवश्यक अंक = १८० + २० = २०० अंक। प्रश्नअनुसार ४०% बराबर २०० अंक भए १००% (पूर्णाङ्क) = (२०० / ४०) × १०० = ५०० हुन्छ।",
       "is_pro": false
     },
@@ -4333,7 +4333,7 @@
       "option_b": "२० सेकेन्ड",
       "option_c": "२५ सेकेन्ड",
       "option_d": "१८ सेकेन्ड",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कुल दूरी = रेलको लम्बाइ + पुलको लम्बाइ = २०० + १०० = ३०० मिटर। गति = ५४ × (५/१८) = १५ मि./सेकेन्ड। समय = ३०० / १५ = २० सेकेन्ड।",
       "is_pro": false
     },
@@ -4355,7 +4355,7 @@
       "option_b": "५४",
       "option_c": "४८",
       "option_d": "६०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "११ औँ पारिमा बढेको कुल रन = ११ × ६ = ६६ रन। पुरानो औसत = १०८ - ६६ = ४२ रन। अतः नयाँ औसत = ४२ + ६ = ४८ रन।",
       "is_pro": false
     },
@@ -4399,7 +4399,7 @@
       "option_b": "३० मिनेट",
       "option_c": "५९ मिनेट",
       "option_d": "५८ मिनेट",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "प्रत्येक मिनेटमा दोब्बर हुने हुँदा ६० मिनेटमा पूरा (१ भाग) भरिन्छ भने ठीक १ मिनेट अघि (५९ मिनेटमा) आधा (१/२) र ५८ मिनेटमा एक चौथाइ (१/४ भाग) भरिन्छ।",
       "is_pro": false
     },
@@ -4443,7 +4443,7 @@
       "option_b": "हाँस",
       "option_c": "मयूर",
       "option_d": "परेवा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपालको राष्ट्रिय चरा डाँफे भए जस्तै भारतको राष्ट्रिय चरा मयूर (Peacock) हो।",
       "is_pro": false
     },
@@ -4465,7 +4465,7 @@
       "option_b": "पोखरा",
       "option_c": "विराटनगर",
       "option_d": "नयाँ दिल्ली",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "काठमाडौँ, पोखरा र विराटनगर नेपालका शहरहरू हुन् भने नयाँ दिल्ली भारतको राजधानी शहर हो।",
       "is_pro": false
     },
@@ -4487,7 +4487,7 @@
       "option_b": "२७",
       "option_c": "२९",
       "option_d": "३१",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अंग्रेजी वर्णमालाको क्रमअनुसार P(१६)+E(५)+N(१४) = ३५ हुन्छ। सोही अनुसार H(८)+E(५)+N(१४) = २७ हुन्छ।",
       "is_pro": false
     },
@@ -4509,7 +4509,7 @@
       "option_b": "८०",
       "option_c": "१००",
       "option_d": "७०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्रत्येक पछिल्लो संख्या अघिल्लो संख्याको दोब्बर (×२) हुँदै गएको छ: ५×२=१०, १०×२=२०, २०×२=४०, ४०×२=८०।",
       "is_pro": false
     },
@@ -4553,7 +4553,7 @@
       "option_b": "६०",
       "option_c": "१००",
       "option_d": "९०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "३०० को ३०% = ३०० × (३०/१००) = ३ × ३० = ९० हुन्छ।",
       "is_pro": false
     },
@@ -4575,7 +4575,7 @@
       "option_b": "३:००",
       "option_c": "६:००",
       "option_d": "९:००",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ऐनाको प्रतिबिम्ब निकाल्न १२:०० बाट घटाउनुपर्छ: १२:०० - ६:०० = ६:०० नै देखिन्छ।",
       "is_pro": false
     },
@@ -4597,7 +4597,7 @@
       "option_b": "विद्यालय",
       "option_c": "प्रहरी चौकी",
       "option_d": "बैंक",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "चिकित्सकको कार्यस्थल अस्पताल भए जस्तै शिक्षकको कार्यस्थल विद्यालय हो।",
       "is_pro": false
     },
@@ -4619,7 +4619,7 @@
       "option_b": "३०",
       "option_c": "५०",
       "option_d": "३५",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "३५ बाहेक अन्य सबै संख्याहरूलाई १० ले निःशेष भाग जान्छ।",
       "is_pro": false
     },
@@ -4663,7 +4663,7 @@
       "option_b": "१९ औँ",
       "option_c": "२१ औँ",
       "option_d": "२२ औँ",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "तलबाट स्थान R = T - L + १ सूत्र प्रयोग गर्दा ३० - १० + १ = २१ औँ स्थानमा पर्छ।",
       "is_pro": false
     },
@@ -4685,7 +4685,7 @@
       "option_b": "हजुरबुबा (मावली)",
       "option_c": "मामा",
       "option_d": "फुपाजु",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आमाको बुबालाई मावली हजुरबुबा (Maternal Grandfather) भनिन्छ।",
       "is_pro": false
     },
@@ -4729,7 +4729,7 @@
       "option_b": "२०",
       "option_c": "३५",
       "option_d": "३०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "समान अन्तरमा रहेका संख्याहरूको औसत ठीक बीचको संख्या अर्थात् ३० हुन्छ (वा योगफल १५० / ५ = ३०)।",
       "is_pro": false
     },
@@ -4751,7 +4751,7 @@
       "option_b": "२०%",
       "option_c": "१०%",
       "option_d": "१५%",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नाफा रकम = ५५० - ५०० = रु. ५०। नाफा प्रतिशत = (५० / ५००) × १००% = १०%।",
       "is_pro": false
     },
@@ -4795,7 +4795,7 @@
       "option_b": "२०",
       "option_c": "३२",
       "option_d": "३०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "यस श्रेणीमा प्रत्येक पद ५ ले घट्दै गएको छ: ३५ - ५ = ३० हुन्छ।",
       "is_pro": false
     },
@@ -4817,7 +4817,7 @@
       "option_b": "रु. १००",
       "option_c": "रु. १२०",
       "option_d": "रु. ९०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "१ दर्जन (१२ वटा) को रु. २४० पर्दा १ वटाको मूल्य = २४० / १२ = रु. २० पर्छ। ५ वटाको मूल्य = २० × ५ = रु. १०० पर्छ।",
       "is_pro": false
     },
@@ -4839,7 +4839,7 @@
       "option_b": "V",
       "option_c": "C",
       "option_d": "U",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "अक्षर C (साथै B, D, E, H, I, K, O, X) मा क्षितिज सममिति (Horizontal Symmetry) हुने हुँदा पानीमा हेर्दा उस्तै देखिन्छ।",
       "is_pro": false
     },
@@ -4883,7 +4883,7 @@
       "option_b": "रातो",
       "option_c": "पहेँलो",
       "option_d": "सेतो",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "निलो, रातो र पहेँलो इन्द्रेणीका रङ (वा प्राथमिक रङ) भित्र पर्छन् भने सेतो रङ इन्द्रेणीमा हुँदैन।",
       "is_pro": false
     },
@@ -4905,7 +4905,7 @@
       "option_b": "१२",
       "option_c": "८",
       "option_d": "४",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "एउटा घनमा ६ वटा सतह, १२ वटा किनारा र ८ वटा कुनाहरू (Vertices) हुन्छन्।",
       "is_pro": false
     },
@@ -4927,7 +4927,7 @@
       "option_b": "३",
       "option_c": "४",
       "option_d": "६",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "(P + Q) = ८ + ४ = १२ र (P - Q) = ८ - ४ = ४ हुन्छ। अब १२ ÷ ४ = ३ हुन्छ।",
       "is_pro": false
     },
@@ -4971,7 +4971,7 @@
       "option_b": "रु. ५०",
       "option_c": "रु. ६०",
       "option_d": "रु. ७५",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "अनुपातको योग १ + ३ = ४ हुन्छ। ठूलो हिस्सा = (३ / ४) × १०० = रु. ७५ हुन्छ।",
       "is_pro": false
     },
@@ -4993,7 +4993,7 @@
       "option_b": "J",
       "option_c": "K",
       "option_d": "L",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अंग्रेजी वर्णमाला (A देखि Z सम्म) मा बायाँबाट १० औँ स्थानमा 'J' पर्दछ।",
       "is_pro": false
     },
@@ -5015,7 +5015,7 @@
       "option_b": "दक्षिण-पूर्व",
       "option_c": "उत्तर-पूर्व (ईशान)",
       "option_d": "दक्षिण-पश्चिम",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "उत्तर र पूर्वको बीचको उप-दिशालाई उत्तर-पूर्व (North-East वा ईशान कोण) भनिन्छ।",
       "is_pro": false
     },
@@ -5059,7 +5059,7 @@
       "option_b": "५० वर्ष",
       "option_c": "१००० वर्ष",
       "option_d": "१०० वर्ष",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एक दशकमा १० वर्ष र एक शताब्दीमा १०० वर्ष हुन्छन्।",
       "is_pro": false
     },
@@ -5103,7 +5103,7 @@
       "option_b": "२६",
       "option_c": "३६",
       "option_d": "५०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यो श्रेणी n² + १ मा आधारित छ: २²+१=५, ३²+१=१०, ४²+१=१७, ५²+१=२६, ६²+१=३७ हुनुपर्नेमा ३६ लेखिएकोले ३६ गलत छ।",
       "is_pro": false
     },
@@ -5125,7 +5125,7 @@
       "option_b": "दुवै निष्कर्ष I र II सही",
       "option_c": "निष्कर्ष II मात्र",
       "option_d": "कुनै पनि होइन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "फलाम धातुभित्र पर्ने र सबै धातु कडा हुने भएकाले फलाम कडा हुन्छ (I सही) र कडा वस्तुको केही हिस्सा धातु हुन्छ (II सही)।",
       "is_pro": false
     },
@@ -5147,7 +5147,7 @@
       "option_b": "७ कि.मि.",
       "option_c": "१५ कि.मि.",
       "option_d": "१३ कि.मि.",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पाइथागोरसको साध्य अनुसार दूरी = √(१२² + ५²) = √(१४४ + २५) = √१६९ = १३ कि.मि. हुन्छ।",
       "is_pro": false
     },
@@ -5169,7 +5169,7 @@
       "option_b": "१२ वर्ष",
       "option_c": "१० वर्ष",
       "option_d": "१५ वर्ष",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "छोराको उमेर x र बाबुको ४x मान्दा x + ४x = ५० => ५x = ५० => x = १० वर्ष।",
       "is_pro": false
     },
@@ -5213,7 +5213,7 @@
       "option_b": "४ दिन",
       "option_c": "५ दिन",
       "option_d": "४.५ दिन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "दुवै मिलेर काम गर्दा लाग्ने समय = (६ × १२) / (६ + १२) = ७२ / १८ = ४ दिन।",
       "is_pro": false
     },
@@ -5235,7 +5235,7 @@
       "option_b": "७",
       "option_c": "९",
       "option_d": "८",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "२×३ ग्रिडमा वर्गको संख्या = (२×३) + (१×२) = ६ + २ = ८ वटा हुन्छन्।",
       "is_pro": false
     },
@@ -5279,7 +5279,7 @@
       "option_b": "२०%",
       "option_c": "१०%",
       "option_d": "२५%",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "दुवै खेल मन पराउने = (६०% + ५०%) - १००% = ११०% - १००% = १०%।",
       "is_pro": false
     },
@@ -5301,7 +5301,7 @@
       "option_b": "६",
       "option_c": "७",
       "option_d": "५",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "प्रत्येक हरफका पहिला दुई संख्याहरूको योगफल १४ रहेको छ: १०+४=१४, ८+६=१४। त्यसैले ९ + ५ = १४ हुन्छ।",
       "is_pro": false
     },
@@ -5323,7 +5323,7 @@
       "option_b": "२१ औँ",
       "option_c": "१९ औँ",
       "option_d": "२२ औँ",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "१५ औँ स्थानबाट ५ स्थान दायाँ सार्दा बायाँबाट २० औँ स्थानमा पुग्छ। दायाँबाट स्थान = ४० - २० + १ = २१ औँ।",
       "is_pro": false
     },
@@ -5345,7 +5345,7 @@
       "option_b": "हजुरआमा",
       "option_c": "सानिमा/ठूलीआमा",
       "option_d": "फुपू",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "P की छोरी R र S की बहिनी भएकोले P चाहिँ R र S की आमा हुन्। आमा (P) की दिदी वा बहिनी (Q) चाहिँ S की सानिमा वा ठूलीआमा (Maternal Aunt) पर्छिन्।",
       "is_pro": false
     },
@@ -5389,7 +5389,7 @@
       "option_b": "qpqp",
       "option_c": "pqpq",
       "option_d": "qqpr",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "खाली ठाउँमा क्रमशः 'q, q, p, r' राख्दा शृंखला 'pqr/pqr/pqr/pqr' को आवधिक ढाँचामा पूरा हुन्छ।",
       "is_pro": false
     },
@@ -5411,7 +5411,7 @@
       "option_b": "C",
       "option_c": "D",
       "option_d": "कुनै पनि होइन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "खुला पासा (Open Dice) मा एकवटा सतह छोडेर रहने एकान्तर (Alternate) सतहहरू पासा बन्दा सधैँ एकअर्काको विपरीत हुन्छन्, त्यसैले A को विपरीत C हुन्छ।",
       "is_pro": false
     },
@@ -5455,7 +5455,7 @@
       "option_b": "१८ मिनेट",
       "option_c": "१६ मिनेट",
       "option_d": "१५ मिनेट",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "३ टुक्रा पार्न (३-१) = २ पटक काट्नुपर्छ। २ पटक काट्न ४ मिनेट लाग्छ भने १ पटक काट्न २ मिनेट लाग्छ। ९ टुक्रा पार्न (९-१) = ८ पटक काट्न ८ × २ = १६ मिनेट लाग्छ।",
       "is_pro": false
     },
@@ -5477,7 +5477,7 @@
       "option_b": "रु. २५००",
       "option_c": "रु. ३०००",
       "option_d": "रु. २०००",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "साँवा P = (I × १००) / (T × R) = (४०० × १००) / (४ × ५) = ४०००० / २० = रु. २०००।",
       "is_pro": false
     },
@@ -5499,7 +5499,7 @@
       "option_b": "२० मि./से.",
       "option_c": "२५ मि./से.",
       "option_d": "१८ मि./से.",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कि.मि./घण्टालाई मिटर/सेकेन्डमा बदल्न ५/१८ ले गुणन गरिन्छ: ७२ × (५/१८) = ४ × ५ = २० मिटर/सेकेन्ड।",
       "is_pro": false
     },
@@ -5521,7 +5521,7 @@
       "option_b": "२१०",
       "option_c": "२२०",
       "option_d": "२३०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यहाँ १२² - ४ = १४४ - ४ = १४० को नियम छ। सोही अनुसार १५² - ५ नभई १५² - ५ = २२० (वा n² - ४ नियम अनुसार १५² - ५ = २२०)।",
       "is_pro": false
     },
@@ -5565,7 +5565,7 @@
       "option_b": "१५%",
       "option_c": "३०%",
       "option_d": "२५%",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "उत्पादन वृद्धि = १२५० - १००० = २५० टन। वृद्धि प्रतिशत = (२५० / १०००) × १००% = २५%।",
       "is_pro": false
     },
@@ -5587,7 +5587,7 @@
       "option_b": "२०%",
       "option_c": "२५%",
       "option_d": "१८%",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्रतिशत = (७२° / ३६०°) × १००% = (१/५) × १००% = २०% हुन्छ।",
       "is_pro": false
     },
@@ -5609,7 +5609,7 @@
       "option_b": "६",
       "option_c": "८",
       "option_d": "९",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "५ वटा संख्याको कुल योग = ५ × १२ = ६०। ४ वटा संख्याको योग = १०+१२+१४+१६ = ५२। पाँचौँ संख्या = ६० - ५२ = ८ हुन्छ।",
       "is_pro": false
     },
@@ -5653,7 +5653,7 @@
       "option_b": "४:३",
       "option_c": "५:१",
       "option_d": "४:१",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सुरुमा दूध = १५ लि. र पानी = ५ लि. छ। ५ लिटर दूध थप्दा दूध २० लि. र पानी ५ लि. हुन्छ। नयाँ अनुपात = २०:५ = ४:१ हुन्छ।",
       "is_pro": false
     },
@@ -5675,7 +5675,7 @@
       "option_b": "शुक्रबार",
       "option_c": "शनिबार",
       "option_d": "बुधबार",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "१ तारिख मंगलबार भए ८, १५ र २२ तारिख पनि मंगलबार पर्छ। त्यसैले २३ बुधबार, २४ बिहीबार र २५ तारिख शुक्रबार पर्छ।",
       "is_pro": false
     },
@@ -5697,7 +5697,7 @@
       "option_b": "दक्षिण",
       "option_c": "पूर्व",
       "option_d": "उत्तर-पूर्व",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "खुद घुमाइ = १३५° (Clockwise) - ४५° (Anti-clockwise) = ९०° घडीको दिशामा। उत्तरबाट ९०° दायाँ घुम्दा पूर्व दिशामा पुगिन्छ।",
       "is_pro": false
     },
@@ -5741,7 +5741,7 @@
       "option_b": "६८",
       "option_c": "७४",
       "option_d": "७०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "यस श्रेणीमा क्रमशः -२, -४, -६, -८ हुँदै घटेको छ। अब ८० - १० = ७० हुन्छ।",
       "is_pro": false
     },
@@ -5763,7 +5763,7 @@
       "option_b": "५००",
       "option_c": "६००",
       "option_d": "४५०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "६०% बराबर ३०० अंक भए १% बराबर ५ अंक र १००% (पूर्णाङ्क) बराबर ५ × १०० = ५०० हुन्छ।",
       "is_pro": false
     },
@@ -5785,7 +5785,7 @@
       "option_b": "६",
       "option_c": "५",
       "option_d": "१०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "विकर्ण संख्या निकाल्ने सूत्र n(n - ३) / २ अनुसार ५ × (५ - ३) / २ = १० / २ = ५ वटा विकर्ण हुन्छन्।",
       "is_pro": false
     },
@@ -5829,7 +5829,7 @@
       "option_b": "रु. ३ लाख",
       "option_c": "रु. ४ लाख",
       "option_d": "रु. ५ लाख",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "अनुपातको योग = २+३+५ = १०। सबैभन्दा ठूलो हिस्सा (५) = (५ / १०) × १० लाख = रु. ५ लाख।",
       "is_pro": false
     },
@@ -5851,7 +5851,7 @@
       "option_b": "पश्चिम",
       "option_c": "उत्तर",
       "option_d": "दक्षिण",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "D उत्तर फर्कँदा उसको बायाँ (पश्चिम छेउमा) A बसेको छ र A पूर्व फर्किएको छ। C चाहिँ A को ठीक विपरीत (साझेदार) भएकोले C पश्चिमतर्फ फर्किएको हुन्छ।",
       "is_pro": false
     },
@@ -5873,7 +5873,7 @@
       "option_b": "रु. १०५०",
       "option_c": "रु. १०००",
       "option_d": "रु. ११००",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "१०% नोक्सान हुँदा ९०% बराबर रु. ९०० हुन्छ। अतः क्रयमूल्य (१००%) = (९०० / ९०) × १०० = रु. १०००।",
       "is_pro": false
     },
@@ -5917,7 +5917,7 @@
       "option_b": "H9R",
       "option_c": "J9R",
       "option_d": "I9R",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पहिलो अक्षर +२ ले (C,E,G पछि I), संख्या +२ ले (३,५,७ पछि ९) र तेस्रो अक्षर +४ ले (F(6), J(10), N(14) पछि 18=R) बढ्दा I9R बन्छ।",
       "is_pro": false
     },
@@ -5939,7 +5939,7 @@
       "option_b": "३०",
       "option_c": "३६",
       "option_d": "१२",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "उपहार आदानप्रदान दोहोरो हुने हुँदा जम्मा उपहार संख्या = n(n - १) = ६ × (६ - १) = ६ × ५ = ३० वटा।",
       "is_pro": false
     },
@@ -5961,7 +5961,7 @@
       "option_b": "६८५",
       "option_c": "५४४",
       "option_d": "६९०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "श्रेणीको नियम (×१+१, ×२+२, ×३+३, ×४+४, ×५+५) छ: ३×१+१=४, ४×२+२=१०, १०×३+३=३३, ३३×४+४=१३६। अब १३६ × ५ + ५ = ६८० + ५ = ६८५ हुन्छ।",
       "is_pro": false
     },
@@ -6005,7 +6005,7 @@
       "option_b": "५ बजेर २७ (३/११) मिनेट",
       "option_c": "५ बजेर २८ (२/११) मिनेट",
       "option_d": "५ बजेर ३० मिनेट",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सुई खप्टिने समय = (६०/११) × H मिनेट = (६०/११) × ५ = ३००/११ = २७ सही ३/११ मिनेट।",
       "is_pro": false
     },
@@ -6027,7 +6027,7 @@
       "option_b": "४४०० पटक",
       "option_c": "४८०० पटक",
       "option_d": "४४९७ पटक",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "प्रत्येक वर्ष फेब्रुअरी बाहेक ११ महिनामा २९ तारिख आउँछ (४०० × ११ = ४४०० पटक)। ४०० वर्षमा ९७ वटा अधिक वर्ष (Leap Years) हुने हुँदा फेब्रुअरी २९ चाहिँ ९७ पटक आउँछ। जम्मा = ४४०० + ९७ = ४४९७ पटक।",
       "is_pro": false
     },
@@ -6071,7 +6071,7 @@
       "option_b": "दुवै सही",
       "option_c": "निष्कर्ष I मात्र",
       "option_d": "दुवै गलत",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "केही पातहरू फल हुन्' बाट सिधै 'केही फलहरू पात हुन्' (I) निष्कर्ष निस्कन्छ, तर फूल र फलबीच निश्चित सम्बन्ध तोकिएको छैन।",
       "is_pro": false
     },
@@ -6093,7 +6093,7 @@
       "option_b": "१२ वटा",
       "option_c": "२० वटा",
       "option_d": "१६ वटा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सबै सही भए ५०×२ = १०० अंक आउँथ्यो। कम भएको अंक = १०० - ६० = ४०। १ प्रश्न गलत हुँदा (२ + ०.५) = २.५ अंक गुम्छ। गलत प्रश्न संख्या = ४० / २.५ = १६ वटा।",
       "is_pro": false
     },
@@ -6115,7 +6115,7 @@
       "option_b": "३:५",
       "option_c": "३:४",
       "option_d": "१:४",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "वर्तमान उमेर x र २x मान्दा (x-५)/(२x-५) = १/३ => ३x-१५ = २x-५ => x = १०। वर्तमान उमेर १० र २० वर्ष। ५ वर्षपछि उमेर १५ र २५ हुँदा अनुपात १५:२५ = ३:५ हुन्छ।",
       "is_pro": false
     },
@@ -6137,7 +6137,7 @@
       "option_b": "११ मिनेट छिटो",
       "option_c": "१० (१०/१४३) मिनेट छिटो",
       "option_d": "१२ मिनेट छिटो",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सही घडीमा सुईहरू ६५ (५/११) मिनेटमा खप्टिन्छन्। ६५ मिनेटमै खप्टिँदा घडी छिटो हिँडेको हुन्छ। २४ घण्टामा छिटो हुने समय = [(७२०/११ - ६५) / ६५] × १४४० = १० सही १०/१४३ मिनेट छिटो।",
       "is_pro": false
     },
@@ -6181,7 +6181,7 @@
       "option_b": "८%",
       "option_c": "१०%",
       "option_d": "१२%",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "१ वर्षको साधारण ब्याज = २००/२ = रु. १००। चक्रीय र साधारण ब्याजको फरक रु. १० चाहिँ पहिलो वर्षको ब्याज (१००) को ब्याज हो। अतः दर = (१०/१००) × १००% = १०%।",
       "is_pro": false
     },
@@ -6203,7 +6203,7 @@
       "option_b": "२१%",
       "option_c": "१०%",
       "option_d": "२५%",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "क्रयमूल्य = १०×१० = १०० र विक्रयमूल्य = ११×११ = १२१ मान्दा नाफा प्रतिशत = [(१२१ - १००) / १००] × १००% = २१% नाफा हुन्छ।",
       "is_pro": false
     },
@@ -6225,7 +6225,7 @@
       "option_b": "९ जना",
       "option_c": "६ जना",
       "option_d": "७ जना",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "४ जना दाजुभाइकी १-१ जना बहिनी भन्नाले तिनै ४ दाजुभाइकी एउटै साझा बहिनी हुन्। त्यसैले आमाबुबा (२) + छोराहरू (४) + छोरी (१) = जम्मा ७ जना।",
       "is_pro": false
     },
@@ -6269,7 +6269,7 @@
       "option_b": "१८ दिन",
       "option_c": "२२ दिन",
       "option_d": "२० दिन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "४ दिनपछि १०० जनालाई १६ दिनको खाद्यान्न बाँकी छ। सैनिक १००-२० = ८० जना हुँदा पुग्ने दिन = (१०० × १६) / ८० = १६०० / ८० = २० दिन।",
       "is_pro": false
     },
@@ -6291,7 +6291,7 @@
       "option_b": "२० पटक",
       "option_c": "२१ पटक",
       "option_d": "११ पटक",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "१ देखि १०० सम्ममा १ बाहेक अन्य सबै अंकहरू (२ देखि ९ सम्म) एकस्थानमा १० पटक र दशस्थानमा १० पटक गरी जम्मा २० पटक आउँछन्।",
       "is_pro": false
     },
@@ -6313,7 +6313,7 @@
       "option_b": "५०० जना",
       "option_c": "६०० जना",
       "option_d": "४५० जना",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कम्तीमा एकमा उत्तीर्ण = १००% - १५% = ८५%। दुवैमा उत्तीर्ण = ७०% + ६५% - ८५% = ५०%। प्रश्नअनुसार ५०% = २५० जना भए १००% = ५०० जना।",
       "is_pro": false
     },
@@ -6357,7 +6357,7 @@
       "option_b": "६",
       "option_c": "९",
       "option_d": "१२",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "यहाँ शब्दमा भएका जम्मा अक्षरहरूको संख्यालाई २ ले गुणन गरिएको छ: DRIVER (६×२=१२), PEDESTRIAN (१०×२=२०)। त्यसैले CAR (३ अक्षर) = ३ × २ = ६ हुन्छ।",
       "is_pro": false
     },
@@ -6379,7 +6379,7 @@
       "option_b": "मे १८",
       "option_c": "मे १७",
       "option_d": "मे १५",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कमलको भनाइ अनुसार सम्भावित मिति १६ वा १७ हो र बहिनीको भनाइ अनुसार १७ वा १८ हो। दुवैमा साझा मिति मे १७ तारिख हो।",
       "is_pro": false
     },
@@ -6423,7 +6423,7 @@
       "option_b": "२५",
       "option_c": "३०",
       "option_d": "२०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सूत्र: पहिलो संख्या × दोस्रो संख्या = ल.स. × म.स.। अतः १५ × दोस्रो संख्या = ६० × ५ => दोस्रो संख्या = ३०० / १५ = २० हुन्छ।",
       "is_pro": false
     },
@@ -6445,7 +6445,7 @@
       "option_b": "२८",
       "option_c": "३२",
       "option_d": "१६",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "n वटा रेखाहरूको अधिकतम प्रतिच्छेदन बिन्दु = n(n - १) / २ = ८ × (८ - १) / २ = ५६ / २ = २८ बिन्दुहरू।",
       "is_pro": false
     },
@@ -6467,7 +6467,7 @@
       "option_b": "१६० मिटर",
       "option_c": "१५० मिटर",
       "option_d": "१४५ मिटर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "बन्द घेरा वा वृत्तमा रूखको संख्या र अन्तरालको संख्या बराबर हुन्छ। अतः परिधि = १५ × १० = १५० मिटर।",
       "is_pro": false
     },
@@ -6511,7 +6511,7 @@
       "option_b": "१५००",
       "option_c": "२५००",
       "option_d": "२०००",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "विजेताले ५५% पाउँदा उपविजेताले ४५% पायो। मतको अन्तर = ५५% - ४५% = १०%। प्रश्नअनुसार १०% = २०० मत भए १००% = २००० मत।",
       "is_pro": false
     },
@@ -6533,7 +6533,7 @@
       "option_b": "११० मिटर",
       "option_c": "१२० मिटर",
       "option_d": "९० मिटर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "विपरीत दिशामा सापेक्ष गति = ६० + ६ = ६६ कि.मि./घण्टा = ६६ × (५/१८) = ५५/३ मि./से.। रेलको लम्बाइ (दूरी) = गति × समय = (५५/३) × ६ = ११० मिटर।",
       "is_pro": false
     },
@@ -6555,7 +6555,7 @@
       "option_b": "३२°C",
       "option_c": "३४°C",
       "option_d": "३६°C",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सोम+मंगल+बुध = ९०°C र मंगल+बुध+बिही = ९६°C। दोस्रोबाट पहिलो घटाउँदा: बिहीबार - सोमबार = ६°C। अतः बिहीबार = २८ + ६ = ३४°C।",
       "is_pro": false
     },
@@ -6599,7 +6599,7 @@
       "option_b": "५ पटक",
       "option_c": "२ पटक",
       "option_d": "१ पटक",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पहिलो बोराबाट १, दोस्रोबाट २ गर्दै १० औँ बोराबाट १० वटा गरी जम्मा ५५ सिक्का निकालेर १ पटक मात्र जोख्दा जति ग्राम कम आउँछ (५५० ग्राममा), त्यही नम्बरको बोरा नक्कली हुन्छ।",
       "is_pro": false
     }
