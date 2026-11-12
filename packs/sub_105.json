@@ -1,6 +1,6 @@
 {
   "sub_cat_id": "105",
-  "data_version": 1794412402725,
+  "data_version": 1794491195766,
   "total_questions": 66,
   "questions": [
     {
@@ -43,7 +43,7 @@
       "option_b": "बुध (Mercury)",
       "option_c": "वरुण (Neptune)",
       "option_d": "यम (Pluto)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "बुध सौर्यमण्डलको सबैभन्दा सानो र सूर्यको सबैभन्दा नजिकको ग्रह हो।",
       "is_pro": false
     },
@@ -65,7 +65,7 @@
       "option_b": "तारा",
       "option_c": "चन्द्रमा",
       "option_d": "उल्का",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पृथ्वीको वरिपरि घुम्ने एकमात्र प्राकृतिक उपग्रह चन्द्रमा हो।",
       "is_pro": false
     },
@@ -87,7 +87,7 @@
       "option_b": "चन्द्रमा",
       "option_c": "ताराहरू",
       "option_d": "सूर्य",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सूर्य एउटा तारा हो जसले सौर्यमण्डललाई प्रकाश र ताप प्रदान गर्छ।",
       "is_pro": false
     },
@@ -131,7 +131,7 @@
       "option_b": "बुध",
       "option_c": "पृथ्वी",
       "option_d": "मङ्गल",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सूर्यको सबैभन्दा नजिक बुध ग्रह रहेको छ।",
       "is_pro": false
     },
@@ -153,7 +153,7 @@
       "option_b": "बृहस्पति",
       "option_c": "मङ्गल",
       "option_d": "शनि",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "मङ्गल ग्रहको माटोमा फलामको अक्साइड धेरै भएकोले यो रातो देखिन्छ।",
       "is_pro": false
     },
@@ -175,7 +175,7 @@
       "option_b": "ध्रुव तारा",
       "option_c": "सूर्य",
       "option_d": "सिरियस (Sirius)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पृथ्वीबाट देखिने रातको आकाशको सबैभन्दा चम्किलो तारा सिरियस हो।",
       "is_pro": false
     },
@@ -219,7 +219,7 @@
       "option_b": "शनि",
       "option_c": "अरुण",
       "option_d": "वरुण",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "शनि ग्रहको वरिपरि बरफ र धुलोले बनेको आकर्षक घेरा (Ring) छ।",
       "is_pro": false
     },
@@ -241,7 +241,7 @@
       "option_b": "कान",
       "option_c": "आँखा",
       "option_d": "नाक",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नाकले हामीलाई विभिन्न गन्ध सुँघ्न र सास फेर्न मद्दत गर्छ।",
       "is_pro": false
     },
@@ -263,7 +263,7 @@
       "option_b": "छाला",
       "option_c": "मुटु",
       "option_d": "मस्तिष्क",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "छालाले सम्पूर्ण शरीरलाई ढाकेको हुन्छ र यसले स्पर्श (छोएको) थाहा पाउँछ।",
       "is_pro": false
     },
@@ -285,7 +285,7 @@
       "option_b": "कलेजो",
       "option_c": "मुटु",
       "option_d": "मिर्गौला",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "मुटुले हाम्रो शरीरभरि रगत पठाउने वा पम्प गर्ने काम गर्छ।",
       "is_pro": false
     },
@@ -307,7 +307,7 @@
       "option_b": "मुटु",
       "option_c": "मिर्गौला",
       "option_d": "फोक्सो",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "हामी नाकबाट लिएको हावा फोक्सोमा पुर्‍याउँछौँ जहाँ अक्सिजन रगतमा मिसिन्छ।",
       "is_pro": false
     },
@@ -351,7 +351,7 @@
       "option_b": "मुटु",
       "option_c": "मिर्गौला (Kidney)",
       "option_d": "फोक्सो",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "मिर्गौलाले रगत छान्ने र पिसाबको रूपमा शरीरबाट फोहोर बाहिर निकाल्ने काम गर्छ।",
       "is_pro": false
     },
@@ -373,7 +373,7 @@
       "option_b": "स्नायु प्रणाली",
       "option_c": "रक्तसञ्चार प्रणाली",
       "option_d": "पाचन प्रणाली",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आमाशय र आन्द्राहरू मिलेर बनेको पाचन प्रणालीले खाना पचाउने काम गर्छ।",
       "is_pro": false
     },
@@ -417,7 +417,7 @@
       "option_b": "फोक्सो (Lungs)",
       "option_c": "छाला (Skin)",
       "option_d": "फूलका (Gills)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "माछाले पानीमा घुलेको अक्सिजन आफ्नो फूलका (Gills) बाट लिन्छ।",
       "is_pro": false
     },
@@ -461,7 +461,7 @@
       "option_b": "गाई",
       "option_c": "बाघ",
       "option_d": "गैँडा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नेपालको राष्ट्रिय जनावर गाई हो र राष्ट्रिय पन्छी डाँफे हो।",
       "is_pro": false
     },
@@ -483,7 +483,7 @@
       "option_b": "पात",
       "option_c": "जरा",
       "option_d": "फूल",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "जरा जमिनमुनि हुन्छ र यसले माटोबाट पानी र खनिज पदार्थ सोस्ने काम गर्छ।",
       "is_pro": false
     },
@@ -505,7 +505,7 @@
       "option_b": "जरा",
       "option_c": "काण्ड",
       "option_d": "पात",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पातमा हुने हरियो पदार्थ (क्लोरोफिल) को मद्दतले बिरुवाले प्रकाश संश्लेषण प्रक्रियाबाट खाना बनाउँछ।",
       "is_pro": false
     },
@@ -527,7 +527,7 @@
       "option_b": "पात",
       "option_c": "जरा",
       "option_d": "फल",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "जराले बिरुवालाई ढल्न नदिई माटोमा दह्रोसँग अड्याएर राख्छ।",
       "is_pro": false
     },
@@ -549,7 +549,7 @@
       "option_b": "पात",
       "option_c": "जरा",
       "option_d": "फल",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "फूल फुलेपछि त्यही फूल विकसित भएर फल बन्छ।",
       "is_pro": false
     },
@@ -593,7 +593,7 @@
       "option_b": "हरिया बिरुवा",
       "option_c": "जनावर",
       "option_d": "ढुङ्गा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "हरिया बिरुवाहरूले प्रकाश संश्लेषण मार्फत आफ्नो खाना आफैँ बनाउँछन्।",
       "is_pro": false
     },
@@ -615,7 +615,7 @@
       "option_b": "तुलसी",
       "option_c": "पिचर प्लान्ट (Pitcher Plant)",
       "option_d": "पीपल",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "केही विशेष बिरुवाहरू जस्तै पिचर प्लान्ट र भेनस फ्लाई ट्र्यापले कीरा फट्याङ्ग्रा खान्छन्।",
       "is_pro": false
     },
@@ -637,7 +637,7 @@
       "option_b": "सल्ला",
       "option_c": "आँप",
       "option_d": "पीपल",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पीपलको रुखले दिन र रात दुवै समयमा अक्सिजन दिने भएकाले यसको विशेष महत्त्व छ।",
       "is_pro": false
     },
@@ -659,7 +659,7 @@
       "option_b": "तुसारो",
       "option_c": "बरफ (Ice)",
       "option_d": "वर्षा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पानी शून्य डिग्री सेल्सियस (0°C) मा जमेर ठोस बन्छ जसलाई बरफ भनिन्छ।",
       "is_pro": false
     },
@@ -681,7 +681,7 @@
       "option_b": "बरफ",
       "option_c": "पानी नै रहन्छ",
       "option_d": "बाफ (Steam)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पानीलाई १०० डिग्री सेल्सियसमा तताउँदा यो ग्यास अवस्था (बाफ) मा परिणत हुन्छ।",
       "is_pro": false
     },
@@ -703,7 +703,7 @@
       "option_b": "नुन",
       "option_c": "चिनी",
       "option_d": "बालुवा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नुन र चिनी पानीमा घुल्छन् तर बालुवा वा ढुङ्गा पानीमा घुल्दैन।",
       "is_pro": false
     },
@@ -725,7 +725,7 @@
       "option_b": "०°C (शून्य डिग्री सेल्सियस)",
       "option_c": "५०°C",
       "option_d": "१०°C",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पानी ०°C मा जमेर बरफ बन्छ।",
       "is_pro": false
     },
@@ -747,7 +747,7 @@
       "option_b": "कार्बन डाइअक्साइड",
       "option_c": "नाइट्रोजन (Nitrogen)",
       "option_d": "हाइड्रोजन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "हावामा करिब ७८% नाइट्रोजन र २१% अक्सिजन हुन्छ।",
       "is_pro": false
     },
@@ -769,7 +769,7 @@
       "option_b": "नाइट्रोजन",
       "option_c": "कार्बन डाइअक्साइड",
       "option_d": "अक्सिजन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सबै सजीव प्राणीहरूलाई बाँच्न र सास फेर्न अक्सिजन ग्यास चाहिन्छ।",
       "is_pro": false
     },
@@ -813,7 +813,7 @@
       "option_b": "कार्बन डाइअक्साइड",
       "option_c": "नाइट्रोजन",
       "option_d": "हेलियम",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कार्बन डाइअक्साइड ग्यासले आगो निभाउन मद्दत गर्छ।",
       "is_pro": false
     },
@@ -835,7 +835,7 @@
       "option_b": "करिब ९०%",
       "option_c": "करिब ७१%",
       "option_d": "करिब ३०%",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पृथ्वीको लगभग ७१% भाग पानीले र २९% भाग जमिनले ओगटेको छ।",
       "is_pro": false
     },
@@ -857,7 +857,7 @@
       "option_b": "इनार",
       "option_c": "धारा",
       "option_d": "वर्षा (Rain)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पृथ्वीमा पानीको सबैभन्दा ठूलो र मुख्य प्राकृतिक स्रोत वर्षा हो।",
       "is_pro": false
     },
@@ -879,7 +879,7 @@
       "option_b": "जल चक्र (Water Cycle)",
       "option_c": "ऋतु चक्र",
       "option_d": "वायु चक्र",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "समुद्रको पानी बाफ बनेर उड्ने र फेरि चिसो भएर पानी पर्ने निरन्तर प्रक्रियालाई जल चक्र भनिन्छ।",
       "is_pro": false
     },
@@ -901,7 +901,7 @@
       "option_b": "चिसिने (Condensation)",
       "option_c": "बाष्पीकरण (Evaporation)",
       "option_d": "बग्ने (Run-off)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सूर्यको तापले पानी तातेर बाफ बन्ने प्रक्रिया (बाष्पीकरण) बाट जल चक्र सुरु हुन्छ।",
       "is_pro": false
     },
@@ -923,7 +923,7 @@
       "option_b": "ब्यारोमिटर",
       "option_c": "हाइग्रोमिटर",
       "option_d": "एनिमोमिटर (Anemometer)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "हावा कति छिटो चलेको छ भनेर नाप्न एनिमोमिटरको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -989,7 +989,7 @@
       "option_b": "भिटामिन डी",
       "option_c": "भिटामिन बी",
       "option_d": "भिटामिन सी",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "बिहानको कलिलो घामको किरण छालामा पर्दा हाम्रो शरीरले आफैँ भिटामिन डी बनाउँछ।",
       "is_pro": false
     },
@@ -1011,7 +1011,7 @@
       "option_b": "चिल्लो पदार्थ",
       "option_c": "भिटामिन",
       "option_d": "प्रोटिन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "प्रोटिनले हाम्रो शरीरका कोषहरू बनाउने र मर्मत गर्ने काम गर्छ।",
       "is_pro": false
     },
@@ -1055,7 +1055,7 @@
       "option_b": "डस्टबिन (फोहोर फाल्ने भाँडो)",
       "option_c": "नदी",
       "option_d": "जथाभावी",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "वातावरण सफा राख्न फोहोरलाई सधैँ डस्टबिन वा तोकिएको ठाउँमा फाल्नुपर्छ।",
       "is_pro": false
     },
@@ -1077,7 +1077,7 @@
       "option_b": "ऊर्जा (Energy)",
       "option_c": "बल (Force)",
       "option_d": "काम (Work)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कुनै वस्तुलाई तान्दा (Pull) वा धकेल्दा (Push) बलको प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -1099,7 +1099,7 @@
       "option_b": "चुम्बकीय बल",
       "option_c": "विद्युतीय बल",
       "option_d": "गुरुत्वाकर्षण बल (Gravity)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "माथि फ्याँकेको वस्तु तल खस्नुको कारण पृथ्वीको गुरुत्वाकर्षण बल हो।",
       "is_pro": false
     },
@@ -1143,7 +1143,7 @@
       "option_b": "प्रकाश (Light)",
       "option_c": "ताप (Heat)",
       "option_d": "विद्युत् (Electricity)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्रकाश एक प्रकारको ऊर्जा हो जसको मद्दतले हामी वस्तुहरू देख्न सक्छौँ।",
       "is_pro": false
     },
@@ -1165,7 +1165,7 @@
       "option_b": "छायाँ (Shadow)",
       "option_c": "प्रतिबिम्ब",
       "option_d": "उज्यालो",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्रकाशको बाटोमा कुनै अपारदर्शक वस्तु पर्दा प्रकाश छेकिन्छ र छायाँ बन्छ।",
       "is_pro": false
     },
@@ -1187,7 +1187,7 @@
       "option_b": "तापबाट",
       "option_c": "कम्पनबाट (Vibration)",
       "option_d": "प्रकाशबाट",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कुनै वस्तु हल्लिँदा वा कम्पन हुँदा ध्वनि वा आवाज निस्कन्छ।",
       "is_pro": false
     },
@@ -1209,7 +1209,7 @@
       "option_b": "कुनै असर गर्दैन",
       "option_c": "दिशा परिवर्तन गर्छ",
       "option_d": "घटाउँछ वा रोक्छ",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "दुई वस्तुहरू बीचको घर्षणले गुडिरहेको वस्तुलाई बिस्तारै रोक्ने काम गर्छ।",
       "is_pro": false
     },
@@ -1231,7 +1231,7 @@
       "option_b": "पाचन (Digestion)",
       "option_c": "श्वासप्रश्वास (Respiration)",
       "option_d": "प्रजनन (Reproduction)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "आफ्नो वंश निरन्तरता दिन सजीवहरूले सन्तान जन्माउँछन् जसलाई प्रजनन भनिन्छ।",
       "is_pro": false
     },
@@ -1253,7 +1253,7 @@
       "option_b": "हामी सबैको",
       "option_c": "सफाई कर्मचारीको मात्र",
       "option_d": "शिक्षकको मात्र",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "वातावरण सफा राख्नु हामी सबैको साझा दायित्व हो।",
       "is_pro": false
     },
@@ -1275,7 +1275,7 @@
       "option_b": "नुन हाल्ने",
       "option_c": "उमाल्ने वा फिल्टर गर्ने",
       "option_d": "खुल्ला छोड्ने",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पानीलाई उमाल्दा त्यसमा भएका रोग लाग्ने कीटाणुहरू मर्छन्।",
       "is_pro": false
     },
@@ -1297,7 +1297,7 @@
       "option_b": "बाफ बन्छ",
       "option_c": "राम्रो बास्ना आउँछ",
       "option_d": "वातावरण प्रदूषण हुन्छ",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "प्लास्टिक जलाउँदा विषालु धुवाँ निस्कन्छ जसले हावा प्रदूषण गर्छ।",
       "is_pro": false
     },
@@ -1341,7 +1341,7 @@
       "option_b": "साइकल",
       "option_c": "टेलिभिजन",
       "option_d": "मैनबत्ती",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "टेलिभिजन चलाउन विद्युत् वा बिजुलीको आवश्यकता पर्छ।",
       "is_pro": false
     },
@@ -1363,7 +1363,7 @@
       "option_b": "चन्द्रमाले छेक्ने भएकोले",
       "option_c": "बादल लागेर",
       "option_d": "पृथ्वी आफ्नो अक्षमा घुम्ने भएकोले",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पृथ्वी आफ्नो अक्षमा घुम्दा सूर्यतिर परेको भागमा दिन र पछाडिको भागमा रात हुन्छ।",
       "is_pro": false
     },
@@ -1407,7 +1407,7 @@
       "option_b": "चिसिने (Condensation)",
       "option_c": "पग्लिने",
       "option_d": "जम्ने",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "बाफ चिसो भएर पानीमा परिणत हुने प्रक्रिया चिसिने वा Condensation हो।",
       "is_pro": false
     },
@@ -1429,7 +1429,7 @@
       "option_b": "सर्प",
       "option_c": "गँड्यौला",
       "option_d": "बाँदर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "गँड्यौलाले माटो खनेर मलिलो र हावा छिर्ने बनाउने हुनाले यसलाई किसानको साथी भनिन्छ।",
       "is_pro": false
     },
@@ -1451,7 +1451,7 @@
       "option_b": "मखमली",
       "option_c": "गुलाब",
       "option_d": "लालीगुराँस",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नेपालको राष्ट्रिय फूल लालीगुराँस (Rhododendron) हो।",
       "is_pro": false
     }
