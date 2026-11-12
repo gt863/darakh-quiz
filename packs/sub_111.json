@@ -1,6 +1,6 @@
 {
   "sub_cat_id": "111",
-  "data_version": 1794412402725,
+  "data_version": 1794491195766,
   "total_questions": 300,
   "questions": [
     {
@@ -43,7 +43,7 @@
       "option_b": "Central Processing Unit",
       "option_c": "Computer Processing Unit",
       "option_d": "Central Printing Unit",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कम्प्युटरको मष्तिस्क मानिने CPU को पूरा रूप Central Processing Unit हो।",
       "is_pro": false
     },
@@ -65,7 +65,7 @@
       "option_b": "प्रिन्टर",
       "option_c": "किबोर्ड",
       "option_d": "स्पिकर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कम्प्युटरभित्र डेटा पठाउन किबोर्डको प्रयोग गरिन्छ, त्यसैले यो इनपुट डिभाइस हो।",
       "is_pro": false
     },
@@ -87,7 +87,7 @@
       "option_b": "किलोबाइट (KB)",
       "option_c": "मेगाबाइट (MB)",
       "option_d": "बिट (Bit)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कम्प्युटरले बुझ्ने ० र १ लाई बिट (Bit - Binary Digit) भनिन्छ जुन सबैभन्दा सानो एकाइ हो।",
       "is_pro": false
     },
@@ -131,7 +131,7 @@
       "option_b": "माइक्रोसफ्ट वर्ड (MS Word)",
       "option_c": "लिनक्स (Linux)",
       "option_d": "म्याक ओएस (Mac OS)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "माइक्रोसफ्ट वर्ड एउटा एप्लिकेसन सफ्टवेयर हो, यो अपरेटिङ सिस्टम होइन।",
       "is_pro": false
     },
@@ -153,7 +153,7 @@
       "option_b": "Random Active Memory",
       "option_c": "Random Access Memory",
       "option_d": "Read Active Memory",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कम्प्युटरको अस्थायी मेमोरी RAM को पूरा रूप Random Access Memory हो।",
       "is_pro": false
     },
@@ -175,7 +175,7 @@
       "option_b": "आइसी (IC)",
       "option_c": "माइक्रोप्रोसेसर",
       "option_d": "भ्याकुम ट्युब (Vacuum Tube)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सन् १९४० देखि १९५६ सम्मका पहिलो पुस्ताका कम्प्युटरहरूमा भ्याकुम ट्युबको प्रयोग गरिएको थियो।",
       "is_pro": false
     },
@@ -219,7 +219,7 @@
       "option_b": "World Wide Web",
       "option_c": "Wide World Web",
       "option_d": "World Wide Word",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "इन्टरनेटमा जानकारीहरू आपसमा जोडिएको सञ्जाललाई World Wide Web भनिन्छ।",
       "is_pro": false
     },
@@ -241,7 +241,7 @@
       "option_b": "भोलाटाइल मेमोरी",
       "option_c": "स्थायी (Non-volatile) मेमोरी",
       "option_d": "क्यास मेमोरी",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "विद्युत् आपूर्ति बन्द हुँदा पनि डेटा नमेटिने भएकाले ROM स्थायी (Non-volatile) मेमोरी हो।",
       "is_pro": false
     },
@@ -263,7 +263,7 @@
       "option_b": "हिसाब गर्न",
       "option_c": "गीत सुन्न",
       "option_d": "चित्र बनाउन",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एमएस पेन्ट विन्डोज अपरेटिङ सिस्टममा आउने एउटा साधारण ग्राफिक्स/चित्र बनाउने सफ्टवेयर हो।",
       "is_pro": false
     },
@@ -307,7 +307,7 @@
       "option_b": "सटडाउन (Shut down) गर्ने",
       "option_c": "मोनिटर बन्द गर्ने",
       "option_d": "सिधै स्विच अफ गर्ने",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सिस्टम फाइलहरूलाई बिग्रन नदिन Start मेनुमा गएर सटडाउन (Shut down) गर्नुपर्छ।",
       "is_pro": false
     },
@@ -329,7 +329,7 @@
       "option_b": "Ctrl + V",
       "option_c": "Ctrl + S",
       "option_d": "Ctrl + P",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "डकुमेन्ट वा फाइललाई सुरक्षित गर्न 'Ctrl' सँग 'S' (Save) थिचिन्छ।",
       "is_pro": false
     },
@@ -351,7 +351,7 @@
       "option_b": "युटिलिटी सफ्टवेयर",
       "option_c": "वर्ड प्रोसेसर",
       "option_d": "वेब ब्राउजर",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "गुगल क्रोम, मोजिल्ला फायरफक्स जस्ता सफ्टवेयरहरू वेब ब्राउजर हुन् जसले इन्टरनेट चलाउन मद्दत गर्छन्।",
       "is_pro": false
     },
@@ -395,7 +395,7 @@
       "option_b": "कपि (Copy) गर्न",
       "option_c": "कट (Cut) गर्न",
       "option_d": "सेभ (Save) गर्न",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कुनै पनि टेक्स्ट वा फाइलको प्रतिलिपि बनाउन 'Ctrl + C' को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -417,7 +417,7 @@
       "option_b": "डेटा",
       "option_c": "सफ्टवेयर",
       "option_d": "नेटवर्क",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कम्प्युटरका भौतिक अङ्गहरूलाई काम गराउने प्रोग्रामहरूको समूहलाई सफ्टवेयर भनिन्छ।",
       "is_pro": false
     },
@@ -439,7 +439,7 @@
       "option_b": "तेस्रो पुस्ताको IC",
       "option_c": "चौथो पुस्ताको माइक्रोप्रोसेसर",
       "option_d": "ट्रान्जिस्टर (Transistor)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "दोस्रो पुस्ताका कम्प्युटरहरूमा भ्याकुम ट्युबको सट्टा ट्रान्जिस्टरको प्रयोग गरिएको थियो।",
       "is_pro": false
     },
@@ -483,7 +483,7 @@
       "option_b": "१०२४ बाइट",
       "option_c": "१०४८ बाइट",
       "option_d": "१०१२ बाइट",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "बाइनरी प्रणाली अनुसार कम्प्युटर मेमोरीमा १ किलोबाइट बराबर १०२४ बाइट हुन्छ।",
       "is_pro": false
     },
@@ -505,7 +505,7 @@
       "option_b": "कर्सर",
       "option_c": "आइकन (Icon)",
       "option_d": "ट्याब",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "विभिन्न प्रोग्राम, फाइल वा फोल्डरलाई सङ्केत गर्ने डेस्कटपका साना चित्रहरूलाई आइकन भनिन्छ।",
       "is_pro": false
     },
@@ -527,7 +527,7 @@
       "option_b": "किबोर्ड",
       "option_c": "स्क्यानर",
       "option_d": "मोनिटर",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कम्प्युटरले प्रोसेस गरेको नतिजा देखाउने स्क्रिन (मोनिटर) एउटा आउटपुट डिभाइस हो।",
       "is_pro": false
     },
@@ -571,7 +571,7 @@
       "option_b": "३ (Left, Right र Double Click)",
       "option_c": "४ प्रकारका",
       "option_d": "५ प्रकारका",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "माउसमा मुख्यतया लेफ्ट क्लिक, राइट क्लिक र डबल क्लिक गरी ३ प्रकारका क्लिकहरू प्रयोग हुन्छन्।",
       "is_pro": false
     },
@@ -593,7 +593,7 @@
       "option_b": "F4",
       "option_c": "F5",
       "option_d": "F1",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "QBASIC प्रोग्रामिङमा कोडलाई एक्जिक्युट (Run) गर्न किबोर्डको F5 कि थिचिन्छ।",
       "is_pro": false
     },
@@ -615,7 +615,7 @@
       "option_b": "युटिलिटी सफ्टवेयर",
       "option_c": "अपरेटिङ सिस्टम",
       "option_d": "एप्लिकेसन सफ्टवेयर",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "खास कार्य (जस्तै डकुमेन्ट टाइप गर्ने) का लागि बनाइएको सफ्टवेयर एप्लिकेसन सफ्टवेयर हो।",
       "is_pro": false
     },
@@ -659,7 +659,7 @@
       "option_b": "कम्प्युटरलाई हानि गर्ने प्रोग्राम (Malicious Program)",
       "option_c": "एन्टिभाइरस सफ्टवेयर",
       "option_d": "कम्प्युटरको हार्डवेयर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कम्प्युटर भाइरस मानिसले नै बनाएको एउटा विनाशकारी सफ्टवेयर वा प्रोग्राम हो जसले डेटा नष्ट गर्छ।",
       "is_pro": false
     },
@@ -681,7 +681,7 @@
       "option_b": "इनपुट र आउटपुट",
       "option_c": "ALU र CU (Control Unit)",
       "option_d": "सफ्टवेयर र हार्डवेयर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "CPU का मुख्य भागहरू Arithmetic Logic Unit (ALU) र Control Unit (CU) हुन्।",
       "is_pro": false
     },
@@ -703,7 +703,7 @@
       "option_b": "Large Area Network",
       "option_c": "Local Access Network",
       "option_d": "Local Area Network",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एउटा कोठा वा भवनभित्र जोडिएको कम्प्युटर सञ्जाललाई Local Area Network (LAN) भनिन्छ।",
       "is_pro": false
     },
@@ -747,7 +747,7 @@
       "option_b": "Ctrl + Z",
       "option_c": "Ctrl + Y",
       "option_d": "Ctrl + X",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "भुलवश मेटिएको वा परिवर्तन भएको कुरालाई पूर्ववत अवस्थामा ल्याउन 'Ctrl + Z' को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -769,7 +769,7 @@
       "option_b": "८",
       "option_c": "१०",
       "option_d": "१६",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "दैनिक जीवनमा प्रयोग हुने ० देखि ९ सम्मका १० वटा अङ्कहरू हुने भएकाले डेसिमलको आधार १० हुन्छ।",
       "is_pro": false
     },
@@ -791,7 +791,7 @@
       "option_b": "१२",
       "option_c": "१४",
       "option_d": "१०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बाइनरी 1010 लाई डेसिमलमा लाँदा (1×8) + (0×4) + (1×2) + (0×1) = १० हुन्छ।",
       "is_pro": false
     },
@@ -835,7 +835,7 @@
       "option_b": "रे टम्लिन्सन (Ray Tomlinson)",
       "option_c": "बिल गेट्स",
       "option_d": "स्टिभ जब्स",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सन् १९७१ मा रे टम्लिन्सनले इमेल पठाउने प्रणाली विकास गर्दा प्रयोगकर्ता र सर्भर छुट्ट्याउन '@' चिह्न प्रयोग गरेका थिए।",
       "is_pro": false
     },
@@ -857,7 +857,7 @@
       "option_b": "pptx",
       "option_c": "xlsx (वा xls)",
       "option_d": "txt",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "माइक्रोसफ्ट एक्सेलको स्प्रेडसिट फाइलको प्रकार बुझाउने एक्सटेन्सन .xlsx हो।",
       "is_pro": false
     },
@@ -879,7 +879,7 @@
       "option_b": "प्रोग्राम डिलिट गर्नु",
       "option_c": "भाइरस स्क्यान गर्नु",
       "option_d": "अपरेटिङ सिस्टम लोड भई कम्प्युटर स्टार्ट हुनु",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कम्प्युटर अन गर्दा अपरेटिङ सिस्टम मेमोरीमा लोड भई काम गर्न तयार हुने प्रक्रियालाई बुटिङ भनिन्छ।",
       "is_pro": false
     },
@@ -923,7 +923,7 @@
       "option_b": "URL (Uniform Resource Locator)",
       "option_c": "ISP",
       "option_d": "HTTP",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कुनै पनि वेबसाइटलाई खोल्न वेब ब्राउजरमा टाइप गरिने ठेगानालाई URL भनिन्छ।",
       "is_pro": false
     },
@@ -945,7 +945,7 @@
       "option_b": "३ प्रकारका",
       "option_c": "२ प्रकारका (Numeric र String)",
       "option_d": "४ प्रकारका",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "डेटा भण्डारण गर्ने रिएबल QBASIC मा सङ्ख्यात्मक (Numeric) र शाब्दिक (String) गरी २ प्रकारका हुन्छन्।",
       "is_pro": false
     },
@@ -967,7 +967,7 @@
       "option_b": "रिसाइकल बिनमा",
       "option_c": "हार्ड डिस्कमा",
       "option_d": "क्लिपबोर्ड (Clipboard) मा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कम्प्युटरको अपरेटिङ सिस्टममा कट वा कपि गरिएको डेटा अस्थायी रूपमा क्लिपबोर्ड मेमोरीमा बस्दछ।",
       "is_pro": false
     },
@@ -1011,7 +1011,7 @@
       "option_b": "Ctrl + M",
       "option_c": "Ctrl + S",
       "option_d": "Ctrl + P",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नयाँ प्रेजेन्टेसन बनाउन Ctrl+N थिचिन्छ भने भइरहेको प्रेजेन्टेसनमा नयाँ स्लाइड थप्न Ctrl+M थिचिन्छ।",
       "is_pro": false
     },
@@ -1033,7 +1033,7 @@
       "option_b": "Graphic Use Interface",
       "option_c": "Graphical User Interface",
       "option_d": "Graph User Inter",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आइकन, मेनु र माउसको प्रयोग गरी कम्प्युटर चलाउन सजिलो बनाउने प्रणालीलाई Graphical User Interface भनिन्छ।",
       "is_pro": false
     },
@@ -1055,7 +1055,7 @@
       "option_b": "Copy",
       "option_c": "Rename",
       "option_d": "Save As",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "डकुमेन्टको नयाँ प्रतिलिपि अर्को नामले सुरक्षित गर्न 'Save As' कमान्डको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -1099,7 +1099,7 @@
       "option_b": "IC (Integrated Circuit)",
       "option_c": "ट्रान्जिस्टर",
       "option_d": "माइक्रोप्रोसेसर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पहिलोमा भ्याकुम ट्युब, दोस्रोमा ट्रान्जिस्टर र तेस्रो पुस्ताको कम्प्युटरमा IC को प्रयोग भएको थियो।",
       "is_pro": false
     },
@@ -1121,7 +1121,7 @@
       "option_b": "WAN",
       "option_c": "इन्टरनेट (Internet)",
       "option_d": "MAN",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "विश्वभरिका हजारौँ कम्प्युटर नेटवर्कहरू जोडिएर बनेको महासञ्जाल नै इन्टरनेट हो।",
       "is_pro": false
     },
@@ -1143,7 +1143,7 @@
       "option_b": "रिङ टपोलोजी",
       "option_c": "मेस टपोलोजी",
       "option_d": "स्टार टपोलोजी (Star Topology)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "केन्द्रमा रहेको हबबाट सबै कम्प्युटरहरूमा छुट्टाछुट्टै तार जोडिएको संरचनालाई स्टार टपोलोजी भनिन्छ।",
       "is_pro": false
     },
@@ -1187,7 +1187,7 @@
       "option_b": "=",
       "option_c": "-",
       "option_d": "@",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "एक्सेलले सुत्र र साधारण टेक्स्टलाई छुट्ट्याउन सुत्रको अगाडि बराबर (=) चिह्न अनिवार्य मान्दछ।",
       "is_pro": false
     },
@@ -1209,7 +1209,7 @@
       "option_b": "स्क्यानिङ",
       "option_c": "ब्याकअप (Backup)",
       "option_d": "सेभिङ",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सिस्टम क्र्यास हुँदा डेटा नष्ट नहोस् भनेर छुट्टै सुरक्षित राख्ने प्रतिनिधिलाई ब्याकअप भनिन्छ।",
       "is_pro": false
     },
@@ -1231,7 +1231,7 @@
       "option_b": "वि.सं. २०२५",
       "option_c": "वि.सं. २०३८",
       "option_d": "वि.सं. २०२८",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "वि.सं. २०२८ सालको जनगणनाको तथ्याङ्क प्रशोधन गर्न नेपालमा पहिलोपटक कम्प्युटर भाडामा ल्याइएको थियो।",
       "is_pro": false
     },
@@ -1275,7 +1275,7 @@
       "option_b": "AND, OR, NOT",
       "option_c": "-",
       "option_d": "*",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "गणितीय कार्यका लागि +, - प्रयोग हुन्छ भने तार्किक (Logical) निर्णयका लागि AND, OR, NOT को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -1297,7 +1297,7 @@
       "option_b": "कम्प्युटर सस्तो बनाउन",
       "option_c": "विद्युतीय अपराध (Cybercrime) रोक्न",
       "option_d": "गेम खेल्न प्रतिबन्ध लगाउन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कम्प्युटर र इन्टरनेटको माध्यमबाट हुने गैरकानुनी कार्यहरू नियन्त्रण गर्न साइबर कानुन बनाइएको हो।",
       "is_pro": false
     },
@@ -1319,7 +1319,7 @@
       "option_b": "याहु (Yahoo)",
       "option_c": "बिङ (Bing)",
       "option_d": "मोजिल्ला फायरफक्स",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "गुगल, याहु, बिङ सर्च इन्जिन हुन् भने मोजिल्ला फायरफक्स एउटा वेब ब्राउजर हो।",
       "is_pro": false
     },
@@ -1363,7 +1363,7 @@
       "option_b": "ISP (Internet Service Provider)",
       "option_c": "HTTP",
       "option_d": "URL",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "ग्राहकलाई शुल्क लिएर इन्टरनेट सेवा उपलब्ध गराउने संस्थालाई ISP भनिन्छ।",
       "is_pro": false
     },
@@ -1385,7 +1385,7 @@
       "option_b": "टाइप गर्ने",
       "option_c": "हार्डवेयर र सफ्टवेयरको व्यवस्थापन गर्ने",
       "option_d": "इन्टरनेट चलाउने",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कम्प्युटरका सम्पूर्ण हार्डवेयर नियन्त्रण गर्ने र अन्य सफ्टवेयरलाई चल्ने वातावरण दिने काम अपरेटिङ सिस्टमको हो।",
       "is_pro": false
     },
@@ -1407,7 +1407,7 @@
       "option_b": "टेबल",
       "option_c": "रेकर्ड",
       "option_d": "सेल (Cell)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "स्प्रेडसिटमा ठाडो कोलम र तेर्सो रो मिलेर बन्ने सबैभन्दा सानो एकाइलाई सेल भनिन्छ।",
       "is_pro": false
     },
@@ -1451,7 +1451,7 @@
       "option_b": "गणितीय र तार्किक (Arithmetic & Logical) कार्य गर्ने",
       "option_c": "चित्र बनाउने",
       "option_d": "प्रिन्ट गर्ने",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "CPU भित्र रहेको ALU (Arithmetic Logic Unit) ले जोडघटाउ जस्ता गणितीय र सानो/ठूलो तुलना गर्ने तार्किक कार्य गर्छ।",
       "is_pro": false
     },
@@ -1473,7 +1473,7 @@
       "option_b": "हाइ लेभल भाषा",
       "option_c": "मेसिन भाषा (Machine Language)",
       "option_d": "क्युबेसिक",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सुरुवाती कम्प्युटरहरूमा ० र १ मात्र प्रयोग हुने मेसिन भाषा (Low-level language) को प्रयोग हुन्थ्यो।",
       "is_pro": false
     },
@@ -1495,7 +1495,7 @@
       "option_b": "F3",
       "option_c": "F4",
       "option_d": "F5",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "पावरप्वाइन्ट प्रेजेन्टेसनलाई फुल स्क्रिनमा देखाउन किबोर्डको F5 कि प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -1539,7 +1539,7 @@
       "option_b": "हर्ज (Hertz/GHz) मा",
       "option_c": "मिटरमा",
       "option_d": "बाइटमा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्रोसेसरले एक सेकेन्डमा कतिवटा साइकल पूरा गर्छ भन्ने आधारमा यसको स्पिड मेगाहर्ज (MHz) वा गिगाहर्ज (GHz) मा नापिन्छ।",
       "is_pro": false
     },
@@ -1561,7 +1561,7 @@
       "option_b": "११०११",
       "option_c": "११००१",
       "option_d": "१००११",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "२५ लाई २ ले भाग गर्दै जाँदा शेषहरू क्रमशः १, ०, ०, १, १ आउँछन्, जसलाई तलबाट माथि लेख्दा 11001 हुन्छ।",
       "is_pro": false
     },
@@ -1583,7 +1583,7 @@
       "option_b": "११००",
       "option_c": "१०१०",
       "option_d": "१०११",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "बाइनरी 101 भनेको डेसिमल ५ हो, र 110 भनेको ६ हो। ५+६=११ हुन्छ, जसको बाइनरी मान 1011 हो।",
       "is_pro": false
     },
@@ -1627,7 +1627,7 @@
       "option_b": "७ (Seven)",
       "option_c": "९",
       "option_d": "११",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नेटवर्क कम्युनिकेसनको लागि अन्तर्राष्ट्रिय मापदण्ड मानिने OSI मोडलमा ७ वटा छुट्टाछुट्टै लेयरहरू हुन्छन्।",
       "is_pro": false
     },
@@ -1649,7 +1649,7 @@
       "option_b": "<h6>",
       "option_c": "<h1>",
       "option_d": "<h0>",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "HTML मा h1 देखि h6 सम्म हेडिङ ट्याग हुन्छन्, जसमा <h1> ले सबैभन्दा ठूलो र <h6> ले सबैभन्दा सानो अक्षर जनाउँछ।",
       "is_pro": false
     },
@@ -1671,7 +1671,7 @@
       "option_b": "LET",
       "option_c": "PRINT",
       "option_d": "INPUT",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "प्रोग्राम चलिरहेको बेला प्रयोगकर्तालाई डेटा हान्न दिन QBASIC मा INPUT स्टेटमेन्टको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -1715,7 +1715,7 @@
       "option_b": "तार्किक परीक्षण (Logical Test) गर्न",
       "option_c": "औसत निकाल्न",
       "option_d": "अक्षर ठूलो बनाउन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सर्त (Condition) सही छ वा गलत छ भनी जाँचेर नतिजा दिन एक्सेलमा IF फङ्सनको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -1737,7 +1737,7 @@
       "option_b": "६४ बिट",
       "option_c": "३२ बिट",
       "option_d": "१२८ बिट",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "IPv4 ठेगाना ८-८ बिटका ४ वटा ब्लक मिलेर बनेको हुन्छ, जसको जम्मा लम्बाइ ३२ बिट हुन्छ।",
       "is_pro": false
     },
@@ -1759,7 +1759,7 @@
       "option_b": "रेडियो तरङ्ग",
       "option_c": "विद्युतीय तरङ्ग",
       "option_d": "प्रकाश (Light)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "फाइबर अप्टिक केबुलभित्र सिसा वा प्लास्टिकको मसिनो धागो हुन्छ जसमा डेटा प्रकाशको गतिमा लाइट वेभ्स (Light) मार्फत सर्छ।",
       "is_pro": false
     },
@@ -1803,7 +1803,7 @@
       "option_b": "रिप्लेस (Replace) डायलग बक्स खोल्छ",
       "option_c": "हेल्प मेनु खोल्छ",
       "option_d": "अक्षर लुकाउँछ",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "डकुमेन्टमा भएको कुनै शब्द खोजेर त्यसको सट्टा अर्को शब्द राख्न (Find and Replace) Ctrl + H थिचिन्छ।",
       "is_pro": false
     },
@@ -1825,7 +1825,7 @@
       "option_b": "९",
       "option_c": "११",
       "option_d": "१५",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "(1×2³) + (0×2²) + (1×2¹) + (1×2⁰) = 8 + 0 + 2 + 1 = 11 हुन्छ।",
       "is_pro": false
     },
@@ -1847,7 +1847,7 @@
       "option_b": "@",
       "option_c": "&",
       "option_d": "$ (डलर)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सेल रिफरेन्सको रो र कोलमको अगाडि $ चिह्न (जस्तै: $A$1) राख्दा त्यो सुत्र कपि गर्दा पनि परिवर्तन हुँदैन।",
       "is_pro": false
     },
@@ -1891,7 +1891,7 @@
       "option_b": "कुनै समस्या समाधान गर्ने चरणबद्ध तरिका (Step-by-step procedure)",
       "option_c": "भाइरसको नाम",
       "option_d": "प्रोग्रामिङ भाषा",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्रोग्राम लेख्नुअघि कुनै पनि समस्यालाई कसरी समाधान गर्ने भनेर लेखिएको लजिकल र चरणबद्ध विधिलाई अल्गोरिदम भनिन्छ।",
       "is_pro": false
     },
@@ -1913,7 +1913,7 @@
       "option_b": "इमेल ठेगाना",
       "option_c": "भौतिक (Physical) ठेगाना",
       "option_d": "सफ्टवेयर ठेगाना",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कम्प्युटरको नेटवर्क इन्टरफेस कार्ड (NIC) मा निर्माताले नै राखेर पठाउने ४८ बिटको स्थायी भौतिक ठेगानालाई MAC Address भनिन्छ।",
       "is_pro": false
     },
@@ -1935,7 +1935,7 @@
       "option_b": "MS Paint",
       "option_c": "MS Excel",
       "option_d": "MS Access",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "धेरै डाटाहरूलाई व्यवस्थित रूपमा भण्डारण गर्न र खोज्न माइक्रोसफ्टको MS Access डेटाबेस सफ्टवेयर प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -1979,7 +1979,7 @@
       "option_b": "इमेल वा नक्कली वेबसाइट बनाएर पासवर्ड र बैंकिङ विवरण चोर्ने",
       "option_c": "इन्टरनेटको तार काट्ने",
       "option_d": "सिस्टम फाइल डिलिट गर्ने",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "आफूलाई आधिकारिक संस्था जस्तो देखाएर झुक्याउँदै प्रयोगकर्ताको गोप्य जानकारी (पासवर्ड, पिन) चोर्ने विधिलाई फिसिङ भनिन्छ।",
       "is_pro": false
     },
@@ -2001,7 +2001,7 @@
       "option_b": "mp3",
       "option_c": "sys",
       "option_d": "exe",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "विन्डोजलाई चलाउन आवश्यक पर्ने भित्री कोर फाइलहरूको एक्सटेन्सन .sys (System File) हुन्छ।",
       "is_pro": false
     },
@@ -2023,7 +2023,7 @@
       "option_b": "Hard Disk",
       "option_c": "Pen Drive",
       "option_d": "RAM (Random Access Memory)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "RAM मा रहेको डेटा कम्प्युटर अन भएसम्म मात्र रहन्छ, बत्ती जानेबित्तिकै मेटिने हुनाले यसलाई भोलाटाइल मेमोरी भनिन्छ।",
       "is_pro": false
     },
@@ -2067,7 +2067,7 @@
       "option_b": "Sequential (क्रमबद्ध)",
       "option_c": "Direct (सिधै)",
       "option_d": "Fast",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "म्याग्नेटिक टेपमा डेटा पढ्न वा लेख्न सुरुदेखि क्रमैसँग रिल घुमाउँदै जानुपर्ने भएकाले यो Sequential Access डिभाइस हो।",
       "is_pro": false
     },
@@ -2089,7 +2089,7 @@
       "option_b": "जोइन्ट",
       "option_c": "हाइपरलिङ्क (Hyperlink)",
       "option_d": "वेबलिङ्क",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "वेबसाइटमा निलो रङ वा अन्डरलाइन भएर बसेको टेक्स्ट जसमा क्लिक गर्दा अर्को पेज खुल्छ, त्यसलाई हाइपरलिङ्क भनिन्छ।",
       "is_pro": false
     },
@@ -2111,7 +2111,7 @@
       "option_b": "=SUM(A1;A10)",
       "option_c": "=TOTAL(A1:A10)",
       "option_d": "=SUM(A1:A10)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एक्सेलमा जोड्नका लागि SUM फङ्सन प्रयोग गरिन्छ र रेन्ज (Range) जनाउन कोलन (:) को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -2155,7 +2155,7 @@
       "option_b": "वि.सं. २०६३",
       "option_c": "वि.सं. २०७२",
       "option_d": "वि.सं. २०४०",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "साइबर अपराध नियन्त्रण र विद्युतीय हस्ताक्षरलाई मान्यता दिन नेपालमा वि.सं. २०६३ सालमा विद्युतीय कारोबार ऐन ल्याइएको हो।",
       "is_pro": false
     },
@@ -2177,7 +2177,7 @@
       "option_b": "<para>",
       "option_c": "<p>",
       "option_d": "<pg>",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "वेब पेजमा टेक्स्ट लेख्दा नयाँ प्याराग्राफ बनाउन <p> र </p> ट्यागको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -2199,7 +2199,7 @@
       "option_b": "५",
       "option_c": "६",
       "option_d": "७",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "(1×2²) + (1×2¹) + (1×2⁰) = 4 + 2 + 1 = 7 हुन्छ।",
       "is_pro": false
     },
@@ -2243,7 +2243,7 @@
       "option_b": "माउस (Mouse)",
       "option_c": "स्पिकर",
       "option_d": "सिपियु",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कम्प्युटर स्क्रिनमा पोइन्टर वा कर्सरलाई नियन्त्रण गर्न माउसको प्रयोग गरिन्छ, जुन एउटा पोइन्टिङ डिभाइस हो।",
       "is_pro": false
     },
@@ -2265,7 +2265,7 @@
       "option_b": "Private Computer",
       "option_c": "Personal Computer",
       "option_d": "Printed Circuit",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "व्यक्तिगत रूपमा घर वा अफिसमा प्रयोग गरिने कम्प्युटरलाई Personal Computer (PC) भनिन्छ।",
       "is_pro": false
     },
@@ -2287,7 +2287,7 @@
       "option_b": "किबोर्ड",
       "option_c": "हार्ड डिस्क",
       "option_d": "सिपियु (CPU)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कम्प्युटरका सम्पूर्ण गणितीय, तार्किक र नियन्त्रणका काम CPU ले गर्ने भएकाले यसलाई मष्तिस्क भनिन्छ।",
       "is_pro": false
     },
@@ -2331,7 +2331,7 @@
       "option_b": "Compact Disc",
       "option_c": "Computer Disc",
       "option_d": "Control Disc",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अप्टिकल स्टोरेज डिभाइसको रूपमा प्रयोग हुने CD को पूरा रूप Compact Disc हो।",
       "is_pro": false
     },
@@ -2353,7 +2353,7 @@
       "option_b": "मोनिटर",
       "option_c": "प्रिन्टर (Printer)",
       "option_d": "प्लोटर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कम्प्युटरमा भएको सफ्ट कपीलाई हार्ड कपीको रूपमा कागजमा प्रिन्ट गर्न प्रिन्टरको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -2375,7 +2375,7 @@
       "option_b": "इन्फर्मेसन",
       "option_c": "प्रोग्राम",
       "option_d": "डेटा (Data)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कुनै अर्थ नखुल्ने र प्रोसेसिङ नभएका कच्चा तथ्य तथा तथ्याङ्कहरूलाई डेटा भनिन्छ।",
       "is_pro": false
     },
@@ -2419,7 +2419,7 @@
       "option_b": "एलन ट्युरिङ (Alan Turing)",
       "option_c": "स्टिभ जब्स",
       "option_d": "बिल गेट्स",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "ट्युरिङ मेसिनको अवधारणा र आर्टिफिसियल इन्टेलिजेन्सको जग बसालेकाले एलन ट्युरिङलाई आधुनिक कम्प्युटर विज्ञानका पिता मानिन्छ।",
       "is_pro": false
     },
@@ -2441,7 +2441,7 @@
       "option_b": "Data Video Disc",
       "option_c": "Digital Versatile Disc",
       "option_d": "Dynamic Video Disc",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "CD भन्दा धेरै क्षमता भएको अप्टिकल डिस्क DVD को पूरा रूप Digital Versatile (वा Video) Disc हो।",
       "is_pro": false
     },
@@ -2463,7 +2463,7 @@
       "option_b": "CD र DVD",
       "option_c": "फ्लपी डिस्क र म्याग्नेटिक टेप",
       "option_d": "RAM र ROM",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सिपियुले प्रत्यक्ष रूपमा प्रयोग गर्ने मुख्य मेमोरीहरू RAM (अस्थायी) र ROM (स्थायी) हुन्।",
       "is_pro": false
     },
@@ -2507,7 +2507,7 @@
       "option_b": "१०२४ KB",
       "option_c": "१०४८ KB",
       "option_d": "१०१२ KB",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "बाइनरी मापन पद्धतिअनुसार १ मेगाबाइट (MB) बराबर १०२४ किलोबाइट (KB) हुन्छ।",
       "is_pro": false
     },
@@ -2529,7 +2529,7 @@
       "option_b": "५१२ MB",
       "option_c": "१०२४ MB",
       "option_d": "२०४८ MB",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कम्प्युटरको मेमोरी नाप्दा हरेक माथिल्लो एकाइमा १०२४ तल्लो एकाइ हुन्छ, तसर्थ १ GB = १०२४ MB हो।",
       "is_pro": false
     },
@@ -2551,7 +2551,7 @@
       "option_b": "वर्ड प्रोसेसर",
       "option_c": "एन्टिभाइरस",
       "option_d": "वेब ब्राउजर (Web Browser)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "वेबसाइटहरू खोल्न र इन्टरनेटका सामग्री हेर्न प्रयोग गरिने सफ्टवेयरहरूलाई वेब ब्राउजर भनिन्छ।",
       "is_pro": false
     },
@@ -2595,7 +2595,7 @@
       "option_b": "एम.एस. पेन्ट (MS Paint)",
       "option_c": "एम.एस. एक्सेल",
       "option_d": "एम.एस. पावरप्वाइन्ट",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "विन्डोज अपरेटिङ सिस्टममा सामान्य चित्र कोर्न र एडिट गर्न MS Paint को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -2617,7 +2617,7 @@
       "option_b": "इन्टर (Enter)",
       "option_c": "डिलिट (Delete)",
       "option_d": "सिफ्ट (Shift)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कर्सरभन्दा दायाँपट्टिको अक्षर हटाउन Delete कि र बायाँपट्टिको हटाउन Backspace कि प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -2639,7 +2639,7 @@
       "option_b": "स्पेसबार (Spacebar)",
       "option_c": "अल्ट (Alt)",
       "option_d": "ब्याकस्पेस (Backspace)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "टाइप गर्दा गल्ती भएमा कर्सरभन्दा अगाडि (बायाँ) को अक्षर मेट्न Backspace कि को प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -2683,7 +2683,7 @@
       "option_b": "Ctrl + X",
       "option_c": "Ctrl + V",
       "option_d": "Ctrl + Z",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "डेटालाई पुरानो ठाउँबाट हटाउन 'Ctrl + X' (Cut) गरिन्छ र नयाँ ठाउँमा Paste गरिन्छ।",
       "is_pro": false
     },
@@ -2705,7 +2705,7 @@
       "option_b": "F5",
       "option_c": "F1",
       "option_d": "F12",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "विन्डोज र धेरैजसो सफ्टवेयरमा प्रयोगकर्तालाई सहयोग (Help) चाहिएमा F1 कि थिचिन्छ।",
       "is_pro": false
     },
@@ -2727,7 +2727,7 @@
       "option_b": "प्रिन्टर",
       "option_c": "बारकोड रिडर",
       "option_d": "वेब क्यामेरा (Web Camera)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "इन्टरनेटमा भिडियो च्याट गर्दा लाइभ भिडियो वा फोटो खिचेर कम्प्युटरमा पठाउन वेब क्याम प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -2771,7 +2771,7 @@
       "option_b": "वालपेपर (Wallpaper)",
       "option_c": "स्क्रिनसेभर",
       "option_d": "थिम",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "डेस्कटप स्क्रिनको पछाडि सजावटका लागि राखिने चित्र वा फोटोलाई वालपेपर भनिन्छ।",
       "is_pro": false
     },
@@ -2793,7 +2793,7 @@
       "option_b": "वेबसाइट",
       "option_c": "ब्लग (Blog)",
       "option_d": "इमेल",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कुनै व्यक्तिले आफ्ना विचार, लेख वा डायरीका रूपमा इन्टरनेटमा राख्ने वेब लगलाई छोटकरीमा ब्लग (Blog) भनिन्छ।",
       "is_pro": false
     },
@@ -2815,7 +2815,7 @@
       "option_b": "इ-गभर्नेन्स",
       "option_c": "इ-मेल",
       "option_d": "इ-कमर्स (E-commerce)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "विद्युतीय सञ्जाल (इन्टरनेट) मार्फत वस्तु तथा सेवाको व्यापार गर्ने कार्य इ-कमर्स (Electronic Commerce) हो।",
       "is_pro": false
     },
@@ -2859,7 +2859,7 @@
       "option_b": "QWERTY",
       "option_c": "AZERTY",
       "option_d": "DVORAK",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अक्षरहरूको पहिलो लाइन Q, W, E, R, T, Y बाट सुरु हुने भएकाले यसलाई QWERTY लेआउट भनिन्छ।",
       "is_pro": false
     },
@@ -2881,7 +2881,7 @@
       "option_b": "ट्रान्जिस्टर",
       "option_c": "माइक्रोप्रोसेसर (Microprocessor)",
       "option_d": "आर्टिफिसियल इन्टेलिजेन्स",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सन् १९७१ पछि विकास भएका चौथो पुस्ताका कम्प्युटरहरूमा LSI/VLSI प्रविधिमा आधारित माइक्रोप्रोसेसर प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -2903,7 +2903,7 @@
       "option_b": "माइक्रोप्रोसेसर",
       "option_c": "ट्रान्जिस्टर",
       "option_d": "आर्टिफिसियल इन्टेलिजेन्स (AI)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मानिसले जस्तै सोच्न र निर्णय लिन सक्ने कृत्रिम बौद्धिकता (AI) पाँचौँ पुस्ताको कम्प्युटरको मुख्य विशेषता हो।",
       "is_pro": false
     },
@@ -2947,7 +2947,7 @@
       "option_b": "Internet Protocol",
       "option_c": "Internet Procedure",
       "option_d": "Intranet Protocol",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "डेटा कसरी पठाउने भनेर तोकिएको नियमलाई इन्टरनेट प्रोटोकल (Internet Protocol - IP) भनिन्छ।",
       "is_pro": false
     },
@@ -2969,7 +2969,7 @@
       "option_b": "Page Up",
       "option_c": "Home",
       "option_d": "Insert",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कुनै पनि लाइनको सबैभन्दा अगाडि कर्सर पुर्‍याउन किबोर्डको Home कि थिचिन्छ।",
       "is_pro": false
     },
@@ -2991,7 +2991,7 @@
       "option_b": "Page Down",
       "option_c": "Insert",
       "option_d": "End",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कर्सरलाई हालको लाइनको सबैभन्दा पछाडि पुर्‍याउन End कि को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -3035,7 +3035,7 @@
       "option_b": "pptx",
       "option_c": "ptp",
       "option_d": "doc",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "पावरप्वाइन्टमा बनाइएको प्रेजेन्टेसन फाइलको प्रकार जनाउने एक्सटेन्सन .pptx हो।",
       "is_pro": false
     },
@@ -3057,7 +3057,7 @@
       "option_b": "Ctrl + C",
       "option_c": "Ctrl + P",
       "option_d": "Ctrl + PrtSc",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कागजमा प्रिन्ट गर्ने डायलग बक्स खोल्न 'Ctrl + P' सर्टकट प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -3079,7 +3079,7 @@
       "option_b": "बस टपोलोजी",
       "option_c": "मेस टपोलोजी",
       "option_d": "रिङ टपोलोजी (Ring Topology)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "हरेक कम्प्युटर आफ्नो दायाँ र बायाँका दुई कम्प्युटरसँग जोडिएर गोलो घेरा बन्ने संरचना रिङ टपोलोजी हो।",
       "is_pro": false
     },
@@ -3123,7 +3123,7 @@
       "option_b": "Wide Area Network",
       "option_c": "World Area Network",
       "option_d": "Wireless Area Network",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "देश वा महादेशहरूलाई जोड्ने गरी फैलिएको विशाल नेटवर्क Wide Area Network (WAN) हो।",
       "is_pro": false
     },
@@ -3145,7 +3145,7 @@
       "option_b": "MAN",
       "option_c": "LAN (Local Area Network)",
       "option_d": "PAN",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "सानो भौगोलिक क्षेत्र (जस्तै: एउटा स्कुल वा भवन) भित्र बनाइने नेटवर्क Local Area Network (LAN) हो।",
       "is_pro": false
     },
@@ -3167,7 +3167,7 @@
       "option_b": "२",
       "option_c": "४",
       "option_d": "३",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "(1 × 2¹) + (1 × 2⁰) = 2 + 1 = 3 हुन्छ।",
       "is_pro": false
     },
@@ -3211,7 +3211,7 @@
       "option_b": "<b>",
       "option_c": "<u>",
       "option_d": "<m>",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अक्षरलाई गाढा वा मोटो देखाउन <b> वा <strong> ट्यागको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -3233,7 +3233,7 @@
       "option_b": "<it>",
       "option_c": "<i>",
       "option_d": "<u>",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "अक्षरलाई छड्के (Italic) रूपमा देखाउन <i> वा <em> ट्यागको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -3255,7 +3255,7 @@
       "option_b": "<break>",
       "option_c": "<p>",
       "option_d": "<br>",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "<br> ट्यागको प्रयोग गर्दा प्याराग्राफ नबदलीकन टेक्स्ट नयाँ लाइनबाट सुरु हुन्छ (यसको क्लोजिङ ट्याग हुँदैन)।",
       "is_pro": false
     },
@@ -3299,7 +3299,7 @@
       "option_b": "REM",
       "option_c": "MSG",
       "option_d": "TEXT",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्रोग्रामको बारेमा जानकारी दिन REM (Remark) प्रयोग गरिन्छ, जसलाई कम्प्युटरले रन गर्दैन (यसको सट्टा ' पनि प्रयोग गर्न सकिन्छ)।",
       "is_pro": false
     },
@@ -3321,7 +3321,7 @@
       "option_b": "आउटपुट स्टेटमेन्ट",
       "option_c": "असाइनमेन्ट स्टेटमेन्ट (Assignment Statement)",
       "option_d": "कन्ट्रोल स्टेटमेन्ट",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "LET ले कुनै रिएबलमा मान (Value) तोक्ने काम गर्ने भएकाले यसलाई Assignment Statement भनिन्छ।",
       "is_pro": false
     },
@@ -3343,7 +3343,7 @@
       "option_b": "अपरेटिङ सिस्टम",
       "option_c": "राउटर",
       "option_d": "फायरवाल (Firewall)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नेटवर्कमा आउने र जाने डेटालाई जाँचेर अनाधिकृत पहुँच रोक्ने सुरक्षा पर्खाल नै फायरवाल हो।",
       "is_pro": false
     },
@@ -3387,7 +3387,7 @@
       "option_b": "क्यास्परस्की (Kaspersky)",
       "option_c": "एम.एस. वर्ड",
       "option_d": "विन्डोज डिफेन्डर बाहेकको मालवेयर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "क्यास्परस्की, नर्टन, अभास्ट आदि कम्प्युटरलाई भाइरसबाट बचाउने एन्टिभाइरस सफ्टवेयर हुन्।",
       "is_pro": false
     },
@@ -3409,7 +3409,7 @@
       "option_b": "हब",
       "option_c": "राउटर (Router)",
       "option_d": "रिपिटर",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "फरक नेटवर्कहरूबीच डेटा प्याकेटहरूलाई सही बाटो (Route) देखाएर पठाउने डिभाइस राउटर हो।",
       "is_pro": false
     },
@@ -3431,7 +3431,7 @@
       "option_b": "८",
       "option_c": "१६",
       "option_d": "१०",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "यसमा ०,१,२,३,४,५,६,७,८,९ गरी १० वटा अङ्क हुने भएकाले यसको आधार (Base/Radix) १० हुन्छ।",
       "is_pro": false
     },
@@ -3475,7 +3475,7 @@
       "option_b": "माइक्रोसफ्ट (Microsoft)",
       "option_c": "गुगल",
       "option_d": "आइबीएम",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "MS-DOS का लागि माइक्रोसफ्ट कर्पोरेसनले बेसिक (BASIC) भाषालाई परिमार्जन गरी QBASIC बनाएको हो।",
       "is_pro": false
     },
@@ -3497,7 +3497,7 @@
       "option_b": "टेबल",
       "option_c": "सेल (Cell)",
       "option_d": "रेकर्ड",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "एक्सेलको स्प्रेडसिटमा डेटा राख्ने सबैभन्दा सानो एकाइलाई सेल भनिन्छ (जस्तै: A1, B2)।",
       "is_pro": false
     },
@@ -3519,7 +3519,7 @@
       "option_b": "=SUM()",
       "option_c": "=MAX()",
       "option_d": "=AVERAGE()",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "दिइएका सङ्ख्याहरूको गणितीय औसत निकाल्न एक्सेलमा =AVERAGE(range) फङ्सनको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -3563,7 +3563,7 @@
       "option_b": "Ctrl + Y",
       "option_c": "Ctrl + R",
       "option_d": "Ctrl + X",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "Undo कमान्डले हटाएको कुरालाई फेरि ल्याउन वा रिडु गर्न Ctrl + Y को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -3585,7 +3585,7 @@
       "option_b": "pdf",
       "option_c": "jpg (वा jpeg)",
       "option_d": "docx",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कम्प्युटर र मोबाइलमा सेभ हुने फोटोहरूको फर्म्याट जनाउने एक्सटेन्सन .jpg वा .jpeg हो।",
       "is_pro": false
     },
@@ -3607,7 +3607,7 @@
       "option_b": "png",
       "option_c": "mp4",
       "option_d": "mp3",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "डिजिटल गीत वा ध्वनिको फाइल फर्म्याट जनाउन .mp3 एक्सटेन्सनको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -3651,7 +3651,7 @@
       "option_b": "प्रोग्राम (Program)",
       "option_c": "हार्डवेयर",
       "option_d": "इन्फर्मेसन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्रोग्रामिङ भाषामा लेखिएका निर्देशनहरूको शृङ्खला (Set of Instructions) लाई प्रोग्राम भनिन्छ।",
       "is_pro": false
     },
@@ -3673,7 +3673,7 @@
       "option_b": "कम्पाइलिङ",
       "option_c": "डिबगिङ (Debugging)",
       "option_d": "टेस्टिङ",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कम्प्युटर प्रोग्रामका बग (Bug) वा त्रुटिहरू खोजेर हटाउने प्रक्रियालाई डिबगिङ भनिन्छ।",
       "is_pro": false
     },
@@ -3695,7 +3695,7 @@
       "option_b": "एसेम्बलर",
       "option_c": "लिङ्कर",
       "option_d": "इन्टरप्रेटर (Interpreter)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "इन्टरप्रेटरले प्रोग्रामलाई लाइन-लाइन गरेर अनुवाद गर्छ (जस्तै QBASIC ले), जबकि कम्पाइलरले एकैपटक गर्छ।",
       "is_pro": false
     },
@@ -3739,7 +3739,7 @@
       "option_b": "डेटाबेस म्यानेजमेन्ट सिस्टम (DBMS)",
       "option_c": "प्रेजेन्टेसन सफ्टवेयर",
       "option_d": "वेब ब्राउजर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "तथ्याङ्कहरू (डेटा) लाई टेबल, फारम र रिपोर्टको रूपमा व्यवस्थापन गर्ने MS Access एउटा DBMS हो।",
       "is_pro": false
     },
@@ -3761,7 +3761,7 @@
       "option_b": "आधार २, ० र १",
       "option_c": "आधार ८, ० देखि ७",
       "option_d": "आधार १६, ० देखि ९ र A देखि F",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "अक्टल (Octal) को अर्थ ८ हो, त्यसैले यसको आधार ८ हुन्छ र यसमा ०,१,२,३,४,५,६,७ अङ्कहरू पर्छन्।",
       "is_pro": false
     },
@@ -3783,7 +3783,7 @@
       "option_b": "१०",
       "option_c": "१२",
       "option_d": "१६",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "हेक्जाडेसिमलमा १६ वटा सङ्केत (०-९ सम्म अङ्क र A-F सम्म अक्षर) हुने भएकाले यसको आधार १६ हुन्छ।",
       "is_pro": false
     },
@@ -3827,7 +3827,7 @@
       "option_b": "१२ (12)",
       "option_c": "१४ (14)",
       "option_d": "१५ (15)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "(1×2³) + (1×2²) + (0×2¹) + (0×2⁰) = 8 + 4 + 0 + 0 = 12 हुन्छ।",
       "is_pro": false
     },
@@ -3849,7 +3849,7 @@
       "option_b": "११ (11)",
       "option_c": "१०० (100)",
       "option_d": "१०१० (1010)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "बाइनरीमा 0+0=0, 1+0=1, र 1+1=10 हुन्छ। त्यसैले 10 + 10 गर्दा 100 हुन्छ (डेसिमलमा २+२=४)।",
       "is_pro": false
     },
@@ -3871,7 +3871,7 @@
       "option_b": "B",
       "option_c": "F",
       "option_d": "A",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "९ भन्दा माथिका डेसिमल अङ्कहरूलाई हेक्जाडेसिमलमा क्रमशः A(10), B(11), C(12), D(13), E(14), र F(15) ले जनाइन्छ।",
       "is_pro": false
     },
@@ -3915,7 +3915,7 @@
       "option_b": "Transmission Control Protocol",
       "option_c": "Transport Connection Protocol",
       "option_d": "Total Control Protocol",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "इन्टरनेटमा डेटा प्याकेटहरूलाई सुरक्षित र सही क्रममा पठाउन Transmission Control Protocol (TCP) को प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -3937,7 +3937,7 @@
       "option_b": "६४ बिट",
       "option_c": "१२८ बिट",
       "option_d": "२५६ बिट",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पुरानो IPv4 ठेगाना ३२ बिटको हुन्थ्यो भने धेरै डिभाइसलाई ठेगाना दिन बनाइएको IPv6 ठेगाना १२८ बिटको हुन्छ।",
       "is_pro": false
     },
@@ -3959,7 +3959,7 @@
       "option_b": "<photo>",
       "option_c": "<src>",
       "option_d": "<img>",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "वेबसाइटमा तस्बिर देखाउन <img> ट्यागको प्रयोग गरिन्छ, जसको क्लोजिङ ट्याग हुँदैन (Empty tag)।",
       "is_pro": false
     },
@@ -4003,7 +4003,7 @@
       "option_b": "FOR ... NEXT",
       "option_c": "SELECT ... CASE",
       "option_d": "LET ... PRINT",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "निश्चित सङ्ख्यासम्म कुनै कोडलाई दोहोर्‍याउन QBASIC मा FOR र NEXT स्टेटमेन्टको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -4025,7 +4025,7 @@
       "option_b": "WHILE ... WEND",
       "option_c": "IF ... THEN",
       "option_d": "GOTO",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "यदि यस्तो भयो भने यसो गर्ने (सर्त पूरा भए मात्र काम गर्ने) लजिकल निर्णयका लागि IF ... THEN को प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -4047,7 +4047,7 @@
       "option_b": "WHILE",
       "option_c": "FOR",
       "option_d": "GOTO",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कुनै पनि सर्त बिना प्रोग्रामलाई सिधै तोकिएको लाइन नम्बर वा लेबलमा पठाउन GOTO स्टेटमेन्ट प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -4091,7 +4091,7 @@
       "option_b": "इ-बैंकिङ (E-Banking)",
       "option_c": "इ-लर्निङ",
       "option_d": "इ-गभर्नेन्स",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "इन्टरनेटको माध्यमबाट बैंकिङ सुविधाहरू (पैसा पठाउने, ब्यालेन्स हेर्ने) उपयोग गर्ने प्रविधि Electronic Banking हो।",
       "is_pro": false
     },
@@ -4113,7 +4113,7 @@
       "option_b": "एडवेयर",
       "option_c": "र्‍यान्समवेयर (Ransomware)",
       "option_d": "वर्म",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "डेटालाई बन्धक बनाएर फिरौती (Ransom) माग्ने खतरनाक मालवेयरलाई र्‍यान्समवेयर भनिन्छ।",
       "is_pro": false
     },
@@ -4135,7 +4135,7 @@
       "option_b": "मेलिसा (Melissa)",
       "option_c": "ब्रेन (Brain)",
       "option_d": "क्रपर (Creeper)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सन् १९७१ मा आर्पानेट (ARPANET) मा देखिएको 'Creeper' लाई विश्वकै पहिलो कम्प्युटर भाइरस मानिन्छ।",
       "is_pro": false
     },
@@ -4179,7 +4179,7 @@
       "option_b": "<sup>",
       "option_c": "<up>",
       "option_d": "<power>",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अक्षरलाई साधारण लाइनभन्दा अलिकति माथि (पावरमा) लेख्न Superscript को रूपमा <sup> ट्याग प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -4201,7 +4201,7 @@
       "option_b": "<li>",
       "option_c": "<ol>",
       "option_d": "<dl>",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "क्रमबद्ध रूपमा नम्बरिङ भएको लिस्ट बनाउन Ordered List को रूपमा <ol> ट्यागको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -4223,7 +4223,7 @@
       "option_b": "<li>",
       "option_c": "<list>",
       "option_d": "<ul>",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "१,२,३ को सट्टा थोप्ला वा बुलेट चिह्न भएको लिस्ट बनाउन Unordered List को रूपमा <ul> ट्याग प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -4267,7 +4267,7 @@
       "option_b": "=MAX()",
       "option_c": "=TOP()",
       "option_d": "=HIGHEST()",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "दिइएको रेन्जभित्रको अधिकतम मान (Maximum Value) निकाल्न एक्सेलमा =MAX() फङ्सन प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -4289,7 +4289,7 @@
       "option_b": "$ (डलर)",
       "option_c": "!",
       "option_d": "#",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "अक्षरहरू (जस्तै नाम, ठेगाना) राख्ने रिएबल हो भनेर चिनाउन क्युबेसिकमा नामको पछाडि $ राखिन्छ (जस्तै: N$)।",
       "is_pro": false
     },
@@ -4311,7 +4311,7 @@
       "option_b": "$",
       "option_c": "#",
       "option_d": "% (प्रतिशत)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "क्युबेसिकमा इन्टिजर रिएबलको पछाडि '%' चिह्न राखिन्छ, जबकि साधारण अङ्कका लागि केही नराख्दा पनि हुन्छ।",
       "is_pro": false
     },
@@ -4355,7 +4355,7 @@
       "option_b": "मोड्युल वा प्रोसिड्योर (Module/Procedure)",
       "option_c": "रिएबल",
       "option_d": "अल्गोरिदम",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "प्रोग्रामिङ सजिलो बनाउन मुख्य प्रोग्रामलाई SUB वा FUNCTION प्रोसिड्योरमा टुक्र्याइन्छ जसलाई मोड्युलर प्रोग्रामिङ भनिन्छ।",
       "is_pro": false
     },
@@ -4377,7 +4377,7 @@
       "option_b": "पास्कलाइन",
       "option_c": "एबाकस (Abacus)",
       "option_d": "एनालाइटिकल इन्जिन",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "चीनमा विकास भएको मानिने एबाकस (काठको फ्रेममा दानाहरू उनेको यन्त्र) लाई पहिलो गणना यन्त्र मानिन्छ।",
       "is_pro": false
     },
@@ -4399,7 +4399,7 @@
       "option_b": "एलन ट्युरिङ",
       "option_c": "जोन भोन न्युमन",
       "option_d": "लेडी अगस्टा एडा लभलेस",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "लेडी एडा लभलेसले ब्याबेजको मेसिनका लागि बाइनरी सिद्धान्तमा आधारित निर्देशनहरू लेखेकी हुनाले उनलाई प्रथम प्रोग्रामर मानिन्छ।",
       "is_pro": false
     },
@@ -4443,7 +4443,7 @@
       "option_b": "पिक्सेल (Pixel)",
       "option_c": "पोइन्ट्स",
       "option_d": "रिजोलुसन",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "डिजिटल स्क्रिनमा चित्र बनाउने सबैभन्दा साना रङ्गीन थोप्लाहरूलाई पिक्सेल (Picture Element) भनिन्छ।",
       "is_pro": false
     },
@@ -4465,7 +4465,7 @@
       "option_b": "स्टोरेज डिभाइस",
       "option_c": "इनपुट डिभाइस",
       "option_d": "प्रोसेसिङ डिभाइस",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कम्प्युटरभित्र अक्षर वा अङ्क टाइप गरेर पठाउन प्रयोग हुने भएकाले किबोर्ड इनपुट डिभाइस हो।",
       "is_pro": false
     },
@@ -4487,7 +4487,7 @@
       "option_b": "Wire Field",
       "option_c": "Wireless Finder",
       "option_d": "Wireless Fidelity",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "तारविना नै रेडियो तरङ्गमार्फत इन्टरनेट जोड्ने प्रविधि Wi-Fi को पूरा रूप Wireless Fidelity हो।",
       "is_pro": false
     },
@@ -4531,7 +4531,7 @@
       "option_b": "डग्लस एङ्गलबार्ट (Douglas Engelbart)",
       "option_c": "स्टिभ जब्स",
       "option_d": "बिल गेट्स",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सन् १९६० को दशकमा डग्लस एङ्गलबार्टले काठको बाकसमा पाङ्ग्रा राखेर पहिलो माउसको आविष्कार गरेका थिए।",
       "is_pro": false
     },
@@ -4553,7 +4553,7 @@
       "option_b": "VGA पोर्ट",
       "option_c": "USB (युएसबी) पोर्ट",
       "option_d": "HDMI पोर्ट",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पेनड्राइभ, माउस जस्ता बाह्य उपकरणहरूलाई कम्प्युटरसँग जोड्न युएसबी (Universal Serial Bus) पोर्ट प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -4575,7 +4575,7 @@
       "option_b": "भिडियो साइट",
       "option_c": "इ-कमर्स साइट",
       "option_d": "सर्च इन्जिन (Search Engine)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "इन्टरनेटमा भएका जानकारीहरू खोज्न प्रयोग गरिने गुगल विश्वकै सबैभन्दा ठूलो सर्च इन्जिन हो।",
       "is_pro": false
     },
@@ -4619,7 +4619,7 @@
       "option_b": "भिडियो हेर्न र राख्न",
       "option_c": "हिसाब गर्न",
       "option_d": "चित्र कोर्न",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "इन्टरनेटमा भिडियोहरू अपलोड गर्न र निःशुल्क हेर्न युट्युबको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -4641,7 +4641,7 @@
       "option_b": "४.७ जीबी",
       "option_c": "७०० एमबी (700 MB)",
       "option_d": "१ टीबी",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "कम्प्याक्ट डिस्क (CD) मा सामान्यतया ७०० मेगाबाइट (MB) सम्म डेटा भण्डारण गर्न सकिन्छ।",
       "is_pro": false
     },
@@ -4663,7 +4663,7 @@
       "option_b": "सुपर कम्प्युटर",
       "option_c": "मेनफ्रेम",
       "option_d": "नोटबुक (Notebook)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कापी जस्तै पट्याउन मिल्ने र बोकेर हिँड्न सजिलो हुने भएकाले ल्यापटपलाई नोटबुक पनि भनिन्छ।",
       "is_pro": false
     },
@@ -4707,7 +4707,7 @@
       "option_b": "png (वा bmp)",
       "option_c": "txt",
       "option_d": "mp3",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "माइक्रोसफ्ट पेन्टमा सेभ हुने तस्बिर फाइलको साधारण एक्सटेन्सन .png वा .bmp हुन्छ।",
       "is_pro": false
     },
@@ -4729,7 +4729,7 @@
       "option_b": "महावीर पुन",
       "option_c": "भाष्कर राजकर्णिकार",
       "option_d": "मार्क जुकरबर्ग",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "नेपाली भाषालाई कम्प्युटरमा टाइप गर्न मिल्ने गरी भाष्कर राजकर्णिकारले प्रीति फन्टको विकास गरेका हुन्।",
       "is_pro": false
     },
@@ -4751,7 +4751,7 @@
       "option_b": "बिल गेट्स",
       "option_c": "ज्याक मा",
       "option_d": "मार्क जुकरबर्ग",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सन् २००४ मा मार्क जुकरबर्गले हार्वर्ड विश्वविद्यालयमा पढ्दा आफ्ना साथीहरूसँग मिलेर फेसबुकको स्थापना गरेका हुन्।",
       "is_pro": false
     },
@@ -4795,7 +4795,7 @@
       "option_b": "Short Message Service",
       "option_c": "Send Message Safely",
       "option_d": "Small Mail Service",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "मोबाइल नेटवर्कमार्फत छोटो टेक्स्ट पठाउने विधिलाई Short Message Service (SMS) भनिन्छ।",
       "is_pro": false
     },
@@ -4817,7 +4817,7 @@
       "option_b": "यातायातमा",
       "option_c": "शिक्षा र कक्षाकोठामा",
       "option_d": "खेलकुदमा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "प्रोजेक्टर र कम्प्युटरको सहायताले पढाउन मिल्ने टचस्क्रिन बोर्ड स्मार्टबोर्ड हो, जुन कक्षाकोठामा प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -4839,7 +4839,7 @@
       "option_b": "एनसेल",
       "option_c": "स्मार्ट",
       "option_d": "नमस्ते (Namaste)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "नेपाल टेलिकमको प्रिपेड जीएसएम (GSM) मोबाइल सेवालाई 'नमस्ते' नामले चिनिन्छ।",
       "is_pro": false
     },
@@ -4883,7 +4883,7 @@
       "option_b": "स्पिकर (Speaker)",
       "option_c": "प्रिन्टर",
       "option_d": "स्क्यानर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कम्प्युटरभित्र रहेको डिजिटल साउन्डलाई बाहिर सुन्न मिल्ने अडियो आउटपुट दिन स्पिकरको प्रयोग हुन्छ।",
       "is_pro": false
     },
@@ -4905,7 +4905,7 @@
       "option_b": "Automatic Teller Machine",
       "option_c": "Automated Teller Machine",
       "option_d": "Active Transaction Machine",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ग्राहकले आफैँ पैसा झिक्न सक्ने मेसिनलाई Automated Teller Machine (ATM) भनिन्छ।",
       "is_pro": false
     },
@@ -4927,7 +4927,7 @@
       "option_b": "कन्ट्रोल प्यानलमा",
       "option_c": "डेस्कटपमा",
       "option_d": "रिसाइकल बिन (Recycle Bin) मा",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "विन्डोज अपरेटिङ सिस्टममा डिलिट गरिएका फाइलहरू रिस्टोर गर्न मिल्ने गरी रिसाइकल बिनमा गएर बस्छन्।",
       "is_pro": false
     },
@@ -4971,7 +4971,7 @@
       "option_b": "वायरलेस प्रविधिबाट छोटो दूरीमा",
       "option_c": "स्याटेलाइटबाट सीधै",
       "option_d": "विद्युत् नभए पनि तारबाट",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "छोटो दूरी (करिब १० मिटर) भित्र रहेका डिभाइसहरूबीच तारविना नै डेटा आदानप्रदान गर्न ब्लुटुथ प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -4993,7 +4993,7 @@
       "option_b": "नयाँ पेज खोल्छ",
       "option_c": "अघिल्लो पेज (Previous page) मा लैजान्छ",
       "option_d": "इन्टरनेट काट्छ",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "ब्राउजरमा आफूले हेरिसकेको अघिल्लो वेबसाइट वा पेजमा फर्कन 'Back' बटन थिचिन्छ।",
       "is_pro": false
     },
@@ -5015,7 +5015,7 @@
       "option_b": "प्रिन्टर",
       "option_c": "स्क्यानर",
       "option_d": "जोइस्टिक (Joystick)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "भिडियो गेम खेल्दा गाडी वा क्यारेक्टरलाई नियन्त्रण गर्न सजिलो हुने गियर जस्तो डिभाइसलाई जोइस्टिक भनिन्छ।",
       "is_pro": false
     },
@@ -5059,7 +5059,7 @@
       "option_b": "स्क्रिनसेभर (Screensaver)",
       "option_c": "भाइरस",
       "option_d": "ब्याकग्राउन्ड",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "कम्प्युटर निष्क्रिय छोड्दा स्क्रिनमा दाग बस्न नदिन आफैँ चल्ने ग्राफिक्सलाई स्क्रिनसेभर भनिन्छ।",
       "is_pro": false
     },
@@ -5081,7 +5081,7 @@
       "option_b": "एप्पल (Apple)",
       "option_c": "माइक्रोसफ्ट (Microsoft)",
       "option_d": "आइबिएम (IBM)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "विन्डोज अपरेटिङ सिस्टम र एमएस अफिस प्याकेज माइक्रोसफ्ट कर्पोरेसनका उत्पादन हुन्।",
       "is_pro": false
     },
@@ -5103,7 +5103,7 @@
       "option_b": "चार्ल्स ब्याबेज",
       "option_c": "स्टिभ जब्स",
       "option_d": "लिनस टोरभाल्ड्स (Linus Torvalds)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "सन् १९९१ मा फिनल्यान्डका विद्यार्थी लिनस टोरभाल्ड्सले ओपन सोर्स अपरेटिङ सिस्टम लिनक्सको विकास गरेका हुन्।",
       "is_pro": false
     },
@@ -5147,7 +5147,7 @@
       "option_b": "गुगल (Google)",
       "option_c": "नोकिया",
       "option_d": "सामसुङ",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "विश्वका धेरैजसो स्मार्टफोनमा प्रयोग हुने एन्ड्रोइड अपरेटिङ सिस्टमलाई गुगलले व्यवस्थापन र विकास गर्दछ।",
       "is_pro": false
     },
@@ -5169,7 +5169,7 @@
       "option_b": "Ctrl + H",
       "option_c": "Ctrl + F",
       "option_d": "Ctrl + O",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "डकुमेन्टमा भएको कुनै शब्द वा वाक्य छिटो पत्ता लगाउन 'Find' को लागि Ctrl + F थिचिन्छ।",
       "is_pro": false
     },
@@ -5191,7 +5191,7 @@
       "option_b": "F3",
       "option_c": "F2",
       "option_d": "F5",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "डेस्कटप वा वेब पेजलाई रिफ्रेस/रिलोड गर्न किबोर्डमा रहेको F5 कि को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -5235,7 +5235,7 @@
       "option_b": "वर्कसिट (Worksheet)",
       "option_c": "स्लाइड",
       "option_d": "फोल्डर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "एक्सेलमा रो र कोलमहरू मिलेर बनेको हिसाब गर्ने पानालाई वर्कसिट वा स्प्रेडसिट भनिन्छ।",
       "is_pro": false
     },
@@ -5257,7 +5257,7 @@
       "option_b": "Alt + N",
       "option_c": "Ctrl + Shift + N",
       "option_d": "Shift + N",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "डेस्कटप वा ड्राइभमा माउस नछोइकन नयाँ फोल्डर बनाउन Ctrl + Shift + N एकैपटक थिचिन्छ।",
       "is_pro": false
     },
@@ -5279,7 +5279,7 @@
       "option_b": "Ctrl + W",
       "option_c": "Shift + F4",
       "option_d": "Alt + F4",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "विन्डोज अपरेटिङ सिस्टममा सक्रिय रहेको एप्लिकेसनलाई बन्द गर्न Alt र F4 कि एकैपटक थिचिन्छ।",
       "is_pro": false
     },
@@ -5323,7 +5323,7 @@
       "option_b": "Metropolitan Area Network",
       "option_c": "Macro Area Network",
       "option_d": "Micro Access Network",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "एउटा सिङ्गो सहर (Metropolis) भित्रका LAN हरूलाई जोडेर बनाइएको नेटवर्कलाई MAN भनिन्छ।",
       "is_pro": false
     },
@@ -5345,7 +5345,7 @@
       "option_b": "Hertz (Hz)",
       "option_c": "Mbps (Megabits per second)",
       "option_d": "GHz",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "इन्टरनेटको स्पिड १ सेकेन्डमा कति बिट्स डेटा सर्छ भन्ने आधारमा Mbps वा Gbps मा नापिन्छ।",
       "is_pro": false
     },
@@ -5367,7 +5367,7 @@
       "option_b": "विद्युत् चुम्बकीय प्रेरण",
       "option_c": "चुम्बकीय विकर्षण",
       "option_d": "पूर्ण आन्तरिक परावर्तन (Total Internal Reflection)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "अप्टिकल फाइबरभित्र प्रकाशका किरणहरू बाहिर ननिस्कीकन भित्रभित्रै ठोक्किएर अघि बढ्ने (पूर्ण आन्तरिक परावर्तन) सिद्धान्तमा काम गर्छ।",
       "is_pro": false
     },
@@ -5411,7 +5411,7 @@
       "option_b": ".html (वा .htm)",
       "option_c": "doc",
       "option_d": "xml",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "नोटप्याडमा लेखिएको HTML कोडलाई ब्राउजरले बुझ्ने वेबपेज बनाउन .html एक्सटेन्सनमा सेभ गर्नुपर्छ।",
       "is_pro": false
     },
@@ -5433,7 +5433,7 @@
       "option_b": "सेन्टिमिटर",
       "option_c": "प्वाइन्ट (Point)",
       "option_d": "पिक्सेल",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "वर्ड प्रोसेसरहरूमा अक्षरको साइज प्वाइन्ट (pt) मा नापिन्छ (जस्तै: १२ pt, ७२ pt)। १ इन्चमा ७२ प्वाइन्ट हुन्छन्।",
       "is_pro": false
     },
@@ -5455,7 +5455,7 @@
       "option_b": "सही शब्द",
       "option_c": "फन्ट नमिलेको",
       "option_d": "स्पेलिङ गल्ती (Spelling Error)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "कम्प्युटरको डिक्सनरीमा नभेटिएको वा हिज्जे (Spelling) गल्ती भएको शब्दको मुनि रातो धर्का आउँछ।",
       "is_pro": false
     },
@@ -5499,7 +5499,7 @@
       "option_b": "F2",
       "option_c": "F4",
       "option_d": "F5",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "एक्सेलको सेललाई एडिट मोडमा लैजान र भित्रको सुत्र हेर्न किबोर्डको F2 कि थिचिन्छ।",
       "is_pro": false
     },
@@ -5521,7 +5521,7 @@
       "option_b": "डेटा प्रोसेसिङ",
       "option_c": "नम्बर रूपान्तरण (Number Conversion)",
       "option_d": "इन्कोडिङ",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "जस्तै बाइनरीलाई डेसिमलमा वा डेसिमललाई अक्टलमा बदल्ने गणितीय प्रक्रियालाई नम्बर कन्भर्जन भनिन्छ।",
       "is_pro": false
     },
@@ -5543,7 +5543,7 @@
       "option_b": "३",
       "option_c": "८",
       "option_d": "९ (9)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "(1 × 8¹) + (1 × 8⁰) = 8 + 1 = 9 हुन्छ।",
       "is_pro": false
     },
@@ -5587,7 +5587,7 @@
       "option_b": "Switched Mode Power Supply",
       "option_c": "Secure Main Power Supply",
       "option_d": "Save Mode Power System",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "AC करेन्टलाई कम्प्युटरले बुझ्ने DC करेन्टमा बदल्ने बक्सलाई Switched Mode Power Supply (SMPS) भनिन्छ।",
       "is_pro": false
     },
@@ -5609,7 +5609,7 @@
       "option_b": "भाइरस हटाउने",
       "option_c": "बत्ती जाँदा पावर ब्याकअप दिने",
       "option_d": "मोनिटरलाई उज्यालो बनाउने",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "Uninterruptible Power Supply (UPS) ले विद्युत् आपूर्ति बन्द हुँदा पनि कम्प्युटरलाई केही समय अन राख्न ब्याट्री पावर दिन्छ।",
       "is_pro": false
     },
@@ -5631,7 +5631,7 @@
       "option_b": "jpg",
       "option_c": "pdf",
       "option_d": "mp4",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "डिजिटल भिडियो र चलचित्रहरूको फाइल फर्म्याट जनाउन सामान्यतया .mp4 एक्सटेन्सन प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -5675,7 +5675,7 @@
       "option_b": "Liquid Crystal Display",
       "option_c": "Liquid Color Display",
       "option_d": "Light Color Display",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "दुईवटा सिसाको तहबीच तरल पदार्थ राखेर तस्बिर देखाउने प्रविधिलाई Liquid Crystal Display (LCD) भनिन्छ।",
       "is_pro": false
     },
@@ -5697,7 +5697,7 @@
       "option_b": "Control Ray Tube",
       "option_c": "Cathode Ray Tube",
       "option_d": "Color Ray Tube",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "पछाडिपट्टि चुच्चो परेको भ्याकुम ट्युब भएको पुरानो मोनिटरलाई Cathode Ray Tube (CRT) भनिन्छ।",
       "is_pro": false
     },
@@ -5719,7 +5719,7 @@
       "option_b": "एम.एस. पेन्ट",
       "option_c": "भिएलसी प्लेयर",
       "option_d": "एडोब रिडर (Adobe Reader)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "PDF फाइलहरू भ्यु गर्न र प्रिन्ट गर्न एडोब कम्पनीको निःशुल्क सफ्टवेयर Adobe Reader (वा Acrobat Reader) प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -5763,7 +5763,7 @@
       "option_b": "होमपेज (Homepage)",
       "option_c": "फ्रन्टपेज",
       "option_d": "मेनपेज",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "वेबसाइटको प्रवेशद्वार वा डिफलट रूपमा खुल्ने पहिलो वेबपेजलाई होमपेज भनिन्छ।",
       "is_pro": false
     },
@@ -5785,7 +5785,7 @@
       "option_b": "वेब ब्राउजर",
       "option_c": "क्लाउड स्टोरेज (Cloud Storage)",
       "option_d": "अपरेटिङ सिस्टम",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "आफ्नो हार्ड डिस्कमा नभई इन्टरनेटको सर्भरमा डेटा भण्डारण गर्ने प्रविधिलाई क्लाउड स्टोरेज भनिन्छ।",
       "is_pro": false
     },
@@ -5807,7 +5807,7 @@
       "option_b": "Control Copy",
       "option_c": "Center Copy",
       "option_d": "Carbon Copy",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "मुख्य प्राप्तकर्तालाई थाहा हुने गरी अरूलाई पनि त्यही इमेलको बोधार्थ पठाउन Carbon Copy (CC) को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -5851,7 +5851,7 @@
       "option_b": "युटिलिटी सफ्टवेयर (Accessories)",
       "option_c": "भाइरस",
       "option_d": "प्याकेज सफ्टवेयर",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "अपरेटिङ सिस्टमसँगै आउने स-साना सहयोगी प्रोग्रामहरूलाई Accessories वा युटिलिटी सफ्टवेयर भनिन्छ।",
       "is_pro": false
     },
@@ -5873,7 +5873,7 @@
       "option_b": ".org.np",
       "option_c": ".gov.np",
       "option_d": ".edu.np",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "Government of Nepal लाई जनाउन सरकारी कार्यालयका वेबसाइटहरूको पछाडि .gov.np राखिन्छ।",
       "is_pro": false
     },
@@ -5895,7 +5895,7 @@
       "option_b": ".gov",
       "option_c": ".edu",
       "option_d": ".org",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "Organization (संस्था) लाई जनाउन मुनाफा नकमाउने संस्थाहरूले .org डोमेन प्रयोग गर्छन्।",
       "is_pro": false
     },
@@ -5939,7 +5939,7 @@
       "option_b": "World Wide Web",
       "option_c": "Wide World Web",
       "option_d": "World Word Web",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "इन्टरनेटमा जानकारीहरू आपसमा लिङ्क भएको विश्वव्यापी सञ्जाललाई World Wide Web भनिन्छ।",
       "is_pro": false
     },
@@ -5961,7 +5961,7 @@
       "option_b": "५ (5)",
       "option_c": "८ (8)",
       "option_d": "९ (9)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "एक्सेलमा ^ (क्यारेट) चिह्नले पावर वा घाताङ्क बुझाउँछ। तसर्थ २ को पावर ३ (२×२×२) = ८ हुन्छ।",
       "is_pro": false
     },
@@ -5983,7 +5983,7 @@
       "option_b": "#NAME?",
       "option_c": "#REF!",
       "option_d": "#DIV/0!",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "गणितमा शून्यले भाग गर्न नमिल्ने (Undefined) भएकाले एक्सेलले डिभाइड बाइ जिरो इरर (#DIV/0!) देखाउँछ।",
       "is_pro": false
     },
@@ -6027,7 +6027,7 @@
       "option_b": "H1",
       "option_c": "H0",
       "option_d": "H3",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "HTML मा <H1> देखि <H6> सम्म हेडिङ हुन्छन्, जसमा H1 सबैभन्दा ठूलो र H6 सबैभन्दा सानो हुन्छ।",
       "is_pro": false
     },
@@ -6049,7 +6049,7 @@
       "option_b": "IF I = 1 TO 10",
       "option_c": "FOR I = 1 TO 10",
       "option_d": "LOOP 1 TO 10",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "निश्चित सङ्ख्यासम्म (१ देखि १०) काम दोहोर्‍याउन FOR लुप (FOR I = 1 TO 10 ... NEXT I) सबैभन्दा सजिलो हुन्छ।",
       "is_pro": false
     },
@@ -6071,7 +6071,7 @@
       "option_b": "*",
       "option_c": "/",
       "option_d": "+",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "क्युबेसिकमा अक्षरहरू जोड्न प्लस (+) चिह्न प्रयोग हुन्छ (जस्तै \\RAM\\\" + \\\"HARI\\\" गर्दा \\\"RAMHARI\\\" हुन्छ)।\"",
       "is_pro": false
     },
@@ -6115,7 +6115,7 @@
       "option_b": "विद्युतीय स्वरूपमा गैरकानुनी (अश्लील/गालीगलौज) कुरा प्रकाशन गर्ने",
       "option_c": "पासवर्ड चोर्ने",
       "option_d": "कम्प्युटर तोडफोड गर्ने",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सामाजिक सञ्जाल वा इन्टरनेटमा अरूलाई दुःख दिने, अश्लील वा गैरकानुनी कुरा लेख्नेलाई दफा ४७ अन्तर्गत कारबाही हुन्छ।",
       "is_pro": false
     },
@@ -6137,7 +6137,7 @@
       "option_b": "RAM को खाली भागमा",
       "option_c": "हार्ड डिस्कको मास्टर बुट रेकर्ड (MBR) मा",
       "option_d": "माउसको ड्राइभरमा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "बुट सेक्टर भाइरसले हार्ड डिस्कको मुख्य भाग (MBR) लाई सङ्क्रमित गर्छ, जसले गर्दा अपरेटिङ सिस्टम लोड हुन पाउँदैन।",
       "is_pro": false
     },
@@ -6159,7 +6159,7 @@
       "option_b": "नेटवर्क लेयर (Network Layer)",
       "option_c": "एप्लिकेसन लेयर (Application Layer)",
       "option_d": "फिजिकल लेयर (Physical Layer)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "तार, केबुल र सिग्नलसँग सम्बन्धित सबैभन्दा तल्लो तह (Layer 1) लाई फिजिकल लेयर भनिन्छ।",
       "is_pro": false
     },
@@ -6203,7 +6203,7 @@
       "option_b": "व्यवस्थित रूपमा सङ्कलन र भण्डारण गरिएको तथ्याङ्कहरूको समूह",
       "option_c": "भाइरसहरूको सङ्ग्रह",
       "option_d": "हार्ड डिस्कको खाली भाग",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "सजिलै खोज्न, परिमार्जन गर्न र व्यवस्थापन गर्न मिल्ने गरी मिलाएर राखिएको डेटाको समूहलाई डेटाबेस भनिन्छ।",
       "is_pro": false
     },
@@ -6225,7 +6225,7 @@
       "option_b": "रिपोर्ट (Report)",
       "option_c": "क्वेरी (Query)",
       "option_d": "टेबल (Table)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "लाखौँ रेकर्डहरूमध्ये आफूलाई चाहिएको (जस्तै: काठमाडौँ बस्नेहरूको मात्र) डेटा फिल्टर गरेर निकाल्ने कामलाई क्वेरी भनिन्छ।",
       "is_pro": false
     },
@@ -6247,7 +6247,7 @@
       "option_b": "फोरेन कि",
       "option_c": "सुपर कि",
       "option_d": "प्राइमरी कि (Primary Key)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "डेटाबेसमा कुनै पनि रेकर्ड (जस्तै रोल नम्बर वा नागरिकता नम्बर) नदोहोरियोस् भनेर प्राइमरी कि को प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -6291,7 +6291,7 @@
       "option_b": "११११ (1111)",
       "option_c": "१००० (1000)",
       "option_d": "०११० (0110)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "OR अपरेसनमा कुनै एउटा बिट १ भए नतिजा १ हुन्छ। यहाँ सबै स्थानमा कम्तीमा एउटा १ भएकाले 1111 हुन्छ।",
       "is_pro": false
     },
@@ -6313,7 +6313,7 @@
       "option_b": "४५ (45)",
       "option_c": "६१ (61)",
       "option_d": "७५ (75)",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "(7 × 8¹) + (5 × 8⁰) = 56 + 5 = 61 हुन्छ।",
       "is_pro": false
     },
@@ -6335,7 +6335,7 @@
       "option_b": "६० (60)",
       "option_c": "३A (3A)",
       "option_d": "४० (40)",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "६४ लाई १६ ले भाग गर्दा भागफल ४ र शेष ० आउँछ। तलबाट माथि लेख्दा 40 हुन्छ।",
       "is_pro": false
     },
@@ -6379,7 +6379,7 @@
       "option_b": "२६ (26)",
       "option_c": "३६ (36)",
       "option_d": "१६ (16)",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "(1 × 16¹) + (A × 16⁰) = 16 + 10 = 26 हुन्छ (किनकि A को मान १० हो)।",
       "is_pro": false
     },
@@ -6401,7 +6401,7 @@
       "option_b": "<th>",
       "option_c": "<tr>",
       "option_d": "<table>",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "टेबलभित्र नयाँ रो सुरु गर्न Table Row को छोटो रूप <tr> ट्यागको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -6423,7 +6423,7 @@
       "option_b": "<th>",
       "option_c": "<row>",
       "option_d": "<td>",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "<tr> भित्र डेटा राख्ने कोठाहरू बनाउन Table Data को छोटो रूप <td> ट्यागको प्रयोग गरिन्छ।",
       "is_pro": false
     },
@@ -6467,7 +6467,7 @@
       "option_b": "भाग गर्दा आउने शेष (Remainder) निकाल्छ",
       "option_c": "गुणन गर्छ",
       "option_d": "पावर निकाल्छ",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "जस्तै 10 MOD 3 गर्दा १० लाई ३ ले भाग गरेर बाँकी रहने शेष १ (Remainder) निकाल्ने काम MOD ले गर्छ।",
       "is_pro": false
     },
@@ -6489,7 +6489,7 @@
       "option_b": "६ (6)",
       "option_c": "५ (5)",
       "option_d": "०",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "INT फङ्सनले दशमलव पछाडिको अङ्क हटाएर सङ्ख्याभन्दा ठूलो नहुने गरी नजिकको पूर्णाङ्क (Integer) ५ दिन्छ।",
       "is_pro": false
     },
@@ -6511,7 +6511,7 @@
       "option_b": "नेगेटिभ सङ्ख्याहरू मात्र",
       "option_c": "केवल जोर सङ्ख्याहरू",
       "option_d": "० र १ को बिचको कुनै पनि रेन्डम दशमलव सङ्ख्या",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "RND (Random) फङ्सनले सधैँ ० भन्दा ठूलो वा बराबर र १ भन्दा सानो (0 <= x < 1) रेन्डम सङ्ख्या दिन्छ।",
       "is_pro": false
     },
@@ -6555,7 +6555,7 @@
       "option_b": "४८ बिट",
       "option_c": "६४ बिट",
       "option_d": "१२८ बिट",
-      "answer_index": 1,
+      "answer_index": 0,
       "explanation": "निर्माताले नै नेटवर्क कार्डमा राखेर पठाउने मिडिया एक्सेस कन्ट्रोल (MAC) ठेगाना जहिले पनि ४८ बिटको हुन्छ।",
       "is_pro": false
     },
@@ -6577,7 +6577,7 @@
       "option_b": "पेनड्राइभमा",
       "option_c": "CPU र RAM को बिचमा",
       "option_d": "मोनिटरमा",
-      "answer_index": 2,
+      "answer_index": 1,
       "explanation": "CPU ले बारम्बार प्रयोग गर्ने डेटालाई छिटो उपलब्ध गराउन CPU र RAM को बिचमा अत्यन्तै छिटो चल्ने क्यास मेमोरी राखिन्छ।",
       "is_pro": false
     },
@@ -6599,7 +6599,7 @@
       "option_b": "दुईवटा इमेल ठेगाना जोड्ने",
       "option_c": "कम्प्युटरको भाइरस हटाउने",
       "option_d": "एउटै चिठी धेरै मानिसलाई फरक-फरक नाम र ठेगानामा पठाउने",
-      "answer_index": 3,
+      "answer_index": 2,
       "explanation": "एउटा मुख्य चिठीको ढाँचालाई डेटाबेस (नाम/ठेगानाको सूची) सँग जोडेर धेरै जनालाई एकैपटक चिठी तयार गर्न मेल मर्ज प्रयोग गरिन्छ।",
       "is_pro": false
     }
