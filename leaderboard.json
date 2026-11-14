@@ -1,16 +1,16 @@
 {
   "status": "success",
-  "updated_at": "2026-11-14T13:32:30.341Z",
+  "updated_at": "2026-11-14T14:32:27.674Z",
   "total_users": 1,
   "users": [
     {
       "user_key": "a6eafa91d21c4477",
       "name": "Jitendra Chaudhary",
       "photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_5GfG9yiVeoFIiad5giKeiuzxYqnBXo8y5lGOfpLe9V-lZmg=s96-c",
-      "coins": 297,
+      "coins": 283,
       "is_pro": false,
       "total_score": 270,
-      "last_active": "2026-11-13T22:10:12.005Z",
+      "last_active": "2026-11-14T14:13:52.125Z",
       "status": "🟢 Active"
     }
   ]
