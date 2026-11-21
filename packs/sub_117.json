@@ -1,10 +1,11 @@
 {
   "sub_cat_id": "117",
-  "data_version": 1794491195766,
-  "total_questions": 300,
+  "data_version": 1795279225068,
+  "total_questions": 224,
   "questions": [
     {
       "id": 1,
+      "qid": 33126272,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -26,29 +27,8 @@
       "is_pro": false
     },
     {
-      "id": 2,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "तलका मध्ये कुन इनपुट यन्त्र हो ?",
-      "options": [
-        "किबोर्ड",
-        "मोनिटर",
-        "प्रिन्टर",
-        "स्पिकर"
-      ],
-      "option_a": "किबोर्ड",
-      "option_b": "मोनिटर",
-      "option_c": "प्रिन्टर",
-      "option_d": "स्पिकर",
-      "answer_index": 0,
-      "explanation": "किबोर्ड इनपुट यन्त्र हो । यसले प्रयोगकर्ताबाट डाटा तथा निर्देशन कम्प्युटरमा पठाउँछ । मोनिटर, प्रिन्टर र स्पिकर आउटपुट यन्त्र हुन् ।",
-      "is_pro": false
-    },
-    {
       "id": 3,
+      "qid": 2742966022,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 1287131007,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -93,6 +74,7 @@
     },
     {
       "id": 5,
+      "qid": 933932169,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -115,6 +97,7 @@
     },
     {
       "id": 6,
+      "qid": 3245620873,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -136,29 +119,8 @@
       "is_pro": false
     },
     {
-      "id": 7,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "तलका मध्ये कुन अपरेटिङ सिस्टम हो ?",
-      "options": [
-        "Windows",
-        "MS Word",
-        "Excel",
-        "Photoshop"
-      ],
-      "option_a": "Windows",
-      "option_b": "MS Word",
-      "option_c": "Excel",
-      "option_d": "Photoshop",
-      "answer_index": 0,
-      "explanation": "Windows एउटा अपरेटिङ सिस्टम हो । MS Word, Excel र Photoshop एप्लिकेसन सफ्टवेयर हुन् ।",
-      "is_pro": false
-    },
-    {
       "id": 8,
+      "qid": 467807936,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -181,6 +143,7 @@
     },
     {
       "id": 9,
+      "qid": 553319317,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -203,6 +166,7 @@
     },
     {
       "id": 10,
+      "qid": 2623042856,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -225,6 +189,7 @@
     },
     {
       "id": 11,
+      "qid": 2627996986,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -246,51 +211,8 @@
       "is_pro": false
     },
     {
-      "id": 12,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "HTML को पूरा रूप के हो ?",
-      "options": [
-        "HyperText Markup Language",
-        "HighText Markup Language",
-        "HyperText Machine Language",
-        "Home Tool Markup Language"
-      ],
-      "option_a": "HyperText Markup Language",
-      "option_b": "HighText Markup Language",
-      "option_c": "HyperText Machine Language",
-      "option_d": "Home Tool Markup Language",
-      "answer_index": 0,
-      "explanation": "HTML को पूरा रूप HyperText Markup Language हो । यो वेब पेज निर्माण गर्न प्रयोग हुने मार्कअप भाषा हो ।",
-      "is_pro": false
-    },
-    {
-      "id": 13,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "तलका मध्ये कुन सिस्टम सफ्टवेयर हो ?",
-      "options": [
-        "अपरेटिङ सिस्टम",
-        "MS Word",
-        "Excel",
-        "Photoshop"
-      ],
-      "option_a": "अपरेटिङ सिस्टम",
-      "option_b": "MS Word",
-      "option_c": "Excel",
-      "option_d": "Photoshop",
-      "answer_index": 0,
-      "explanation": "अपरेटिङ सिस्टम सिस्टम सफ्टवेयर हो । यसले कम्प्युटरको हार्डवेयर र एप्लिकेसन सफ्टवेयरबीच समन्वय गर्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 14,
+      "qid": 2348520800,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -313,6 +235,7 @@
     },
     {
       "id": 15,
+      "qid": 1471923886,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -335,6 +258,7 @@
     },
     {
       "id": 16,
+      "qid": 2150784506,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -357,6 +281,7 @@
     },
     {
       "id": 17,
+      "qid": 3441588430,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -378,29 +303,8 @@
       "is_pro": false
     },
     {
-      "id": 18,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "LAN को पूरा रूप के हो ?",
-      "options": [
-        "Local Area Network",
-        "Large Area Network",
-        "Long Area Network",
-        "Limited Area Network"
-      ],
-      "option_a": "Local Area Network",
-      "option_b": "Large Area Network",
-      "option_c": "Long Area Network",
-      "option_d": "Limited Area Network",
-      "answer_index": 0,
-      "explanation": "LAN को पूरा रूप Local Area Network हो । यो सानो भौगोलिक क्षेत्र जस्तै एउटा भवन वा कार्यालयमा सीमित नेटवर्क हो ।",
-      "is_pro": false
-    },
-    {
       "id": 19,
+      "qid": 828072977,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -423,6 +327,7 @@
     },
     {
       "id": 20,
+      "qid": 2567615467,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -445,6 +350,7 @@
     },
     {
       "id": 21,
+      "qid": 442164935,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -467,6 +373,7 @@
     },
     {
       "id": 22,
+      "qid": 4001994973,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -488,29 +395,8 @@
       "is_pro": false
     },
     {
-      "id": 23,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "तलका मध्ये कुन वेब ब्राउजर हो ?",
-      "options": [
-        "Google Chrome",
-        "MS Word",
-        "Excel",
-        "Photoshop"
-      ],
-      "option_a": "Google Chrome",
-      "option_b": "MS Word",
-      "option_c": "Excel",
-      "option_d": "Photoshop",
-      "answer_index": 0,
-      "explanation": "Google Chrome एउटा वेब ब्राउजर हो । यसले वेब पेज हेर्न र इन्टरनेटमा सूचना खोज्न मद्दत गर्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 24,
+      "qid": 1216103041,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -533,6 +419,7 @@
     },
     {
       "id": 25,
+      "qid": 1822570891,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -555,6 +442,7 @@
     },
     {
       "id": 26,
+      "qid": 451575365,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -577,6 +465,7 @@
     },
     {
       "id": 27,
+      "qid": 2016120997,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -598,51 +487,8 @@
       "is_pro": false
     },
     {
-      "id": 28,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "WWW को पूरा रूप के हो ?",
-      "options": [
-        "World Wide Web",
-        "Wide World Web",
-        "Web World Wide",
-        "World Web Wide"
-      ],
-      "option_a": "World Wide Web",
-      "option_b": "Wide World Web",
-      "option_c": "Web World Wide",
-      "option_d": "World Web Wide",
-      "answer_index": 0,
-      "explanation": "WWW को पूरा रूप World Wide Web हो । यो इन्टरनेटमा रहेका वेब पेजहरूको सङ्ग्रह हो ।",
-      "is_pro": false
-    },
-    {
-      "id": 29,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "तलका मध्ये कुन द्वितीयक भण्डारण यन्त्र हो ?",
-      "options": [
-        "हार्ड डिस्क",
-        "RAM",
-        "ROM",
-        "Cache"
-      ],
-      "option_a": "हार्ड डिस्क",
-      "option_b": "RAM",
-      "option_c": "ROM",
-      "option_d": "Cache",
-      "answer_index": 0,
-      "explanation": "हार्ड डिस्क द्वितीयक भण्डारण यन्त्र हो । यसमा डाटा स्थायी रूपमा भण्डारण गरिन्छ । RAM, ROM र Cache प्राथमिक मेमोरी हुन् ।",
-      "is_pro": false
-    },
-    {
       "id": 30,
+      "qid": 1708103017,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -665,6 +511,7 @@
     },
     {
       "id": 31,
+      "qid": 266393864,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -687,6 +534,7 @@
     },
     {
       "id": 32,
+      "qid": 1481731704,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -709,6 +557,7 @@
     },
     {
       "id": 33,
+      "qid": 218268844,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -730,29 +579,8 @@
       "is_pro": false
     },
     {
-      "id": 34,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "FTP को पूरा रूप के हो ?",
-      "options": [
-        "File Transfer Protocol",
-        "File Text Protocol",
-        "Fast Transfer Protocol",
-        "File Transmission Protocol"
-      ],
-      "option_a": "File Transfer Protocol",
-      "option_b": "File Text Protocol",
-      "option_c": "Fast Transfer Protocol",
-      "option_d": "File Transmission Protocol",
-      "answer_index": 0,
-      "explanation": "FTP को पूरा रूप File Transfer Protocol हो । यो नेटवर्कमा फाइल स्थानान्तरण गर्न प्रयोग गरिन्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 35,
+      "qid": 4128960076,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -775,6 +603,7 @@
     },
     {
       "id": 36,
+      "qid": 1792616066,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -797,6 +626,7 @@
     },
     {
       "id": 37,
+      "qid": 1277639853,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -819,6 +649,7 @@
     },
     {
       "id": 38,
+      "qid": 2258984663,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -840,29 +671,8 @@
       "is_pro": false
     },
     {
-      "id": 39,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "तलका मध्ये कुन सर्च इन्जिन हो ?",
-      "options": [
-        "Google",
-        "Facebook",
-        "YouTube",
-        "Gmail"
-      ],
-      "option_a": "Google",
-      "option_b": "Facebook",
-      "option_c": "YouTube",
-      "option_d": "Gmail",
-      "answer_index": 0,
-      "explanation": "Google एउटा सर्च इन्जिन हो । यसले इन्टरनेटमा सूचना खोज्न मद्दत गर्छ । Facebook, YouTube र Gmail अन्य सेवा हुन् ।",
-      "is_pro": false
-    },
-    {
       "id": 40,
+      "qid": 2474127384,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -885,6 +695,7 @@
     },
     {
       "id": 41,
+      "qid": 1684503169,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -907,6 +718,7 @@
     },
     {
       "id": 42,
+      "qid": 2755888501,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -929,6 +741,7 @@
     },
     {
       "id": 43,
+      "qid": 1272178372,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -950,51 +763,8 @@
       "is_pro": false
     },
     {
-      "id": 44,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "बाइनरी १०११ × १० = ?",
-      "options": [
-        "१०११०",
-        "११०१०",
-        "१११००",
-        "१००१०"
-      ],
-      "option_a": "१०११०",
-      "option_b": "११०१०",
-      "option_c": "१११००",
-      "option_d": "१००१०",
-      "answer_index": 0,
-      "explanation": "१०११₂ = ११, १०₂ = २, गुणनफल २२ हुन्छ । २२ को बाइनरी १०११०₂ हो ।",
-      "is_pro": false
-    },
-    {
-      "id": 45,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "तलका मध्ये कुन मल्टिमिडियाको उदाहरण हो ?",
-      "options": [
-        "भिडियो",
-        "पाठ फाइल",
-        "स्प्रेडसिट",
-        "डाटाबेस"
-      ],
-      "option_a": "भिडियो",
-      "option_b": "पाठ फाइल",
-      "option_c": "स्प्रेडसिट",
-      "option_d": "डाटाबेस",
-      "answer_index": 0,
-      "explanation": "भिडियो मल्टिमिडियाको उदाहरण हो । मल्टिमिडियामा पाठ, ध्वनि, चित्र, एनिमेसन र भिडियो समावेश हुन्छन् ।",
-      "is_pro": false
-    },
-    {
       "id": 46,
+      "qid": 4006253692,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1017,6 +787,7 @@
     },
     {
       "id": 47,
+      "qid": 2939742040,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1039,6 +810,7 @@
     },
     {
       "id": 48,
+      "qid": 4019184528,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1060,51 +832,8 @@
       "is_pro": false
     },
     {
-      "id": 49,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "तलका मध्ये कुन सही डोमेन एक्सटेन्सन हो ?",
-      "options": [
-        ".com",
-        ".word",
-        ".exe",
-        ".txt"
-      ],
-      "option_a": ".com",
-      "option_b": ".word",
-      "option_c": ".exe",
-      "option_d": ".txt",
-      "answer_index": 0,
-      "explanation": ".com एउटा डोमेन एक्सटेन्सन हो । .word, .exe र .txt फाइल एक्सटेन्सन हुन्, डोमेन एक्सटेन्सन होइनन् ।",
-      "is_pro": false
-    },
-    {
-      "id": 50,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "कुन टोपोलोजीमा एउटै केबल प्रयोग गरिन्छ ?",
-      "options": [
-        "बस",
-        "स्टार",
-        "रिङ",
-        "मेस"
-      ],
-      "option_a": "बस",
-      "option_b": "स्टार",
-      "option_c": "रिङ",
-      "option_d": "मेस",
-      "answer_index": 0,
-      "explanation": "बस टोपोलोजीमा सबै कम्प्युटरहरू एउटै मुख्य केबलमा जोडिएका हुन्छन् । यसलाई ब्याकबोन केबल पनि भनिन्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 51,
+      "qid": 194858268,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1127,6 +856,7 @@
     },
     {
       "id": 52,
+      "qid": 2039688529,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1149,6 +879,7 @@
     },
     {
       "id": 53,
+      "qid": 553319317,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1171,6 +902,7 @@
     },
     {
       "id": 54,
+      "qid": 1275446434,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1192,29 +924,8 @@
       "is_pro": false
     },
     {
-      "id": 55,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "PDF को पूरा रूप के हो ?",
-      "options": [
-        "Portable Document Format",
-        "Personal Document Format",
-        "Printable Document Format",
-        "Public Document Format"
-      ],
-      "option_a": "Portable Document Format",
-      "option_b": "Personal Document Format",
-      "option_c": "Printable Document Format",
-      "option_d": "Public Document Format",
-      "answer_index": 0,
-      "explanation": "PDF को पूरा रूप Portable Document Format हो । यो डकुमेन्ट साझा गर्न प्रयोग हुने फाइल ढाँचा हो ।",
-      "is_pro": false
-    },
-    {
       "id": 56,
+      "qid": 4156481136,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1237,6 +948,7 @@
     },
     {
       "id": 57,
+      "qid": 391077114,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1259,6 +971,7 @@
     },
     {
       "id": 58,
+      "qid": 345516418,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1281,6 +994,7 @@
     },
     {
       "id": 59,
+      "qid": 1167734560,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1302,51 +1016,8 @@
       "is_pro": false
     },
     {
-      "id": 60,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "बाइनरी ११०० ÷ १० = ?",
-      "options": [
-        "११०",
-        "१०१",
-        "१११",
-        "१००"
-      ],
-      "option_a": "११०",
-      "option_b": "१०१",
-      "option_c": "१११",
-      "option_d": "१००",
-      "answer_index": 0,
-      "explanation": "११००₂ = १२, १०₂ = २, भागफल ६ हुन्छ । ६ को बाइनरी ११०₂ हो ।",
-      "is_pro": false
-    },
-    {
-      "id": 61,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "तलका मध्ये कुन क्लाउड भण्डारणको उदाहरण हो ?",
-      "options": [
-        "Google Drive",
-        "हार्ड डिस्क",
-        "पेन ड्राइभ",
-        "CD"
-      ],
-      "option_a": "Google Drive",
-      "option_b": "हार्ड डिस्क",
-      "option_c": "पेन ड्राइभ",
-      "option_d": "CD",
-      "answer_index": 0,
-      "explanation": "Google Drive क्लाउड भण्डारण सेवा हो । यसमा इन्टरनेटमार्फत फाइल भण्डारण र पहुँच गर्न सकिन्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 62,
+      "qid": 2768219142,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1369,6 +1040,7 @@
     },
     {
       "id": 63,
+      "qid": 1086953626,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1391,6 +1063,7 @@
     },
     {
       "id": 64,
+      "qid": 2416851411,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1413,6 +1086,7 @@
     },
     {
       "id": 65,
+      "qid": 553319317,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1434,29 +1108,8 @@
       "is_pro": false
     },
     {
-      "id": 66,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "DNS को पूरा रूप के हो ?",
-      "options": [
-        "Domain Name System",
-        "Data Name System",
-        "Digital Name System",
-        "Domain Network System"
-      ],
-      "option_a": "Domain Name System",
-      "option_b": "Data Name System",
-      "option_c": "Digital Name System",
-      "option_d": "Domain Network System",
-      "answer_index": 0,
-      "explanation": "DNS को पूरा रूप Domain Name System हो । यसले डोमेन नामलाई IP ठेगानामा अनुवाद गर्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 67,
+      "qid": 442164935,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1479,6 +1132,7 @@
     },
     {
       "id": 68,
+      "qid": 887168098,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1501,6 +1155,7 @@
     },
     {
       "id": 69,
+      "qid": 3602048571,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1523,6 +1178,7 @@
     },
     {
       "id": 70,
+      "qid": 1225398611,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1544,29 +1200,8 @@
       "is_pro": false
     },
     {
-      "id": 71,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "USB को पूरा रूप के हो ?",
-      "options": [
-        "Universal Serial Bus",
-        "Universal System Bus",
-        "Uniform Serial Bus",
-        "Universal Serial Board"
-      ],
-      "option_a": "Universal Serial Bus",
-      "option_b": "Universal System Bus",
-      "option_c": "Uniform Serial Bus",
-      "option_d": "Universal Serial Board",
-      "answer_index": 0,
-      "explanation": "USB को पूरा रूप Universal Serial Bus हो । यो यन्त्र जोड्न प्रयोग हुने मानक इन्टरफेस हो ।",
-      "is_pro": false
-    },
-    {
       "id": 72,
+      "qid": 2055761144,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1589,6 +1224,7 @@
     },
     {
       "id": 73,
+      "qid": 25308953,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1611,6 +1247,7 @@
     },
     {
       "id": 74,
+      "qid": 1223214633,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1633,6 +1270,7 @@
     },
     {
       "id": 75,
+      "qid": 374988954,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1654,51 +1292,8 @@
       "is_pro": false
     },
     {
-      "id": 76,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "बाइनरी १००१ - ०११० = ?",
-      "options": [
-        "००११",
-        "०१०१",
-        "०११०",
-        "१०००"
-      ],
-      "option_a": "००११",
-      "option_b": "०१०१",
-      "option_c": "०११०",
-      "option_d": "१०००",
-      "answer_index": 0,
-      "explanation": "१००१₂ = ९, ०११०₂ = ६, घटाउँदा ३ हुन्छ । ३ को बाइनरी ००११₂ हो ।",
-      "is_pro": false
-    },
-    {
-      "id": 77,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "तलका मध्ये कुन एप्लिकेसन सफ्टवेयर हो ?",
-      "options": [
-        "स्प्रेडसिट",
-        "Windows",
-        "Linux",
-        "Device driver"
-      ],
-      "option_a": "स्प्रेडसिट",
-      "option_b": "Windows",
-      "option_c": "Linux",
-      "option_d": "Device driver",
-      "answer_index": 0,
-      "explanation": "स्प्रेडसिट एप्लिकेसन सफ्टवेयर हो । Windows, Linux र Device driver सिस्टम सफ्टवेयर हुन् ।",
-      "is_pro": false
-    },
-    {
       "id": 78,
+      "qid": 1376345664,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1721,6 +1316,7 @@
     },
     {
       "id": 79,
+      "qid": 828072977,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1742,29 +1338,8 @@
       "is_pro": false
     },
     {
-      "id": 80,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "बाइनरी १११० × ११ = ?",
-      "options": [
-        "१०१०१०",
-        "११००१०",
-        "१००१००",
-        "१११०००"
-      ],
-      "option_a": "१०१०१०",
-      "option_b": "११००१०",
-      "option_c": "१००१००",
-      "option_d": "१११०००",
-      "answer_index": 0,
-      "explanation": "१११०₂ = १४, ११₂ = ३, गुणनफल ४२ हुन्छ । ४२ को बाइनरी १०१०१०₂ हो ।",
-      "is_pro": false
-    },
-    {
       "id": 81,
+      "qid": 2315974065,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1786,29 +1361,8 @@
       "is_pro": false
     },
     {
-      "id": 82,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "कुन सङ्ख्या प्रणालीले आधार ८ प्रयोग गर्छ ?",
-      "options": [
-        "अष्टल",
-        "बाइनरी",
-        "दशमलव",
-        "हेक्साडेसिमल"
-      ],
-      "option_a": "अष्टल",
-      "option_b": "बाइनरी",
-      "option_c": "दशमलव",
-      "option_d": "हेक्साडेसिमल",
-      "answer_index": 0,
-      "explanation": "अष्टल सङ्ख्या प्रणालीले आधार ८ प्रयोग गर्छ । यसमा ०–७ सम्मका अङ्क प्रयोग गरिन्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 83,
+      "qid": 3096272072,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1831,6 +1385,7 @@
     },
     {
       "id": 84,
+      "qid": 635687489,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1853,6 +1408,7 @@
     },
     {
       "id": 85,
+      "qid": 1277639853,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1875,6 +1431,7 @@
     },
     {
       "id": 86,
+      "qid": 344385809,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1896,29 +1453,8 @@
       "is_pro": false
     },
     {
-      "id": 87,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "तलका मध्ये कुन चित्र फाइलको एक्सटेन्सन हो ?",
-      "options": [
-        ".jpg",
-        ".doc",
-        ".exe",
-        ".txt"
-      ],
-      "option_a": ".jpg",
-      "option_b": ".doc",
-      "option_c": ".exe",
-      "option_d": ".txt",
-      "answer_index": 0,
-      "explanation": ".jpg चित्र फाइलको एक्सटेन्सन हो । .doc, .exe र .txt अन्य प्रकारका फाइल हुन् ।",
-      "is_pro": false
-    },
-    {
       "id": 88,
+      "qid": 2193623204,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1941,6 +1477,7 @@
     },
     {
       "id": 89,
+      "qid": 442164935,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1963,6 +1500,7 @@
     },
     {
       "id": 90,
+      "qid": 4200356023,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -1985,6 +1523,7 @@
     },
     {
       "id": 91,
+      "qid": 2212016089,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2006,51 +1545,8 @@
       "is_pro": false
     },
     {
-      "id": 92,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "बाइनरी ११००१ + १०११ = ?",
-      "options": [
-        "१००१००",
-        "१०१०००",
-        "११००००",
-        "१०००१०"
-      ],
-      "option_a": "१००१००",
-      "option_b": "१०१०००",
-      "option_c": "११००००",
-      "option_d": "१०००१०",
-      "answer_index": 0,
-      "explanation": "११००१₂ = २५, १०११₂ = ११, जोड्दा ३६ हुन्छ । ३६ को बाइनरी १००१००₂ हो ।",
-      "is_pro": false
-    },
-    {
-      "id": 93,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "तलका मध्ये कुन आउटपुट यन्त्र हो ?",
-      "options": [
-        "प्रोजेक्टर",
-        "किबोर्ड",
-        "माउस",
-        "स्क्यानर"
-      ],
-      "option_a": "प्रोजेक्टर",
-      "option_b": "किबोर्ड",
-      "option_c": "माउस",
-      "option_d": "स्क्यानर",
-      "answer_index": 0,
-      "explanation": "प्रोजेक्टर आउटपुट यन्त्र हो । यसले कम्प्युटरको दृश्य ठूलो पर्दामा देखाउँछ ।",
-      "is_pro": false
-    },
-    {
       "id": 94,
+      "qid": 733479417,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2073,6 +1569,7 @@
     },
     {
       "id": 95,
+      "qid": 926372607,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2095,6 +1592,7 @@
     },
     {
       "id": 96,
+      "qid": 3116371847,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2117,6 +1615,7 @@
     },
     {
       "id": 97,
+      "qid": 374988954,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2138,29 +1637,8 @@
       "is_pro": false
     },
     {
-      "id": 98,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "SEE (Class 10)",
-      "question": "दशमलव १२८ लाई हेक्साडेसिमलमा बदल्दा के हुन्छ ?",
-      "options": [
-        "80",
-        "70",
-        "90",
-        "A0"
-      ],
-      "option_a": "80",
-      "option_b": "70",
-      "option_c": "90",
-      "option_d": "A0",
-      "answer_index": 0,
-      "explanation": "१२८ ÷ १६ = ८ बाँकी ०, त्यसैले १२८ = ८०₁₆ हुन्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 99,
+      "qid": 2791137578,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2183,6 +1661,7 @@
     },
     {
       "id": 100,
+      "qid": 3217141372,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2204,29 +1683,8 @@
       "is_pro": false
     },
     {
-      "id": 101,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "कम्प्युटर नेटवर्कमा डाटा पठाउने र प्राप्त गर्ने काम गर्ने यन्त्रलाई के भनिन्छ?",
-      "options": [
-        "नेटवर्क इन्टरफेस कार्ड (NIC)",
-        "मोडेम",
-        "राउटर",
-        "हब"
-      ],
-      "option_a": "नेटवर्क इन्टरफेस कार्ड (NIC)",
-      "option_b": "मोडेम",
-      "option_c": "राउटर",
-      "option_d": "हब",
-      "answer_index": 0,
-      "explanation": "नेटवर्क इन्टरफेस कार्ड (NIC) ले कम्प्युटरलाई नेटवर्कमा जोड्न र डाटा सञ्चार गर्न मद्दत गर्दछ। यो हार्डवेयर यन्त्र हो जसले डाटा प्याकेटहरू पठाउने र प्राप्त गर्ने कार्य गर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 102,
+      "qid": 1552235547,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2248,29 +1706,8 @@
       "is_pro": false
     },
     {
-      "id": 103,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "IPv4 ठेगानामा कतिवटा बिटहरू हुन्छन्?",
-      "options": [
-        "३२ बिट",
-        "६४ बिट",
-        "१२८ बिट",
-        "१६ बिट"
-      ],
-      "option_a": "३२ बिट",
-      "option_b": "६४ बिट",
-      "option_c": "१२८ बिट",
-      "option_d": "१६ बिट",
-      "answer_index": 0,
-      "explanation": "IPv4 ठेगाना ३२ बिटको हुन्छ, जसलाई चारवटा अक्टेट (प्रत्येक ८ बिट) मा विभाजन गरिन्छ। यसले लगभग ४.३ अर्ब अद्वितीय ठेगानाहरू उत्पन्न गर्न सक्छ।",
-      "is_pro": false
-    },
-    {
       "id": 104,
+      "qid": 1625222797,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2293,6 +1730,7 @@
     },
     {
       "id": 105,
+      "qid": 1900994956,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2314,29 +1752,8 @@
       "is_pro": false
     },
     {
-      "id": 106,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "मल्टिमिडियामा प्रयोग हुने 'रास्टर ग्राफिक्स' को मुख्य विशेषता कुन हो?",
-      "options": [
-        "यो पिक्सेलमा आधारित हुन्छ",
-        "यो गणितीय समीकरणमा आधारित हुन्छ",
-        "यो फाइल आकारमा सधैं सानो हुन्छ",
-        "यो स्केलेबल हुन्छ"
-      ],
-      "option_a": "यो पिक्सेलमा आधारित हुन्छ",
-      "option_b": "यो गणितीय समीकरणमा आधारित हुन्छ",
-      "option_c": "यो फाइल आकारमा सधैं सानो हुन्छ",
-      "option_d": "यो स्केलेबल हुन्छ",
-      "answer_index": 0,
-      "explanation": "रास्टर ग्राफिक्स पिक्सेल (चित्र तत्व) को ग्रिडमा आधारित हुन्छ। यसको गुणस्तर रिजोल्युसनमा निर्भर गर्दछ र ठूलो बनाउँदा पिक्सेल देखिन सक्छ। भेक्टर ग्राफिक्स गणितीय समीकरणमा आधारित हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 107,
+      "qid": 2360030032,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2359,6 +1776,7 @@
     },
     {
       "id": 108,
+      "qid": 1945375990,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2381,6 +1799,7 @@
     },
     {
       "id": 109,
+      "qid": 128076688,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2402,29 +1821,8 @@
       "is_pro": false
     },
     {
-      "id": 110,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "इन्टरनेटमा डाटा पठाउन र प्राप्त गर्न प्रयोग हुने सानो एकाइलाई के भनिन्छ?",
-      "options": [
-        "डाटा प्याकेट",
-        "डाटा बाइट",
-        "डाटा फाइल",
-        "डाटा ब्लक"
-      ],
-      "option_a": "डाटा प्याकेट",
-      "option_b": "डाटा बाइट",
-      "option_c": "डाटा फाइल",
-      "option_d": "डाटा ब्लक",
-      "answer_index": 0,
-      "explanation": "नेटवर्कमा सूचना साना साना टुक्राहरूमा विभाजन गरेर पठाइन्छ, जसलाई डाटा प्याकेट भनिन्छ। प्रत्येक प्याकेटमा गन्तव्य ठेगाना र अन्य नियन्त्रण जानकारी हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 111,
+      "qid": 257153159,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2447,6 +1845,7 @@
     },
     {
       "id": 112,
+      "qid": 2130642647,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2469,6 +1868,7 @@
     },
     {
       "id": 113,
+      "qid": 2504832056,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2491,6 +1891,7 @@
     },
     {
       "id": 114,
+      "qid": 2451799366,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2512,51 +1913,8 @@
       "is_pro": false
     },
     {
-      "id": 115,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "IoT (इन्टरनेट अफ थिङ्स) को मुख्य विशेषता कुन हो?",
-      "options": [
-        "भौतिक उपकरणहरूलाई इन्टरनेटमा जोडेर डाटा साझा गर्नु",
-        "केवल कम्प्युटरहरूलाई नेटवर्कमा जोड्नु",
-        "डाटाबेस व्यवस्थापन गर्नु",
-        "ग्राफिक्स डिजाइन गर्नु"
-      ],
-      "option_a": "भौतिक उपकरणहरूलाई इन्टरनेटमा जोडेर डाटा साझा गर्नु",
-      "option_b": "केवल कम्प्युटरहरूलाई नेटवर्कमा जोड्नु",
-      "option_c": "डाटाबेस व्यवस्थापन गर्नु",
-      "option_d": "ग्राफिक्स डिजाइन गर्नु",
-      "answer_index": 0,
-      "explanation": "IoT ले भौतिक उपकरणहरू (जस्तै सेन्सर, घरेलु उपकरण, सवारी साधन) लाई इन्टरनेटमा जोडेर तिनीहरूबीच डाटा सङ्कलन र साझेदारी गर्न सक्षम बनाउँछ, जसले स्वचालन र दूरस्थ नियन्त्रण सम्भव बनाउँछ।",
-      "is_pro": false
-    },
-    {
-      "id": 116,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "क्लाउड कम्प्युटिङको उदाहरण कुन हो?",
-      "options": [
-        "Google Drive",
-        "MS Word",
-        "Windows 10",
-        "Adobe Photoshop"
-      ],
-      "option_a": "Google Drive",
-      "option_b": "MS Word",
-      "option_c": "Windows 10",
-      "option_d": "Adobe Photoshop",
-      "answer_index": 0,
-      "explanation": "Google Drive क्लाउड कम्प्युटिङ सेवाको उदाहरण हो, जसले इन्टरनेटमार्फत डाटा भण्डारण र पहुँच प्रदान गर्दछ। यसमा प्रयोगकर्ताले आफ्ना फाइलहरू अनलाइन भण्डारण गर्न र विभिन्न उपकरणबाट पहुँच गर्न सक्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 117,
+      "qid": 1902047742,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2578,29 +1936,8 @@
       "is_pro": false
     },
     {
-      "id": 118,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "डाटाबेसमा 'डाटा रिडन्डन्सी' भन्नाले के बुझिन्छ?",
-      "options": [
-        "डाटाको दोहोरोपन",
-        "डाटाको हानि",
-        "डाटाको अखण्डता",
-        "डाटाको सुरक्षा"
-      ],
-      "option_a": "डाटाको दोहोरोपन",
-      "option_b": "डाटाको हानि",
-      "option_c": "डाटाको अखण्डता",
-      "option_d": "डाटाको सुरक्षा",
-      "answer_index": 0,
-      "explanation": "डाटा रिडन्डन्सी भन्नाले एउटै डाटा डाटाबेसको धेरै स्थानहरूमा अनावश्यक रूपमा दोहोरिनु हो। यसले भण्डारण क्षमता बर्बाद गर्छ र डाटा असंगतिको जोखिम बढाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 119,
+      "qid": 359896761,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2623,6 +1960,7 @@
     },
     {
       "id": 120,
+      "qid": 4170035970,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2645,6 +1983,7 @@
     },
     {
       "id": 121,
+      "qid": 4089893666,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2667,6 +2006,7 @@
     },
     {
       "id": 122,
+      "qid": 2390365314,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2689,6 +2029,7 @@
     },
     {
       "id": 123,
+      "qid": 890792841,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2710,29 +2051,8 @@
       "is_pro": false
     },
     {
-      "id": 124,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "डाटाबेसमा 'नर्मलाइजेसन' को मुख्य उद्देश्य के हो?",
-      "options": [
-        "डाटाको दोहोरोपन कम गर्नु",
-        "डाटाको गति बढाउनु",
-        "डाटाको आकार बढाउनु",
-        "डाटाको सुरक्षा बढाउनु"
-      ],
-      "option_a": "डाटाको दोहोरोपन कम गर्नु",
-      "option_b": "डाटाको गति बढाउनु",
-      "option_c": "डाटाको आकार बढाउनु",
-      "option_d": "डाटाको सुरक्षा बढाउनु",
-      "answer_index": 0,
-      "explanation": "नर्मलाइजेसन डाटाबेस डिजाइनको प्रक्रिया हो जसले डाटा रिडन्डन्सी (दोहोरोपन) कम गर्न र डाटा अखण्डता सुधार गर्न तालिकाहरूलाई साना, राम्ररी परिभाषित तालिकाहरूमा विभाजन गर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 125,
+      "qid": 3516098816,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2755,6 +2075,7 @@
     },
     {
       "id": 126,
+      "qid": 3034551411,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2777,6 +2098,7 @@
     },
     {
       "id": 127,
+      "qid": 992519788,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2799,6 +2121,7 @@
     },
     {
       "id": 128,
+      "qid": 3634525434,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2821,6 +2144,7 @@
     },
     {
       "id": 129,
+      "qid": 1915278289,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2843,6 +2167,7 @@
     },
     {
       "id": 130,
+      "qid": 1939324470,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2865,6 +2190,7 @@
     },
     {
       "id": 131,
+      "qid": 2336938046,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2887,6 +2213,7 @@
     },
     {
       "id": 132,
+      "qid": 427855791,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2909,6 +2236,7 @@
     },
     {
       "id": 133,
+      "qid": 324794783,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2931,6 +2259,7 @@
     },
     {
       "id": 134,
+      "qid": 82807228,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2953,6 +2282,7 @@
     },
     {
       "id": 135,
+      "qid": 2807256657,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2975,6 +2305,7 @@
     },
     {
       "id": 136,
+      "qid": 894367732,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -2996,29 +2327,8 @@
       "is_pro": false
     },
     {
-      "id": 137,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "एनिमेसनमा 'फ्रेम रेट' ले के जनाउँछ?",
-      "options": [
-        "प्रति सेकेन्ड फ्रेमको सङ्ख्या",
-        "भिडियोको लम्बाइ",
-        "भिडियोको रिजोल्युसन",
-        "अडियोको गुणस्तर"
-      ],
-      "option_a": "प्रति सेकेन्ड फ्रेमको सङ्ख्या",
-      "option_b": "भिडियोको लम्बाइ",
-      "option_c": "भिडियोको रिजोल्युसन",
-      "option_d": "अडियोको गुणस्तर",
-      "answer_index": 0,
-      "explanation": "फ्रेम रेटले प्रति सेकेन्ड देखाइने स्थिर चित्र (फ्रेम) को सङ्ख्या जनाउँछ। उच्च फ्रेम रेटले चलचित्रलाई बढी सहज र यथार्थपरक बनाउँछ, जस्तै २४fps, ३०fps, ६०fps।",
-      "is_pro": false
-    },
-    {
       "id": 138,
+      "qid": 1950326839,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3041,6 +2351,7 @@
     },
     {
       "id": 139,
+      "qid": 459245872,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3063,6 +2374,7 @@
     },
     {
       "id": 140,
+      "qid": 2673291991,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3085,6 +2397,7 @@
     },
     {
       "id": 141,
+      "qid": 3786884088,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3107,6 +2420,7 @@
     },
     {
       "id": 142,
+      "qid": 2840277199,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3129,6 +2443,7 @@
     },
     {
       "id": 143,
+      "qid": 404447101,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3151,6 +2466,7 @@
     },
     {
       "id": 144,
+      "qid": 59875384,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3173,6 +2489,7 @@
     },
     {
       "id": 145,
+      "qid": 2546394983,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3195,6 +2512,7 @@
     },
     {
       "id": 146,
+      "qid": 1716238001,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3217,6 +2535,7 @@
     },
     {
       "id": 147,
+      "qid": 334733379,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3238,29 +2557,8 @@
       "is_pro": false
     },
     {
-      "id": 148,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "डाटाबेसमा 'क्यान्डिडेट कि' भन्नाले के जनाउँछ?",
-      "options": [
-        "प्राइमरी किको रूपमा छान्न सकिने कुञ्जी",
-        "फरेन किको रूपमा प्रयोग हुने कुञ्जी",
-        "कम्पोजिट किको अंश",
-        "कुनै पनि कुञ्जी"
-      ],
-      "option_a": "प्राइमरी किको रूपमा छान्न सकिने कुञ्जी",
-      "option_b": "फरेन किको रूपमा प्रयोग हुने कुञ्जी",
-      "option_c": "कम्पोजिट किको अंश",
-      "option_d": "कुनै पनि कुञ्जी",
-      "answer_index": 0,
-      "explanation": "क्यान्डिडेट कि भन्नाले तालिकाको त्यस्तो कुञ्जी जसले प्रत्येक रेकर्डलाई अद्वितीय रूपमा पहिचान गर्न सक्छ र प्राइमरी किको रूपमा चयन गर्न योग्य छ। एउटा तालिकामा धेरै क्यान्डिडेट कि हुन सक्छन्, तर एउटा मात्र प्राइमरी कि हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 149,
+      "qid": 1851323573,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3283,6 +2581,7 @@
     },
     {
       "id": 150,
+      "qid": 3650964884,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3304,51 +2603,8 @@
       "is_pro": false
     },
     {
-      "id": 151,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "AI मा 'ट्रेनिङ डाटा' को महत्त्व के हो?",
-      "options": [
-        "यसले AI मोडेललाई सिक्न मद्दत गर्दछ",
-        "यसले नेटवर्क गति बढाउँछ",
-        "यसले डाटाबेस सुरक्षित गर्दछ",
-        "यसले ग्राफिक्स सुधार गर्दछ"
-      ],
-      "option_a": "यसले AI मोडेललाई सिक्न मद्दत गर्दछ",
-      "option_b": "यसले नेटवर्क गति बढाउँछ",
-      "option_c": "यसले डाटाबेस सुरक्षित गर्दछ",
-      "option_d": "यसले ग्राफिक्स सुधार गर्दछ",
-      "answer_index": 0,
-      "explanation": "ट्रेनिङ डाटा भनेको AI मोडेललाई सिकाउन प्रयोग गरिने डाटाको सङ्ग्रह हो। मोडेलले यस डाटाबाट ढाँचा र सम्बन्ध सिक्छ र नयाँ डाटामा पूर्वानुमान गर्न सक्षम हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 152,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "कम्प्युटर नेटवर्कको मुख्य उद्देश्य के हो?",
-      "options": [
-        "डाटा सञ्चार र स्रोत साझेदारी",
-        "ग्राफिक्स डिजाइन",
-        "प्रोग्रामिङ सिक्नु",
-        "डाटाबेस सिर्जना"
-      ],
-      "option_a": "डाटा सञ्चार र स्रोत साझेदारी",
-      "option_b": "ग्राफिक्स डिजाइन",
-      "option_c": "प्रोग्रामिङ सिक्नु",
-      "option_d": "डाटाबेस सिर्जना",
-      "answer_index": 0,
-      "explanation": "कम्प्युटर नेटवर्कको मुख्य उद्देश्य कम्प्युटरहरूबीच डाटा सञ्चार र हार्डवेयर, सफ्टवेयर, फाइल जस्ता स्रोतहरूको साझेदारी गर्नु हो।",
-      "is_pro": false
-    },
-    {
       "id": 153,
+      "qid": 1367955337,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3371,6 +2627,7 @@
     },
     {
       "id": 154,
+      "qid": 2520285729,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3393,6 +2650,7 @@
     },
     {
       "id": 155,
+      "qid": 1934935188,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3415,6 +2673,7 @@
     },
     {
       "id": 156,
+      "qid": 3633182831,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3437,6 +2696,7 @@
     },
     {
       "id": 157,
+      "qid": 200851674,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3459,6 +2719,7 @@
     },
     {
       "id": 158,
+      "qid": 884163446,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3481,6 +2742,7 @@
     },
     {
       "id": 159,
+      "qid": 1662607437,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3503,6 +2765,7 @@
     },
     {
       "id": 160,
+      "qid": 3117994557,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3525,6 +2788,7 @@
     },
     {
       "id": 161,
+      "qid": 452631504,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3547,6 +2811,7 @@
     },
     {
       "id": 162,
+      "qid": 137472438,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3568,29 +2833,8 @@
       "is_pro": false
     },
     {
-      "id": 163,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "AI मा 'सुपरभाइज्ड लर्निङ' र 'अनसुपरभाइज्ड लर्निङ' बीचको मुख्य भिन्नता के हो?",
-      "options": [
-        "सुपरभाइज्डमा लेबल गरिएको डाटा प्रयोग हुन्छ",
-        "अनसुपरभाइज्डमा लेबल गरिएको डाटा प्रयोग हुन्छ",
-        "दुवैमा लेबल गरिएको डाटा प्रयोग हुन्छ",
-        "दुवैमा लेबल नगरिएको डाटा प्रयोग हुन्छ"
-      ],
-      "option_a": "सुपरभाइज्डमा लेबल गरिएको डाटा प्रयोग हुन्छ",
-      "option_b": "अनसुपरभाइज्डमा लेबल गरिएको डाटा प्रयोग हुन्छ",
-      "option_c": "दुवैमा लेबल गरिएको डाटा प्रयोग हुन्छ",
-      "option_d": "दुवैमा लेबल नगरिएको डाटा प्रयोग हुन्छ",
-      "answer_index": 0,
-      "explanation": "सुपरभाइज्ड लर्निङमा मोडेललाई लेबल गरिएको डाटा (इनपुट र अपेक्षित आउटपुट दुवै) दिइन्छ। अनसुपरभाइज्ड लर्निङमा लेबल नगरिएको डाटा प्रयोग गरेर मोडेलले आफैं ढाँचा खोज्छ।",
-      "is_pro": false
-    },
-    {
       "id": 164,
+      "qid": 3792769606,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3613,6 +2857,7 @@
     },
     {
       "id": 165,
+      "qid": 3271190372,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3635,6 +2880,7 @@
     },
     {
       "id": 166,
+      "qid": 2302617366,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3657,6 +2903,7 @@
     },
     {
       "id": 167,
+      "qid": 688151799,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3679,6 +2926,7 @@
     },
     {
       "id": 168,
+      "qid": 866434432,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3700,29 +2948,8 @@
       "is_pro": false
     },
     {
-      "id": 169,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "कुन कथन XR (Extended Reality) को सन्दर्भमा सही छ?",
-      "options": [
-        "XR मा VR, AR र MR समावेश हुन्छन्",
-        "XR केवल VR हो",
-        "XR केवल AR हो",
-        "XR मा कुनै पनि समावेश छैन"
-      ],
-      "option_a": "XR मा VR, AR र MR समावेश हुन्छन्",
-      "option_b": "XR केवल VR हो",
-      "option_c": "XR केवल AR हो",
-      "option_d": "XR मा कुनै पनि समावेश छैन",
-      "answer_index": 0,
-      "explanation": "XR (Extended Reality) एक छाता शब्द हो जसले Virtual Reality (VR), Augmented Reality (AR) र Mixed Reality (MR) सहित सबै immersive प्रविधिहरूलाई समावेश गर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 170,
+      "qid": 3360907434,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3745,6 +2972,7 @@
     },
     {
       "id": 171,
+      "qid": 2339019643,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3766,29 +2994,8 @@
       "is_pro": false
     },
     {
-      "id": 172,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "SQL मा 'GROUP BY' क्लजको प्रयोग कुन कार्यका लागि गरिन्छ?",
-      "options": [
-        "डाटा समूहीकरण गर्न",
-        "डाटा फिल्टर गर्न",
-        "तालिका जोड्न",
-        "डाटा मेटाउन"
-      ],
-      "option_a": "डाटा समूहीकरण गर्न",
-      "option_b": "डाटा फिल्टर गर्न",
-      "option_c": "तालिका जोड्न",
-      "option_d": "डाटा मेटाउन",
-      "answer_index": 0,
-      "explanation": "GROUP BY' क्लजले समान मान भएका पङ्क्तिहरूलाई समूहमा राख्छ, सामान्यतया SUM, COUNT, AVG जस्ता एग्रिगेट फङ्क्शनसँग प्रयोग गरिन्छ। जस्तै: SELECT department, COUNT(*) FROM employees GROUP BY department;",
-      "is_pro": false
-    },
-    {
       "id": 173,
+      "qid": 2104786327,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3810,29 +3017,8 @@
       "is_pro": false
     },
     {
-      "id": 174,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Medium",
-      "question": "पाइथनमा कुन फङ्क्शनले स्ट्रिङको लम्बाइ फर्काउँछ?",
-      "options": [
-        "len()",
-        "length()",
-        "size()",
-        "count()"
-      ],
-      "option_a": "len()",
-      "option_b": "length()",
-      "option_c": "size()",
-      "option_d": "count()",
-      "answer_index": 0,
-      "explanation": "len()' फङ्क्शनले स्ट्रिङ, सूची, टपल जस्ता अनुक्रमको तत्व सङ्ख्या (लम्बाइ) फर्काउँछ। जस्तै: len(\"Hello\") ले ५ फर्काउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 175,
+      "qid": 2086307755,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3854,29 +3040,8 @@
       "is_pro": false
     },
     {
-      "id": 176,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "कम्प्युटर नेटवर्कमा 'नोड' भन्नाले के जनाउँछ?",
-      "options": [
-        "नेटवर्कमा जोडिएको कुनै पनि उपकरण",
-        "नेटवर्क केबल",
-        "नेटवर्क प्रोटोकल",
-        "नेटवर्क टोपोलोजी"
-      ],
-      "option_a": "नेटवर्कमा जोडिएको कुनै पनि उपकरण",
-      "option_b": "नेटवर्क केबल",
-      "option_c": "नेटवर्क प्रोटोकल",
-      "option_d": "नेटवर्क टोपोलोजी",
-      "answer_index": 0,
-      "explanation": "नेटवर्कमा जोडिएको कुनै पनि उपकरण (कम्प्युटर, प्रिन्टर, सर्भर, स्विच आदि) लाई नोड भनिन्छ। प्रत्येक नोडको आफ्नै नेटवर्क ठेगाना हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 177,
+      "qid": 2557913875,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3899,6 +3064,7 @@
     },
     {
       "id": 178,
+      "qid": 1811256293,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3921,6 +3087,7 @@
     },
     {
       "id": 179,
+      "qid": 1316228226,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3943,6 +3110,7 @@
     },
     {
       "id": 180,
+      "qid": 3171425318,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -3964,29 +3132,8 @@
       "is_pro": false
     },
     {
-      "id": 181,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "AI मा 'न्यूरल नेटवर्क' के हो?",
-      "options": [
-        "मानव मस्तिष्कको संरचनाबाट प्रेरित कम्प्युटेसनल मोडेल",
-        "एउटा नेटवर्क केबल",
-        "डाटाबेसको प्रकार",
-        "एउटा प्रोग्रामिङ भाषा"
-      ],
-      "option_a": "मानव मस्तिष्कको संरचनाबाट प्रेरित कम्प्युटेसनल मोडेल",
-      "option_b": "एउटा नेटवर्क केबल",
-      "option_c": "डाटाबेसको प्रकार",
-      "option_d": "एउटा प्रोग्रामिङ भाषा",
-      "answer_index": 0,
-      "explanation": "न्यूरल नेटवर्क मानव मस्तिष्कको जैविक न्यूरल नेटवर्कबाट प्रेरित कम्प्युटेसनल मोडेल हो। यो तहहरूमा व्यवस्थित कृत्रिम न्यूरोनहरूको सञ्जाल हो जसले डाटाबाट सिक्छ।",
-      "is_pro": false
-    },
-    {
       "id": 182,
+      "qid": 3624400377,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4008,51 +3155,8 @@
       "is_pro": false
     },
     {
-      "id": 183,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Medium",
-      "question": "नेटवर्कमा 'इन्ट्रानेट' र 'एक्स्ट्रानेट' बीचको भिन्नता के हो?",
-      "options": [
-        "इन्ट्रानेट निजी, एक्स्ट्रानेट साझेदार संस्थाका लागि खुला",
-        "इन्ट्रानेट सार्वजनिक, एक्स्ट्रानेट निजी",
-        "दुवै सार्वजनिक हुन्",
-        "दुवै निजी हुन्"
-      ],
-      "option_a": "इन्ट्रानेट निजी, एक्स्ट्रानेट साझेदार संस्थाका लागि खुला",
-      "option_b": "इन्ट्रानेट सार्वजनिक, एक्स्ट्रानेट निजी",
-      "option_c": "दुवै सार्वजनिक हुन्",
-      "option_d": "दुवै निजी हुन्",
-      "answer_index": 0,
-      "explanation": "इन्ट्रानेट संस्थाको आन्तरिक निजी नेटवर्क हो। एक्स्ट्रानेट इन्ट्रानेटको विस्तार हो जसले आपूर्तिकर्ता, ग्राहक जस्ता विश्वसनीय बाह्य पक्षहरूलाई सीमित पहुँच प्रदान गर्दछ।",
-      "is_pro": false
-    },
-    {
-      "id": 184,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "MySQL मा 'JOIN' क्लजको प्रयोग कुन कार्यका लागि गरिन्छ?",
-      "options": [
-        "दुई वा बढी तालिकाका पङ्क्तिहरू जोड्न",
-        "नयाँ तालिका सिर्जना गर्न",
-        "डाटा मेटाउन",
-        "तालिकाको संरचना परिवर्तन गर्न"
-      ],
-      "option_a": "दुई वा बढी तालिकाका पङ्क्तिहरू जोड्न",
-      "option_b": "नयाँ तालिका सिर्जना गर्न",
-      "option_c": "डाटा मेटाउन",
-      "option_d": "तालिकाको संरचना परिवर्तन गर्न",
-      "answer_index": 0,
-      "explanation": "JOIN' क्लजले दुई वा बढी तालिकाहरूलाई तिनीहरूबीचको सम्बन्धित स्तम्भको आधारमा जोड्छ र सम्बन्धित पङ्क्तिहरू फर्काउँछ। INNER JOIN, LEFT JOIN, RIGHT JOIN आदि यसका प्रकार हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 185,
+      "qid": 2773981551,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4074,29 +3178,8 @@
       "is_pro": false
     },
     {
-      "id": 186,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Medium",
-      "question": "पाइथनमा 'while' लूप र 'for' लूपबीचको मुख्य भिन्नता के हो?",
-      "options": [
-        "while' सर्तमा आधारित, 'for' अनुक्रममा आधारित",
-        "for' सर्तमा आधारित, 'while' अनुक्रममा आधारित",
-        "दुवै एउटै हुन्",
-        "while' अनुक्रममा आधारित, 'for' सर्तमा आधारित"
-      ],
-      "option_a": "while' सर्तमा आधारित, 'for' अनुक्रममा आधारित",
-      "option_b": "for' सर्तमा आधारित, 'while' अनुक्रममा आधारित",
-      "option_c": "दुवै एउटै हुन्",
-      "option_d": "while' अनुक्रममा आधारित, 'for' सर्तमा आधारित",
-      "answer_index": 0,
-      "explanation": "while' लूप सर्त सत्य नभएसम्म चल्छ, जबकि 'for' लूप कुनै अनुक्रम (सूची, टपल, रेन्ज) को प्रत्येक तत्वमा पुनरावृत्ति गर्छ। 'while' लूपको पुनरावृत्ति सङ्ख्या अग्रिम थाहा नहुँदा प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 187,
+      "qid": 793634734,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4119,6 +3202,7 @@
     },
     {
       "id": 188,
+      "qid": 3211562958,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4141,6 +3225,7 @@
     },
     {
       "id": 189,
+      "qid": 2778544968,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4163,6 +3248,7 @@
     },
     {
       "id": 190,
+      "qid": 3985129066,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4185,6 +3271,7 @@
     },
     {
       "id": 191,
+      "qid": 1686300399,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4207,6 +3294,7 @@
     },
     {
       "id": 192,
+      "qid": 2345042939,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4228,29 +3316,8 @@
       "is_pro": false
     },
     {
-      "id": 193,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "कुन कथन AI को 'प्रिडिक्टिभ एनालिटिक्स' को सन्दर्भमा सही छ?",
-      "options": [
-        "यसले भूतकालको डाटाबाट भविष्यको पूर्वानुमान गर्दछ",
-        "यसले डाटा मेटाउँछ",
-        "यसले नेटवर्क सुरक्षा प्रदान गर्दछ",
-        "यसले ग्राफिक्स सिर्जना गर्दछ"
-      ],
-      "option_a": "यसले भूतकालको डाटाबाट भविष्यको पूर्वानुमान गर्दछ",
-      "option_b": "यसले डाटा मेटाउँछ",
-      "option_c": "यसले नेटवर्क सुरक्षा प्रदान गर्दछ",
-      "option_d": "यसले ग्राफिक्स सिर्जना गर्दछ",
-      "answer_index": 0,
-      "explanation": "प्रिडिक्टिभ एनालिटिक्सले ऐतिहासिक डाटा र सांख्यिकीय एल्गोरिदम प्रयोग गरेर भविष्यका घटना वा प्रवृत्तिहरूको पूर्वानुमान गर्दछ, जस्तै बिक्री पूर्वानुमान वा जोखिम मूल्याङ्कन।",
-      "is_pro": false
-    },
-    {
       "id": 194,
+      "qid": 3100758356,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4273,6 +3340,7 @@
     },
     {
       "id": 195,
+      "qid": 1250071222,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4294,29 +3362,8 @@
       "is_pro": false
     },
     {
-      "id": 196,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "MySQL मा 'PRIMARY KEY' ले कुन अवस्था सुनिश्चित गर्दछ?",
-      "options": [
-        "मान अद्वितीय र NULL हुन सक्दैन",
-        "मान दोहोरिन सक्छ",
-        "मान NULL हुन सक्छ",
-        "मान सधैं सङ्ख्या हुनुपर्छ"
-      ],
-      "option_a": "मान अद्वितीय र NULL हुन सक्दैन",
-      "option_b": "मान दोहोरिन सक्छ",
-      "option_c": "मान NULL हुन सक्छ",
-      "option_d": "मान सधैं सङ्ख्या हुनुपर्छ",
-      "answer_index": 0,
-      "explanation": "PRIMARY KEY ले तालिकाको प्रत्येक रेकर्डलाई अद्वितीय रूपमा पहिचान गर्दछ। यसको मान अद्वितीय हुनुपर्छ र NULL हुन सक्दैन। एउटा तालिकामा एउटा मात्र प्राइमरी कि हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 197,
+      "qid": 257246545,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4339,6 +3386,7 @@
     },
     {
       "id": 198,
+      "qid": 1799374470,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4360,29 +3408,8 @@
       "is_pro": false
     },
     {
-      "id": 199,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "कुन कथन AI को 'कम्प्युटर भिजन' को सन्दर्भमा सही छ?",
-      "options": [
-        "यसले कम्प्युटरलाई छवि बुझ्न सक्षम बनाउँछ",
-        "यसले कम्प्युटरलाई गीत गाउन सिकाउँछ",
-        "यसले नेटवर्क सुरक्षा प्रदान गर्दछ",
-        "यसले डाटाबेस व्यवस्थापन गर्दछ"
-      ],
-      "option_a": "यसले कम्प्युटरलाई छवि बुझ्न सक्षम बनाउँछ",
-      "option_b": "यसले कम्प्युटरलाई गीत गाउन सिकाउँछ",
-      "option_c": "यसले नेटवर्क सुरक्षा प्रदान गर्दछ",
-      "option_d": "यसले डाटाबेस व्यवस्थापन गर्दछ",
-      "answer_index": 0,
-      "explanation": "कम्प्युटर भिजन AI को एक क्षेत्र हो जसले कम्प्युटरलाई डिजिटल छवि वा भिडियोबाट जानकारी प्राप्त गर्न, बुझ्न र व्याख्या गर्न सक्षम बनाउँछ, जस्तै अनुहार पहिचान वा वस्तु पत्ता लगाउने।",
-      "is_pro": false
-    },
-    {
       "id": 200,
+      "qid": 3058083717,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4405,6 +3432,7 @@
     },
     {
       "id": 201,
+      "qid": 117350363,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4426,29 +3454,8 @@
       "is_pro": false
     },
     {
-      "id": 202,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "तलका मध्ये कुन स्थिर (Non-volatile) मेमोरी हो ?",
-      "options": [
-        "ROM",
-        "RAM",
-        "Cache",
-        "Register"
-      ],
-      "option_a": "ROM",
-      "option_b": "RAM",
-      "option_c": "Cache",
-      "option_d": "Register",
-      "answer_index": 0,
-      "explanation": "ROM स्थिर मेमोरी हो । विद्युत् आपूर्ति बन्द हुँदा पनि यसमा रहेको डाटा मेटिँदैन । RAM, Cache र Register अस्थिर मेमोरी हुन् ।",
-      "is_pro": false
-    },
-    {
       "id": 203,
+      "qid": 1397065271,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4471,6 +3478,7 @@
     },
     {
       "id": 204,
+      "qid": 2658457325,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4493,6 +3501,7 @@
     },
     {
       "id": 205,
+      "qid": 4146884511,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4515,6 +3524,7 @@
     },
     {
       "id": 206,
+      "qid": 4278225820,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4536,29 +3546,8 @@
       "is_pro": false
     },
     {
-      "id": 207,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Medium",
-      "question": "दशमलव ३७ लाई बाइनरीमा बदल्दा के हुन्छ ?",
-      "options": [
-        "१००१०१",
-        "१०१००१",
-        "११०१०१",
-        "१००१११"
-      ],
-      "option_a": "१००१०१",
-      "option_b": "१०१००१",
-      "option_c": "११०१०१",
-      "option_d": "१००१११",
-      "answer_index": 0,
-      "explanation": "३७ = ३२ + ४ + १ = १००१०१₂ हुन्छ । २ ले क्रमशः भाग गर्दै बाँकी अङ्कलाई तलदेखि माथि लेख्दा यही नतिजा आउँछ ।",
-      "is_pro": false
-    },
-    {
       "id": 208,
+      "qid": 1095562885,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4581,6 +3570,7 @@
     },
     {
       "id": 209,
+      "qid": 1068769988,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4603,6 +3593,7 @@
     },
     {
       "id": 210,
+      "qid": 2253188759,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4625,6 +3616,7 @@
     },
     {
       "id": 211,
+      "qid": 1374397653,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4646,51 +3638,8 @@
       "is_pro": false
     },
     {
-      "id": 212,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "बाइनरी १०१११ को दशमलव मान कति हुन्छ ?",
-      "options": [
-        "२३",
-        "२१",
-        "२२",
-        "२४"
-      ],
-      "option_a": "२३",
-      "option_b": "२१",
-      "option_c": "२२",
-      "option_d": "२४",
-      "answer_index": 0,
-      "explanation": "१०१११₂ = १६ + ० + ४ + २ + १ = २३ हुन्छ ।",
-      "is_pro": false
-    },
-    {
-      "id": 213,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Medium",
-      "question": "कुन यन्त्रले डिजिटल सिग्नललाई एनालग सिग्नलमा बदल्छ ?",
-      "options": [
-        "मोडेम",
-        "राउटर",
-        "स्विच",
-        "हब"
-      ],
-      "option_a": "मोडेम",
-      "option_b": "राउटर",
-      "option_c": "स्विच",
-      "option_d": "हब",
-      "answer_index": 0,
-      "explanation": "मोडेमले डिजिटल सिग्नललाई एनालग सिग्नलमा (Modulation) र एनालगलाई डिजिटलमा (Demodulation) बदल्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 214,
+      "qid": 100883109,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4713,6 +3662,7 @@
     },
     {
       "id": 215,
+      "qid": 3512673722,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4735,6 +3685,7 @@
     },
     {
       "id": 216,
+      "qid": 4019641988,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4757,6 +3708,7 @@
     },
     {
       "id": 217,
+      "qid": 3525352934,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4779,6 +3731,7 @@
     },
     {
       "id": 218,
+      "qid": 1277639853,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4800,29 +3753,8 @@
       "is_pro": false
     },
     {
-      "id": 219,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Medium",
-      "question": "१'s complement को प्रयोग मुख्यतया कुन कार्यमा हुन्छ ?",
-      "options": [
-        "ऋणात्मक सङ्ख्या निरूपण गर्न",
-        "गुणन गर्न",
-        "भाग गर्न",
-        "दशमलवमा बदल्न"
-      ],
-      "option_a": "ऋणात्मक सङ्ख्या निरूपण गर्न",
-      "option_b": "गुणन गर्न",
-      "option_c": "भाग गर्न",
-      "option_d": "दशमलवमा बदल्न",
-      "answer_index": 0,
-      "explanation": "१'s complement को प्रयोग ऋणात्मक सङ्ख्या निरूपण गर्न र घटाउने कार्यलाई जोडमा बदल्न प्रयोग गरिन्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 220,
+      "qid": 892843495,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4845,6 +3777,7 @@
     },
     {
       "id": 221,
+      "qid": 437505521,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4866,29 +3799,8 @@
       "is_pro": false
     },
     {
-      "id": 222,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Medium",
-      "question": "कम्प्युटरको सबैभन्दा सानो डाटा एकाइ कुन हो ?",
-      "options": [
-        "बिट",
-        "बाइट",
-        "निबल",
-        "किलोबाइट"
-      ],
-      "option_a": "बिट",
-      "option_b": "बाइट",
-      "option_c": "निबल",
-      "option_d": "किलोबाइट",
-      "answer_index": 0,
-      "explanation": "बिट (Binary Digit) कम्प्युटरको सबैभन्दा सानो डाटा एकाइ हो । यसको मान ० वा १ हुन्छ । ८ बिट = १ बाइट हुन्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 223,
+      "qid": 204627664,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4911,6 +3823,7 @@
     },
     {
       "id": 224,
+      "qid": 3648190657,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4933,6 +3846,7 @@
     },
     {
       "id": 225,
+      "qid": 3877566229,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4955,6 +3869,7 @@
     },
     {
       "id": 226,
+      "qid": 184941475,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -4976,29 +3891,8 @@
       "is_pro": false
     },
     {
-      "id": 227,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "कुन सफ्टवेयरले कम्प्युटर र प्रयोगकर्ताबीच मध्यस्थता गर्छ ?",
-      "options": [
-        "अपरेटिङ सिस्टम",
-        "MS Word",
-        "Excel",
-        "Photoshop"
-      ],
-      "option_a": "अपरेटिङ सिस्टम",
-      "option_b": "MS Word",
-      "option_c": "Excel",
-      "option_d": "Photoshop",
-      "answer_index": 0,
-      "explanation": "अपरेटिङ सिस्टमले कम्प्युटर हार्डवेयर र प्रयोगकर्ताबीच मध्यस्थताको काम गर्छ र प्रयोगकर्तालाई कम्प्युटर चलाउन सजिलो बनाउँछ ।",
-      "is_pro": false
-    },
-    {
       "id": 228,
+      "qid": 867744856,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5020,29 +3914,8 @@
       "is_pro": false
     },
     {
-      "id": 229,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "दशमलव १००० लाई हेक्साडेसिमलमा बदल्दा के हुन्छ ?",
-      "options": [
-        "३E८",
-        "२E८",
-        "३D८",
-        "४E८"
-      ],
-      "option_a": "३E८",
-      "option_b": "२E८",
-      "option_c": "३D८",
-      "option_d": "४E८",
-      "answer_index": 0,
-      "explanation": "१००० ÷ १६ = ६२ बाँकी ८, ६२ ÷ १६ = ३ बाँकी १४ (E), त्यसैले १००० = ३E८₁₆ हुन्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 230,
+      "qid": 3815533046,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5065,6 +3938,7 @@
     },
     {
       "id": 231,
+      "qid": 366211690,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5087,6 +3961,7 @@
     },
     {
       "id": 232,
+      "qid": 1555380142,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5109,6 +3984,7 @@
     },
     {
       "id": 233,
+      "qid": 4221907359,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5130,29 +4006,8 @@
       "is_pro": false
     },
     {
-      "id": 234,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Medium",
-      "question": "बाइनरी १०१० + ११ = ?",
-      "options": [
-        "११०१",
-        "१०११",
-        "१११०",
-        "१००१"
-      ],
-      "option_a": "११०१",
-      "option_b": "१०११",
-      "option_c": "१११०",
-      "option_d": "१००१",
-      "answer_index": 0,
-      "explanation": "१०१०₂ = १०, ११₂ = ३, जोड्दा १३ हुन्छ । १३ को बाइनरी ११०१₂ हो ।",
-      "is_pro": false
-    },
-    {
       "id": 235,
+      "qid": 864678598,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5175,6 +4030,7 @@
     },
     {
       "id": 236,
+      "qid": 2093547779,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5197,6 +4053,7 @@
     },
     {
       "id": 237,
+      "qid": 3399353039,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5219,6 +4076,7 @@
     },
     {
       "id": 238,
+      "qid": 459693429,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5241,6 +4099,7 @@
     },
     {
       "id": 239,
+      "qid": 1841110987,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5262,29 +4121,8 @@
       "is_pro": false
     },
     {
-      "id": 240,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Medium",
-      "question": "तलका मध्ये कुन द्वितीयक भण्डारण यन्त्र होइन ?",
-      "options": [
-        "RAM",
-        "हार्ड डिस्क",
-        "DVD",
-        "पेन ड्राइभ"
-      ],
-      "option_a": "RAM",
-      "option_b": "हार्ड डिस्क",
-      "option_c": "DVD",
-      "option_d": "पेन ड्राइभ",
-      "answer_index": 0,
-      "explanation": "RAM प्राथमिक मेमोरी हो, द्वितीयक भण्डारण यन्त्र होइन । हार्ड डिस्क, DVD र पेन ड्राइभ द्वितीयक भण्डारण यन्त्र हुन् ।",
-      "is_pro": false
-    },
-    {
       "id": 241,
+      "qid": 3620815417,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5306,29 +4144,8 @@
       "is_pro": false
     },
     {
-      "id": 242,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "कुन सङ्ख्या प्रणालीमा अक्षर A–F प्रयोग हुन्छ ?",
-      "options": [
-        "हेक्साडेसिमल",
-        "बाइनरी",
-        "अष्टल",
-        "दशमलव"
-      ],
-      "option_a": "हेक्साडेसिमल",
-      "option_b": "बाइनरी",
-      "option_c": "अष्टल",
-      "option_d": "दशमलव",
-      "answer_index": 0,
-      "explanation": "हेक्साडेसिमल सङ्ख्या प्रणालीमा ०–९ र A–F सम्मका १६ अङ्क/चिह्न प्रयोग हुन्छन् । यसको आधार १६ हो ।",
-      "is_pro": false
-    },
-    {
       "id": 243,
+      "qid": 742508838,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5351,6 +4168,7 @@
     },
     {
       "id": 244,
+      "qid": 32787086,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5372,29 +4190,8 @@
       "is_pro": false
     },
     {
-      "id": 245,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "कम्प्युटरको मुख्य मेमोरी कुन हो ?",
-      "options": [
-        "RAM",
-        "हार्ड डिस्क",
-        "DVD",
-        "पेन ड्राइभ"
-      ],
-      "option_a": "RAM",
-      "option_b": "हार्ड डिस्क",
-      "option_c": "DVD",
-      "option_d": "पेन ड्राइभ",
-      "answer_index": 0,
-      "explanation": "RAM लाई मुख्य मेमोरी भनिन्छ । CPU ले चालु कार्यक्रम र डाटा RAM मा राखी सिधै पहुँच गर्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 246,
+      "qid": 481414490,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5417,6 +4214,7 @@
     },
     {
       "id": 247,
+      "qid": 2838124173,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5439,6 +4237,7 @@
     },
     {
       "id": 248,
+      "qid": 125406517,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5461,6 +4260,7 @@
     },
     {
       "id": 249,
+      "qid": 4170630626,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5483,6 +4283,7 @@
     },
     {
       "id": 250,
+      "qid": 1171349848,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5504,29 +4305,8 @@
       "is_pro": false
     },
     {
-      "id": 251,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "इमेल ठेगानामा @ चिह्नको कार्य के हो ?",
-      "options": [
-        "प्रयोगकर्ता नाम र डोमेन नाम छुट्याउनु",
-        "पासवर्ड जनाउनु",
-        "फाइल जनाउनु",
-        "ठेगाना लुकाउनु"
-      ],
-      "option_a": "प्रयोगकर्ता नाम र डोमेन नाम छुट्याउनु",
-      "option_b": "पासवर्ड जनाउनु",
-      "option_c": "फाइल जनाउनु",
-      "option_d": "ठेगाना लुकाउनु",
-      "answer_index": 0,
-      "explanation": "इमेल ठेगानामा @ चिह्नले प्रयोगकर्ता नाम र डोमेन नाम छुट्याउँछ । जस्तै: user@example.com मा user प्रयोगकर्ता नाम र example.com डोमेन हो ।",
-      "is_pro": false
-    },
-    {
       "id": 252,
+      "qid": 3440325729,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5549,6 +4329,7 @@
     },
     {
       "id": 253,
+      "qid": 3347490653,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5571,6 +4352,7 @@
     },
     {
       "id": 254,
+      "qid": 2519221665,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5592,29 +4374,8 @@
       "is_pro": false
     },
     {
-      "id": 255,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Medium",
-      "question": "डिजिटल सिग्नेचरको प्रयोग मुख्यतया के का लागि गरिन्छ ?",
-      "options": [
-        "विद्युतीय कागजातको प्रमाणीकरण",
-        "फाइल साइज घटाउन",
-        "इन्टरनेट गति बढाउन",
-        "भाइरस हटाउन"
-      ],
-      "option_a": "विद्युतीय कागजातको प्रमाणीकरण",
-      "option_b": "फाइल साइज घटाउन",
-      "option_c": "इन्टरनेट गति बढाउन",
-      "option_d": "भाइरस हटाउन",
-      "answer_index": 0,
-      "explanation": "डिजिटल सिग्नेचरले विद्युतीय कागजातको प्रामाणिकता र अखण्डता प्रमाणित गर्छ र पठाउने व्यक्तिको पहिचान सुनिश्चित गर्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 256,
+      "qid": 2133144905,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5636,29 +4397,8 @@
       "is_pro": false
     },
     {
-      "id": 257,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "तलका मध्ये कुन आउटपुट यन्त्र होइन ?",
-      "options": [
-        "स्क्यानर",
-        "प्रिन्टर",
-        "मोनिटर",
-        "स्पिकर"
-      ],
-      "option_a": "स्क्यानर",
-      "option_b": "प्रिन्टर",
-      "option_c": "मोनिटर",
-      "option_d": "स्पिकर",
-      "answer_index": 0,
-      "explanation": "स्क्यानर इनपुट यन्त्र हो । प्रिन्टर, मोनिटर र स्पिकर आउटपुट यन्त्र हुन् ।",
-      "is_pro": false
-    },
-    {
       "id": 258,
+      "qid": 2583856910,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5681,6 +4421,7 @@
     },
     {
       "id": 259,
+      "qid": 2718434650,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5703,6 +4444,7 @@
     },
     {
       "id": 260,
+      "qid": 2746236208,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5725,6 +4467,7 @@
     },
     {
       "id": 261,
+      "qid": 2267009631,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5747,6 +4490,7 @@
     },
     {
       "id": 262,
+      "qid": 2237704248,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5769,6 +4513,7 @@
     },
     {
       "id": 263,
+      "qid": 4153749253,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5790,29 +4535,8 @@
       "is_pro": false
     },
     {
-      "id": 264,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Medium",
-      "question": "कुन फाइल एक्सटेन्सनले इमेज (चित्र) जनाउँछ ?",
-      "options": [
-        ".png",
-        ".doc",
-        ".mp3",
-        ".exe"
-      ],
-      "option_a": ".png",
-      "option_b": ".doc",
-      "option_c": ".mp3",
-      "option_d": ".exe",
-      "answer_index": 0,
-      "explanation": ".png इमेज फाइलको एक्सटेन्सन हो । .doc डकुमेन्ट, .mp3 अडियो र .exe कार्यान्वयन योग्य फाइलको एक्सटेन्सन हो ।",
-      "is_pro": false
-    },
-    {
       "id": 265,
+      "qid": 1753794173,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5834,29 +4558,8 @@
       "is_pro": false
     },
     {
-      "id": 266,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "डाटाबेसमा रेकर्ड भन्नाले के बुझिन्छ ?",
-      "options": [
-        "सम्बन्धित फिल्डहरूको समूह",
-        "एउटा मात्र फिल्ड",
-        "एउटा टेबल",
-        "एउटा डाटाबेस"
-      ],
-      "option_a": "सम्बन्धित फिल्डहरूको समूह",
-      "option_b": "एउटा मात्र फिल्ड",
-      "option_c": "एउटा टेबल",
-      "option_d": "एउटा डाटाबेस",
-      "answer_index": 0,
-      "explanation": "रेकर्ड भन्नाले सम्बन्धित फिल्डहरूको समूहलाई बुझिन्छ, जसले कुनै एक व्यक्ति वा वस्तुको पूर्ण जानकारी जनाउँछ ।",
-      "is_pro": false
-    },
-    {
       "id": 267,
+      "qid": 4103240498,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5879,6 +4582,7 @@
     },
     {
       "id": 268,
+      "qid": 1342093108,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5900,29 +4604,8 @@
       "is_pro": false
     },
     {
-      "id": 269,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "बिजुली बन्द भएपछि पनि डाटा सुरक्षित राख्ने भण्डारण यन्त्र कुन हो ?",
-      "options": [
-        "हार्ड डिस्क",
-        "RAM",
-        "Cache",
-        "Register"
-      ],
-      "option_a": "हार्ड डिस्क",
-      "option_b": "RAM",
-      "option_c": "Cache",
-      "option_d": "Register",
-      "answer_index": 0,
-      "explanation": "हार्ड डिस्क स्थिर भण्डारण यन्त्र हो, जसमा बिजुली बन्द भएपछि पनि डाटा सुरक्षित रहन्छ । RAM, Cache र Register अस्थिर हुन् ।",
-      "is_pro": false
-    },
-    {
       "id": 270,
+      "qid": 3509765611,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5945,6 +4628,7 @@
     },
     {
       "id": 271,
+      "qid": 1364368404,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5967,6 +4651,7 @@
     },
     {
       "id": 272,
+      "qid": 696615323,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -5989,6 +4674,7 @@
     },
     {
       "id": 273,
+      "qid": 147573407,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6011,6 +4697,7 @@
     },
     {
       "id": 274,
+      "qid": 1233207578,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6032,29 +4719,8 @@
       "is_pro": false
     },
     {
-      "id": 275,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "तलका मध्ये कुन ओपन सोर्स अपरेटिङ सिस्टम हो ?",
-      "options": [
-        "Linux",
-        "Windows",
-        "macOS",
-        "iOS"
-      ],
-      "option_a": "Linux",
-      "option_b": "Windows",
-      "option_c": "macOS",
-      "option_d": "iOS",
-      "answer_index": 0,
-      "explanation": "Linux ओपन सोर्स अपरेटिङ सिस्टम हो, जसको स्रोत कोड सार्वजनिक रूपमा उपलब्ध हुन्छ र निःशुल्क प्रयोग गर्न सकिन्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 276,
+      "qid": 1045280854,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6077,6 +4743,7 @@
     },
     {
       "id": 277,
+      "qid": 271070866,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6099,6 +4766,7 @@
     },
     {
       "id": 278,
+      "qid": 1321685046,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6121,6 +4789,7 @@
     },
     {
       "id": 279,
+      "qid": 2644413468,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6142,51 +4811,8 @@
       "is_pro": false
     },
     {
-      "id": 280,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "कम्प्युटरको स्थायी मेमोरी कुन हो ?",
-      "options": [
-        "ROM",
-        "RAM",
-        "Cache",
-        "Register"
-      ],
-      "option_a": "ROM",
-      "option_b": "RAM",
-      "option_c": "Cache",
-      "option_d": "Register",
-      "answer_index": 0,
-      "explanation": "ROM स्थायी (Non-volatile) मेमोरी हो, जसमा रहेको डाटा विद्युत् बन्द भएपछि पनि मेटिँदैन ।",
-      "is_pro": false
-    },
-    {
-      "id": 281,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "कुन प्रोटोकलले इन्टरनेटमा डाटा सुरक्षित रूपमा सञ्चार गर्न प्रयोग हुन्छ ?",
-      "options": [
-        "HTTPS",
-        "HTTP",
-        "FTP",
-        "SMTP"
-      ],
-      "option_a": "HTTPS",
-      "option_b": "HTTP",
-      "option_c": "FTP",
-      "option_d": "SMTP",
-      "answer_index": 0,
-      "explanation": "HTTPS (HyperText Transfer Protocol Secure) ले डाटालाई इन्क्रिप्ट गरी सुरक्षित रूपमा सञ्चार गर्छ । HTTP मा इन्क्रिप्सन हुँदैन ।",
-      "is_pro": false
-    },
-    {
       "id": 282,
+      "qid": 812712038,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6209,6 +4835,7 @@
     },
     {
       "id": 283,
+      "qid": 127743908,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6231,6 +4858,7 @@
     },
     {
       "id": 284,
+      "qid": 4206807703,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6253,6 +4881,7 @@
     },
     {
       "id": 285,
+      "qid": 2251444779,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6275,6 +4904,7 @@
     },
     {
       "id": 286,
+      "qid": 1920209614,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6297,6 +4927,7 @@
     },
     {
       "id": 287,
+      "qid": 3395177230,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6318,29 +4949,8 @@
       "is_pro": false
     },
     {
-      "id": 288,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Medium",
-      "question": "कुन मेमोरीलाई मुख्य मेमोरी पनि भनिन्छ ?",
-      "options": [
-        "RAM",
-        "हार्ड डिस्क",
-        "DVD",
-        "पेन ड्राइभ"
-      ],
-      "option_a": "RAM",
-      "option_b": "हार्ड डिस्क",
-      "option_c": "DVD",
-      "option_d": "पेन ड्राइभ",
-      "answer_index": 0,
-      "explanation": "RAM लाई मुख्य मेमोरी भनिन्छ । यो CPU ले सिधै पहुँच गर्ने प्राथमिक मेमोरी हो ।",
-      "is_pro": false
-    },
-    {
       "id": 289,
+      "qid": 170424569,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6362,29 +4972,8 @@
       "is_pro": false
     },
     {
-      "id": 290,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Easy",
-      "question": "कुन गेटले इनपुट ० भएमा १ र १ भएमा ० दिन्छ ?",
-      "options": [
-        "NOT",
-        "AND",
-        "OR",
-        "XOR"
-      ],
-      "option_a": "NOT",
-      "option_b": "AND",
-      "option_c": "OR",
-      "option_d": "XOR",
-      "answer_index": 0,
-      "explanation": "NOT गेटले इनपुटलाई उल्टाउँछ । इनपुट ० भए आउटपुट १ र इनपुट १ भए आउटपुट ० हुन्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 291,
+      "qid": 96017567,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6407,6 +4996,7 @@
     },
     {
       "id": 292,
+      "qid": 682401116,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6429,6 +5019,7 @@
     },
     {
       "id": 293,
+      "qid": 2085292334,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6451,6 +5042,7 @@
     },
     {
       "id": 294,
+      "qid": 4279137791,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6472,29 +5064,8 @@
       "is_pro": false
     },
     {
-      "id": 295,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Hard",
-      "question": "HTML मा लाइन ब्रेक गर्न कुन ट्याग प्रयोग हुन्छ ?",
-      "options": [
-        "<br>",
-        "<p>",
-        "<hr>",
-        "<b>"
-      ],
-      "option_a": "<br>",
-      "option_b": "<p>",
-      "option_c": "<hr>",
-      "option_d": "<b>",
-      "answer_index": 0,
-      "explanation": "<br> ट्यागले लाइन ब्रेक गर्छ । <p> अनुच्छेद, <hr> क्षैतिज रेखा र <b> बोल्ड अक्षरका लागि प्रयोग हुन्छ ।",
-      "is_pro": false
-    },
-    {
       "id": 296,
+      "qid": 638039138,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6516,29 +5087,8 @@
       "is_pro": false
     },
     {
-      "id": 297,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "117",
-      "sub_cat_name": "Computer Science",
-      "level": "Medium",
-      "question": "बुलियन बीजगणितमा प्रयोग हुने मान कुन हुन् ?",
-      "options": [
-        "० र १",
-        "१ र २",
-        "० देखि ९",
-        "A देखि F"
-      ],
-      "option_a": "० र १",
-      "option_b": "१ र २",
-      "option_c": "० देखि ९",
-      "option_d": "A देखि F",
-      "answer_index": 0,
-      "explanation": "बुलियन बीजगणितमा ० (False) र १ (True) गरी दुई मान मात्र प्रयोग हुन्छन् ।",
-      "is_pro": false
-    },
-    {
       "id": 298,
+      "qid": 2931035859,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6561,6 +5111,7 @@
     },
     {
       "id": 299,
+      "qid": 143328253,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
@@ -6583,6 +5134,7 @@
     },
     {
       "id": 300,
+      "qid": 2581993655,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "117",
