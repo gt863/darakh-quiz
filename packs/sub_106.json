@@ -1,10 +1,11 @@
 {
   "sub_cat_id": "106",
-  "data_version": 1794491195766,
-  "total_questions": 192,
+  "data_version": 1795279225068,
+  "total_questions": 150,
   "questions": [
     {
       "id": 1,
+      "qid": 4222790812,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -27,6 +28,7 @@
     },
     {
       "id": 2,
+      "qid": 117948923,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -49,6 +51,7 @@
     },
     {
       "id": 3,
+      "qid": 498972368,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -71,6 +74,7 @@
     },
     {
       "id": 4,
+      "qid": 2002094095,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -92,29 +96,8 @@
       "is_pro": false
     },
     {
-      "id": 5,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "‘सुन’ कुन प्रकारको नाम हो?",
-      "options": [
-        "द्रव्यवाचक",
-        "भाववाचक",
-        "समूहवाचक",
-        "व्यक्तिवाचक"
-      ],
-      "option_a": "द्रव्यवाचक",
-      "option_b": "भाववाचक",
-      "option_c": "समूहवाचक",
-      "option_d": "व्यक्तिवाचक",
-      "answer_index": 0,
-      "explanation": "तौल वा नाप गर्न सकिने तर गन्न नसकिने धातु द्रव्यवाचक नाम हो।",
-      "is_pro": false
-    },
-    {
       "id": 6,
+      "qid": 4290550653,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -137,6 +120,7 @@
     },
     {
       "id": 7,
+      "qid": 979051639,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -158,29 +142,8 @@
       "is_pro": false
     },
     {
-      "id": 8,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "‘तपाईँ’ कुन आदरको सर्वनाम हो?",
-      "options": [
-        "उच्च आदर",
-        "निम्न आदर",
-        "मध्यम आदर",
-        "अति उच्च आदर"
-      ],
-      "option_a": "उच्च आदर",
-      "option_b": "निम्न आदर",
-      "option_c": "मध्यम आदर",
-      "option_d": "अति उच्च आदर",
-      "answer_index": 0,
-      "explanation": "सम्मान प्रकट गर्न प्रयोग गरिने ‘तपाईँ’ उच्च आदरको सर्वनाम हो।",
-      "is_pro": false
-    },
-    {
       "id": 9,
+      "qid": 2876021825,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -203,6 +166,7 @@
     },
     {
       "id": 10,
+      "qid": 4249753474,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -225,6 +189,7 @@
     },
     {
       "id": 11,
+      "qid": 3181597533,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -247,6 +212,7 @@
     },
     {
       "id": 12,
+      "qid": 4154568701,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -269,6 +235,7 @@
     },
     {
       "id": 13,
+      "qid": 2940074943,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -291,6 +258,7 @@
     },
     {
       "id": 14,
+      "qid": 4091483994,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -312,29 +280,8 @@
       "is_pro": false
     },
     {
-      "id": 15,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "‘इमानदार विद्यार्थी’ मा गुणबोधक विशेषण कुन हो?",
-      "options": [
-        "इमानदार",
-        "विद्यार्थी",
-        "दुवै हुन्",
-        "कुनै पनि होइन"
-      ],
-      "option_a": "इमानदार",
-      "option_b": "विद्यार्थी",
-      "option_c": "दुवै हुन्",
-      "option_d": "कुनै पनि होइन",
-      "answer_index": 0,
-      "explanation": "विद्यार्थीको गुण बुझाउने शब्द ‘इमानदार’ विशेषण हो।",
-      "is_pro": false
-    },
-    {
       "id": 16,
+      "qid": 2597863461,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -357,6 +304,7 @@
     },
     {
       "id": 17,
+      "qid": 20917221,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -379,6 +327,7 @@
     },
     {
       "id": 18,
+      "qid": 1955862176,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -400,29 +349,8 @@
       "is_pro": false
     },
     {
-      "id": 19,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Hard",
-      "question": "‘थोरै पानी’ कुन विशेषणको उदाहरण हो?",
-      "options": [
-        "परिमाणबोधक",
-        "सङ्ख्याबोधक",
-        "गुणबोधक",
-        "सार्वनामिक"
-      ],
-      "option_a": "परिमाणबोधक",
-      "option_b": "सङ्ख्याबोधक",
-      "option_c": "गुणबोधक",
-      "option_d": "सार्वनामिक",
-      "answer_index": 0,
-      "explanation": "थोरै, धेरै जस्ता मात्रा बुझाउने शब्द परिमाणबोधक विशेषण हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 20,
+      "qid": 392385843,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -445,6 +373,7 @@
     },
     {
       "id": 21,
+      "qid": 64068385,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -466,29 +395,8 @@
       "is_pro": false
     },
     {
-      "id": 22,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "‘राम भात खान्छ।’ यस वाक्यमा क्रियापद कुन हो?",
-      "options": [
-        "खान्छ",
-        "राम",
-        "भात",
-        "माथिका कुनै पनि होइन"
-      ],
-      "option_a": "खान्छ",
-      "option_b": "राम",
-      "option_c": "भात",
-      "option_d": "माथिका कुनै पनि होइन",
-      "answer_index": 0,
-      "explanation": "वाक्य टुङ्ग्याउने र काम बुझाउने शब्द ‘खान्छ’ क्रियापद हो।",
-      "is_pro": false
-    },
-    {
       "id": 23,
+      "qid": 3257125014,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -511,6 +419,7 @@
     },
     {
       "id": 24,
+      "qid": 4282801138,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -532,29 +441,8 @@
       "is_pro": false
     },
     {
-      "id": 25,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Hard",
-      "question": "‘भाइले चिठ्ठी लेख्यो।’ यस वाक्यमा धातु कुन हो?",
-      "options": [
-        "लेख्",
-        "लेख्यो",
-        "भाइ",
-        "चिठ्ठी"
-      ],
-      "option_a": "लेख्",
-      "option_b": "लेख्यो",
-      "option_c": "भाइ",
-      "option_d": "चिठ्ठी",
-      "answer_index": 0,
-      "explanation": "‘लेख्यो’ क्रियापदको मूल रूप ‘लेख्’ धातु हो।",
-      "is_pro": false
-    },
-    {
       "id": 26,
+      "qid": 2160297708,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -577,6 +465,7 @@
     },
     {
       "id": 27,
+      "qid": 2787869465,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -598,29 +487,8 @@
       "is_pro": false
     },
     {
-      "id": 28,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "काम भएको समय बुझाउने व्याकरणिक कोटिलाई के भनिन्छ?",
-      "options": [
-        "काल",
-        "पक्ष",
-        "वाच्य",
-        "भाव"
-      ],
-      "option_a": "काल",
-      "option_b": "पक्ष",
-      "option_c": "वाच्य",
-      "option_d": "भाव",
-      "answer_index": 0,
-      "explanation": "क्रियाले काम सम्पन्न हुने वा भइरहेको समयलाई काल भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 29,
+      "qid": 2954095723,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -643,6 +511,7 @@
     },
     {
       "id": 30,
+      "qid": 2756333015,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -665,6 +534,7 @@
     },
     {
       "id": 31,
+      "qid": 336514373,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -686,29 +556,8 @@
       "is_pro": false
     },
     {
-      "id": 32,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Hard",
-      "question": "‘भाइले गृहकार्य गरेको छ।’ यो कुन पक्ष हो?",
-      "options": [
-        "पूर्ण वर्तमान",
-        "सामान्य वर्तमान",
-        "अपूर्ण वर्तमान",
-        "पूर्ण भूत"
-      ],
-      "option_a": "पूर्ण वर्तमान",
-      "option_b": "सामान्य वर्तमान",
-      "option_c": "अपूर्ण वर्तमान",
-      "option_d": "पूर्ण भूत",
-      "answer_index": 0,
-      "explanation": "वर्तमान समयमै काम भर्खरै पूरा भएको अवस्था पूर्ण वर्तमान हो।",
-      "is_pro": false
-    },
-    {
       "id": 33,
+      "qid": 3274412219,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -731,6 +580,7 @@
     },
     {
       "id": 34,
+      "qid": 2363463917,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -753,6 +603,7 @@
     },
     {
       "id": 35,
+      "qid": 1419547822,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -774,29 +625,8 @@
       "is_pro": false
     },
     {
-      "id": 36,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "‘हामी खेल्नेछौँ।’ कुन काल हो?",
-      "options": [
-        "सामान्य भविष्यत्",
-        "अपूर्ण भविष्यत्",
-        "पूर्ण भविष्यत्",
-        "सामान्य भूत"
-      ],
-      "option_a": "सामान्य भविष्यत्",
-      "option_b": "अपूर्ण भविष्यत्",
-      "option_c": "पूर्ण भविष्यत्",
-      "option_d": "सामान्य भूत",
-      "answer_index": 0,
-      "explanation": "काम भविष्यमा सामान्य रूपमा हुने बुझाएकोले सामान्य भविष्यत् हो।",
-      "is_pro": false
-    },
-    {
       "id": 37,
+      "qid": 1004707532,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -819,6 +649,7 @@
     },
     {
       "id": 38,
+      "qid": 71823155,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -840,29 +671,8 @@
       "is_pro": false
     },
     {
-      "id": 39,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "‘म भात खान्छु।’ यो कुन वाच्य हो?",
-      "options": [
-        "कर्तृवाच्य",
-        "कर्मवाच्य",
-        "भाववाच्य",
-        "कुनै पनि होइन"
-      ],
-      "option_a": "कर्तृवाच्य",
-      "option_b": "कर्मवाच्य",
-      "option_c": "भाववाच्य",
-      "option_d": "कुनै पनि होइन",
-      "answer_index": 0,
-      "explanation": "यहाँ कर्ता 'म' प्रधान भएकोले यो कर्तृवाच्य हो।",
-      "is_pro": false
-    },
-    {
       "id": 40,
+      "qid": 1183980,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -885,6 +695,7 @@
     },
     {
       "id": 41,
+      "qid": 777234749,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -907,6 +718,7 @@
     },
     {
       "id": 42,
+      "qid": 474334619,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -928,29 +740,8 @@
       "is_pro": false
     },
     {
-      "id": 43,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "‘लेख्नु’ को प्रेरणार्थक रूप कुन हो?",
-      "options": [
-        "लेखाउनु",
-        "लेख्दै",
-        "लेखेर",
-        "लेखिने"
-      ],
-      "option_a": "लेखाउनु",
-      "option_b": "लेख्दै",
-      "option_c": "लेखेर",
-      "option_d": "लेखिने",
-      "answer_index": 0,
-      "explanation": "अरूलाई लेख्न लगाउने अर्थमा 'लेखाउनु' प्रेरणार्थक रूप हो।",
-      "is_pro": false
-    },
-    {
       "id": 44,
+      "qid": 3469633023,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -973,6 +764,7 @@
     },
     {
       "id": 45,
+      "qid": 352030082,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -995,6 +787,7 @@
     },
     {
       "id": 46,
+      "qid": 2342533431,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1017,6 +810,7 @@
     },
     {
       "id": 47,
+      "qid": 872868707,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1039,6 +833,7 @@
     },
     {
       "id": 48,
+      "qid": 1358622836,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1060,29 +855,8 @@
       "is_pro": false
     },
     {
-      "id": 49,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "वाक्यमा मिठास थप्ने तर आफ्नै स्वतन्त्र अर्थ नहुने शब्दलाई के भनिन्छ?",
-      "options": [
-        "निपात",
-        "संयोजक",
-        "नामयोगी",
-        "विस्मयादिबोधक"
-      ],
-      "option_a": "निपात",
-      "option_b": "संयोजक",
-      "option_c": "नामयोगी",
-      "option_d": "विस्मयादिबोधक",
-      "answer_index": 0,
-      "explanation": "त, नि, पो, रे जस्ता शब्दहरू निपात हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 50,
+      "qid": 4222752982,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1105,6 +879,7 @@
     },
     {
       "id": 51,
+      "qid": 3238994504,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1127,6 +902,7 @@
     },
     {
       "id": 52,
+      "qid": 2089813345,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1148,29 +924,8 @@
       "is_pro": false
     },
     {
-      "id": 53,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Hard",
-      "question": "‘रुखमाथि चरा छ।’ यसमा ‘माथि’ के हो?",
-      "options": [
-        "नामयोगी",
-        "संयोजक",
-        "निपात",
-        "विशेषण"
-      ],
-      "option_a": "नामयोगी",
-      "option_b": "संयोजक",
-      "option_c": "निपात",
-      "option_d": "विशेषण",
-      "answer_index": 0,
-      "explanation": "नाम ‘रुख’ सँग जोडिएर स्थान बुझाउने भएकोले ‘माथि’ नामयोगी हो।",
-      "is_pro": false
-    },
-    {
       "id": 54,
+      "qid": 2928303707,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1193,6 +948,7 @@
     },
     {
       "id": 55,
+      "qid": 2707193923,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1214,29 +970,8 @@
       "is_pro": false
     },
     {
-      "id": 56,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "सङ्ख्या बुझाउने व्याकरणिक कोटिलाई के भनिन्छ?",
-      "options": [
-        "वचन",
-        "लिङ्ग",
-        "पुरुष",
-        "काल"
-      ],
-      "option_a": "वचन",
-      "option_b": "लिङ्ग",
-      "option_c": "पुरुष",
-      "option_d": "काल",
-      "answer_index": 0,
-      "explanation": "एक वा एकभन्दा बढी सङ्ख्या बुझाउने रूप वचन हो।",
-      "is_pro": false
-    },
-    {
       "id": 57,
+      "qid": 1334823775,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1259,6 +994,7 @@
     },
     {
       "id": 58,
+      "qid": 195998742,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1281,6 +1017,7 @@
     },
     {
       "id": 59,
+      "qid": 989500959,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1303,6 +1040,7 @@
     },
     {
       "id": 60,
+      "qid": 1585755126,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1325,6 +1063,7 @@
     },
     {
       "id": 61,
+      "qid": 696984426,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1347,6 +1086,7 @@
     },
     {
       "id": 62,
+      "qid": 3628507630,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1368,29 +1108,8 @@
       "is_pro": false
     },
     {
-      "id": 63,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "शब्दको अगाडि जोडिएर नयाँ शब्द बनाउने शब्दांशलाई के भनिन्छ?",
-      "options": [
-        "उपसर्ग",
-        "प्रत्यय",
-        "समास",
-        "द्वित्व"
-      ],
-      "option_a": "उपसर्ग",
-      "option_b": "प्रत्यय",
-      "option_c": "समास",
-      "option_d": "द्वित्व",
-      "answer_index": 0,
-      "explanation": "मूल शब्दको अगाडि जोडिने अंश (जस्तै: अ, वि, सु) उपसर्ग हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 64,
+      "qid": 2531720966,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1413,6 +1132,7 @@
     },
     {
       "id": 65,
+      "qid": 3906070988,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1435,6 +1155,7 @@
     },
     {
       "id": 66,
+      "qid": 657827133,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1456,29 +1177,8 @@
       "is_pro": false
     },
     {
-      "id": 67,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "दुई वा दुईभन्दा बढी शब्दहरू मिलेर एउटै शब्द बन्ने प्रक्रियालाई के भनिन्छ?",
-      "options": [
-        "समास",
-        "द्वित्व",
-        "उपसर्ग",
-        "प्रत्यय"
-      ],
-      "option_a": "समास",
-      "option_b": "द्वित्व",
-      "option_c": "उपसर्ग",
-      "option_d": "प्रत्यय",
-      "answer_index": 0,
-      "explanation": "जस्तै: दाजु र भाइ = दाजुभाइ। यो समासको प्रक्रिया हो।",
-      "is_pro": false
-    },
-    {
       "id": 68,
+      "qid": 700291720,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1501,6 +1201,7 @@
     },
     {
       "id": 69,
+      "qid": 3289944256,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1523,6 +1224,7 @@
     },
     {
       "id": 70,
+      "qid": 1772798538,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1544,29 +1246,8 @@
       "is_pro": false
     },
     {
-      "id": 71,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "‘असत्य’ शब्दमा कुन उपसर्ग छ?",
-      "options": [
-        "अ",
-        "सत्य",
-        "अस",
-        "त"
-      ],
-      "option_a": "अ",
-      "option_b": "सत्य",
-      "option_c": "अस",
-      "option_d": "त",
-      "answer_index": 0,
-      "explanation": "सत्यको अगाडि ‘अ’ उपसर्ग लागेर असत्य बनेको हो।",
-      "is_pro": false
-    },
-    {
       "id": 72,
+      "qid": 1445246402,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1589,6 +1270,7 @@
     },
     {
       "id": 73,
+      "qid": 1455970622,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1611,6 +1293,7 @@
     },
     {
       "id": 74,
+      "qid": 1274588865,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1632,29 +1315,8 @@
       "is_pro": false
     },
     {
-      "id": 75,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "‘घाम’ को पर्यायवाची शब्द कुन हो?",
-      "options": [
-        "सूर्य",
-        "चन्द्रमा",
-        "तारा",
-        "बादल"
-      ],
-      "option_a": "सूर्य",
-      "option_b": "चन्द्रमा",
-      "option_c": "तारा",
-      "option_d": "बादल",
-      "answer_index": 0,
-      "explanation": "घाम र सूर्यले एउटै अर्थ दिन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 76,
+      "qid": 3719240735,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1677,6 +1339,7 @@
     },
     {
       "id": 77,
+      "qid": 2840927959,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1699,6 +1362,7 @@
     },
     {
       "id": 78,
+      "qid": 3880877208,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1720,29 +1384,8 @@
       "is_pro": false
     },
     {
-      "id": 79,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "‘ज्ञान’ को विपरीतार्थी शब्द कुन हो?",
-      "options": [
-        "अज्ञान",
-        "विज्ञान",
-        "पहिचान",
-        "सम्मान"
-      ],
-      "option_a": "अज्ञान",
-      "option_b": "विज्ञान",
-      "option_c": "पहिचान",
-      "option_d": "सम्मान",
-      "answer_index": 0,
-      "explanation": "ज्ञानको उल्टो अर्थ अज्ञान हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 80,
+      "qid": 897278056,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1765,6 +1408,7 @@
     },
     {
       "id": 81,
+      "qid": 351019398,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1786,51 +1430,8 @@
       "is_pro": false
     },
     {
-      "id": 82,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "‘ज्ञान’ को विपरीतार्थी शब्द कुन हो?",
-      "options": [
-        "अज्ञान",
-        "विज्ञान",
-        "पहिचान",
-        "सम्मान"
-      ],
-      "option_a": "अज्ञान",
-      "option_b": "विज्ञान",
-      "option_c": "पहिचान",
-      "option_d": "सम्मान",
-      "answer_index": 0,
-      "explanation": "ज्ञानको उल्टो अर्थ अज्ञान हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 83,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "नेपाली साहित्यका आदिकवि भनेर कसलाई चिनिन्छ ?",
-      "options": [
-        "भानुभक्त आचार्य",
-        "मोतीराम भट्ट",
-        "लक्ष्मीप्रसाद देवकोटा",
-        "लेखनाथ पौड्याल"
-      ],
-      "option_a": "भानुभक्त आचार्य",
-      "option_b": "मोतीराम भट्ट",
-      "option_c": "लक्ष्मीप्रसाद देवकोटा",
-      "option_d": "लेखनाथ पौड्याल",
-      "answer_index": 0,
-      "explanation": "भानुभक्त आचार्यलाई नेपाली साहित्यका आदिकवि भनिन्छ, जसले अध्यात्म रामायणलाई सरल नेपाली भाषामा अनुवाद गरेका थिए।",
-      "is_pro": false
-    },
-    {
       "id": 84,
+      "qid": 1473854032,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1853,6 +1454,7 @@
     },
     {
       "id": 85,
+      "qid": 1803955260,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1875,6 +1477,7 @@
     },
     {
       "id": 86,
+      "qid": 3135201381,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1896,29 +1499,8 @@
       "is_pro": false
     },
     {
-      "id": 87,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "नेपाली साहित्यमा 'युगकवि' को उपाधिबाट कसलाई सम्मान गरिएको छ ?",
-      "options": [
-        "सिद्धिचरण श्रेष्ठ",
-        "माधवप्रसाद घिमिरे",
-        "गोपालप्रसाद रिमाल",
-        "धरणीधर कोइराला"
-      ],
-      "option_a": "सिद्धिचरण श्रेष्ठ",
-      "option_b": "माधवप्रसाद घिमिरे",
-      "option_c": "गोपालप्रसाद रिमाल",
-      "option_d": "धरणीधर कोइराला",
-      "answer_index": 0,
-      "explanation": "नेपाली साहित्यमा युगकवि भनेर सिद्धिचरण श्रेष्ठलाई चिनिन्छ, जसले 'मेरो प्यारो ओखलढुङ्गा' जस्ता उत्कृष्ट कविता रचेका छन्।",
-      "is_pro": false
-    },
-    {
       "id": 88,
+      "qid": 463305651,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1941,6 +1523,7 @@
     },
     {
       "id": 89,
+      "qid": 350945737,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1963,6 +1546,7 @@
     },
     {
       "id": 90,
+      "qid": 4132975859,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -1985,6 +1569,7 @@
     },
     {
       "id": 91,
+      "qid": 784858403,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2007,6 +1592,7 @@
     },
     {
       "id": 92,
+      "qid": 1065765131,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2028,29 +1614,8 @@
       "is_pro": false
     },
     {
-      "id": 93,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "नेपाली साहित्यका 'आदिकवि' भनेर कसलाई चिनिन्छ ?",
-      "options": [
-        "भानुभक्त आचार्य",
-        "मोतीराम भट्ट",
-        "लेखनाथ पौड्याल",
-        "लक्ष्मीप्रसाद देवकोटा"
-      ],
-      "option_a": "भानुभक्त आचार्य",
-      "option_b": "मोतीराम भट्ट",
-      "option_c": "लेखनाथ पौड्याल",
-      "option_d": "लक्ष्मीप्रसाद देवकोटा",
-      "answer_index": 0,
-      "explanation": "भानुभक्त आचार्यले संस्कृत भाषाको अध्यात्म रामायणलाई सरल नेपाली भाषामा अनुवाद गरी नेपाली साहित्यको जग बसालेकाले उनलाई आदिकवि भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 94,
+      "qid": 1177524567,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2073,6 +1638,7 @@
     },
     {
       "id": 95,
+      "qid": 55134464,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2094,29 +1660,8 @@
       "is_pro": false
     },
     {
-      "id": 96,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "नेपाली साहित्यमा 'युवाकवि' उपाधिले परिचित साहित्यकार को हुन् ?",
-      "options": [
-        "मोतीराम भट्ट",
-        "गोपालप्रसाद रिमाल",
-        "भीमनिधि तिवारी",
-        "धरणीधर कोइराला"
-      ],
-      "option_a": "मोतीराम भट्ट",
-      "option_b": "गोपालप्रसाद रिमाल",
-      "option_c": "भीमनिधि तिवारी",
-      "option_d": "धरणीधर कोइराला",
-      "answer_index": 0,
-      "explanation": "आदिकवि भानुभक्त आचार्यलाई चिनाउने र समस्यापूर्ति कविताको प्रवर्द्धन गर्ने मोतीराम भट्टलाई युवाकवि भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 97,
+      "qid": 2700230999,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2139,6 +1684,7 @@
     },
     {
       "id": 98,
+      "qid": 4142999447,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2161,6 +1707,7 @@
     },
     {
       "id": 99,
+      "qid": 2340815041,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2182,29 +1729,8 @@
       "is_pro": false
     },
     {
-      "id": 100,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "गौरी' शोककाव्यका रचयिता को हुन् ?",
-      "options": [
-        "माधवप्रसाद घिमिरे",
-        "लेखनाथ पौड्याल",
-        "सोमनाथ सिग्द्याल",
-        "भवानी भिक्षु"
-      ],
-      "option_a": "माधवप्रसाद घिमिरे",
-      "option_b": "लेखनाथ पौड्याल",
-      "option_c": "सोमनाथ सिग्द्याल",
-      "option_d": "भवानी भिक्षु",
-      "answer_index": 0,
-      "explanation": "राष्ट्रकवि माधवप्रसाद घिमिरेले आफ्नी दिवङ्गत पत्नी गौरीको सम्झनामा 'गौरी' शोककाव्य रचना गरेका हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 101,
+      "qid": 3391788268,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2227,6 +1753,7 @@
     },
     {
       "id": 102,
+      "qid": 1978930612,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2249,6 +1776,7 @@
     },
     {
       "id": 103,
+      "qid": 3507185953,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2271,6 +1799,7 @@
     },
     {
       "id": 104,
+      "qid": 2760914598,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2293,6 +1822,7 @@
     },
     {
       "id": 105,
+      "qid": 978004145,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2315,6 +1845,7 @@
     },
     {
       "id": 106,
+      "qid": 3410825474,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2337,6 +1868,7 @@
     },
     {
       "id": 107,
+      "qid": 646706280,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2358,73 +1890,8 @@
       "is_pro": false
     },
     {
-      "id": 108,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "वचन कति प्रकारका हुन्छन् (नेपाली व्याकरण अनुसार) ?",
-      "options": [
-        "दुई प्रकार",
-        "तीन प्रकार",
-        "चार प्रकार",
-        "पाँच प्रकार"
-      ],
-      "option_a": "दुई प्रकार",
-      "option_b": "तीन प्रकार",
-      "option_c": "चार प्रकार",
-      "option_d": "पाँच प्रकार",
-      "answer_index": 0,
-      "explanation": "नेपाली व्याकरणमा वचन दुई प्रकारका हुन्छन्: एकवचन र बहुवचन।",
-      "is_pro": false
-    },
-    {
-      "id": 109,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "छोरा' शब्दको स्त्रीलिङ्गी रूप के हुन्छ ?",
-      "options": [
-        "छोरी",
-        "बुहारी",
-        "आमा",
-        "दिदी"
-      ],
-      "option_a": "छोरी",
-      "option_b": "बुहारी",
-      "option_c": "आमा",
-      "option_d": "दिदी",
-      "answer_index": 0,
-      "explanation": "पुलिङ्गी शब्द 'छोरा' को स्त्रीलिङ्गी रूप 'छोरी' हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 110,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "बसाइँ' उपन्यासका लेखक को हुन् ?",
-      "options": [
-        "लीलबहादुर क्षेत्री",
-        "डायमनशमशेर राणा",
-        "लैनसिंह बाङ्देल",
-        "रमेश विकल"
-      ],
-      "option_a": "लीलबहादुर क्षेत्री",
-      "option_b": "डायमनशमशेर राणा",
-      "option_c": "लैनसिंह बाङ्देल",
-      "option_d": "रमेश विकल",
-      "answer_index": 0,
-      "explanation": "नेपाली ग्रामीण जनजीवन र बसाइँसराइको मार्मिक कथा बोकेको 'बसाइँ' उपन्यासका लेखक लीलबहादुर क्षेत्री हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 111,
+      "qid": 2017671826,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2447,6 +1914,7 @@
     },
     {
       "id": 112,
+      "qid": 2930743751,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2468,29 +1936,8 @@
       "is_pro": false
     },
     {
-      "id": 113,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "महाकवि लक्ष्मीप्रसाद देवकोटाको जन्म कहिले भएको थियो ?",
-      "options": [
-        "वि.सं. १९६६ कात्तिक २७",
-        "वि.सं. १९६० कात्तिक २५",
-        "वि.सं. १९६८ भदौ २४",
-        "वि.सं. १९७६ असोज ७"
-      ],
-      "option_a": "वि.सं. १९६६ कात्तिक २७",
-      "option_b": "वि.सं. १९६० कात्तिक २५",
-      "option_c": "वि.सं. १९६८ भदौ २४",
-      "option_d": "वि.सं. १९७६ असोज ७",
-      "answer_index": 0,
-      "explanation": "महाकवि लक्ष्मीप्रसाद देवकोटाको जन्म वि.सं. १९६६ साल कात्तिक २७ गते लक्ष्मीपूजाका दिन काठमाडौँको धोबीधारामा भएको थियो।",
-      "is_pro": false
-    },
-    {
       "id": 114,
+      "qid": 2898964463,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2512,29 +1959,8 @@
       "is_pro": false
     },
     {
-      "id": 115,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Easy",
-      "question": "शिरिषको फूल' उपन्यासका रचनाकार को हुन् ?",
-      "options": [
-        "पारिजात",
-        "वानिरा गिरी",
-        "झमक घिमिरे",
-        "माया ठकुरी"
-      ],
-      "option_a": "पारिजात",
-      "option_b": "वानिरा गिरी",
-      "option_c": "झमक घिमिरे",
-      "option_d": "माया ठकुरी",
-      "answer_index": 0,
-      "explanation": "नेपाली साहित्यको चर्चित उपन्यास 'शिरिषको फूल' की लेखिका पारिजात (विष्णुकुमारी वाइबा) हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 116,
+      "qid": 1090941037,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2557,6 +1983,7 @@
     },
     {
       "id": 117,
+      "qid": 971944778,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2579,6 +2006,7 @@
     },
     {
       "id": 118,
+      "qid": 3479906053,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2601,6 +2029,7 @@
     },
     {
       "id": 119,
+      "qid": 3145393488,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2623,6 +2052,7 @@
     },
     {
       "id": 120,
+      "qid": 3017146776,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2645,6 +2075,7 @@
     },
     {
       "id": 121,
+      "qid": 3251317483,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2667,6 +2098,7 @@
     },
     {
       "id": 122,
+      "qid": 1607981373,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2689,6 +2121,7 @@
     },
     {
       "id": 123,
+      "qid": 3695641182,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2710,29 +2143,8 @@
       "is_pro": false
     },
     {
-      "id": 124,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "उच्चारणका आधारमा आधुनिक नेपाली भाषामा कतिवटा कथ्य व्यञ्जनवर्णहरू छन् ?",
-      "options": [
-        "२९ वटा",
-        "३० वटा",
-        "३३ वटा",
-        "३६ वटा"
-      ],
-      "option_a": "२९ वटा",
-      "option_b": "३० वटा",
-      "option_c": "३३ वटा",
-      "option_d": "३६ वटा",
-      "answer_index": 0,
-      "explanation": "देवनागरी लिपिमा ३६ व्यञ्जनवर्ण लेखिए तापनि नेपाली भाषाको कथ्य वा उच्चार्य व्यवस्थामा २९ वटा मात्र व्यञ्जनवर्ण रहेका छन्।",
-      "is_pro": false
-    },
-    {
       "id": 125,
+      "qid": 24288589,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2755,6 +2167,7 @@
     },
     {
       "id": 126,
+      "qid": 4113685484,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2777,6 +2190,7 @@
     },
     {
       "id": 127,
+      "qid": 2299648937,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2799,6 +2213,7 @@
     },
     {
       "id": 128,
+      "qid": 762436588,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2821,6 +2236,7 @@
     },
     {
       "id": 129,
+      "qid": 687348346,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2843,6 +2259,7 @@
     },
     {
       "id": 130,
+      "qid": 1217216840,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2865,6 +2282,7 @@
     },
     {
       "id": 131,
+      "qid": 384996725,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2887,6 +2305,7 @@
     },
     {
       "id": 132,
+      "qid": 2810993405,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2908,29 +2327,8 @@
       "is_pro": false
     },
     {
-      "id": 133,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "घुम्ने मेचमाथि अन्धो मान्छे' कवितासङ्ग्रहका लेखक को हुन् ?",
-      "options": [
-        "भूपी शेरचन",
-        "बैरागी काइँला",
-        "ईश्वरवल्लभ",
-        "मोहन कोइराला"
-      ],
-      "option_a": "भूपी शेरचन",
-      "option_b": "बैरागी काइँला",
-      "option_c": "ईश्वरवल्लभ",
-      "option_d": "मोहन कोइराला",
-      "answer_index": 0,
-      "explanation": "वि.सं. २०२५ सालमा मदन पुरस्कार प्राप्त कृति 'घुम्ने मेचमाथि अन्धो मान्छे' प्रसिद्ध कवि भूपी शेरचनको कवितासङ्ग्रह हो।",
-      "is_pro": false
-    },
-    {
       "id": 134,
+      "qid": 2407945085,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2953,6 +2351,7 @@
     },
     {
       "id": 135,
+      "qid": 1532704869,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2975,6 +2374,7 @@
     },
     {
       "id": 136,
+      "qid": 1007725036,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -2997,6 +2397,7 @@
     },
     {
       "id": 137,
+      "qid": 3508572347,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3019,6 +2420,7 @@
     },
     {
       "id": 138,
+      "qid": 773184404,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3041,6 +2443,7 @@
     },
     {
       "id": 139,
+      "qid": 3657233344,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3062,51 +2465,8 @@
       "is_pro": false
     },
     {
-      "id": 140,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "दोबाटो' (दुई बाटाको समूह) कुन समास हो ?",
-      "options": [
-        "द्विगु समास",
-        "अव्ययीभाव समास",
-        "बहुव्रीहि समास",
-        "कर्मधारय समास"
-      ],
-      "option_a": "द्विगु समास",
-      "option_b": "अव्ययीभाव समास",
-      "option_c": "बहुव्रीहि समास",
-      "option_d": "कर्मधारय समास",
-      "answer_index": 0,
-      "explanation": "पहिलो पद सङ्ख्यावाचक विशेषण भई समूहको अर्थ बुझाउने समासलाई द्विगु समास भनिन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 141,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "नेपाली साहित्यका प्रथम आधुनिक कथाकार को र उनको पहिलो आधुनिक कथा कुन मानिन्छ ?",
-      "options": [
-        "गुरूप्रसाद मैनाली - नासो",
-        "विश्वेश्वरप्रसाद कोइराला - दोषी चश्मा",
-        "भवानी भिक्षु - गुनकेशरी",
-        "पुष्कर शमशेर - परिबन्द"
-      ],
-      "option_a": "गुरूप्रसाद मैनाली - नासो",
-      "option_b": "विश्वेश्वरप्रसाद कोइराला - दोषी चश्मा",
-      "option_c": "भवानी भिक्षु - गुनकेशरी",
-      "option_d": "पुष्कर शमशेर - परिबन्द",
-      "answer_index": 0,
-      "explanation": "वि.सं. १९९२ मा शारदा पत्रिकामा प्रकाशित गुरूप्रसाद मैनालीको 'नासो' कथालाई नेपाली साहित्यको प्रथम आधुनिक कथा मानिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 142,
+      "qid": 1414166205,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3129,6 +2489,7 @@
     },
     {
       "id": 143,
+      "qid": 2504392535,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3151,6 +2512,7 @@
     },
     {
       "id": 144,
+      "qid": 2565605860,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3173,6 +2535,7 @@
     },
     {
       "id": 145,
+      "qid": 3825759399,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3195,6 +2558,7 @@
     },
     {
       "id": 146,
+      "qid": 2580293549,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3217,6 +2581,7 @@
     },
     {
       "id": 147,
+      "qid": 2412863757,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3238,29 +2603,8 @@
       "is_pro": false
     },
     {
-      "id": 148,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "माछा' शब्दको बहुवचन रूप के हुन्छ ?",
-      "options": [
-        "माछाहरू",
-        "माछो",
-        "माछी",
-        "माछागण"
-      ],
-      "option_a": "माछाहरू",
-      "option_b": "माछो",
-      "option_c": "माछी",
-      "option_d": "माछागण",
-      "answer_index": 0,
-      "explanation": "प्राणीवाचक वा जातिवाचक नाममा 'हरू' प्रत्यय जोडेर बहुवचन बनाइन्छ, तसर्थ माछाको बहुवचन 'माछाहरू' हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 149,
+      "qid": 3848713532,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3283,6 +2627,7 @@
     },
     {
       "id": 150,
+      "qid": 3483089598,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3304,29 +2649,8 @@
       "is_pro": false
     },
     {
-      "id": 151,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "आफ्नो नाम आफैँ लेख्न सक्ने' लाई एक शब्दमा के भनिन्छ ?",
-      "options": [
-        "साक्षर",
-        "निरक्षर",
-        "विद्वान्",
-        "शिक्षित"
-      ],
-      "option_a": "साक्षर",
-      "option_b": "निरक्षर",
-      "option_c": "विद्वान्",
-      "option_d": "शिक्षित",
-      "answer_index": 0,
-      "explanation": "सामान्य लेखपढ गर्न र आफ्नो नाम लेख्न जान्ने व्यक्तिलाई एक शब्दमा 'साक्षर' भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 152,
+      "qid": 2500987865,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3349,6 +2673,7 @@
     },
     {
       "id": 153,
+      "qid": 2046049506,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3371,6 +2696,7 @@
     },
     {
       "id": 154,
+      "qid": 3841982358,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3393,6 +2719,7 @@
     },
     {
       "id": 155,
+      "qid": 738216655,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3414,29 +2741,8 @@
       "is_pro": false
     },
     {
-      "id": 156,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Medium",
-      "question": "तरुण तपसी' नव्यकाव्यका लेखक को हुन् ?",
-      "options": [
-        "लेखनाथ पौड्याल",
-        "माधवप्रसाद घिमिरे",
-        "बालकृष्ण सम",
-        "लक्ष्मीप्रसाद देवकोटा"
-      ],
-      "option_a": "लेखनाथ पौड्याल",
-      "option_b": "माधवप्रसाद घिमिरे",
-      "option_c": "बालकृष्ण सम",
-      "option_d": "लक्ष्मीप्रसाद देवकोटा",
-      "answer_index": 0,
-      "explanation": "तरुण तपसी' कविशिरोमणि लेखनाथ पौड्यालद्वारा शिखरिणी छन्दमा रचिएको प्रसिद्ध दार्शनिक नव्यकाव्य हो।",
-      "is_pro": false
-    },
-    {
       "id": 157,
+      "qid": 2660023008,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3459,6 +2765,7 @@
     },
     {
       "id": 158,
+      "qid": 4102870701,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3481,6 +2788,7 @@
     },
     {
       "id": 159,
+      "qid": 3053984419,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3503,6 +2811,7 @@
     },
     {
       "id": 160,
+      "qid": 502819257,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3525,6 +2834,7 @@
     },
     {
       "id": 161,
+      "qid": 3487541198,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3547,6 +2857,7 @@
     },
     {
       "id": 162,
+      "qid": 457941808,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3569,6 +2880,7 @@
     },
     {
       "id": 163,
+      "qid": 317557954,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3591,6 +2903,7 @@
     },
     {
       "id": 164,
+      "qid": 1779793249,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3613,6 +2926,7 @@
     },
     {
       "id": 165,
+      "qid": 3598909938,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3635,6 +2949,7 @@
     },
     {
       "id": 166,
+      "qid": 966028170,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3657,6 +2972,7 @@
     },
     {
       "id": 167,
+      "qid": 2148222125,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3679,6 +2995,7 @@
     },
     {
       "id": 168,
+      "qid": 998048576,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3700,51 +3017,8 @@
       "is_pro": false
     },
     {
-      "id": 169,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Hard",
-      "question": "नेपाली भाषाको हालसम्म प्राप्त सबैभन्दा पुरानो अभिलेख मानिने 'दामुपालको दुल्लु अभिलेख' कहिलेको हो ?",
-      "options": [
-        "वि.सं. १०३८",
-        "वि.सं. १०५०",
-        "वि.सं. १३०२",
-        "वि.सं. १३७८"
-      ],
-      "option_a": "वि.सं. १०३८",
-      "option_b": "वि.सं. १०५०",
-      "option_c": "वि.सं. १३०२",
-      "option_d": "वि.सं. १३७८",
-      "answer_index": 0,
-      "explanation": "दैलेखको दुल्लुमा फेला परेको राजा दामुपालको वि.सं. १०३८ को शिलालेखलाई नेपाली भाषाको प्रारम्भिक प्राचीन अभिलेख मानिन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 170,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Hard",
-      "question": "मदन पुरस्कारको स्थापना कहिले र कोद्वारा गरिएको हो ?",
-      "options": [
-        "वि.सं. २०१२ मा रानी जगदम्बाकुमारी राणाद्वारा",
-        "वि.सं. २०१० मा मदनशमशेर राणाद्वारा",
-        "वि.सं. २०१५ मा कमलमणि दीक्षितद्वारा",
-        "वि.सं. २०१३ मा राजा महेन्द्रद्वारा"
-      ],
-      "option_a": "वि.सं. २०१२ मा रानी जगदम्बाकुमारी राणाद्वारा",
-      "option_b": "वि.सं. २०१० मा मदनशमशेर राणाद्वारा",
-      "option_c": "वि.सं. २०१५ मा कमलमणि दीक्षितद्वारा",
-      "option_d": "वि.सं. २०१३ मा राजा महेन्द्रद्वारा",
-      "answer_index": 0,
-      "explanation": "जनरल मदनशमशेर राणाको स्मृतिमा धर्मपत्नी रानी जगदम्बाकुमारी राणाद्वारा वि.सं. २०१२ असोज १० गते मदन पुरस्कारको स्थापना गरिएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 171,
+      "qid": 4138240990,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3767,6 +3041,7 @@
     },
     {
       "id": 172,
+      "qid": 1393918727,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3789,6 +3064,7 @@
     },
     {
       "id": 173,
+      "qid": 2531878104,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3811,6 +3087,7 @@
     },
     {
       "id": 174,
+      "qid": 3914745795,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3833,6 +3110,7 @@
     },
     {
       "id": 175,
+      "qid": 1422901856,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3855,6 +3133,7 @@
     },
     {
       "id": 176,
+      "qid": 4243823630,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3877,6 +3156,7 @@
     },
     {
       "id": 177,
+      "qid": 2270984333,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3899,6 +3179,7 @@
     },
     {
       "id": 178,
+      "qid": 394850345,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3921,6 +3202,7 @@
     },
     {
       "id": 179,
+      "qid": 83928205,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3943,6 +3225,7 @@
     },
     {
       "id": 180,
+      "qid": 838327625,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3965,6 +3248,7 @@
     },
     {
       "id": 181,
+      "qid": 2443124572,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -3987,6 +3271,7 @@
     },
     {
       "id": 182,
+      "qid": 3310964191,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -4009,6 +3294,7 @@
     },
     {
       "id": 183,
+      "qid": 2436390524,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -4030,29 +3316,8 @@
       "is_pro": false
     },
     {
-      "id": 184,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Hard",
-      "question": "सामाजिक' शब्दमा मूल शब्द र प्रत्यय कुन हो ?",
-      "options": [
-        "समाज + इक",
-        "सामाज + इक",
-        "समाज + ईक",
-        "सम + आजिक"
-      ],
-      "option_a": "समाज + इक",
-      "option_b": "सामाज + इक",
-      "option_c": "समाज + ईक",
-      "option_d": "सम + आजिक",
-      "answer_index": 0,
-      "explanation": "समाज' नाम शब्दमा 'इक' तद्धित प्रत्यय लाग्दा आदि वृद्धि भई 'स' को 'सा' बनेर 'सामाजिक' शब्द निर्माण हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 185,
+      "qid": 3920258865,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -4075,6 +3340,7 @@
     },
     {
       "id": 186,
+      "qid": 2082978055,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -4097,6 +3363,7 @@
     },
     {
       "id": 187,
+      "qid": 1528278487,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -4119,6 +3386,7 @@
     },
     {
       "id": 188,
+      "qid": 250582137,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -4141,6 +3409,7 @@
     },
     {
       "id": 189,
+      "qid": 105196171,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -4162,29 +3431,8 @@
       "is_pro": false
     },
     {
-      "id": 190,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Hard",
-      "question": "महाकवि लक्ष्मीप्रसाद देवकोटाद्वारा लिखित एकमात्र उपन्यास कुन हो ?",
-      "options": [
-        "चम्पा",
-        "सुम्निमा",
-        "रूपमती",
-        "मुलुकबाहिर"
-      ],
-      "option_a": "चम्पा",
-      "option_b": "सुम्निमा",
-      "option_c": "रूपमती",
-      "option_d": "मुलुकबाहिर",
-      "answer_index": 0,
-      "explanation": "काव्य र निबन्धमा प्रख्यात महाकवि लक्ष्मीप्रसाद देवकोटाले लेखेको एकमात्र सामाजिक उपन्यास 'चम्पा' हो।",
-      "is_pro": false
-    },
-    {
       "id": 191,
+      "qid": 1821597011,
       "main_cat_id": 1,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "106",
@@ -4203,28 +3451,6 @@
       "option_d": "डायमनशमशेर राणा",
       "answer_index": 0,
       "explanation": "वि.सं. १९९१ मा प्रकाशित रुद्रराज पाण्डेको 'रूपमती' लाई नेपाली साहित्यको पहिलो मौलिक आधुनिक सामाजिक उपन्यास मानिन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 192,
-      "main_cat_id": 1,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "106",
-      "sub_cat_name": "Nepali",
-      "level": "Hard",
-      "question": "घुम्ने मेचमाथि अन्धो मान्छे' कृतिका स्रष्टा भूपी शेरचनको वास्तविक नाम के हो ?",
-      "options": [
-        "भूपेन्द्रमान शेरचन",
-        "भूपालमान शेरचन",
-        "भुवनेश्वर शेरचन",
-        "भीमसेन शेरचन"
-      ],
-      "option_a": "भूपेन्द्रमान शेरचन",
-      "option_b": "भूपालमान शेरचन",
-      "option_c": "भुवनेश्वर शेरचन",
-      "option_d": "भीमसेन शेरचन",
-      "answer_index": 0,
-      "explanation": "सर्वहारा र व्यङ्ग्य चेतनाका सशक्त कवि भूपी शेरचनको पूरा र वास्तविक नाम भूपेन्द्रमान शेरचन हो।",
       "is_pro": false
     }
   ]
