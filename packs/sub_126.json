@@ -1,32 +1,11 @@
 {
   "sub_cat_id": "126",
-  "data_version": 1794491195766,
-  "total_questions": 300,
+  "data_version": 1795279225068,
+  "total_questions": 221,
   "questions": [
     {
-      "id": 1,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "दिइएको अनुक्रममा प्रश्नवाचक चिन्ह (?) को स्थानमा कुन पद आउँछ ? AZ, BY, CX, ?",
-      "options": [
-        "DW",
-        "DV",
-        "EW",
-        "DU"
-      ],
-      "option_a": "DW",
-      "option_b": "DV",
-      "option_c": "EW",
-      "option_d": "DU",
-      "answer_index": 0,
-      "explanation": "पहिलो अक्षर A, B, C हुँदै अगाडि बढेको छ (त्यसैले D आउँछ) र दोस्रो अक्षर Z, Y, X हुँदै पछाडि घटेको छ (त्यसैले W आउँछ)। अतः सही उत्तर DW हो।",
-      "is_pro": false
-    },
-    {
       "id": 2,
+      "qid": 3582214921,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -49,6 +28,7 @@
     },
     {
       "id": 3,
+      "qid": 1588679948,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 3921612303,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -93,6 +74,7 @@
     },
     {
       "id": 5,
+      "qid": 3472852998,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -114,29 +96,8 @@
       "is_pro": false
     },
     {
-      "id": 6,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "सीता उत्तरतर्फ फर्किएकी छिन्। उनी दायाँ मोडिन्छिन् र पुन: दायाँ मोडिन्छिन् भने अब उनी कुन दिशातर्फ फर्किएकी छिन् ?",
-      "options": [
-        "दक्षिण",
-        "पूर्व",
-        "पश्चिम",
-        "उत्तर"
-      ],
-      "option_a": "दक्षिण",
-      "option_b": "पूर्व",
-      "option_c": "पश्चिम",
-      "option_d": "उत्तर",
-      "answer_index": 0,
-      "explanation": "उत्तर फर्किएको व्यक्ति पहिलो पटक दायाँ मोडिँदा पूर्व र दोस्रो पटक दायाँ मोडिँदा दक्षिण दिशातर्फ फर्किन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 7,
+      "qid": 1881619111,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -159,6 +120,7 @@
     },
     {
       "id": 8,
+      "qid": 2487476532,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -181,6 +143,7 @@
     },
     {
       "id": 9,
+      "qid": 1956769606,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -203,6 +166,7 @@
     },
     {
       "id": 10,
+      "qid": 44826617,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -224,29 +188,8 @@
       "is_pro": false
     },
     {
-      "id": 11,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "यदि हिजो आइतबार थियो भने भोलि कुन बार पर्छ ?",
-      "options": [
-        "मंगलबार",
-        "बुधबार",
-        "सोमबार",
-        "बिहीबार"
-      ],
-      "option_a": "मंगलबार",
-      "option_b": "बुधबार",
-      "option_c": "सोमबार",
-      "option_d": "बिहीबार",
-      "answer_index": 0,
-      "explanation": "हिजो आइतबार भए आज सोमबार हुन्छ र भोलि मंगलबार पर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 12,
+      "qid": 3992941701,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -269,6 +212,7 @@
     },
     {
       "id": 13,
+      "qid": 343710874,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -291,6 +235,7 @@
     },
     {
       "id": 14,
+      "qid": 2037070083,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -312,29 +257,8 @@
       "is_pro": false
     },
     {
-      "id": 15,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "१ देखि ५ सम्मका प्राकृत संख्याहरूको औसत (Average) कति हुन्छ ?",
-      "options": [
-        "३",
-        "२.५",
-        "३.५",
-        "४"
-      ],
-      "option_a": "३",
-      "option_b": "२.५",
-      "option_c": "३.५",
-      "option_d": "४",
-      "answer_index": 0,
-      "explanation": "१ देखि ५ सम्मको योगफल (१+२+३+४+५) = १५ हुन्छ। औसत = १५ / ५ = ३ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 16,
+      "qid": 1004551928,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -357,6 +281,7 @@
     },
     {
       "id": 17,
+      "qid": 4030922443,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -379,6 +304,7 @@
     },
     {
       "id": 18,
+      "qid": 2332423678,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -400,29 +326,8 @@
       "is_pro": false
     },
     {
-      "id": 19,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "कुनै काम १० जनाले ५ दिनमा गर्न सक्छन् भने सोही काम २५ जनाले कति दिनमा गर्न सक्छन् ?",
-      "options": [
-        "२ दिन",
-        "३ दिन",
-        "४ दिन",
-        "५ दिन"
-      ],
-      "option_a": "२ दिन",
-      "option_b": "३ दिन",
-      "option_c": "४ दिन",
-      "option_d": "५ दिन",
-      "answer_index": 0,
-      "explanation": "सुत्र M₁D₁ = M₂D₂ अनुसार १० × ५ = २५ × D₂ हुन्छ। अतः D₂ = ५० / २५ = २ दिन लाग्छ।",
-      "is_pro": false
-    },
-    {
       "id": 20,
+      "qid": 482856401,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -445,6 +350,7 @@
     },
     {
       "id": 21,
+      "qid": 4281852165,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -467,6 +373,7 @@
     },
     {
       "id": 22,
+      "qid": 595761751,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -488,29 +395,8 @@
       "is_pro": false
     },
     {
-      "id": 23,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "एउटा पासा (Dice) मा जम्मा कतिवटा सतह (Faces) हुन्छन् ?",
-      "options": [
-        "६",
-        "४",
-        "८",
-        "१२"
-      ],
-      "option_a": "६",
-      "option_b": "४",
-      "option_c": "८",
-      "option_d": "१२",
-      "answer_index": 0,
-      "explanation": "एउटा घनाकार पासा (Cube/Dice) मा जम्मा ६ वटा सतह, ८ वटा कुना र १२ वटा किनारा हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 24,
+      "qid": 577361206,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -533,6 +419,7 @@
     },
     {
       "id": 25,
+      "qid": 939781165,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -554,29 +441,8 @@
       "is_pro": false
     },
     {
-      "id": 26,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "२:३ को अनुपातमा रहेका दुई संख्याहरूको योगफल ५० छ भने तीमध्ये सानो संख्या कुन हो ?",
-      "options": [
-        "२०",
-        "३०",
-        "१५",
-        "२५"
-      ],
-      "option_a": "२०",
-      "option_b": "३०",
-      "option_c": "१५",
-      "option_d": "२५",
-      "answer_index": 0,
-      "explanation": "अनुपातको योग २ + ३ = ५ हुन्छ। सानो संख्या = (२/५) × ५० = २० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 27,
+      "qid": 3044594860,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -599,6 +465,7 @@
     },
     {
       "id": 28,
+      "qid": 4202078720,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -621,6 +488,7 @@
     },
     {
       "id": 29,
+      "qid": 4013194323,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -642,29 +510,8 @@
       "is_pro": false
     },
     {
-      "id": 30,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "सन् २०२४ (AD 2024) मा जम्मा कति दिन हुन्छन् ?",
-      "options": [
-        "३६६ दिन",
-        "३६५ दिन",
-        "३६४ दिन",
-        "३६७ दिन"
-      ],
-      "option_a": "३६६ दिन",
-      "option_b": "३६५ दिन",
-      "option_c": "३६४ दिन",
-      "option_d": "३६७ दिन",
-      "answer_index": 0,
-      "explanation": "सन् २०२४ लाई ४ ले निःशेष भाग जाने हुँदा यो अधिक वर्ष (Leap Year) हो, जसमा फेब्रुअरी २९ दिनको हुन्छ र वर्षमा ३६६ दिन हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 31,
+      "qid": 1302621520,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -686,29 +533,8 @@
       "is_pro": false
     },
     {
-      "id": 32,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "दिइएको श्रेणीमा गलत संख्या (Wrong Number) पत्ता लगाउनुहोस्: २, ६, १२, २०, ३०, ४२, ५८",
-      "options": [
-        "५८",
-        "४२",
-        "३०",
-        "२०"
-      ],
-      "option_a": "५८",
-      "option_b": "४२",
-      "option_c": "३०",
-      "option_d": "२०",
-      "answer_index": 0,
-      "explanation": "श्रेणीको नियम १×२=२, २×३=६, ३×४=१२, ४×५=२०, ५×६=३०, ६×७=४२ र ७×८=५६ हुनुपर्नेमा ५८ लेखिएकोले ५८ गलत छ।",
-      "is_pro": false
-    },
-    {
       "id": 33,
+      "qid": 4177448673,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -731,6 +557,7 @@
     },
     {
       "id": 34,
+      "qid": 3565573452,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -753,6 +580,7 @@
     },
     {
       "id": 35,
+      "qid": 893548710,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -775,6 +603,7 @@
     },
     {
       "id": 36,
+      "qid": 3721420087,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -796,29 +625,8 @@
       "is_pro": false
     },
     {
-      "id": 37,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "A ले कुनै काम १० दिनमा र B ले सोही काम १५ दिनमा पूरा गर्न सक्छन्। दुवै मिलेर काम गरेमा कति दिनमा पूरा गर्लान् ?",
-      "options": [
-        "६ दिन",
-        "५ दिन",
-        "८ दिन",
-        "७.५ दिन"
-      ],
-      "option_a": "६ दिन",
-      "option_b": "५ दिन",
-      "option_c": "८ दिन",
-      "option_d": "७.५ दिन",
-      "answer_index": 0,
-      "explanation": "दुवै मिलेर काम गर्दा लाग्ने समय = (A × B) / (A + B) = (१० × १५) / (१० + १५) = १५० / २५ = ६ दिन।",
-      "is_pro": false
-    },
-    {
       "id": 38,
+      "qid": 2103590556,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -841,6 +649,7 @@
     },
     {
       "id": 39,
+      "qid": 965209098,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -862,29 +671,8 @@
       "is_pro": false
     },
     {
-      "id": 40,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "एक परीक्षामा ४०% विद्यार्थी गणितमा, ३०% अंग्रेजीमा र १०% दुवै विषयमा अनुत्तीर्ण भए भने दुवै विषयमा उत्तीर्ण हुने विद्यार्थी कति प्रतिशत होलान् ?",
-      "options": [
-        "४०%",
-        "३०%",
-        "६०%",
-        "२०%"
-      ],
-      "option_a": "४०%",
-      "option_b": "३०%",
-      "option_c": "६०%",
-      "option_d": "२०%",
-      "answer_index": 0,
-      "explanation": "कम्तीमा एक विषयमा अनुत्तीर्ण = ४०% + ३०% - १०% = ६०%। त्यसैले दुवै विषयमा उत्तीर्ण हुने = १००% - ६०% = ४०% हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 41,
+      "qid": 2988398461,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -907,6 +695,7 @@
     },
     {
       "id": 42,
+      "qid": 3432746278,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -929,6 +718,7 @@
     },
     {
       "id": 43,
+      "qid": 2787648133,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -950,29 +740,8 @@
       "is_pro": false
     },
     {
-      "id": 44,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "यदि '+' को अर्थ '×', '×' को अर्थ '-', '-' को अर्थ '÷' र '÷' को अर्थ '+' भए १० ÷ ८ + २ - ४ × ६ को मान कति हुन्छ ?",
-      "options": [
-        "८",
-        "१०",
-        "१२",
-        "१४"
-      ],
-      "option_a": "८",
-      "option_b": "१०",
-      "option_c": "१२",
-      "option_d": "१४",
-      "answer_index": 0,
-      "explanation": "चिन्ह परिवर्तन गर्दा: १० + ८ × २ ÷ ४ - ६ हुन्छ। BODMAS अनुसार १० + (८ × ०.५) - ६ = १० + ४ - ६ = ८ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 45,
+      "qid": 2285922930,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -995,6 +764,7 @@
     },
     {
       "id": 46,
+      "qid": 2916294722,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1016,29 +786,8 @@
       "is_pro": false
     },
     {
-      "id": 47,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "आयताकार कागजलाई बीचबाट दुई पटक पट्याएर (Fold गरेर) बीचमा एउटा प्वाल पार्दा कागज खोल्दा जम्मा कतिवटा प्वाल देखिन्छन् ?",
-      "options": [
-        "४",
-        "२",
-        "८",
-        "६"
-      ],
-      "option_a": "४",
-      "option_b": "२",
-      "option_c": "८",
-      "option_d": "६",
-      "answer_index": 0,
-      "explanation": "कागजलाई १ पटक पट्याउँदा २ तह र २ पटक पट्याउँदा ४ तह बन्छ। ४ तहको बीचमा १ प्वाल पार्दा कागज खोल्दा ४ वटै प्वाल देखिन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 48,
+      "qid": 2142052062,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1061,6 +810,7 @@
     },
     {
       "id": 49,
+      "qid": 362009037,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1083,6 +833,7 @@
     },
     {
       "id": 50,
+      "qid": 713574363,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1105,6 +856,7 @@
     },
     {
       "id": 51,
+      "qid": 1166674571,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1126,29 +878,8 @@
       "is_pro": false
     },
     {
-      "id": 52,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "तलका मध्ये कुन समूहले 'फर्निचर, टेबल र कुर्सी' बीचको सही भेन चित्र (Venn Diagram) सम्बन्ध देखाउँछ ?",
-      "options": [
-        "एउटा ठूलो वृत्तभित्र दुईवटा छुट्टाछुट्टै साना वृत्तहरू",
-        "तीनवटा एकअर्कामा खप्टिएका वृत्तहरू",
-        "एउटा वृत्तभित्र अर्को र त्यसभित्र अर्को वृत्त",
-        "तीनवटा पूर्ण रूपमा अलग वृत्तहरू"
-      ],
-      "option_a": "एउटा ठूलो वृत्तभित्र दुईवटा छुट्टाछुट्टै साना वृत्तहरू",
-      "option_b": "तीनवटा एकअर्कामा खप्टिएका वृत्तहरू",
-      "option_c": "एउटा वृत्तभित्र अर्को र त्यसभित्र अर्को वृत्त",
-      "option_d": "तीनवटा पूर्ण रूपमा अलग वृत्तहरू",
-      "answer_index": 0,
-      "explanation": "टेबल र कुर्सी दुवै फर्निचरभित्र पर्छन् तर टेबल र कुर्सी एकअर्काभन्दा बिल्कुलै फरक वस्तु हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 53,
+      "qid": 3397426615,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1171,6 +902,7 @@
     },
     {
       "id": 54,
+      "qid": 312017882,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1193,6 +925,7 @@
     },
     {
       "id": 55,
+      "qid": 608611998,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1214,29 +947,8 @@
       "is_pro": false
     },
     {
-      "id": 56,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "एक चिडियाखानामा केही खरायो र केही परेवा छन्। तिनीहरूको टाउको गन्दा ५० र खुट्टा गन्दा १४० पुग्छन् भने खरायोको संख्या कति छ ?",
-      "options": [
-        "२०",
-        "३०",
-        "२५",
-        "१५"
-      ],
-      "option_a": "२०",
-      "option_b": "३०",
-      "option_c": "२५",
-      "option_d": "१५",
-      "answer_index": 0,
-      "explanation": "चारखुट्टे जनावर (खरायो) को संख्या = (जम्मा खुट्टा / २) - टाउको = (१४० / २) - ५० = ७० - ५० = २० वटा।",
-      "is_pro": false
-    },
-    {
       "id": 57,
+      "qid": 4290676086,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1259,6 +971,7 @@
     },
     {
       "id": 58,
+      "qid": 4106786234,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1281,6 +994,7 @@
     },
     {
       "id": 59,
+      "qid": 1410025595,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1302,29 +1016,8 @@
       "is_pro": false
     },
     {
-      "id": 60,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "पाँच साथीहरू A, B, C, D र E मध्ये A चाहिँ B भन्दा अग्लो तर C भन्दा होचो छ। D चाहिँ B भन्दा होचो तर E भन्दा अग्लो छ। सबैभन्दा अग्लो को हो ?",
-      "options": [
-        "C",
-        "A",
-        "B",
-        "D"
-      ],
-      "option_a": "C",
-      "option_b": "A",
-      "option_c": "B",
-      "option_d": "D",
-      "answer_index": 0,
-      "explanation": "उचाइको क्रम मिलाउँदा C > A > B र B > D > E हुन्छ। समग्रमा C > A > B > D > E हुने भएकाले C सबैभन्दा अग्लो हो।",
-      "is_pro": false
-    },
-    {
       "id": 61,
+      "qid": 3845844588,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1347,6 +1040,7 @@
     },
     {
       "id": 62,
+      "qid": 1270889297,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1369,6 +1063,7 @@
     },
     {
       "id": 63,
+      "qid": 786369925,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1390,29 +1085,8 @@
       "is_pro": false
     },
     {
-      "id": 64,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "यदि पानीलाई हावा, हावालाई आगो, आगोलाई आकाश र आकाशलाई बादल भनिन्छ भने चरा कहाँ उड्छ ?",
-      "options": [
-        "बादल",
-        "आकाश",
-        "आगो",
-        "हावा"
-      ],
-      "option_a": "बादल",
-      "option_b": "आकाश",
-      "option_c": "आगो",
-      "option_d": "हावा",
-      "answer_index": 0,
-      "explanation": "वास्तविकतामा चरा आकाशमा उड्छ, र प्रश्नको कोड अनुसार 'आकाश' लाई 'बादल' भनिएको छ।",
-      "is_pro": false
-    },
-    {
       "id": 65,
+      "qid": 829038907,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1435,6 +1109,7 @@
     },
     {
       "id": 66,
+      "qid": 3295198697,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1457,6 +1132,7 @@
     },
     {
       "id": 67,
+      "qid": 2008139389,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1478,29 +1154,8 @@
       "is_pro": false
     },
     {
-      "id": 68,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "एउटा घडीमा १२:२० भएको छ भने त्यसको जल प्रतिबिम्ब (Water Image) मा कति बजेको देखिन्छ ?",
-      "options": [
-        "६:१०",
-        "५:१०",
-        "६:४०",
-        "५:४०"
-      ],
-      "option_a": "६:१०",
-      "option_b": "५:१०",
-      "option_c": "६:४०",
-      "option_d": "५:४०",
-      "answer_index": 0,
-      "explanation": "जल प्रतिबिम्ब निकाल्न १८:३० बाट दिइएको समय घटाउनुपर्छ। १८:३० - १२:२० = ६:१० बज्छ।",
-      "is_pro": false
-    },
-    {
       "id": 69,
+      "qid": 1092473489,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1523,6 +1178,7 @@
     },
     {
       "id": 70,
+      "qid": 3520387525,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1545,6 +1201,7 @@
     },
     {
       "id": 71,
+      "qid": 1898719443,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1566,29 +1223,8 @@
       "is_pro": false
     },
     {
-      "id": 72,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "A, B र C ले कुनै काम क्रमशः १२, १५ र २० दिनमा गर्न सक्छन्। तीनै जना मिलेर काम सुरु गरेको २ दिनपछि A ले काम छोड्यो भने बाँकी काम B र C ले कति दिनमा पूरा गर्लान् ?",
-      "options": [
-        "४ दिन",
-        "५ दिन",
-        "६ दिन",
-        "३ दिन"
-      ],
-      "option_a": "४ दिन",
-      "option_b": "५ दिन",
-      "option_c": "६ दिन",
-      "option_d": "३ दिन",
-      "answer_index": 0,
-      "explanation": "कुल काम ६० एकाइ मान्दा A, B, C को १ दिनको क्षमता क्रमशः ५, ४ र ३ (जम्मा १२) हुन्छ। २ दिनमा १२×२=२४ काम सकिन्छ। बाँकी ३६ काम B र C (क्षमता ४+३=७) वा प्रश्नमा C ले छोडेको भए? सुधार: २ दिनमा २४ काम सकिँदा बाँकी ३६ कामलाई यदि A र B ले गरे ३६/९ = ४ दिन (वा B र C को हकमा B को क्षमता ६ अर्थात् १० दिन भए)। प्राविधिक शुद्धताको लागि २ दिनमा २४ काम र बाँकी काम ४ दिनमा सकिने अनुपात।",
-      "is_pro": false
-    },
-    {
       "id": 73,
+      "qid": 1230984261,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1611,6 +1247,7 @@
     },
     {
       "id": 74,
+      "qid": 2460971005,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1632,29 +1269,8 @@
       "is_pro": false
     },
     {
-      "id": 75,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "एउटा ४×४×४ से.मि. को घनको बाहिरी सतहमा रङ लगाएर १×१×१ से.मि. का ६४ वटा साना घनमा काटियो। कतिवटा साना घनको कुनै पनि सतहमा रङ लागेको हुँदैन ?",
-      "options": [
-        "८",
-        "१६",
-        "४",
-        "२४"
-      ],
-      "option_a": "८",
-      "option_b": "१६",
-      "option_c": "४",
-      "option_d": "२४",
-      "answer_index": 0,
-      "explanation": "रङ नलाग्ने भित्री घनहरूको संख्या = (n - २)³ = (४ - २)³ = २³ = ८ वटा।",
-      "is_pro": false
-    },
-    {
       "id": 76,
+      "qid": 4284241840,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1677,6 +1293,7 @@
     },
     {
       "id": 77,
+      "qid": 2453021223,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1699,6 +1316,7 @@
     },
     {
       "id": 78,
+      "qid": 694355418,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1720,29 +1338,8 @@
       "is_pro": false
     },
     {
-      "id": 79,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "एउटा घडी प्रत्येक घण्टामा ५ मिनेट छिटो हिँड्छ। यदि बिहान ८:०० बजे सही समय मिलाइयो भने सोही दिन दिउँसो २:०० बजे (सही घडी अनुसार) सो घडीले कति समय देखाउँछ ?",
-      "options": [
-        "२:३०",
-        "२:२५",
-        "२:२०",
-        "२:३५"
-      ],
-      "option_a": "२:३०",
-      "option_b": "२:२५",
-      "option_c": "२:२०",
-      "option_d": "२:३५",
-      "answer_index": 0,
-      "explanation": "बिहान ८ बजेदेखि दिउँसो २ बजेसम्म जम्मा ६ घण्टा हुन्छ। प्रत्येक घण्टामा ५ मिनेट छिटो हुँदा ६ घण्टामा ६ × ५ = ३० मिनेट छिटो भई २:३० देखाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 80,
+      "qid": 2435858874,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1765,6 +1362,7 @@
     },
     {
       "id": 81,
+      "qid": 2572308250,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1787,6 +1385,7 @@
     },
     {
       "id": 82,
+      "qid": 2620025006,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1808,29 +1407,8 @@
       "is_pro": false
     },
     {
-      "id": 83,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "यदि A + B को अर्थ 'A, B को आमा हो', A - B को अर्थ 'A, B को भाइ हो' र A × B को अर्थ 'A, B को बुबा हो' भए P × Q - R मा P को R सँग के नाता पर्छ ?",
-      "options": [
-        "बुबा",
-        "काका",
-        "भाइ",
-        "हजुरबुबा"
-      ],
-      "option_a": "बुबा",
-      "option_b": "काका",
-      "option_c": "भाइ",
-      "option_d": "हजुरबुबा",
-      "answer_index": 0,
-      "explanation": "P × Q को अर्थ P, Q को बुबा हो र Q - R को अर्थ Q, R को भाइ हो। Q र R सन्तान भएकोले P चाहिँ R को पनि बुबा नै हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 84,
+      "qid": 3926771027,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1853,6 +1431,7 @@
     },
     {
       "id": 85,
+      "qid": 1680309877,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1875,6 +1454,7 @@
     },
     {
       "id": 86,
+      "qid": 4282978730,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1896,29 +1476,8 @@
       "is_pro": false
     },
     {
-      "id": 87,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "एक क्लबका १०० जना सदस्यहरूमा ५० जना क्रिकेट खेल्छन्, ४० जना फुटबल खेल्छन् र २० जना दुवै खेल खेल्दैनन् भने दुवै खेल खेल्ने सदस्य कति जना छन् ?",
-      "options": [
-        "१० जना",
-        "१५ जना",
-        "२० जना",
-        "२५ जना"
-      ],
-      "option_a": "१० जना",
-      "option_b": "१५ जना",
-      "option_c": "२० जना",
-      "option_d": "२५ जना",
-      "answer_index": 0,
-      "explanation": "कम्तीमा एक खेल खेल्ने = १०० - २० = ८० जना। दुवै खेल खेल्ने = ५० + ४० - ८० = १० जना।",
-      "is_pro": false
-    },
-    {
       "id": 88,
+      "qid": 1826114012,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1941,6 +1500,7 @@
     },
     {
       "id": 89,
+      "qid": 1537131877,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1963,6 +1523,7 @@
     },
     {
       "id": 90,
+      "qid": 2659822739,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -1985,6 +1546,7 @@
     },
     {
       "id": 91,
+      "qid": 3860613867,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2006,29 +1568,8 @@
       "is_pro": false
     },
     {
-      "id": 92,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "आमा र छोरीको वर्तमान उमेरको योगफल ५० वर्ष छ। ५ वर्षअघि आमाको उमेर छोरीको उमेरको ७ गुणा थियो भने आमाको वर्तमान उमेर कति हो ?",
-      "options": [
-        "४० वर्ष",
-        "३५ वर्ष",
-        "४२ वर्ष",
-        "४५ वर्ष"
-      ],
-      "option_a": "४० वर्ष",
-      "option_b": "३५ वर्ष",
-      "option_c": "४२ वर्ष",
-      "option_d": "४५ वर्ष",
-      "answer_index": 0,
-      "explanation": "५ वर्षअघि दुवैको उमेरको योगफल = ५० - १० = ४० वर्ष। ७:१ को अनुपातमा बाँड्दा ५ वर्षअघि आमा ३५ र छोरी ५ वर्षकी थिइन्। हाल आमा ३५ + ५ = ४० वर्षकी छिन्।",
-      "is_pro": false
-    },
-    {
       "id": 93,
+      "qid": 2033182462,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2051,6 +1592,7 @@
     },
     {
       "id": 94,
+      "qid": 83076845,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2072,29 +1614,8 @@
       "is_pro": false
     },
     {
-      "id": 95,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "एउटा कलेजमा कला र वाणिज्य संकायका विद्यार्थीहरूको अनुपात ३:५ छ। वाणिज्यमा ६० जना विद्यार्थी थपिँदा यो अनुपात ३:७ हुन्छ भने कला संकायमा कति विद्यार्थी छन् ?",
-      "options": [
-        "९० जना",
-        "१२० जना",
-        "१५० जना",
-        "६० जना"
-      ],
-      "option_a": "९० जना",
-      "option_b": "१२० जना",
-      "option_c": "१५० जना",
-      "option_d": "६० जना",
-      "answer_index": 0,
-      "explanation": "कलाको अनुपात ३ स्थिर छ र वाणिज्यको अनुपात ५ बाट ७ (अर्थात् २ एकाइ) बढेको छ। २ एकाइ = ६० जना भए १ एकाइ = ३० जना, त्यसैले कलामा ३ × ३० = ९० जना छन्।",
-      "is_pro": false
-    },
-    {
       "id": 96,
+      "qid": 3157232481,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2117,6 +1638,7 @@
     },
     {
       "id": 97,
+      "qid": 518203134,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2139,6 +1661,7 @@
     },
     {
       "id": 98,
+      "qid": 2352219589,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2160,29 +1683,8 @@
       "is_pro": false
     },
     {
-      "id": 99,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "एउटा झोलामा रु. १, ५० पैसा र २५ पैसाका सिक्काहरू २:३:४ को अनुपातमा छन्। यदि झोलामा जम्मा रु. १८० छ भने ५० पैसाका सिक्काको संख्या कति छ ?",
-      "options": [
-        "१२० वटा",
-        "८० वटा",
-        "१६० वटा",
-        "९० वटा"
-      ],
-      "option_a": "१२० वटा",
-      "option_b": "८० वटा",
-      "option_c": "१६० वटा",
-      "option_d": "९० वटा",
-      "answer_index": 0,
-      "explanation": "अनुपात २x, ३x र ४x मान्दा मूल्य: (२x × १) + (३x × ०.५) + (४x × ०.२५) = १८० => २x + १.५x + १x = १८० => ४.५x = १८० => x = ४०। ५० पैसाका सिक्का = ३ × ४० = १२० वटा।",
-      "is_pro": false
-    },
-    {
       "id": 100,
+      "qid": 2561615154,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2204,29 +1706,8 @@
       "is_pro": false
     },
     {
-      "id": 101,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "दिइएको अनुक्रममा प्रश्नवाचक चिन्ह (?) को स्थानमा कुन पद आउँछ ? ZA, YB, XC, ?",
-      "options": [
-        "WD",
-        "WE",
-        "VD",
-        "WC"
-      ],
-      "option_a": "WD",
-      "option_b": "WE",
-      "option_c": "VD",
-      "option_d": "WC",
-      "answer_index": 0,
-      "explanation": "पहिलो अक्षर Z, Y, X हुँदै १ ले घटेको छ (त्यसैले W आउँछ) र दोस्रो अक्षर A, B, C हुँदै १ ले बढेको छ (त्यसैले D आउँछ)। अतः सही उत्तर WD हो।",
-      "is_pro": false
-    },
-    {
       "id": 102,
+      "qid": 3599458929,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2249,6 +1730,7 @@
     },
     {
       "id": 103,
+      "qid": 1588679948,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2271,6 +1753,7 @@
     },
     {
       "id": 104,
+      "qid": 1168354976,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2293,6 +1776,7 @@
     },
     {
       "id": 105,
+      "qid": 3952988952,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2314,29 +1798,8 @@
       "is_pro": false
     },
     {
-      "id": 106,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "रमेश पूर्वतर्फ फर्किएको छ। ऊ बायाँ मोडिन्छ र पुन: बायाँ मोडिन्छ भने अब ऊ कुन दिशातर्फ फर्किएको छ ?",
-      "options": [
-        "पश्चिम",
-        "दक्षिण",
-        "उत्तर",
-        "पूर्व"
-      ],
-      "option_a": "पश्चिम",
-      "option_b": "दक्षिण",
-      "option_c": "उत्तर",
-      "option_d": "पूर्व",
-      "answer_index": 0,
-      "explanation": "पूर्व फर्किएको व्यक्ति पहिलो पटक बायाँ मोडिँदा उत्तर र दोस्रो पटक बायाँ मोडिँदा पश्चिम दिशातर्फ फर्किन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 107,
+      "qid": 2226682382,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2359,6 +1822,7 @@
     },
     {
       "id": 108,
+      "qid": 3294337553,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2381,6 +1845,7 @@
     },
     {
       "id": 109,
+      "qid": 1240196383,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2403,6 +1868,7 @@
     },
     {
       "id": 110,
+      "qid": 1877945616,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2424,29 +1890,8 @@
       "is_pro": false
     },
     {
-      "id": 111,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "यदि भोलिको भोलि (पर्सि) शुक्रबार पर्छ भने हिजो कुन बार थियो ?",
-      "options": [
-        "मंगलबार",
-        "बुधबार",
-        "सोमबार",
-        "आइतबार"
-      ],
-      "option_a": "मंगलबार",
-      "option_b": "बुधबार",
-      "option_c": "सोमबार",
-      "option_d": "आइतबार",
-      "answer_index": 0,
-      "explanation": "पर्सि शुक्रबार भए भोलि बिहीबार र आज बुधबार हुन्छ। आज बुधबार भए हिजो मंगलबार थियो।",
-      "is_pro": false
-    },
-    {
       "id": 112,
+      "qid": 3547917926,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2469,6 +1914,7 @@
     },
     {
       "id": 113,
+      "qid": 2728098268,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2490,29 +1936,8 @@
       "is_pro": false
     },
     {
-      "id": 114,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "अंग्रेजी शब्दकोश (Dictionary) अनुसार तलका मध्ये कुन शब्द सबैभन्दा पछाडि (अन्तिममा) आउँछ ?",
-      "options": [
-        "Book",
-        "Ball",
-        "Bank",
-        "Boat"
-      ],
-      "option_a": "Book",
-      "option_b": "Ball",
-      "option_c": "Bank",
-      "option_d": "Boat",
-      "answer_index": 0,
-      "explanation": "सबै शब्द 'B' बाट सुरु भएका छन्। दोस्रो अक्षर हेर्दा 'o' चाहिँ 'a' पछि आउँछ र 'Book' मा तेस्रो अक्षर 'o' चाहिँ 'Boat' को 'a' भन्दा पछाडि आउने हुँदा Book अन्तिममा आउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 115,
+      "qid": 2991575082,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2535,6 +1960,7 @@
     },
     {
       "id": 116,
+      "qid": 2121382696,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2556,29 +1982,8 @@
       "is_pro": false
     },
     {
-      "id": 117,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "चतुर्भुजमा ४ वटा भुजा भए जस्तै अष्टभुज (Octagon) मा कतिवटा भुजा हुन्छन् ?",
-      "options": [
-        "८",
-        "६",
-        "७",
-        "१०"
-      ],
-      "option_a": "८",
-      "option_b": "६",
-      "option_c": "७",
-      "option_d": "१०",
-      "answer_index": 0,
-      "explanation": "चतुर्भुजमा ४ भुजा हुन्छन् भने अष्टभुज (Octagon) मा ८ वटा भुजा हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 118,
+      "qid": 915176802,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2601,6 +2006,7 @@
     },
     {
       "id": 119,
+      "qid": 1965971261,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2623,6 +2029,7 @@
     },
     {
       "id": 120,
+      "qid": 2695193457,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2644,29 +2051,8 @@
       "is_pro": false
     },
     {
-      "id": 121,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "भूकम्प नाप्ने यन्त्रलाई सिस्मोग्राफ (Seismograph) भनिन्छ भने दूधको शुद्धता नाप्ने यन्त्रलाई के भनिन्छ ?",
-      "options": [
-        "ल्याक्टोमिटर",
-        "हाइग्रोमिटर",
-        "एनिमोमिटर",
-        "अम्मिटर"
-      ],
-      "option_a": "ल्याक्टोमिटर",
-      "option_b": "हाइग्रोमिटर",
-      "option_c": "एनिमोमिटर",
-      "option_d": "अम्मिटर",
-      "answer_index": 0,
-      "explanation": "दूधको घनत्व वा शुद्धता नाप्ने यन्त्रलाई ल्याक्टोमिटर (Lactometer) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 122,
+      "qid": 1887200532,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2689,6 +2075,7 @@
     },
     {
       "id": 123,
+      "qid": 164440337,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2711,6 +2098,7 @@
     },
     {
       "id": 124,
+      "qid": 1071381121,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2732,29 +2120,8 @@
       "is_pro": false
     },
     {
-      "id": 125,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "EDUCATION' शब्दका अक्षरहरू प्रयोग गरेर तलका मध्ये कुन शब्द बनाउन सकिन्छ ?",
-      "options": [
-        "ACTION",
-        "NATIONAL",
-        "DOCTOR",
-        "TRAIN"
-      ],
-      "option_a": "ACTION",
-      "option_b": "NATIONAL",
-      "option_c": "DOCTOR",
-      "option_d": "TRAIN",
-      "answer_index": 0,
-      "explanation": "EDUCATION' मा A, C, T, I, O, N सबै अक्षरहरू उपलब्ध छन्, त्यसैले 'ACTION' शब्द सहजै बनाउन सकिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 126,
+      "qid": 3693482526,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2777,6 +2144,7 @@
     },
     {
       "id": 127,
+      "qid": 1442640180,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2799,6 +2167,7 @@
     },
     {
       "id": 128,
+      "qid": 2869498677,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2820,29 +2189,8 @@
       "is_pro": false
     },
     {
-      "id": 129,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "०.२५ लाई प्रतिशतमा बदल्दा कति हुन्छ ?",
-      "options": [
-        "२५%",
-        "२.५%",
-        "०.२५%",
-        "२५०%"
-      ],
-      "option_a": "२५%",
-      "option_b": "२.५%",
-      "option_c": "०.२५%",
-      "option_d": "२५०%",
-      "answer_index": 0,
-      "explanation": "दशमलवलाई प्रतिशतमा बदल्न १००% ले गुणन गरिन्छ: ०.२५ × १००% = २५% हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 130,
+      "qid": 1859133078,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2864,29 +2212,8 @@
       "is_pro": false
     },
     {
-      "id": 131,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "यदि कुनै सांकेतिक भाषामा 'FLOWER' लाई 'GMPXFS' लेखिन्छ भने 'GARDEN' लाई के लेखिन्छ ?",
-      "options": [
-        "HBSEFO",
-        "HBSFEO",
-        "HBSEOF",
-        "IBSEFO"
-      ],
-      "option_a": "HBSEFO",
-      "option_b": "HBSFEO",
-      "option_c": "HBSEOF",
-      "option_d": "IBSEFO",
-      "answer_index": 0,
-      "explanation": "प्रत्येक अक्षरमा +१ गरिएको छ: G(+१)=H, A(+१)=B, R(+१)=S, D(+१)=E, E(+१)=F, N(+१)=O। अतः HBSEFO हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 132,
+      "qid": 1063992415,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2909,6 +2236,7 @@
     },
     {
       "id": 133,
+      "qid": 2722958053,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2931,6 +2259,7 @@
     },
     {
       "id": 134,
+      "qid": 2706885195,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2953,6 +2282,7 @@
     },
     {
       "id": 135,
+      "qid": 2539164055,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -2974,29 +2304,8 @@
       "is_pro": false
     },
     {
-      "id": 136,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "एउटा घडीमा ८ बजेर २० मिनेट जाँदा घण्टा सुई र मिनेट सुईबीच कति डिग्रीको कोण बन्छ ?",
-      "options": [
-        "१३०°",
-        "१२०°",
-        "१४०°",
-        "११०°"
-      ],
-      "option_a": "१३०°",
-      "option_b": "१२०°",
-      "option_c": "१४०°",
-      "option_d": "११०°",
-      "answer_index": 0,
-      "explanation": "कोण निकाल्ने सूत्र |३०H - (११/२)M| अनुसार |३०×८ - (११/२)×२०| = |२४० - ११०| = १३०° हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 137,
+      "qid": 1583502089,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3019,6 +2328,7 @@
     },
     {
       "id": 138,
+      "qid": 2593692059,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3040,29 +2350,8 @@
       "is_pro": false
     },
     {
-      "id": 139,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "एउटा ३×३×३ को घनको बाहिरी सतहमा रङ लगाएर १×१×१ का २७ वटा साना घनमा काट्दा कतिवटा साना घनको एकवटा मात्र सतहमा रङ लाग्छ ?",
-      "options": [
-        "६",
-        "८",
-        "१२",
-        "९"
-      ],
-      "option_a": "६",
-      "option_b": "८",
-      "option_c": "१२",
-      "option_d": "९",
-      "answer_index": 0,
-      "explanation": "एकवटा मात्र सतहमा रङ लाग्ने घन (केन्द्रका घन) को सूत्र = ६(n - २)² = ६(३ - २)² = ६ × १ = ६ वटा।",
-      "is_pro": false
-    },
-    {
       "id": 140,
+      "qid": 301921087,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3085,6 +2374,7 @@
     },
     {
       "id": 141,
+      "qid": 2457138626,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3106,29 +2396,8 @@
       "is_pro": false
     },
     {
-      "id": 142,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "एक लहरमा A बायाँबाट १५ औँ र B दायाँबाट २० औँ स्थानमा छन्। जब उनीहरूले आपसमा स्थान साट्छन्, A बायाँबाट २५ औँ स्थानमा पुग्छ भने लहरमा जम्मा कति जना छन् ?",
-      "options": [
-        "४४ जना",
-        "४५ जना",
-        "४३ जना",
-        "४० जना"
-      ],
-      "option_a": "४४ जना",
-      "option_b": "४५ जना",
-      "option_c": "४३ जना",
-      "option_d": "४० जना",
-      "answer_index": 0,
-      "explanation": "A को नयाँ स्थान (बायाँबाट २५) र B को पुरानो स्थान (दायाँबाट २०) एउटै कुर्सी हो। कुल संख्या = २५ + २० - १ = ४४ जना।",
-      "is_pro": false
-    },
-    {
       "id": 143,
+      "qid": 2655994682,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3151,6 +2420,7 @@
     },
     {
       "id": 144,
+      "qid": 1249341331,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3172,29 +2442,8 @@
       "is_pro": false
     },
     {
-      "id": 145,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "दिइएको अक्षर शृंखला पूरा गर्नुहोस्: m_nm_n_an_a_ma_",
-      "options": [
-        "amammn",
-        "aacmmn",
-        "ammanm",
-        "aammnn"
-      ],
-      "option_a": "amammn",
-      "option_b": "aacmmn",
-      "option_c": "ammanm",
-      "option_d": "aammnn",
-      "answer_index": 0,
-      "explanation": "खाली ठाउँमा क्रमशः 'a, m, a, m, m, n' राख्दा शृंखला 'man/man/man/man/man' को पूर्ण आवधिक ढाँचामा बन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 146,
+      "qid": 313061753,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3217,6 +2466,7 @@
     },
     {
       "id": 147,
+      "qid": 600979661,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3239,6 +2489,7 @@
     },
     {
       "id": 148,
+      "qid": 1113472907,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3260,29 +2511,8 @@
       "is_pro": false
     },
     {
-      "id": 149,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "रु. ५००० को ८% वार्षिक ब्याजदरले ३ वर्षको साधारण ब्याज कति हुन्छ ?",
-      "options": [
-        "रु. १२००",
-        "रु. १०००",
-        "रु. १५००",
-        "रु. ८००"
-      ],
-      "option_a": "रु. १२००",
-      "option_b": "रु. १०००",
-      "option_c": "रु. १५००",
-      "option_d": "रु. ८००",
-      "answer_index": 0,
-      "explanation": "साधारण ब्याज I = (P × T × R) / १०० = (५००० × ३ × ८) / १०० = ५० × २४ = रु. १२०० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 150,
+      "qid": 893461117,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3305,6 +2535,7 @@
     },
     {
       "id": 151,
+      "qid": 2574263889,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3326,29 +2557,8 @@
       "is_pro": false
     },
     {
-      "id": 152,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "नेपाल, एशिया र काठमाडौँ' बीचको सम्बन्ध कुन भेन चित्रले सही रूपमा दर्शाउँछ ?",
-      "options": [
-        "एउटा वृत्तभित्र अर्को वृत्त र त्यसभित्र तेस्रो वृत्त (समकेन्द्रित वृत्तहरू)",
-        "तीनवटा छुट्टाछुट्टै वृत्तहरू",
-        "एउटा ठूलो वृत्तभित्र दुईवटा अलग वृत्तहरू",
-        "तीनवटा खप्टिएका वृत्तहरू"
-      ],
-      "option_a": "एउटा वृत्तभित्र अर्को वृत्त र त्यसभित्र तेस्रो वृत्त (समकेन्द्रित वृत्तहरू)",
-      "option_b": "तीनवटा छुट्टाछुट्टै वृत्तहरू",
-      "option_c": "एउटा ठूलो वृत्तभित्र दुईवटा अलग वृत्तहरू",
-      "option_d": "तीनवटा खप्टिएका वृत्तहरू",
-      "answer_index": 0,
-      "explanation": "काठमाडौँ नेपालभित्र पर्छ र नेपाल एशिया महादेशभित्र पर्छ, त्यसैले तीनवटै वृत्तहरू एकभित्र अर्को रहन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 153,
+      "qid": 3078239944,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3371,6 +2581,7 @@
     },
     {
       "id": 154,
+      "qid": 2138947778,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3393,6 +2604,7 @@
     },
     {
       "id": 155,
+      "qid": 3041993166,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3414,29 +2626,8 @@
       "is_pro": false
     },
     {
-      "id": 156,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "एक किसानसँग केही गाई र केही कुखुरा छन्। यदि तिनीहरूको टाउकोको संख्या ३० र खुट्टाको संख्या १०० छ भने कुखुराको संख्या कति छ ?",
-      "options": [
-        "१०",
-        "२०",
-        "१५",
-        "१२"
-      ],
-      "option_a": "१०",
-      "option_b": "२०",
-      "option_c": "१५",
-      "option_d": "१२",
-      "answer_index": 0,
-      "explanation": "गाईको संख्या = (खुट्टा/२) - टाउको = (१००/२) - ३० = ५० - ३० = २० वटा। जम्मा ३० मा २० गाई भएपछि बाँकी १० वटा कुखुरा हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 157,
+      "qid": 1985741214,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3459,6 +2650,7 @@
     },
     {
       "id": 158,
+      "qid": 3174140218,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3481,6 +2673,7 @@
     },
     {
       "id": 159,
+      "qid": 2027900864,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3502,29 +2695,8 @@
       "is_pro": false
     },
     {
-      "id": 160,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "P, Q भन्दा धनी छ। R, P भन्दा धनी छ। S, R भन्दा धनी छ तर T भन्दा गरिब छ भने तीमध्ये बीचमा (तेस्रो धनी) को पर्छ ?",
-      "options": [
-        "R",
-        "P",
-        "S",
-        "Q"
-      ],
-      "option_a": "R",
-      "option_b": "P",
-      "option_c": "S",
-      "option_d": "Q",
-      "answer_index": 0,
-      "explanation": "धनीको क्रम मिलाउँदा T > S > R > P > Q हुन्छ। पाँच जनामध्ये ठीक बीचमा (तेस्रो स्थानमा) R पर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 161,
+      "qid": 3848222109,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3547,6 +2719,7 @@
     },
     {
       "id": 162,
+      "qid": 4051980293,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3569,6 +2742,7 @@
     },
     {
       "id": 163,
+      "qid": 1686299353,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3590,29 +2764,8 @@
       "is_pro": false
     },
     {
-      "id": 164,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "यदि कालोलाई रातो, रातोलाई पहेँलो, पहेँलोलाई निलो र निलोलाई हरियो भनिन्छ भने सफा आकाशको रङ कस्तो हुन्छ ?",
-      "options": [
-        "हरियो",
-        "निलो",
-        "पहेँलो",
-        "रातो"
-      ],
-      "option_a": "हरियो",
-      "option_b": "निलो",
-      "option_c": "पहेँलो",
-      "option_d": "रातो",
-      "answer_index": 0,
-      "explanation": "सफा आकाशको वास्तविक रङ निलो हुन्छ, र प्रश्नको कोड अनुसार 'निलो' लाई 'हरियो' भनिएको छ।",
-      "is_pro": false
-    },
-    {
       "id": 165,
+      "qid": 1440619484,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3635,6 +2788,7 @@
     },
     {
       "id": 166,
+      "qid": 3171742049,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3657,6 +2811,7 @@
     },
     {
       "id": 167,
+      "qid": 4272213779,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3678,29 +2833,8 @@
       "is_pro": false
     },
     {
-      "id": 168,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "एउटा घडीमा ४:४० भएको छ भने त्यसको ऐना प्रतिबिम्ब (Mirror Image) मा कति बजेको देखिन्छ ?",
-      "options": [
-        "७:२०",
-        "८:२०",
-        "७:४०",
-        "६:२०"
-      ],
-      "option_a": "७:२०",
-      "option_b": "८:२०",
-      "option_c": "७:४०",
-      "option_d": "६:२०",
-      "answer_index": 0,
-      "explanation": "ऐना प्रतिबिम्ब निकाल्न ११:६० बाट दिइएको समय घटाउनुपर्छ। ११:६० - ४:४० = ७:२० बज्छ।",
-      "is_pro": false
-    },
-    {
       "id": 169,
+      "qid": 1005706071,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3723,6 +2857,7 @@
     },
     {
       "id": 170,
+      "qid": 2782595528,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3745,6 +2880,7 @@
     },
     {
       "id": 171,
+      "qid": 3486712991,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3766,29 +2902,8 @@
       "is_pro": false
     },
     {
-      "id": 172,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "एउटा ट्याङ्कीमा दुईवटा धारा A र B ले क्रमशः १० घण्टा र १५ घण्टामा पानी भर्न सक्छन् भने तेस्रो धारा C ले २० घण्टामा खाली गर्न सक्छ। तीनवटै धारा एकैसाथ खोल्दा ट्याङ्की कति समयमा भरिएला ?",
-      "options": [
-        "८ (४/७) घण्टा",
-        "१० घण्टा",
-        "७ (१/२) घण्टा",
-        "१२ घण्टा"
-      ],
-      "option_a": "८ (४/७) घण्टा",
-      "option_b": "१० घण्टा",
-      "option_c": "७ (१/२) घण्टा",
-      "option_d": "१२ घण्टा",
-      "answer_index": 0,
-      "explanation": "कुल क्षमता ६० मान्दा १ घण्टामा A ले +६, B ले +४ भर्छन् र C ले -३ खाली गर्छ। खुद भरिने = ६+४-३ = ७ एकाइ/घण्टा। कुल समय = ६० / ७ = ८ सही ४/७ घण्टा।",
-      "is_pro": false
-    },
-    {
       "id": 173,
+      "qid": 2735891842,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3811,6 +2926,7 @@
     },
     {
       "id": 174,
+      "qid": 221506400,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3832,29 +2948,8 @@
       "is_pro": false
     },
     {
-      "id": 175,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "५×५×५ से.मि. को एउटा ठूलो घनको बाहिरी सतहमा रङ लगाएर १×१×१ से.मि. का १२५ वटा साना घनमा काटियो। कतिवटा साना घनको ठीक दुईवटा सतहमा मात्र रङ लागेको हुन्छ ?",
-      "options": [
-        "३६",
-        "२४",
-        "४८",
-        "५४"
-      ],
-      "option_a": "३६",
-      "option_b": "२४",
-      "option_c": "४८",
-      "option_d": "५४",
-      "answer_index": 0,
-      "explanation": "ठीक दुईवटा सतहमा रङ लाग्ने घनहरूको संख्या = १२(n - २) = १२ × (५ - २) = १२ × ३ = ३६ वटा।",
-      "is_pro": false
-    },
-    {
       "id": 176,
+      "qid": 3526628435,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3877,6 +2972,7 @@
     },
     {
       "id": 177,
+      "qid": 2757662694,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3899,6 +2995,7 @@
     },
     {
       "id": 178,
+      "qid": 1106557091,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3921,6 +3018,7 @@
     },
     {
       "id": 179,
+      "qid": 2298153016,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3942,29 +3040,8 @@
       "is_pro": false
     },
     {
-      "id": 180,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "४ × ४ को वर्गाकार ग्रिड (4x4 Chessboard Grid) मा जम्मा कतिवटा वर्गहरू (Squares) हुन्छन् ?",
-      "options": [
-        "३०",
-        "१६",
-        "२०",
-        "३२"
-      ],
-      "option_a": "३०",
-      "option_b": "१६",
-      "option_c": "२०",
-      "option_d": "३२",
-      "answer_index": 0,
-      "explanation": "४×४ को सममित ग्रिडमा वर्गको संख्या = १² + २² + ३² + ४² = १ + ४ + ९ + १६ = ३० वटा।",
-      "is_pro": false
-    },
-    {
       "id": 181,
+      "qid": 769077625,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -3987,6 +3064,7 @@
     },
     {
       "id": 182,
+      "qid": 1545665524,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4009,6 +3087,7 @@
     },
     {
       "id": 183,
+      "qid": 598582022,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4030,29 +3109,8 @@
       "is_pro": false
     },
     {
-      "id": 184,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "दिइएको म्याट्रिक्समा प्रश्नवाचक चिन्ह (?) को मान पत्ता लगाउनुहोस्: [हरफ १: ८, ६, २८] [हरफ २: ७, ४, २२] [हरफ ३: ९, ५, ?]",
-      "options": [
-        "२८",
-        "३०",
-        "३२",
-        "२६"
-      ],
-      "option_a": "२८",
-      "option_b": "३०",
-      "option_c": "३२",
-      "option_d": "२६",
-      "answer_index": 0,
-      "explanation": "यसमा (पहिलो + दोस्रो) × २ को नियम छ: (८+६)×२ = २८, (७+४)×२ = २२। त्यसैगरी (९+५) × २ = १४ × २ = २८ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 185,
+      "qid": 3314130820,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4075,6 +3133,7 @@
     },
     {
       "id": 186,
+      "qid": 3426778315,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4097,6 +3156,7 @@
     },
     {
       "id": 187,
+      "qid": 2864966379,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4118,29 +3178,8 @@
       "is_pro": false
     },
     {
-      "id": 188,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "दिइएको अनुक्रममा खाली ठाउँ (?) पूरा गर्नुहोस्: ०, ६, २४, ६०, १२०, ?",
-      "options": [
-        "२१०",
-        "२१६",
-        "१८०",
-        "२४०"
-      ],
-      "option_a": "२१०",
-      "option_b": "२१६",
-      "option_c": "१८०",
-      "option_d": "२४०",
-      "answer_index": 0,
-      "explanation": "यो श्रेणी n³ - n को नियममा आधारित छ: १³-१=०, २³-२=६, ३³-३=२४, ४³-४=६०, ५³-५=१२०। अब ६³ - ६ = २१६ - ६ = २१० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 189,
+      "qid": 2371431382,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4163,6 +3202,7 @@
     },
     {
       "id": 190,
+      "qid": 3955979713,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4184,29 +3224,8 @@
       "is_pro": false
     },
     {
-      "id": 191,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "शान्त पानीमा डुङ्गाको गति १० कि.मि./घण्टा छ र नदीको बहावको गति २ कि.मि./घण्टा छ। बहावको दिशामा (Downstream) २४ कि.मि. गएर पुनः सोही स्थानमा फर्किन (Upstream) जम्मा कति समय लाग्छ ?",
-      "options": [
-        "५ घण्टा",
-        "४ घण्टा",
-        "४.५ घण्टा",
-        "५.५ घण्टा"
-      ],
-      "option_a": "५ घण्टा",
-      "option_b": "४ घण्टा",
-      "option_c": "४.५ घण्टा",
-      "option_d": "५.५ घण्टा",
-      "answer_index": 0,
-      "explanation": "बहावको दिशामा गति = १०+२ = १२ कि.मि./घण्टा (समय = २४/१२ = २ घण्टा)। विपरीत दिशामा गति = १०-२ = ८ कि.मि./घण्टा (समय = २४/८ = ३ घण्टा)। कुल समय = २ + ३ = ५ घण्टा।",
-      "is_pro": false
-    },
-    {
       "id": 192,
+      "qid": 2451669473,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4229,6 +3248,7 @@
     },
     {
       "id": 193,
+      "qid": 602839081,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4251,6 +3271,7 @@
     },
     {
       "id": 194,
+      "qid": 2564090650,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4272,29 +3293,8 @@
       "is_pro": false
     },
     {
-      "id": 195,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "A, B र C बीच रु. १४०० लाई यसरी बाँडियो कि A:B = २:३ र B:C = ४:५ छ भने B ले कति रकम प्राप्त गर्छ ?",
-      "options": [
-        "रु. ४८०",
-        "रु. ३२०",
-        "रु. ६००",
-        "रु. ४५०"
-      ],
-      "option_a": "रु. ४८०",
-      "option_b": "रु. ३२०",
-      "option_c": "रु. ६००",
-      "option_d": "रु. ४५०",
-      "answer_index": 0,
-      "explanation": "संयुक्त अनुपात A:B:C = (२×४):(३×४):(३×५) = ८:१२:१५ हुन्छ। अनुपातको योग = ८+१२+१५ = ३५। B को हिस्सा = (१२ / ३५) × १४०० = १२ × ४० = रु. ४८०।",
-      "is_pro": false
-    },
-    {
       "id": 196,
+      "qid": 394436385,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4317,6 +3317,7 @@
     },
     {
       "id": 197,
+      "qid": 1844665098,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4339,6 +3340,7 @@
     },
     {
       "id": 198,
+      "qid": 3064684226,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4360,29 +3362,8 @@
       "is_pro": false
     },
     {
-      "id": 199,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "दुई अंकले बनेको एउटा संख्या र सो संख्याका अंकहरूको स्थान साट्दा बन्ने संख्याबीचको अन्तर ३६ छ भने ती दुई अंकहरूबीचको अन्तर कति हुन्छ ?",
-      "options": [
-        "४",
-        "६",
-        "३",
-        "९"
-      ],
-      "option_a": "४",
-      "option_b": "६",
-      "option_c": "३",
-      "option_d": "९",
-      "answer_index": 0,
-      "explanation": "दुई अंकको संख्या (10x + y) र स्थान साट्दा बन्ने संख्या (10y + x) को अन्तर सधैँ 9(x - y) हुन्छ। अतः 9(x - y) = ३६ हुँदा अंकहरूको अन्तर (x - y) = ३६ / ९ = ४ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 200,
+      "qid": 743891912,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4404,29 +3385,8 @@
       "is_pro": false
     },
     {
-      "id": 201,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "दिइएको अक्षर अनुक्रममा प्रश्नवाचक चिन्ह (?) को स्थानमा कुन अक्षर आउँछ ? B, E, H, K, ?",
-      "options": [
-        "N",
-        "M",
-        "O",
-        "L"
-      ],
-      "option_a": "N",
-      "option_b": "M",
-      "option_c": "O",
-      "option_d": "L",
-      "answer_index": 0,
-      "explanation": "प्रत्येक अक्षरमा ३ जोड्दै (B+३=E, E+३=H, H+३=K) अगाडि बढेको छ। त्यसैले K(११) + ३ = १४ औँ अक्षर N आउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 202,
+      "qid": 2722793178,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4449,6 +3409,7 @@
     },
     {
       "id": 203,
+      "qid": 1588679948,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4471,6 +3432,7 @@
     },
     {
       "id": 204,
+      "qid": 2661416121,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4493,6 +3455,7 @@
     },
     {
       "id": 205,
+      "qid": 2022467773,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4514,29 +3477,8 @@
       "is_pro": false
     },
     {
-      "id": 206,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "श्याम दक्षिणतर्फ फर्किएको छ। ऊ घडीको सुई घुम्ने दिशामा (Clockwise) ९० डिग्रीमा घुम्छ भने अब ऊ कुन दिशामा फर्किएको छ ?",
-      "options": [
-        "पश्चिम",
-        "पूर्व",
-        "उत्तर",
-        "दक्षिण"
-      ],
-      "option_a": "पश्चिम",
-      "option_b": "पूर्व",
-      "option_c": "उत्तर",
-      "option_d": "दक्षिण",
-      "answer_index": 0,
-      "explanation": "दक्षिण फर्किएको व्यक्ति घडीको दिशा (दायाँ) तर्फ ९० डिग्री घुम्दा पश्चिम दिशामा फर्किन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 207,
+      "qid": 3908395373,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4559,6 +3501,7 @@
     },
     {
       "id": 208,
+      "qid": 2993048642,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4581,6 +3524,7 @@
     },
     {
       "id": 209,
+      "qid": 2123224658,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4603,6 +3547,7 @@
     },
     {
       "id": 210,
+      "qid": 2597403820,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4624,29 +3569,8 @@
       "is_pro": false
     },
     {
-      "id": 211,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "अधिक वर्ष (Leap Year) मा फेब्रुअरी महिना कति दिनको हुन्छ ?",
-      "options": [
-        "२९ दिन",
-        "२८ दिन",
-        "३० दिन",
-        "३१ दिन"
-      ],
-      "option_a": "२९ दिन",
-      "option_b": "२८ दिन",
-      "option_c": "३० दिन",
-      "option_d": "३१ दिन",
-      "answer_index": 0,
-      "explanation": "सामान्य वर्षमा फेब्रुअरी २८ दिनको हुन्छ भने अधिक वर्ष (Leap Year) मा १ दिन थप भई २९ दिनको हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 212,
+      "qid": 2331859624,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4669,6 +3593,7 @@
     },
     {
       "id": 213,
+      "qid": 650119970,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4690,29 +3615,8 @@
       "is_pro": false
     },
     {
-      "id": 214,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "अंग्रेजी शब्दकोश अनुसार तलका मध्ये कुन शब्द दोस्रो स्थानमा आउँछ ? Cat, Car, Cap, Can",
-      "options": [
-        "Cap",
-        "Can",
-        "Car",
-        "Cat"
-      ],
-      "option_a": "Cap",
-      "option_b": "Can",
-      "option_c": "Car",
-      "option_d": "Cat",
-      "answer_index": 0,
-      "explanation": "वर्णमाला क्रमअनुसार मिलाउँदा: १. Can, २. Cap, ३. Car, ४. Cat हुन्छ। त्यसैले दोस्रो स्थानमा Cap आउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 215,
+      "qid": 829892072,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4735,6 +3639,7 @@
     },
     {
       "id": 216,
+      "qid": 480195916,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4756,29 +3661,8 @@
       "is_pro": false
     },
     {
-      "id": 217,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "पञ्चभुज (Pentagon) मा कतिवटा कोणहरू हुन्छन् ?",
-      "options": [
-        "५",
-        "४",
-        "६",
-        "८"
-      ],
-      "option_a": "५",
-      "option_b": "४",
-      "option_c": "६",
-      "option_d": "८",
-      "answer_index": 0,
-      "explanation": "पञ्चभुजमा ५ वटा भुजा र ५ वटै भित्री कोणहरू हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 218,
+      "qid": 2580420376,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4801,6 +3685,7 @@
     },
     {
       "id": 219,
+      "qid": 2016991536,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4823,6 +3708,7 @@
     },
     {
       "id": 220,
+      "qid": 644768828,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4844,29 +3730,8 @@
       "is_pro": false
     },
     {
-      "id": 221,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "समय : सेकेन्ड :: लम्बाइ : ?",
-      "options": [
-        "मिटर",
-        "ग्राम",
-        "लिटर",
-        "केल्विन"
-      ],
-      "option_a": "मिटर",
-      "option_b": "ग्राम",
-      "option_c": "लिटर",
-      "option_d": "केल्विन",
-      "answer_index": 0,
-      "explanation": "समयको एस.आई. (SI) एकाइ सेकेन्ड भए जस्तै लम्बाइको एस.आई. एकाइ मिटर हो।",
-      "is_pro": false
-    },
-    {
       "id": 222,
+      "qid": 4144978443,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4889,6 +3754,7 @@
     },
     {
       "id": 223,
+      "qid": 380736926,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4911,6 +3777,7 @@
     },
     {
       "id": 224,
+      "qid": 1091695386,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4932,29 +3799,8 @@
       "is_pro": false
     },
     {
-      "id": 225,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "NEPAL' शब्दका अक्षरहरूलाई वर्णमालाको क्रम (Alphabetical Order) अनुसार मिलाएर राख्दा कुन अक्षर ठीक बीचमा पर्छ ?",
-      "options": [
-        "L",
-        "N",
-        "E",
-        "P"
-      ],
-      "option_a": "L",
-      "option_b": "N",
-      "option_c": "E",
-      "option_d": "P",
-      "answer_index": 0,
-      "explanation": "NEPAL' का अक्षरहरूलाई वर्णमाला अनुसार मिलाउँदा A, E, L, N, P हुन्छ, जसमा ठीक बीचमा 'L' पर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 226,
+      "qid": 2517562023,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4977,6 +3823,7 @@
     },
     {
       "id": 227,
+      "qid": 2548904377,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -4999,6 +3846,7 @@
     },
     {
       "id": 228,
+      "qid": 2088708345,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5020,29 +3868,8 @@
       "is_pro": false
     },
     {
-      "id": 229,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Easy",
-      "question": "१/५ लाई प्रतिशतमा बदल्दा कति हुन्छ ?",
-      "options": [
-        "२०%",
-        "२५%",
-        "१५%",
-        "५०%"
-      ],
-      "option_a": "२०%",
-      "option_b": "२५%",
-      "option_c": "१५%",
-      "option_d": "५०%",
-      "answer_index": 0,
-      "explanation": "भिन्नलाई प्रतिशतमा बदल्न १००% ले गुणन गरिन्छ: (१/५) × १००% = २०% हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 230,
+      "qid": 3387418816,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5064,29 +3891,8 @@
       "is_pro": false
     },
     {
-      "id": 231,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "यदि कुनै सांकेतिक भाषामा 'TIGER' लाई 'RETG' नभई उल्टो क्रममा 'REGIT' लेखिन्छ भने 'LION' लाई के लेखिन्छ ?",
-      "options": [
-        "NOIL",
-        "NIOL",
-        "OINL",
-        "LONI"
-      ],
-      "option_a": "NOIL",
-      "option_b": "NIOL",
-      "option_c": "OINL",
-      "option_d": "LONI",
-      "answer_index": 0,
-      "explanation": "यहाँ शब्दका अक्षरहरूलाई पछाडिबाट अगाडि (Reverse Order) लेखिएको छ: L-I-O-N को उल्टो N-O-I-L हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 232,
+      "qid": 2750476408,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5109,6 +3915,7 @@
     },
     {
       "id": 233,
+      "qid": 994108315,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5131,6 +3938,7 @@
     },
     {
       "id": 234,
+      "qid": 4154974199,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5153,6 +3961,7 @@
     },
     {
       "id": 235,
+      "qid": 2635584243,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5174,29 +3983,8 @@
       "is_pro": false
     },
     {
-      "id": 236,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "एउटा घडीमा २ बजेर ३० मिनेट जाँदा घण्टा सुई र मिनेट सुईबीच कति डिग्रीको कोण बन्छ ?",
-      "options": [
-        "१०५°",
-        "११५°",
-        "९५°",
-        "१२०°"
-      ],
-      "option_a": "१०५°",
-      "option_b": "११५°",
-      "option_c": "९५°",
-      "option_d": "१२०°",
-      "answer_index": 0,
-      "explanation": "कोण निकाल्ने सूत्र |३०H - (११/२)M| अनुसार |३०×२ - (११/२)×३०| = |६० - १६५| = १०५° हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 237,
+      "qid": 1794597503,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5219,6 +4007,7 @@
     },
     {
       "id": 238,
+      "qid": 2677068161,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5240,29 +4029,8 @@
       "is_pro": false
     },
     {
-      "id": 239,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "४×४×४ को घनलाई बाहिर रङ लगाएर १×१×१ का साना घनमा काट्दा कतिवटा साना घनको ठीक एकवटा सतहमा मात्र रङ लाग्छ ?",
-      "options": [
-        "२४",
-        "१६",
-        "१२",
-        "३२"
-      ],
-      "option_a": "२४",
-      "option_b": "१६",
-      "option_c": "१२",
-      "option_d": "३२",
-      "answer_index": 0,
-      "explanation": "एकवटा सतहमा मात्र रङ लाग्ने घनको संख्या = ६(n - २)² = ६ × (४ - २)² = ६ × ४ = २४ वटा।",
-      "is_pro": false
-    },
-    {
       "id": 240,
+      "qid": 2673603166,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5285,6 +4053,7 @@
     },
     {
       "id": 241,
+      "qid": 2784485032,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5307,6 +4076,7 @@
     },
     {
       "id": 242,
+      "qid": 1435528421,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5329,6 +4099,7 @@
     },
     {
       "id": 243,
+      "qid": 283083679,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5350,29 +4121,8 @@
       "is_pro": false
     },
     {
-      "id": 244,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "यदि '+' र '-' तथा '×' र '÷' लाई आपसमा साट्ने हो भने ८ × २ + ६ - ४ ÷ ३ को मान कति हुन्छ ?",
-      "options": [
-        "४",
-        "६",
-        "८",
-        "२"
-      ],
-      "option_a": "४",
-      "option_b": "६",
-      "option_c": "८",
-      "option_d": "२",
-      "answer_index": 0,
-      "explanation": "चिन्ह साट्दा: ८ ÷ २ - ६ + ४ × ३ = ४ - ६ + १२ = १६ - ६ = १० नभई यदि ६ र ४ साटिए: सुधार: ८ ÷ २ - १० + ३×... प्रश्नमा ८ ÷ २ + ६ को ठाउँमा ८ ÷ २ - ६ + ४ × ३ = १०; यदि समीकरण ८ × २ + १२ - ४ ÷ २ भए ८÷२-१२+८=०। ८ ÷ २ - १२ + ४ × ३ = ४ - १२ + १२ = ४ (यहाँ ६ को सट्टा १२ मान्दा वा ४ को मान)। सरल गणना: (८÷२) - ६ + (२×३) = ४।",
-      "is_pro": false
-    },
-    {
       "id": 245,
+      "qid": 3879824028,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5395,6 +4145,7 @@
     },
     {
       "id": 246,
+      "qid": 3191611051,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5416,29 +4167,8 @@
       "is_pro": false
     },
     {
-      "id": 247,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "एउटा वृत्ताकार कागजलाई बीचबाट ३ पटक पट्याएर (Fold गरेर) बीचको तहमा १ वटा प्वाल पार्दा कागज खोल्दा कतिवटा प्वाल देखिन्छन् ?",
-      "options": [
-        "८",
-        "६",
-        "४",
-        "१६"
-      ],
-      "option_a": "८",
-      "option_b": "६",
-      "option_c": "४",
-      "option_d": "१६",
-      "answer_index": 0,
-      "explanation": "कागजलाई ३ पटक पट्याउँदा २³ = ८ तह बन्छ। ८ तहमा १ प्वाल पार्दा खोल्दा ८ वटै प्वाल देखिन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 248,
+      "qid": 3841737542,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5461,6 +4191,7 @@
     },
     {
       "id": 249,
+      "qid": 2993230758,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5483,6 +4214,7 @@
     },
     {
       "id": 250,
+      "qid": 2615904806,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5505,6 +4237,7 @@
     },
     {
       "id": 251,
+      "qid": 3786909810,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5526,29 +4259,8 @@
       "is_pro": false
     },
     {
-      "id": 252,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "गाई, शाकाहारी र बाघ' बीचको सम्बन्ध कुन भेन चित्रले सही दर्शाउँछ ?",
-      "options": [
-        "एउटा वृत्तभित्र अर्को वृत्त र तेस्रो वृत्त पूर्ण रूपमा बाहिर",
-        "तीनवटा अलग-अलग वृत्तहरू",
-        "तीनवटा एकअर्कामा खप्टिएका वृत्तहरू",
-        "एउटा ठूलो वृत्तभित्र दुईवटा अलग वृत्तहरू"
-      ],
-      "option_a": "एउटा वृत्तभित्र अर्को वृत्त र तेस्रो वृत्त पूर्ण रूपमा बाहिर",
-      "option_b": "तीनवटा अलग-अलग वृत्तहरू",
-      "option_c": "तीनवटा एकअर्कामा खप्टिएका वृत्तहरू",
-      "option_d": "एउटा ठूलो वृत्तभित्र दुईवटा अलग वृत्तहरू",
-      "answer_index": 0,
-      "explanation": "सबै गाईहरू शाकाहारी भित्र पर्छन् भने बाघ मांसाहारी भएकोले पूर्ण रूपमा बाहिर (अलग) रहन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 253,
+      "qid": 2005272871,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5571,6 +4283,7 @@
     },
     {
       "id": 254,
+      "qid": 1630509414,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5593,6 +4306,7 @@
     },
     {
       "id": 255,
+      "qid": 627000433,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5614,29 +4328,8 @@
       "is_pro": false
     },
     {
-      "id": 256,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "एउटा पार्किङमा केही बाइक (२ पाङ्ग्रे) र केही कार (४ पाङ्ग्रे) छन्। जम्मा सवारी संख्या २० र पाङ्ग्राको संख्या ६० छ भने कारको संख्या कति छ ?",
-      "options": [
-        "१० वटा",
-        "८ वटा",
-        "१२ वटा",
-        "१५ वटा"
-      ],
-      "option_a": "१० वटा",
-      "option_b": "८ वटा",
-      "option_c": "१२ वटा",
-      "option_d": "१५ वटा",
-      "answer_index": 0,
-      "explanation": "चार पाङ्ग्रे (कार) को संख्या = (जम्मा पाङ्ग्रा / २) - जम्मा सवारी = (६० / २) - २० = ३० - २० = १० वटा।",
-      "is_pro": false
-    },
-    {
       "id": 257,
+      "qid": 1619553449,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5659,6 +4352,7 @@
     },
     {
       "id": 258,
+      "qid": 1099448564,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5681,6 +4375,7 @@
     },
     {
       "id": 259,
+      "qid": 2894210629,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5702,29 +4397,8 @@
       "is_pro": false
     },
     {
-      "id": 260,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "५ वटा पुस्तकहरूमध्ये गणितको पुस्तक विज्ञानको माथि छ, नेपालीको पुस्तक अंग्रेजीको मुनि छ र अंग्रेजीको पुस्तक विज्ञानको मुनि छ भने सबैभन्दा माथि कुन पुस्तक छ ? (५ औँ पुस्तक इतिहास सबभन्दा तल छ)",
-      "options": [
-        "गणित",
-        "विज्ञान",
-        "अंग्रेजी",
-        "नेपाली"
-      ],
-      "option_a": "गणित",
-      "option_b": "विज्ञान",
-      "option_c": "अंग्रेजी",
-      "option_d": "नेपाली",
-      "answer_index": 0,
-      "explanation": "क्रम मिलाउँदा: गणित > विज्ञान > अंग्रेजी > नेपाली > इतिहास हुन्छ। अतः सबैभन्दा माथि गणितको पुस्तक छ।",
-      "is_pro": false
-    },
-    {
       "id": 261,
+      "qid": 3878836894,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5747,6 +4421,7 @@
     },
     {
       "id": 262,
+      "qid": 3548050154,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5769,6 +4444,7 @@
     },
     {
       "id": 263,
+      "qid": 445116288,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5790,29 +4466,8 @@
       "is_pro": false
     },
     {
-      "id": 264,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "यदि पुस्तकलाई कलम, कलमलाई मसी, मसीलाई झोला र झोलालाई टेबल भनिन्छ भने लेख्नका लागि के प्रयोग गरिन्छ ?",
-      "options": [
-        "मसी",
-        "कलम",
-        "पुस्तक",
-        "झोला"
-      ],
-      "option_a": "मसी",
-      "option_b": "कलम",
-      "option_c": "पुस्तक",
-      "option_d": "झोला",
-      "answer_index": 0,
-      "explanation": "वास्तवमा लेख्नका लागि 'कलम' प्रयोग गरिन्छ, र प्रश्नको कोड अनुसार 'कलम' लाई 'मसी' भनिएको छ।",
-      "is_pro": false
-    },
-    {
       "id": 265,
+      "qid": 2967107861,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5835,6 +4490,7 @@
     },
     {
       "id": 266,
+      "qid": 2288990807,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5857,6 +4513,7 @@
     },
     {
       "id": 267,
+      "qid": 3334358336,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5878,29 +4535,8 @@
       "is_pro": false
     },
     {
-      "id": 268,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Medium",
-      "question": "एउटा घडीमा ८:५० भएको छ भने ऐनामा हेर्दा कति बजेको देखिन्छ ?",
-      "options": [
-        "३:१०",
-        "४:१०",
-        "२:१०",
-        "३:५०"
-      ],
-      "option_a": "३:१०",
-      "option_b": "४:१०",
-      "option_c": "२:१०",
-      "option_d": "३:५०",
-      "answer_index": 0,
-      "explanation": "ऐना प्रतिबिम्ब निकाल्न ११:६० बाट घटाउनुपर्छ: ११:६० - ८:५० = ३:१० बज्छ।",
-      "is_pro": false
-    },
-    {
       "id": 269,
+      "qid": 3069556970,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5923,6 +4559,7 @@
     },
     {
       "id": 270,
+      "qid": 2124889248,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5945,6 +4582,7 @@
     },
     {
       "id": 271,
+      "qid": 3118154214,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -5966,29 +4604,8 @@
       "is_pro": false
     },
     {
-      "id": 272,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "A ले कुनै काम २० दिनमा र B ले ३० दिनमा गर्न सक्छन्। दुवैले सँगै काम सुरु गरे तर काम सकिनुभन्दा ५ दिन अगाडि A ले काम छोड्यो भने काम पूरा हुन जम्मा कति दिन लाग्यो ?",
-      "options": [
-        "१४ दिन",
-        "१२ दिन",
-        "१५ दिन",
-        "१६ दिन"
-      ],
-      "option_a": "१४ दिन",
-      "option_b": "१२ दिन",
-      "option_c": "१५ दिन",
-      "option_d": "१६ दिन",
-      "answer_index": 0,
-      "explanation": "कुल काम ६० एकाइ (A=३/दिन, B=२/दिन)। अन्तिम ५ दिन B एक्लैले ५×२ = १० काम गर्यो। बाँकी ५० काम दुवैले ५०/(३+२) = १० दिनमा गरे। जम्मा समय = १० + ५ = १५ दिन नभई सुत्र: (६० + ५×३)/५ = ७५/५ = १५ दिन (यदि B ले छोडेको भए (६०+१०)/५ = १४ दिन)। सुधार: काम सकिनु ५ दिन अघि B ले छोडेको अवस्थामा (६० + १०)/५ = १४ दिन।",
-      "is_pro": false
-    },
-    {
       "id": 273,
+      "qid": 1671700274,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6011,6 +4628,7 @@
     },
     {
       "id": 274,
+      "qid": 1044115711,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6032,29 +4650,8 @@
       "is_pro": false
     },
     {
-      "id": 275,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "एउटा ठूलो घनलाई १२५ वटा साना बराबर घनहरूमा काट्न कम्तीमा कति पटक सोझो कटाइ (Minimum Straight Cuts) गर्नुपर्छ ?",
-      "options": [
-        "१२ पटक",
-        "१५ पटक",
-        "९ पटक",
-        "२५ पटक"
-      ],
-      "option_a": "१२ पटक",
-      "option_b": "१५ पटक",
-      "option_c": "९ पटक",
-      "option_d": "२५ पटक",
-      "answer_index": 0,
-      "explanation": "१२५ साना घन हुँदा n = ³√१२५ = ५ (अर्थात् प्रत्येक भुजामा ५ भाग)। तीनवटै अक्ष (लम्बाइ, चौडाइ, उचाइ) मा (५ - १) = ४ पटकका दरले जम्मा ४ × ३ = १२ पटक काट्नुपर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 276,
+      "qid": 2672036799,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6077,6 +4674,7 @@
     },
     {
       "id": 277,
+      "qid": 1886262643,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6099,6 +4697,7 @@
     },
     {
       "id": 278,
+      "qid": 1097732292,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6121,6 +4720,7 @@
     },
     {
       "id": 279,
+      "qid": 143554455,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6142,29 +4742,8 @@
       "is_pro": false
     },
     {
-      "id": 280,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "४ वटा तह (4 Horizontal Tiers) भएको सममित तारा वा पिरामिड आकारको त्रिभुज (जसको प्रत्येक भुजा ४ भागमा विभाजित छ) मा जम्मा कतिवटा त्रिभुजहरू हुन्छन् ?",
-      "options": [
-        "२७",
-        "१६",
-        "२४",
-        "३०"
-      ],
-      "option_a": "२७",
-      "option_b": "१६",
-      "option_c": "२४",
-      "option_d": "३०",
-      "answer_index": 0,
-      "explanation": "n=४ (जोर संख्या) हुँदा कुल त्रिभुज संख्या निकाल्ने सूत्र = [n(n+2)(2n+1)] / 8 = [४ × ६ × ९] / ८ = २१६ / ८ = २७ वटा।",
-      "is_pro": false
-    },
-    {
       "id": 281,
+      "qid": 2770097761,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6187,6 +4766,7 @@
     },
     {
       "id": 282,
+      "qid": 631484792,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6209,6 +4789,7 @@
     },
     {
       "id": 283,
+      "qid": 229473121,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6230,29 +4811,8 @@
       "is_pro": false
     },
     {
-      "id": 284,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "दिइएको म्याट्रिक्समा प्रश्नवाचक चिन्ह (?) को मान पत्ता लगाउनुहोस्: [हरफ १: ५, ३, १६] [हरफ २: ९, ५, २८] [हरफ ३: ७, ४, ?]",
-      "options": [
-        "२२",
-        "२८",
-        "११",
-        "२४"
-      ],
-      "option_a": "२२",
-      "option_b": "२८",
-      "option_c": "११",
-      "option_d": "२४",
-      "answer_index": 0,
-      "explanation": "यसमा (पहिलो - दोस्रो) × ८ नभई (पहिलो + दोस्रो) × २ को नियम छ: (५+३)×२=१६, (९+५)×२=२८। त्यसैगरी (७+४) × २ = ११ × २ = २२ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 285,
+      "qid": 706885911,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6275,6 +4835,7 @@
     },
     {
       "id": 286,
+      "qid": 1855137367,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6297,6 +4858,7 @@
     },
     {
       "id": 287,
+      "qid": 4023313464,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6318,29 +4880,8 @@
       "is_pro": false
     },
     {
-      "id": 288,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "दिइएको अनुक्रममा खाली ठाउँ (?) पूरा गर्नुहोस्: १२, ३६, ८०, १५०, २४२, ?",
-      "options": [
-        "३६०",
-        "३५२",
-        "३६४",
-        "३५०"
-      ],
-      "option_a": "३६०",
-      "option_b": "३५२",
-      "option_c": "३६४",
-      "option_d": "३५०",
-      "answer_index": 0,
-      "explanation": "यो श्रेणी n² + n³ को नियममा छ (जहाँ n=२ बाट सुरु): २²+२³=१२, ३²+३³=३६, ४²+४³=८०, ५²+५³=१५०, ६²+६³=२५२ (यदि ६²×... सुधार: २×६=१२, ३×१२=३६, ४×२०=८०, ५×३०=१५०, ६×४२=२५२ हुनुपर्नेमा २४२ भए: ११×२२? नियम: १³+... यदि ७×५६=३९२ वा ६²×१० = ३६०)।",
-      "is_pro": false
-    },
-    {
       "id": 289,
+      "qid": 1514471336,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6363,6 +4904,7 @@
     },
     {
       "id": 290,
+      "qid": 2477717165,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6384,29 +4926,8 @@
       "is_pro": false
     },
     {
-      "id": 291,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "नदीको बहावको दिशामा (Downstream) एउटा डुङ्गाको गति १४ कि.मि./घण्टा र बहावको विपरीत दिशामा (Upstream) ८ कि.मि./घण्टा छ भने शान्त पानीमा सो डुङ्गाको गति कति हुन्छ ?",
-      "options": [
-        "११ कि.मि./घण्टा",
-        "१० कि.मि./घण्टा",
-        "१२ कि.मि./घण्टा",
-        "६ कि.मि./घण्टा"
-      ],
-      "option_a": "११ कि.मि./घण्टा",
-      "option_b": "१० कि.मि./घण्टा",
-      "option_c": "१२ कि.मि./घण्टा",
-      "option_d": "६ कि.मि./घण्टा",
-      "answer_index": 0,
-      "explanation": "शान्त पानीमा डुङ्गाको गति = (Downstream गति + Upstream गति) / २ = (१४ + ८) / २ = २२ / २ = ११ कि.मि./घण्टा।",
-      "is_pro": false
-    },
-    {
       "id": 292,
+      "qid": 2292288383,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6429,6 +4950,7 @@
     },
     {
       "id": 293,
+      "qid": 2570959058,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6451,6 +4973,7 @@
     },
     {
       "id": 294,
+      "qid": 3147525682,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6472,29 +4995,8 @@
       "is_pro": false
     },
     {
-      "id": 295,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "दूध र पानीको ४० लिटर मिश्रणमा १०% पानी छ। मिश्रणमा पानीको मात्रा २०% पुर्याउन कति लिटर पानी थप्नुपर्ला ?",
-      "options": [
-        "५ लिटर",
-        "४ लिटर",
-        "६ लिटर",
-        "८ लिटर"
-      ],
-      "option_a": "५ लिटर",
-      "option_b": "४ लिटर",
-      "option_c": "६ लिटर",
-      "option_d": "८ लिटर",
-      "answer_index": 0,
-      "explanation": "४० लिटरमा १०% पानी अर्थात् ४ लि. पानी र ३६ लि. दूध छ। नयाँ मिश्रणमा पानी २०% हुँदा दूध ८०% हुन्छ। ८०% = ३६ लि. भए १००% = ४५ लिटर। थप्नुपर्ने पानी = ४५ - ४० = ५ लिटर।",
-      "is_pro": false
-    },
-    {
       "id": 296,
+      "qid": 3340884314,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6517,6 +5019,7 @@
     },
     {
       "id": 297,
+      "qid": 1840795745,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6539,6 +5042,7 @@
     },
     {
       "id": 298,
+      "qid": 1597866678,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
@@ -6560,29 +5064,8 @@
       "is_pro": false
     },
     {
-      "id": 299,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "126",
-      "sub_cat_name": "बौद्धिक परीक्षण",
-      "level": "Hard",
-      "question": "१००! (100 Factorial अर्थात् १ देखि १०० सम्मका सबै प्राकृत संख्याहरूको गुणनफल) को अन्तिममा कतिवटा शून्यहरू (Trailing Zeros) हुन्छन् ?",
-      "options": [
-        "२४ वटा",
-        "२० वटा",
-        "२२ वटा",
-        "२५ वटा"
-      ],
-      "option_a": "२४ वटा",
-      "option_b": "२० वटा",
-      "option_c": "२२ वटा",
-      "option_d": "२५ वटा",
-      "answer_index": 0,
-      "explanation": "१००! मा ५ को गुणनखण्ड संख्या = [१००/५] + [१००/२५] = २० + ४ = २४ हुन्छ। त्यसैले अन्तिममा २४ वटा शून्य हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 300,
+      "qid": 4260780177,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "126",
