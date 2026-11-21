@@ -1,10 +1,11 @@
 {
   "sub_cat_id": "130",
-  "data_version": 1794491195766,
-  "total_questions": 400,
+  "data_version": 1795279225068,
+  "total_questions": 322,
   "questions": [
     {
       "id": 1,
+      "qid": 3664582862,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -27,6 +28,7 @@
     },
     {
       "id": 2,
+      "qid": 1102699967,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -48,29 +50,8 @@
       "is_pro": false
     },
     {
-      "id": 3,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "सार्वजनिक खरिद ऐन, २०६३ कहिले प्रमाणीकरण र प्रकाशन भएको हो?",
-      "options": [
-        "वि.सं. २०६३ मंसिर ३०",
-        "वि.सं. २०६४ भदौ ३",
-        "वि.सं. २०६३ माघ १",
-        "वि.सं. २०६३ फागुन ३०"
-      ],
-      "option_a": "वि.सं. २०६३ मंसिर ३०",
-      "option_b": "वि.सं. २०६४ भदौ ३",
-      "option_c": "वि.सं. २०६३ माघ १",
-      "option_d": "वि.सं. २०६३ फागुन ३०",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद ऐन, २०६३ वि.सं. २०६३ साल मंसिर ३० गते प्रमाणीकरण भई वि.सं. २०६३ माघ १ गतेदेखि लागू भएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 4,
+      "qid": 581655974,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -93,6 +74,7 @@
     },
     {
       "id": 5,
+      "qid": 4180686872,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -115,6 +97,7 @@
     },
     {
       "id": 6,
+      "qid": 330557330,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -136,29 +119,8 @@
       "is_pro": false
     },
     {
-      "id": 7,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "नेपालमा हाल प्रचलित सरकारी लेखा प्रणाली मुख्यतया कुन आधारमा आधारित छ?",
-      "options": [
-        "नगदमा आधारित (Cash Basis)",
-        "प्रोद्भावी आधार (Accrual Basis)",
-        "मिश्रित आधार (Hybrid Basis)",
-        "प्रतिबद्धता आधार (Commitment Basis)"
-      ],
-      "option_a": "नगदमा आधारित (Cash Basis)",
-      "option_b": "प्रोद्भावी आधार (Accrual Basis)",
-      "option_c": "मिश्रित आधार (Hybrid Basis)",
-      "option_d": "प्रतिबद्धता आधार (Commitment Basis)",
-      "answer_index": 0,
-      "explanation": "नेपालको सरकारी लेखा प्रणाली (NPSAS समेत) हाल मुख्यतया नगदमा आधारित (Cash Basis of Accounting) लेखा प्रणालीमा आधारित छ, जहाँ वास्तविक नगद प्राप्ति र भुक्तानी भएकै बखत लेखाङ्कन गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 8,
+      "qid": 3488324157,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -181,6 +143,7 @@
     },
     {
       "id": 9,
+      "qid": 4109112974,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -202,29 +165,8 @@
       "is_pro": false
     },
     {
-      "id": 10,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "नेपालमा नयाँ स्रेस्ता प्रणाली कहिलेदेखि लागू भएको हो?",
-      "options": [
-        "वि.सं. २०१८ चैत्र २",
-        "वि.सं. २०१९ बैशाख १",
-        "वि.सं. २०१६ आषाढ १६",
-        "वि.सं. २०२० श्रावण १"
-      ],
-      "option_a": "वि.सं. २०१८ चैत्र २",
-      "option_b": "वि.सं. २०१९ बैशाख १",
-      "option_c": "वि.सं. २०१६ आषाढ १६",
-      "option_d": "वि.सं. २०२० श्रावण १",
-      "answer_index": 0,
-      "explanation": "तत्कालीन राजा महेन्द्रबाट वि.सं. २०१८ साल चैत्र २ गते लालमोहर लगी नयाँ स्रेस्ता प्रणाली वि.सं. २०१९/२० देखि क्रमशः लागू गरिएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 11,
+      "qid": 3942651481,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -247,6 +189,7 @@
     },
     {
       "id": 12,
+      "qid": 2558088502,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -269,6 +212,7 @@
     },
     {
       "id": 13,
+      "qid": 1993709563,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -291,6 +235,7 @@
     },
     {
       "id": 14,
+      "qid": 2586106617,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -313,6 +258,7 @@
     },
     {
       "id": 15,
+      "qid": 1153602684,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -334,29 +280,8 @@
       "is_pro": false
     },
     {
-      "id": 16,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "सिलबन्दी दरभाउपत्र (Sealed Quotation) बाट निर्माण कार्य खरिद गर्दा अधिकतम सीमा कति तोकिएको छ?",
-      "options": [
-        "रु. २० लाखसम्म",
-        "रु. ५० लाखसम्म",
-        "रु. १ करोडसम्म",
-        "रु. २ करोडसम्म"
-      ],
-      "option_a": "रु. २० लाखसम्म",
-      "option_b": "रु. ५० लाखसम्म",
-      "option_c": "रु. १ करोडसम्म",
-      "option_d": "रु. २ करोडसम्म",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावली, २०६४ को नियम ८४ अनुसार २० लाख रुपैयाँसम्मको मालसामान, निर्माण कार्य वा जुनसुकै सेवा सिलबन्दी दरभाउपत्र आह्वान गरी खरिद गर्न सकिन्छ (हाल विशेष परिमार्जन बाहेक आधारभूत सीमा २० लाख)।",
-      "is_pro": false
-    },
-    {
       "id": 17,
+      "qid": 3122343390,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -379,6 +304,7 @@
     },
     {
       "id": 18,
+      "qid": 1108275981,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -400,29 +326,8 @@
       "is_pro": false
     },
     {
-      "id": 19,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "खर्चको फाँटवारीको नयाँ म.ले.प. फारम नम्बर कति हो?",
-      "options": [
-        "म.ले.प.फा.नं. २१०",
-        "म.ले.प.फा.नं. २११",
-        "म.ले.प.फा.नं. २१२",
-        "म.ले.प.फा.नं. २१३"
-      ],
-      "option_a": "म.ले.प.फा.नं. २१०",
-      "option_b": "म.ले.प.फा.नं. २११",
-      "option_c": "म.ले.प.फा.नं. २१२",
-      "option_d": "म.ले.प.फा.नं. २१३",
-      "answer_index": 0,
-      "explanation": "नयाँ म.ले.प. फारम अनुसार मासिक खर्चको फाँटवारी (Statement of Expenditure) को फारम नं. २१० हो (पुरानो म.ले.प.फा.नं. १३ थियो)।",
-      "is_pro": false
-    },
-    {
       "id": 20,
+      "qid": 4211925280,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -445,6 +350,7 @@
     },
     {
       "id": 21,
+      "qid": 513869219,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -467,6 +373,7 @@
     },
     {
       "id": 22,
+      "qid": 2557329776,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -489,6 +396,7 @@
     },
     {
       "id": 23,
+      "qid": 136322110,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -510,29 +418,8 @@
       "is_pro": false
     },
     {
-      "id": 24,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन कहिले जारी भएको हो?",
-      "options": [
-        "वि.सं. २०७६",
-        "वि.सं. २०७५",
-        "वि.सं. २०५५",
-        "वि.सं. २०६४"
-      ],
-      "option_a": "वि.सं. २०७६",
-      "option_b": "वि.सं. २०७५",
-      "option_c": "वि.सं. २०५५",
-      "option_d": "वि.सं. २०६४",
-      "answer_index": 0,
-      "explanation": "संघीय संरचना अनुकूल सरकारी आर्थिक कार्यविधि व्यवस्थित गर्न 'आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६' जारी गरिएको हो (जसले २०५५ को ऐनलाई प्रतिस्थापन गर्यो)।",
-      "is_pro": false
-    },
-    {
       "id": 25,
+      "qid": 107551016,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -555,6 +442,7 @@
     },
     {
       "id": 26,
+      "qid": 2917756245,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -577,6 +465,7 @@
     },
     {
       "id": 27,
+      "qid": 3729831275,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -599,6 +488,7 @@
     },
     {
       "id": 28,
+      "qid": 993788051,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -621,6 +511,7 @@
     },
     {
       "id": 29,
+      "qid": 1546352306,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -643,6 +534,7 @@
     },
     {
       "id": 30,
+      "qid": 3772717741,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -665,6 +557,7 @@
     },
     {
       "id": 31,
+      "qid": 1125781321,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -687,6 +580,7 @@
     },
     {
       "id": 32,
+      "qid": 4128766796,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -709,6 +603,7 @@
     },
     {
       "id": 33,
+      "qid": 2653248432,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -730,29 +625,8 @@
       "is_pro": false
     },
     {
-      "id": 34,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ अनुसार बेरुजुलाई कति वर्गमा वर्गीकरण गरिएको छ?",
-      "options": [
-        "३ वर्गमा (असुल उपर गर्नुपर्ने, नियमित गर्नुपर्ने र पेश्की)",
-        "२ वर्गमा (सैद्धान्तिक र लगत बेरुजु)",
-        "४ वर्गमा (असुल उपर, अनियमित, प्रमाण नपुगेको र पेश्की)",
-        "५ वर्गमा"
-      ],
-      "option_a": "३ वर्गमा (असुल उपर गर्नुपर्ने, नियमित गर्नुपर्ने र पेश्की)",
-      "option_b": "२ वर्गमा (सैद्धान्तिक र लगत बेरुजु)",
-      "option_c": "४ वर्गमा (असुल उपर, अनियमित, प्रमाण नपुगेको र पेश्की)",
-      "option_d": "५ वर्गमा",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा ३९ अनुसार लेखापरीक्षणबाट औंल्याइएको बेरुजुलाई मुख्य ३ वर्गमा (१. असुल उपर गर्नुपर्ने, २. नियमित गर्नुपर्ने र ३. पेश्की) वर्गीकरण गरिन्छ। (नियमित गर्नुपर्ने भित्र अनियमित, प्रमाण कागजात नपुगेको र जिम्मेवारी नसारेको पर्दछन्)।",
-      "is_pro": false
-    },
-    {
       "id": 35,
+      "qid": 2598793508,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -775,6 +649,7 @@
     },
     {
       "id": 36,
+      "qid": 700155913,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -797,6 +672,7 @@
     },
     {
       "id": 37,
+      "qid": 115925167,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -818,29 +694,8 @@
       "is_pro": false
     },
     {
-      "id": 38,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "सार्वजनिक खरिद ऐन, २०६३ अनुसार उपभोक्ता समिति वा लाभग्राही समुदायबाट कति रकमसम्मको निर्माण कार्य गराउन सकिन्छ?",
-      "options": [
-        "रु. १ करोडसम्म",
-        "रु. २ करोडसम्म",
-        "रु. ५० लाखसम्म",
-        "रु. ५ करोडसम्म"
-      ],
-      "option_a": "रु. १ करोडसम्म",
-      "option_b": "रु. २ करोडसम्म",
-      "option_c": "रु. ५० लाखसम्म",
-      "option_d": "रु. ५ करोडसम्म",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावली, २०६४ को नियम ९७(१) (संशोधित व्यवस्था) अनुसार १ करोड रुपैयाँसम्म लागत अनुमान भएको निर्माण कार्य वा सो सम्बन्धी सेवा उपभोक्ता समिति वा लाभग्राही समुदायबाट गराउन सकिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 39,
+      "qid": 3060747913,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -863,6 +718,7 @@
     },
     {
       "id": 40,
+      "qid": 224325525,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -884,29 +740,8 @@
       "is_pro": false
     },
     {
-      "id": 41,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "खरिद सम्झौता गर्दा बोलपत्रदाताको कबोल अंक लागत अनुमानको ८५ प्रतिशतसम्म वा सोभन्दा बढी भएमा कार्यसम्पादन जमानत (Performance Security) कति प्रतिशत राख्नुपर्दछ?",
-      "options": [
-        "कबोल अंकको ५ प्रतिशत",
-        "कबोल अंकको १० प्रतिशत",
-        "कबोल अंकको २.५ प्रतिशत",
-        "लागत अनुमानको १५ प्रतिशत"
-      ],
-      "option_a": "कबोल अंकको ५ प्रतिशत",
-      "option_b": "कबोल अंकको १० प्रतिशत",
-      "option_c": "कबोल अंकको २.५ प्रतिशत",
-      "option_d": "लागत अनुमानको १५ प्रतिशत",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावली, २०६४ को नियम ११० अनुसार बोलपत्रदाताको कबोल अंक लागत अनुमानको ८५ प्रतिशत वा सोभन्दा बढी भएमा कबोल अंकको ५ प्रतिशत कार्यसम्पादन जमानत पेश गर्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 42,
+      "qid": 842119128,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -929,6 +764,7 @@
     },
     {
       "id": 43,
+      "qid": 1347608244,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -951,6 +787,7 @@
     },
     {
       "id": 44,
+      "qid": 448602052,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -973,6 +810,7 @@
     },
     {
       "id": 45,
+      "qid": 1771580525,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -994,29 +832,8 @@
       "is_pro": false
     },
     {
-      "id": 46,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "CGAS प्रणालीमा कर्मचारीलाई भ्रमण पेश्की दिँदा गोश्वारा भौचरमा कुन खातलाई डेबिट र कुन खातलाई क्रेडिट गरिन्छ?",
-      "options": [
-        "डेबिट: बजेट खर्च भ्रमण शीर्षक (पद नाम), क्रेडिट: एकल खाता कोष (TSA)",
-        "डेबिट: भ्रमण पेश्की खाता, क्रेडिट: नगद खाता",
-        "डेबिट: कर्मचारी पारिश्रमिक, क्रेडिट: बैंक खाता",
-        "डेबिट: विविध खाता, क्रेडिट: बजेट खर्च"
-      ],
-      "option_a": "डेबिट: बजेट खर्च भ्रमण शीर्षक (पद नाम), क्रेडिट: एकल खाता कोष (TSA)",
-      "option_b": "डेबिट: भ्रमण पेश्की खाता, क्रेडिट: नगद खाता",
-      "option_c": "डेबिट: कर्मचारी पारिश्रमिक, क्रेडिट: बैंक खाता",
-      "option_d": "डेबिट: विविध खाता, क्रेडिट: बजेट खर्च",
-      "answer_index": 0,
-      "explanation": "सरकारी लेखा प्रणालीमा पेश्की दिँदैमा बजेट खर्च जनाइने हुँदा गोश्वारा भौचर बनाउँदा 'डेबिट बा: बजेट खर्च (भ्रमण खर्च संकेत २२६११ - कर्मचारीको नाम र पद)' र 'क्रेडिट: एकल खाता कोष/को.ले.नि.का.' गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 47,
+      "qid": 4093781510,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1039,6 +856,7 @@
     },
     {
       "id": 48,
+      "qid": 1664580530,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1061,6 +879,7 @@
     },
     {
       "id": 49,
+      "qid": 2592224659,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1083,6 +902,7 @@
     },
     {
       "id": 50,
+      "qid": 335366476,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1105,6 +925,7 @@
     },
     {
       "id": 51,
+      "qid": 3593584267,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1126,29 +947,8 @@
       "is_pro": false
     },
     {
-      "id": 52,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "नेपालका ७७ वटै जिल्लामा एकल खाता कोष प्रणाली (TSA) कुन आर्थिक वर्षदेखि पूर्ण रूपमा लागू भएको हो?",
-      "options": [
-        "आ.व. २०७०/७१",
-        "आ.व. २०६८/६९",
-        "आ.व. २०७२/७३",
-        "आ.व. २०७५/७६"
-      ],
-      "option_a": "आ.व. २०७०/७१",
-      "option_b": "आ.व. २०६८/६९",
-      "option_c": "आ.व. २०७२/७३",
-      "option_d": "आ.व. २०७५/७६",
-      "answer_index": 0,
-      "explanation": "नेपालका तत्कालिन ७५ वटै जिल्ला (हाल ७७ जिल्ला) मा आ.व. २०७०/७१ (वि.सं. २०७० साउन १) देखि एकल खाता कोष प्रणाली (TSA) पूर्ण रूपमा लागू गरिएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 53,
+      "qid": 1234586919,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1171,6 +971,7 @@
     },
     {
       "id": 54,
+      "qid": 561821713,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1193,6 +994,7 @@
     },
     {
       "id": 55,
+      "qid": 1733448991,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1215,6 +1017,7 @@
     },
     {
       "id": 56,
+      "qid": 2278984452,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1237,6 +1040,7 @@
     },
     {
       "id": 57,
+      "qid": 3280411857,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1259,6 +1063,7 @@
     },
     {
       "id": 58,
+      "qid": 3440830288,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1281,6 +1086,7 @@
     },
     {
       "id": 59,
+      "qid": 2971569389,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1303,6 +1109,7 @@
     },
     {
       "id": 60,
+      "qid": 3417227660,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1324,29 +1131,8 @@
       "is_pro": false
     },
     {
-      "id": 61,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "सार्वजनिक खरिद नियमावली, २०६४ अनुसार वार्षिक कति रकमभन्दा बढीको खरिद कार्य गर्नुपर्दा सार्वजनिक निकायले 'गुरू खरिद योजना' (Master Procurement Plan) तयार गर्नुपर्दछ?",
-      "options": [
-        "रु. १० करोडभन्दा बढी वा १ वर्षभन्दा बढी अवधि चल्ने",
-        "रु. १ लाखभन्दा बढी",
-        "रु. १० लाखभन्दा बढी",
-        "रु. ५० लाखभन्दा बढी"
-      ],
-      "option_a": "रु. १० करोडभन्दा बढी वा १ वर्षभन्दा बढी अवधि चल्ने",
-      "option_b": "रु. १ लाखभन्दा बढी",
-      "option_c": "रु. १० लाखभन्दा बढी",
-      "option_d": "रु. ५० लाखभन्दा बढी",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावली, २०६४ को नियम ७ अनुसार एक वर्षभन्दा बढी अवधिसम्म सञ्चालन हुने योजना वा आयोजनाको लागि वा वार्षिक १० करोड रुपैयाँभन्दा बढी रकमको खरिद कार्य गर्नुपर्दा गुरू खरिद योजना (Master Procurement Plan) तयार गर्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 62,
+      "qid": 1832427577,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1369,6 +1155,7 @@
     },
     {
       "id": 63,
+      "qid": 1312425646,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1391,6 +1178,7 @@
     },
     {
       "id": 64,
+      "qid": 3120969129,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1412,29 +1200,8 @@
       "is_pro": false
     },
     {
-      "id": 65,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "आन्तरिक लेखापरीक्षण प्रतिवेदनमा औंल्याइएका कैफियत र बेरुजुहरू कहिलेसम्म फर्स्यौट वा सुधार गरिसक्नुपर्दछ?",
-      "options": [
-        "अन्तिम लेखापरीक्षण सुरु हुनुभन्दा अगावै",
-        "५ वर्षभित्र",
-        "लोक सेवा आयोगको अनुमतिपछि",
-        "कहिल्यै गर्नु पर्दैन"
-      ],
-      "option_a": "अन्तिम लेखापरीक्षण सुरु हुनुभन्दा अगावै",
-      "option_b": "५ वर्षभित्र",
-      "option_c": "लोक सेवा आयोगको अनुमतिपछि",
-      "option_d": "कहिल्यै गर्नु पर्दैन",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा ३३(४) अनुसार आन्तरिक लेखापरीक्षणबाट देखिएको बेरुजु सम्बन्धित कार्यालयले अन्तिम लेखापरीक्षण हुनुभन्दा अगाडि नै सच्याउनु वा फर्स्यौट गर्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 66,
+      "qid": 3817570856,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1457,6 +1224,7 @@
     },
     {
       "id": 67,
+      "qid": 531023877,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1479,6 +1247,7 @@
     },
     {
       "id": 68,
+      "qid": 2011654109,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1501,6 +1270,7 @@
     },
     {
       "id": 69,
+      "qid": 2311143594,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1523,6 +1293,7 @@
     },
     {
       "id": 70,
+      "qid": 659869810,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1545,6 +1316,7 @@
     },
     {
       "id": 71,
+      "qid": 928178365,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1567,6 +1339,7 @@
     },
     {
       "id": 72,
+      "qid": 963770648,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1589,6 +1362,7 @@
     },
     {
       "id": 73,
+      "qid": 3773911801,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1610,29 +1384,8 @@
       "is_pro": false
     },
     {
-      "id": 74,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा ४० अनुसार महालेखा परीक्षकको प्रतिवेदनमा औंल्याइएको 'असुल उपर गर्नुपर्ने बेरुजु' सम्बन्धित जिम्मेवार व्यक्तिले सो सूचना पाएको मितिले कति दिनभित्र असुल उपर गरी फर्स्यौट गराउनुपर्दछ?",
-      "options": [
-        "३५ दिनभित्र",
-        "६० दिनभित्र",
-        "९० दिनभित्र",
-        "१२० दिनभित्र"
-      ],
-      "option_a": "३५ दिनभित्र",
-      "option_b": "६० दिनभित्र",
-      "option_c": "९० दिनभित्र",
-      "option_d": "१२० दिनभित्र",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा ४०(१) अनुसार लेखापरीक्षणबाट असुल उपर गर्नुपर्ने भनी औंल्याइएको बेरुजुको सूचना प्राप्त भएको मितिले ३५ दिनभित्र सम्बन्धित व्यक्तिबाट असुल उपर गर्नुपर्दछ र सो म्यादभित्र बुझाउन नसकेमा कुमारी चोक तथा केन्द्रीय तहसिल कार्यालयमा लगत पठाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 75,
+      "qid": 2067424467,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1655,6 +1408,7 @@
     },
     {
       "id": 76,
+      "qid": 2323527132,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1677,6 +1431,7 @@
     },
     {
       "id": 77,
+      "qid": 229597100,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1699,6 +1454,7 @@
     },
     {
       "id": 78,
+      "qid": 1545198108,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1720,29 +1476,8 @@
       "is_pro": false
     },
     {
-      "id": 79,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "सार्वजनिक खरिद ऐन, २०६३ को दफा ४७ र ५० बमोजिम खरिद कारबाही वा निर्णय उपर सार्वजनिक खरिद पुनरावलोकन समिति समक्ष पुनरावलोकनका लागि निवेदन दिँदा कति रकम धरौटी (Security Deposit) राख्नुपर्ने व्यवस्था छ?",
-      "options": [
-        "कबोल अंकको १ प्रतिशत",
-        "कबोल अंकको ०.१ प्रतिशत",
-        "कबोल अंकको ५ प्रतिशत",
-        "लागत अनुमानको २ प्रतिशत"
-      ],
-      "option_a": "कबोल अंकको १ प्रतिशत",
-      "option_b": "कबोल अंकको ०.१ प्रतिशत",
-      "option_c": "कबोल अंकको ५ प्रतिशत",
-      "option_d": "लागत अनुमानको २ प्रतिशत",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद ऐन, २०६३ को दफा ५० र नियमावलीको नियम १०४ अनुसार पुनरावलोकन समिति समक्ष निवेदन दिने बोलपत्रदाताले आफूले बोलपत्रमा कबोल गरेको रकमको १ प्रतिशत (सংশोधित प्रावधान अनुसार निश्चित सीमा वा १%) बराबरको नगद वा बैंक जमानत धरौटी राख्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 80,
+      "qid": 2584662817,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1765,6 +1500,7 @@
     },
     {
       "id": 81,
+      "qid": 3032365212,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1786,29 +1522,8 @@
       "is_pro": false
     },
     {
-      "id": 82,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा २० अनुसार विनियोजन ऐनमा समावेश भएको कुनै एक अनुदान संख्याबाट अर्को अनुदान संख्या वा एक खर्च शीर्षकबाट अर्को खर्च शीर्षकमा रकमान्तर (Virement) गर्दा कति प्रतिशतको सीमा र कसको अधिकार रहन्छ?",
-      "options": [
-        "अर्थ मन्त्रालयले कुल बजेटको १० प्रतिशत ननाघ्ने गरी जुनुसुकै शीर्षकमा रकमान्तर गर्न सक्छ (तलव, भत्ता, पूँजीगत बाहेकका शर्त अधीनमा)",
-        "कार्यालय प्रमुखले ५० प्रतिशतसम्म गर्न सक्छ",
-        "रकमान्तर गर्न संविधानले पूर्ण बन्देज लगाएको छ",
-        "महालेखा परीक्षकले मात्र रकमान्तर गर्छ"
-      ],
-      "option_a": "अर्थ मन्त्रालयले कुल बजेटको १० प्रतिशत ननाघ्ने गरी जुनुसुकै शीर्षकमा रकमान्तर गर्न सक्छ (तलव, भत्ता, पूँजीगत बाहेकका शर्त अधीनमा)",
-      "option_b": "कार्यालय प्रमुखले ५० प्रतिशतसम्म गर्न सक्छ",
-      "option_c": "रकमान्तर गर्न संविधानले पूर्ण बन्देज लगाएको छ",
-      "option_d": "महालेखा परीक्षकले मात्र रकमान्तर गर्छ",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा २० र विनियोजन ऐनको व्यवस्था अनुसार अर्थ मन्त्रालयले विनियोजन ऐनले तोकेको सीमा (सामान्यतया १० प्रतिशत) भित्र रही एक शीर्षकबाट अर्को शीर्षकमा रकमान्तर गर्न सक्छ।",
-      "is_pro": false
-    },
-    {
       "id": 83,
+      "qid": 3501962256,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1831,6 +1546,7 @@
     },
     {
       "id": 84,
+      "qid": 227518552,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1853,6 +1569,7 @@
     },
     {
       "id": 85,
+      "qid": 2520711357,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1875,6 +1592,7 @@
     },
     {
       "id": 86,
+      "qid": 1213324754,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1897,6 +1615,7 @@
     },
     {
       "id": 87,
+      "qid": 408240778,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1919,6 +1638,7 @@
     },
     {
       "id": 88,
+      "qid": 2028502957,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1941,6 +1661,7 @@
     },
     {
       "id": 89,
+      "qid": 1875106575,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1963,6 +1684,7 @@
     },
     {
       "id": 90,
+      "qid": 65087990,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -1985,6 +1707,7 @@
     },
     {
       "id": 91,
+      "qid": 951554563,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2007,6 +1730,7 @@
     },
     {
       "id": 92,
+      "qid": 3430587860,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2029,6 +1753,7 @@
     },
     {
       "id": 93,
+      "qid": 1456097152,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2051,6 +1776,7 @@
     },
     {
       "id": 94,
+      "qid": 3397658399,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2073,6 +1799,7 @@
     },
     {
       "id": 95,
+      "qid": 4057270793,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2095,6 +1822,7 @@
     },
     {
       "id": 96,
+      "qid": 2098611711,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2117,6 +1845,7 @@
     },
     {
       "id": 97,
+      "qid": 351827362,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2139,6 +1868,7 @@
     },
     {
       "id": 98,
+      "qid": 4261130312,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2161,6 +1891,7 @@
     },
     {
       "id": 99,
+      "qid": 2399692906,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2182,29 +1913,8 @@
       "is_pro": false
     },
     {
-      "id": 100,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "सरकारी लेखा प्रणालीमा आ.व. को अन्त्यमा गोश्वारा धरौटी खाताको वार्षिक विवरण (म.ले.प.फा.नं. ३०२/३०७) तयार गर्दा देहायको कुन समीकरण अनिवार्य रूपमा मिल्नुपर्दछ?",
-      "options": [
-        "शुरु मौज्दात + यस आ.व. को जम्मा धरौटी आम्दानी - (धरौटी फिर्ता + सदरस्याहा) = अन्तिम धरौटी मौज्दात (बैंक मौज्दात बराबर)",
-        "धरौटी आम्दानी = बजेट खर्च",
-        "सदरस्याहा = पेश्की बाँकी",
-        "धरौटी फिर्ता = कुल राजस्व"
-      ],
-      "option_a": "शुरु मौज्दात + यस आ.व. को जम्मा धरौटी आम्दानी - (धरौटी फिर्ता + सदरस्याहा) = अन्तिम धरौटी मौज्दात (बैंक मौज्दात बराबर)",
-      "option_b": "धरौटी आम्दानी = बजेट खर्च",
-      "option_c": "सदरस्याहा = पेश्की बाँकी",
-      "option_d": "धरौटी फिर्ता = कुल राजस्व",
-      "answer_index": 0,
-      "explanation": "धरौटी लेखा (३०० सिरिज) मा गत वर्षको जिम्मेवारी सरेको धरौटी मौज्दातमा यस वर्ष प्राप्त धरौटी जोड्ने र यस वर्ष फिर्ता भएको तथा सदरस्याहा (राजस्वमा परिणत) भएको रकम घटाउँदा आउने खुद बाँकी रकम TSA को धरौटी बैंक खाताको अन्तिम मौज्दातसँग शतप्रतिशत भिड्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 101,
+      "qid": 3664582862,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2227,6 +1937,7 @@
     },
     {
       "id": 102,
+      "qid": 1102699967,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2248,29 +1959,8 @@
       "is_pro": false
     },
     {
-      "id": 103,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "सार्वजनिक खरिद ऐन, २०६३ कहिले प्रमाणीकरण र प्रकाशन भएको हो?",
-      "options": [
-        "वि.सं. २०६३ मंसिर ३०",
-        "वि.सं. २०६४ भदौ ३",
-        "वि.सं. २०६३ माघ १",
-        "वि.सं. २०६३ फागुन ३०"
-      ],
-      "option_a": "वि.सं. २०६३ मंसिर ३०",
-      "option_b": "वि.सं. २०६४ भदौ ३",
-      "option_c": "वि.सं. २०६३ माघ १",
-      "option_d": "वि.सं. २०६३ फागुन ३०",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद ऐन, २०६३ वि.सं. २०६३ साल मंसिर ३० गते प्रमाणीकरण भई वि.सं. २०६३ माघ १ गतेदेखि लागू भएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 104,
+      "qid": 581655974,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2293,6 +1983,7 @@
     },
     {
       "id": 105,
+      "qid": 4180686872,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2315,6 +2006,7 @@
     },
     {
       "id": 106,
+      "qid": 330557330,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2336,29 +2028,8 @@
       "is_pro": false
     },
     {
-      "id": 107,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "नेपालमा हाल प्रचलित सरकारी लेखा प्रणाली मुख्यतया कुन आधारमा आधारित छ?",
-      "options": [
-        "नगदमा आधारित (Cash Basis)",
-        "प्रोद्भावी आधार (Accrual Basis)",
-        "मिश्रित आधार (Hybrid Basis)",
-        "प्रतिबद्धता आधार (Commitment Basis)"
-      ],
-      "option_a": "नगदमा आधारित (Cash Basis)",
-      "option_b": "प्रोद्भावी आधार (Accrual Basis)",
-      "option_c": "मिश्रित आधार (Hybrid Basis)",
-      "option_d": "प्रतिबद्धता आधार (Commitment Basis)",
-      "answer_index": 0,
-      "explanation": "नेपालको सरकारी लेखा प्रणाली (NPSAS समेत) हाल मुख्यतया नगदमा आधारित (Cash Basis of Accounting) लेखा प्रणालीमा आधारित छ, जहाँ वास्तविक नगद प्राप्ति र भुक्तानी भएकै बखत लेखाङ्कन गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 108,
+      "qid": 3488324157,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2381,6 +2052,7 @@
     },
     {
       "id": 109,
+      "qid": 4109112974,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2402,29 +2074,8 @@
       "is_pro": false
     },
     {
-      "id": 110,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "नेपालमा नयाँ स्रेस्ता प्रणाली कहिलेदेखि लागू भएको हो?",
-      "options": [
-        "वि.सं. २०१८ चैत्र २",
-        "वि.सं. २०१९ बैशाख १",
-        "वि.सं. २०१६ आषाढ १६",
-        "वि.सं. २०२० श्रावण १"
-      ],
-      "option_a": "वि.सं. २०१८ चैत्र २",
-      "option_b": "वि.सं. २०१९ बैशाख १",
-      "option_c": "वि.सं. २०१६ आषाढ १६",
-      "option_d": "वि.सं. २०२० श्रावण १",
-      "answer_index": 0,
-      "explanation": "तत्कालीन राजा महेन्द्रबाट वि.सं. २०१८ साल चैत्र २ गते लालमोहर लगी नयाँ स्रेस्ता प्रणाली वि.सं. २०१९/२० देखि क्रमशः लागू गरिएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 111,
+      "qid": 3942651481,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2447,6 +2098,7 @@
     },
     {
       "id": 112,
+      "qid": 2558088502,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2469,6 +2121,7 @@
     },
     {
       "id": 113,
+      "qid": 1993709563,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2491,6 +2144,7 @@
     },
     {
       "id": 114,
+      "qid": 2586106617,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2513,6 +2167,7 @@
     },
     {
       "id": 115,
+      "qid": 1153602684,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2534,29 +2189,8 @@
       "is_pro": false
     },
     {
-      "id": 116,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "सिलबन्दी दरभाउपत्र (Sealed Quotation) बाट निर्माण कार्य खरिद गर्दा अधिकतम सीमा कति तोकिएको छ?",
-      "options": [
-        "रु. २० लाखसम्म",
-        "रु. ५० लाखसम्म",
-        "रु. १ करोडसम्म",
-        "रु. २ करोडसम्म"
-      ],
-      "option_a": "रु. २० लाखसम्म",
-      "option_b": "रु. ५० लाखसम्म",
-      "option_c": "रु. १ करोडसम्म",
-      "option_d": "रु. २ करोडसम्म",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावली, २०६४ को नियम ८४ अनुसार २० लाख रुपैयाँसम्मको मालसामान, निर्माण कार्य वा जुनसुकै सेवा सिलबन्दी दरभाउपत्र आह्वान गरी खरिद गर्न सकिन्छ (हाल विशेष परिमार्जन बाहेक आधारभूत सीमा २० लाख)।",
-      "is_pro": false
-    },
-    {
       "id": 117,
+      "qid": 3122343390,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2579,6 +2213,7 @@
     },
     {
       "id": 118,
+      "qid": 1108275981,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2600,29 +2235,8 @@
       "is_pro": false
     },
     {
-      "id": 119,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "खर्चको फाँटवारीको नयाँ म.ले.प. फारम नम्बर कति हो?",
-      "options": [
-        "म.ले.प.फा.नं. २१०",
-        "म.ले.प.फा.नं. २११",
-        "म.ले.प.फा.नं. २१२",
-        "म.ले.प.फा.नं. २१३"
-      ],
-      "option_a": "म.ले.प.फा.नं. २१०",
-      "option_b": "म.ले.प.फा.नं. २११",
-      "option_c": "म.ले.प.फा.नं. २१२",
-      "option_d": "म.ले.प.फा.नं. २१३",
-      "answer_index": 0,
-      "explanation": "नयाँ म.ले.प. फारम अनुसार मासिक खर्चको फाँटवारी (Statement of Expenditure) को फारम नं. २१० हो (पुरानो म.ले.प.फा.नं. १३ थियो)।",
-      "is_pro": false
-    },
-    {
       "id": 120,
+      "qid": 4211925280,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2645,6 +2259,7 @@
     },
     {
       "id": 121,
+      "qid": 513869219,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2667,6 +2282,7 @@
     },
     {
       "id": 122,
+      "qid": 2557329776,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2689,6 +2305,7 @@
     },
     {
       "id": 123,
+      "qid": 136322110,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2710,29 +2327,8 @@
       "is_pro": false
     },
     {
-      "id": 124,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन कहिले जारी भएको हो?",
-      "options": [
-        "वि.सं. २०७६",
-        "वि.सं. २०७५",
-        "वि.सं. २०५५",
-        "वि.सं. २०६४"
-      ],
-      "option_a": "वि.सं. २०७६",
-      "option_b": "वि.सं. २०७५",
-      "option_c": "वि.सं. २०५५",
-      "option_d": "वि.सं. २०६४",
-      "answer_index": 0,
-      "explanation": "संघीय संरचना अनुकूल सरकारी आर्थिक कार्यविधि व्यवस्थित गर्न 'आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६' जारी गरिएको हो (जसले २०५५ को ऐनलाई प्रतिस्थापन गर्यो)।",
-      "is_pro": false
-    },
-    {
       "id": 125,
+      "qid": 107551016,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2755,6 +2351,7 @@
     },
     {
       "id": 126,
+      "qid": 2917756245,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2777,6 +2374,7 @@
     },
     {
       "id": 127,
+      "qid": 3729831275,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2799,6 +2397,7 @@
     },
     {
       "id": 128,
+      "qid": 993788051,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2821,6 +2420,7 @@
     },
     {
       "id": 129,
+      "qid": 1546352306,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2843,6 +2443,7 @@
     },
     {
       "id": 130,
+      "qid": 3772717741,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2865,6 +2466,7 @@
     },
     {
       "id": 131,
+      "qid": 1125781321,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2887,6 +2489,7 @@
     },
     {
       "id": 132,
+      "qid": 4128766796,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2909,6 +2512,7 @@
     },
     {
       "id": 133,
+      "qid": 2653248432,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2930,29 +2534,8 @@
       "is_pro": false
     },
     {
-      "id": 134,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ अनुसार बेरुजुलाई कति वर्गमा वर्गीकरण गरिएको छ?",
-      "options": [
-        "३ वर्गमा (असुल उपर गर्नुपर्ने, नियमित गर्नुपर्ने र पेश्की)",
-        "२ वर्गमा (सैद्धान्तिक र लगत बेरुजु)",
-        "४ वर्गमा (असुल उपर, अनियमित, प्रमाण नपुगेको र पेश्की)",
-        "५ वर्गमा"
-      ],
-      "option_a": "३ वर्गमा (असुल उपर गर्नुपर्ने, नियमित गर्नुपर्ने र पेश्की)",
-      "option_b": "२ वर्गमा (सैद्धान्तिक र लगत बेरुजु)",
-      "option_c": "४ वर्गमा (असुल उपर, अनियमित, प्रमाण नपुगेको र पेश्की)",
-      "option_d": "५ वर्गमा",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा ३९ अनुसार लेखापरीक्षणबाट औंल्याइएको बेरुजुलाई मुख्य ३ वर्गमा (१. असुल उपर गर्नुपर्ने, २. नियमित गर्नुपर्ने र ३. पेश्की) वर्गीकरण गरिन्छ। (नियमित गर्नुपर्ने भित्र अनियमित, प्रमाण कागजात नपुगेको र जिम्मेवारी नसारेको पर्दछन्)।",
-      "is_pro": false
-    },
-    {
       "id": 135,
+      "qid": 2598793508,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2975,6 +2558,7 @@
     },
     {
       "id": 136,
+      "qid": 700155913,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -2997,6 +2581,7 @@
     },
     {
       "id": 137,
+      "qid": 115925167,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3018,29 +2603,8 @@
       "is_pro": false
     },
     {
-      "id": 138,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "सार्वजनिक खरिद ऐन, २०६३ अनुसार उपभोक्ता समिति वा लाभग्राही समुदायबाट कति रकमसम्मको निर्माण कार्य गराउन सकिन्छ?",
-      "options": [
-        "रु. १ करोडसम्म",
-        "रु. २ करोडसम्म",
-        "रु. ५० लाखसम्म",
-        "रु. ५ करोडसम्म"
-      ],
-      "option_a": "रु. १ करोडसम्म",
-      "option_b": "रु. २ करोडसम्म",
-      "option_c": "रु. ५० लाखसम्म",
-      "option_d": "रु. ५ करोडसम्म",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावली, २०६४ को नियम ९७(१) (संशोधित व्यवस्था) अनुसार १ करोड रुपैयाँसम्म लागत अनुमान भएको निर्माण कार्य वा सो सम्बन्धी सेवा उपभोक्ता समिति वा लाभग्राही समुदायबाट गराउन सकिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 139,
+      "qid": 3060747913,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3063,6 +2627,7 @@
     },
     {
       "id": 140,
+      "qid": 224325525,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3084,29 +2649,8 @@
       "is_pro": false
     },
     {
-      "id": 141,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "खरिद सम्झौता गर्दा बोलपत्रदाताको कबोल अंक लागत अनुमानको ८५ प्रतिशतसम्म वा सोभन्दा बढी भएमा कार्यसम्पादन जमानत (Performance Security) कति प्रतिशत राख्नुपर्दछ?",
-      "options": [
-        "कबोल अंकको ५ प्रतिशत",
-        "कबोल अंकको १० प्रतिशत",
-        "कबोल अंकको २.५ प्रतिशत",
-        "लागत अनुमानको १५ प्रतिशत"
-      ],
-      "option_a": "कबोल अंकको ५ प्रतिशत",
-      "option_b": "कबोल अंकको १० प्रतिशत",
-      "option_c": "कबोल अंकको २.५ प्रतिशत",
-      "option_d": "लागत अनुमानको १५ प्रतिशत",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावली, २०६४ को नियम ११० अनुसार बोलपत्रदाताको कबोल अंक लागत अनुमानको ८५ प्रतिशत वा सोभन्दा बढी भएमा कबोल अंकको ५ प्रतिशत कार्यसम्पादन जमानत पेश गर्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 142,
+      "qid": 842119128,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3129,6 +2673,7 @@
     },
     {
       "id": 143,
+      "qid": 1347608244,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3151,6 +2696,7 @@
     },
     {
       "id": 144,
+      "qid": 448602052,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3173,6 +2719,7 @@
     },
     {
       "id": 145,
+      "qid": 1771580525,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3194,29 +2741,8 @@
       "is_pro": false
     },
     {
-      "id": 146,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "CGAS प्रणालीमा कर्मचारीलाई भ्रमण पेश्की दिँदा गोश्वारा भौचरमा कुन खातलाई डेबिट र कुन खातलाई क्रेडिट गरिन्छ?",
-      "options": [
-        "डेबिट: बजेट खर्च भ्रमण शीर्षक (पद नाम), क्रेडिट: एकल खाता कोष (TSA)",
-        "डेबिट: भ्रमण पेश्की खाता, क्रेडिट: नगद खाता",
-        "डेबिट: कर्मचारी पारिश्रमिक, क्रेडिट: बैंक खाता",
-        "डेबिट: विविध खाता, क्रेडिट: बजेट खर्च"
-      ],
-      "option_a": "डेबिट: बजेट खर्च भ्रमण शीर्षक (पद नाम), क्रेडिट: एकल खाता कोष (TSA)",
-      "option_b": "डेबिट: भ्रमण पेश्की खाता, क्रेडिट: नगद खाता",
-      "option_c": "डेबिट: कर्मचारी पारिश्रमिक, क्रेडिट: बैंक खाता",
-      "option_d": "डेबिट: विविध खाता, क्रेडिट: बजेट खर्च",
-      "answer_index": 0,
-      "explanation": "सरकारी लेखा प्रणालीमा पेश्की दिँदैमा बजेट खर्च जनाइने हुँदा गोश्वारा भौचर बनाउँदा 'डेबिट बा: बजेट खर्च (भ्रमण खर्च संकेत २२६११ - कर्मचारीको नाम र पद)' र 'क्रेडिट: एकल खाता कोष/को.ले.नि.का.' गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 147,
+      "qid": 4093781510,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3239,6 +2765,7 @@
     },
     {
       "id": 148,
+      "qid": 1664580530,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3261,6 +2788,7 @@
     },
     {
       "id": 149,
+      "qid": 2592224659,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3283,6 +2811,7 @@
     },
     {
       "id": 150,
+      "qid": 335366476,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3305,6 +2834,7 @@
     },
     {
       "id": 151,
+      "qid": 3593584267,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3326,29 +2856,8 @@
       "is_pro": false
     },
     {
-      "id": 152,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "नेपालका ७७ वटै जिल्लामा एकल खाता कोष प्रणाली (TSA) कुन आर्थिक वर्षदेखि पूर्ण रूपमा लागू भएको हो?",
-      "options": [
-        "आ.व. २०७०/७१",
-        "आ.व. २०६८/६९",
-        "आ.व. २०७२/७३",
-        "आ.व. २०७५/७६"
-      ],
-      "option_a": "आ.व. २०७०/७१",
-      "option_b": "आ.व. २०६८/६९",
-      "option_c": "आ.व. २०७२/७३",
-      "option_d": "आ.व. २०७५/७६",
-      "answer_index": 0,
-      "explanation": "नेपालका तत्कालिन ७५ वटै जिल्ला (हाल ७७ जिल्ला) मा आ.व. २०७०/७१ (वि.सं. २०७० साउन १) देखि एकल खाता कोष प्रणाली (TSA) पूर्ण रूपमा लागू गरिएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 153,
+      "qid": 1234586919,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3371,6 +2880,7 @@
     },
     {
       "id": 154,
+      "qid": 561821713,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3393,6 +2903,7 @@
     },
     {
       "id": 155,
+      "qid": 1733448991,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3415,6 +2926,7 @@
     },
     {
       "id": 156,
+      "qid": 2278984452,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3437,6 +2949,7 @@
     },
     {
       "id": 157,
+      "qid": 3280411857,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3459,6 +2972,7 @@
     },
     {
       "id": 158,
+      "qid": 3440830288,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3481,6 +2995,7 @@
     },
     {
       "id": 159,
+      "qid": 2971569389,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3503,6 +3018,7 @@
     },
     {
       "id": 160,
+      "qid": 3417227660,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3524,29 +3040,8 @@
       "is_pro": false
     },
     {
-      "id": 161,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "सार्वजनिक खरिद नियमावली, २०६४ अनुसार वार्षिक कति रकमभन्दा बढीको खरिद कार्य गर्नुपर्दा सार्वजनिक निकायले 'गुरू खरिद योजना' (Master Procurement Plan) तयार गर्नुपर्दछ?",
-      "options": [
-        "रु. १० करोडभन्दा बढी वा १ वर्षभन्दा बढी अवधि चल्ने",
-        "रु. १ लाखभन्दा बढी",
-        "रु. १० लाखभन्दा बढी",
-        "रु. ५० लाखभन्दा बढी"
-      ],
-      "option_a": "रु. १० करोडभन्दा बढी वा १ वर्षभन्दा बढी अवधि चल्ने",
-      "option_b": "रु. १ लाखभन्दा बढी",
-      "option_c": "रु. १० लाखभन्दा बढी",
-      "option_d": "रु. ५० लाखभन्दा बढी",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावली, २०६४ को नियम ७ अनुसार एक वर्षभन्दा बढी अवधिसम्म सञ्चालन हुने योजना वा आयोजनाको लागि वा वार्षिक १० करोड रुपैयाँभन्दा बढी रकमको खरिद कार्य गर्नुपर्दा गुरू खरिद योजना (Master Procurement Plan) तयार गर्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 162,
+      "qid": 1832427577,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3569,6 +3064,7 @@
     },
     {
       "id": 163,
+      "qid": 1312425646,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3591,6 +3087,7 @@
     },
     {
       "id": 164,
+      "qid": 3120969129,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3612,29 +3109,8 @@
       "is_pro": false
     },
     {
-      "id": 165,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "आन्तरिक लेखापरीक्षण प्रतिवेदनमा औंल्याइएका कैफियत र बेरुजुहरू कहिलेसम्म फर्स्यौट वा सुधार गरिसक्नुपर्दछ?",
-      "options": [
-        "अन्तिम लेखापरीक्षण सुरु हुनुभन्दा अगावै",
-        "५ वर्षभित्र",
-        "लोक सेवा आयोगको अनुमतिपछि",
-        "कहिल्यै गर्नु पर्दैन"
-      ],
-      "option_a": "अन्तिम लेखापरीक्षण सुरु हुनुभन्दा अगावै",
-      "option_b": "५ वर्षभित्र",
-      "option_c": "लोक सेवा आयोगको अनुमतिपछि",
-      "option_d": "कहिल्यै गर्नु पर्दैन",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा ३३(४) अनुसार आन्तरिक लेखापरीक्षणबाट देखिएको बेरुजु सम्बन्धित कार्यालयले अन्तिम लेखापरीक्षण हुनुभन्दा अगाडि नै सच्याउनु वा फर्स्यौट गर्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 166,
+      "qid": 3817570856,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3657,6 +3133,7 @@
     },
     {
       "id": 167,
+      "qid": 531023877,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3679,6 +3156,7 @@
     },
     {
       "id": 168,
+      "qid": 2011654109,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3701,6 +3179,7 @@
     },
     {
       "id": 169,
+      "qid": 2311143594,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3723,6 +3202,7 @@
     },
     {
       "id": 170,
+      "qid": 659869810,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3745,6 +3225,7 @@
     },
     {
       "id": 171,
+      "qid": 928178365,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3767,6 +3248,7 @@
     },
     {
       "id": 172,
+      "qid": 963770648,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3789,6 +3271,7 @@
     },
     {
       "id": 173,
+      "qid": 3773911801,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3810,29 +3293,8 @@
       "is_pro": false
     },
     {
-      "id": 174,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा ४० अनुसार महालेखा परीक्षकको प्रतिवेदनमा औंल्याइएको 'असुल उपर गर्नुपर्ने बेरुजु' सम्बन्धित जिम्मेवार व्यक्तिले सो सूचना पाएको मितिले कति दिनभित्र असुल उपर गरी फर्स्यौट गराउनुपर्दछ?",
-      "options": [
-        "३५ दिनभित्र",
-        "६० दिनभित्र",
-        "९० दिनभित्र",
-        "१२० दिनभित्र"
-      ],
-      "option_a": "३५ दिनभित्र",
-      "option_b": "६० दिनभित्र",
-      "option_c": "९० दिनभित्र",
-      "option_d": "१२० दिनभित्र",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा ४०(१) अनुसार लेखापरीक्षणबाट असुल उपर गर्नुपर्ने भनी औंल्याइएको बेरुजुको सूचना प्राप्त भएको मितिले ३५ दिनभित्र सम्बन्धित व्यक्तिबाट असुल उपर गर्नुपर्दछ र सो म्यादभित्र बुझाउन नसकेमा कुमारी चोक तथा केन्द्रीय तहसिल कार्यालयमा लगत पठाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 175,
+      "qid": 2067424467,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3855,6 +3317,7 @@
     },
     {
       "id": 176,
+      "qid": 2323527132,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3877,6 +3340,7 @@
     },
     {
       "id": 177,
+      "qid": 229597100,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3899,6 +3363,7 @@
     },
     {
       "id": 178,
+      "qid": 1545198108,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3920,29 +3385,8 @@
       "is_pro": false
     },
     {
-      "id": 179,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "सार्वजनिक खरिद ऐन, २०६३ को दफा ४७ र ५० बमोजिम खरिद कारबाही वा निर्णय उपर सार्वजनिक खरिद पुनरावलोकन समिति समक्ष पुनरावलोकनका लागि निवेदन दिँदा कति रकम धरौटी (Security Deposit) राख्नुपर्ने व्यवस्था छ?",
-      "options": [
-        "कबोल अंकको १ प्रतिशत",
-        "कबोल अंकको ०.१ प्रतिशत",
-        "कबोल अंकको ५ प्रतिशत",
-        "लागत अनुमानको २ प्रतिशत"
-      ],
-      "option_a": "कबोल अंकको १ प्रतिशत",
-      "option_b": "कबोल अंकको ०.१ प्रतिशत",
-      "option_c": "कबोल अंकको ५ प्रतिशत",
-      "option_d": "लागत अनुमानको २ प्रतिशत",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद ऐन, २०६३ को दफा ५० र नियमावलीको नियम १०४ अनुसार पुनरावलोकन समिति समक्ष निवेदन दिने बोलपत्रदाताले आफूले बोलपत्रमा कबोल गरेको रकमको १ प्रतिशत (सংশोधित प्रावधान अनुसार निश्चित सीमा वा १%) बराबरको नगद वा बैंक जमानत धरौटी राख्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 180,
+      "qid": 2584662817,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3965,6 +3409,7 @@
     },
     {
       "id": 181,
+      "qid": 3032365212,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -3986,29 +3431,8 @@
       "is_pro": false
     },
     {
-      "id": 182,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा २० अनुसार विनियोजन ऐनमा समावेश भएको कुनै एक अनुदान संख्याबाट अर्को अनुदान संख्या वा एक खर्च शीर्षकबाट अर्को खर्च शीर्षकमा रकमान्तर (Virement) गर्दा कति प्रतिशतको सीमा र कसको अधिकार रहन्छ?",
-      "options": [
-        "अर्थ मन्त्रालयले कुल बजेटको १० प्रतिशत ननाघ्ने गरी जुनुसुकै शीर्षकमा रकमान्तर गर्न सक्छ (तलव, भत्ता, पूँजीगत बाहेकका शर्त अधीनमा)",
-        "कार्यालय प्रमुखले ५० प्रतिशतसम्म गर्न सक्छ",
-        "रकमान्तर गर्न संविधानले पूर्ण बन्देज लगाएको छ",
-        "महालेखा परीक्षकले मात्र रकमान्तर गर्छ"
-      ],
-      "option_a": "अर्थ मन्त्रालयले कुल बजेटको १० प्रतिशत ननाघ्ने गरी जुनुसुकै शीर्षकमा रकमान्तर गर्न सक्छ (तलव, भत्ता, पूँजीगत बाहेकका शर्त अधीनमा)",
-      "option_b": "कार्यालय प्रमुखले ५० प्रतिशतसम्म गर्न सक्छ",
-      "option_c": "रकमान्तर गर्न संविधानले पूर्ण बन्देज लगाएको छ",
-      "option_d": "महालेखा परीक्षकले मात्र रकमान्तर गर्छ",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा २० र विनियोजन ऐनको व्यवस्था अनुसार अर्थ मन्त्रालयले विनियोजन ऐनले तोकेको सीमा (सामान्यतया १० प्रतिशत) भित्र रही एक शीर्षकबाट अर्को शीर्षकमा रकमान्तर गर्न सक्छ।",
-      "is_pro": false
-    },
-    {
       "id": 183,
+      "qid": 3501962256,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4031,6 +3455,7 @@
     },
     {
       "id": 184,
+      "qid": 227518552,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4053,6 +3478,7 @@
     },
     {
       "id": 185,
+      "qid": 2520711357,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4075,6 +3501,7 @@
     },
     {
       "id": 186,
+      "qid": 1213324754,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4097,6 +3524,7 @@
     },
     {
       "id": 187,
+      "qid": 408240778,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4119,6 +3547,7 @@
     },
     {
       "id": 188,
+      "qid": 2028502957,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4141,6 +3570,7 @@
     },
     {
       "id": 189,
+      "qid": 1875106575,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4163,6 +3593,7 @@
     },
     {
       "id": 190,
+      "qid": 65087990,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4185,6 +3616,7 @@
     },
     {
       "id": 191,
+      "qid": 951554563,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4207,6 +3639,7 @@
     },
     {
       "id": 192,
+      "qid": 3430587860,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4229,6 +3662,7 @@
     },
     {
       "id": 193,
+      "qid": 1456097152,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4251,6 +3685,7 @@
     },
     {
       "id": 194,
+      "qid": 3397658399,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4273,6 +3708,7 @@
     },
     {
       "id": 195,
+      "qid": 4057270793,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4295,6 +3731,7 @@
     },
     {
       "id": 196,
+      "qid": 2098611711,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4317,6 +3754,7 @@
     },
     {
       "id": 197,
+      "qid": 351827362,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4339,6 +3777,7 @@
     },
     {
       "id": 198,
+      "qid": 4261130312,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4361,6 +3800,7 @@
     },
     {
       "id": 199,
+      "qid": 2399692906,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4382,51 +3822,8 @@
       "is_pro": false
     },
     {
-      "id": 200,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "सरकारी लेखा प्रणालीमा आ.व. को अन्त्यमा गोश्वारा धरौटी खाताको वार्षिक विवरण (म.ले.प.फा.नं. ३०२/३०७) तयार गर्दा देहायको कुन समीकरण अनिवार्य रूपमा मिल्नुपर्दछ?",
-      "options": [
-        "शुरु मौज्दात + यस आ.व. को जम्मा धरौटी आम्दानी - (धरौटी फिर्ता + सदरस्याहा) = अन्तिम धरौटी मौज्दात (बैंक मौज्दात बराबर)",
-        "धरौटी आम्दानी = बजेट खर्च",
-        "सदरस्याहा = पेश्की बाँकी",
-        "धरौटी फिर्ता = कुल राजस्व"
-      ],
-      "option_a": "शुरु मौज्दात + यस आ.व. को जम्मा धरौटी आम्दानी - (धरौटी फिर्ता + सदरस्याहा) = अन्तिम धरौटी मौज्दात (बैंक मौज्दात बराबर)",
-      "option_b": "धरौटी आम्दानी = बजेट खर्च",
-      "option_c": "सदरस्याहा = पेश्की बाँकी",
-      "option_d": "धरौटी फिर्ता = कुल राजस्व",
-      "answer_index": 0,
-      "explanation": "धरौटी लेखा (३०० सिरिज) मा गत वर्षको जिम्मेवारी सरेको धरौटी मौज्दातमा यस वर्ष प्राप्त धरौटी जोड्ने र यस वर्ष फिर्ता भएको तथा सदरस्याहा (राजस्वमा परिणत) भएको रकम घटाउँदा आउने खुद बाँकी रकम TSA को धरौटी बैंक खाताको अन्तिम मौज्दातसँग शतप्रतिशत भिड्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
-      "id": 201,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "नयाँ म.ले.प. फारम अनुसार सरकारी कार्यालयमा नगदी रसिदको फारम नम्बर कति हो?",
-      "options": [
-        "म.ले.प.फा.नं. १०१",
-        "म.ले.प.फा.नं. १०२",
-        "म.ले.प.फा.नं. २००",
-        "म.ले.प.फा.नं. २०३"
-      ],
-      "option_a": "म.ले.प.फा.नं. १०१",
-      "option_b": "म.ले.प.फा.नं. १०२",
-      "option_c": "म.ले.प.फा.नं. २००",
-      "option_d": "म.ले.प.फा.नं. २०३",
-      "answer_index": 0,
-      "explanation": "महालेखा परीक्षकको कार्यालयबाट स्वीकृत नयाँ फारम सूची अनुसार राजस्व तथा नगद संकलनका लागि प्रयोग हुने नगदी रसिदको म.ले.प. फारम नं. १०१ कायम गरिएको छ (पुरानो फारम नं. ११ थियो)।",
-      "is_pro": false
-    },
-    {
       "id": 202,
+      "qid": 3861225671,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4449,6 +3846,7 @@
     },
     {
       "id": 203,
+      "qid": 2152159913,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4471,6 +3869,7 @@
     },
     {
       "id": 204,
+      "qid": 249234051,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4493,6 +3892,7 @@
     },
     {
       "id": 205,
+      "qid": 4260356923,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4515,6 +3915,7 @@
     },
     {
       "id": 206,
+      "qid": 2325666282,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4536,29 +3937,8 @@
       "is_pro": false
     },
     {
-      "id": 207,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "खरिद आदेश (Purchase Order) को नयाँ म.ले.प. फारम नम्बर कति हो?",
-      "options": [
-        "म.ले.प.फा.नं. ४०२",
-        "म.ले.प.फा.नं. ४०१",
-        "म.ले.प.फा.नं. ४०३",
-        "म.ले.प.फा.नं. ४०४"
-      ],
-      "option_a": "म.ले.प.फा.नं. ४०२",
-      "option_b": "म.ले.प.फा.नं. ४०१",
-      "option_c": "म.ले.प.फा.नं. ४०३",
-      "option_d": "म.ले.प.फा.नं. ४०४",
-      "answer_index": 0,
-      "explanation": "नयाँ म.ले.प. फारम सूची अनुसार मालसामान खरिदका लागि आपूर्तिकर्तालाई दिइने खरिद आदेश (Purchase Order) को फारम नं. ४०२ हो (पुरानो फारम नं. ४५ थियो)।",
-      "is_pro": false
-    },
-    {
       "id": 208,
+      "qid": 2004703998,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4581,6 +3961,7 @@
     },
     {
       "id": 209,
+      "qid": 687878390,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4603,6 +3984,7 @@
     },
     {
       "id": 210,
+      "qid": 4156438878,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4624,29 +4006,8 @@
       "is_pro": false
     },
     {
-      "id": 211,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "नेपालमा सर्वप्रथम बजेट प्रस्तुत कहिले गरिएको थियो?",
-      "options": [
-        "वि.सं. २००८ माघ २१",
-        "वि.सं. २००७ फागुन ७",
-        "वि.सं. २०१६ असार १५",
-        "वि.सं. २०१८ चैत्र २"
-      ],
-      "option_a": "वि.सं. २००८ माघ २१",
-      "option_b": "वि.सं. २००७ फागुन ७",
-      "option_c": "वि.सं. २०१६ असार १५",
-      "option_d": "वि.सं. २०१८ चैत्र २",
-      "answer_index": 0,
-      "explanation": "नेपालमा सर्वप्रथम वि.सं. २००८ साल माघ २१ गते तत्कालीन अर्थमन्त्री सुवर्ण शमशेरद्वारा पहिलो राष्ट्रिय बजेट प्रस्तुत गरिएको थियो।",
-      "is_pro": false
-    },
-    {
       "id": 212,
+      "qid": 1632465339,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4669,6 +4030,7 @@
     },
     {
       "id": 213,
+      "qid": 3728248557,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4690,29 +4052,8 @@
       "is_pro": false
     },
     {
-      "id": 214,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "परामर्श सेवा खरिदका लागि आशयपत्र (Expression of Interest - EoI) माग गर्दा कम्तीमा कति दिनको सूचना प्रकाशन गर्नुपर्दछ?",
-      "options": [
-        "१५ दिन",
-        "७ दिन",
-        "२१ दिन",
-        "३० दिन"
-      ],
-      "option_a": "१५ दिन",
-      "option_b": "७ दिन",
-      "option_c": "२१ दिन",
-      "option_d": "३० दिन",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद ऐन, २०६३ को दफा ३०(२) अनुसार परामर्श सेवा खरिदका लागि आशयपत्र (EoI) माग गर्दा कम्तीमा १५ दिनको अवधि दिई सूचना प्रकाशन गर्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 215,
+      "qid": 3986343035,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4735,6 +4076,7 @@
     },
     {
       "id": 216,
+      "qid": 94329204,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4756,29 +4098,8 @@
       "is_pro": false
     },
     {
-      "id": 217,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "एकीकृत आर्थिक संकेत तथा वर्गीकरण अनुसार राजस्व शीर्षकको संकेत कति अंकबाट सुरु हुन्छ?",
-      "options": [
-        "१ बाट",
-        "२ बाट",
-        "३ बाट",
-        "४ बाट"
-      ],
-      "option_a": "१ बाट",
-      "option_b": "२ बाट",
-      "option_c": "३ बाट",
-      "option_d": "४ बाट",
-      "answer_index": 0,
-      "explanation": "एकीकृत आर्थिक संकेत तथा वर्गीकरण र व्याख्या अनुसार ५ अंकको संकेतमा '१' बाट सुरु हुने संकेतहरूले सरकारी राजस्व (Revenue) लाई जनाउँछन्।",
-      "is_pro": false
-    },
-    {
       "id": 218,
+      "qid": 2120015994,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4801,6 +4122,7 @@
     },
     {
       "id": 219,
+      "qid": 326818877,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4823,6 +4145,7 @@
     },
     {
       "id": 220,
+      "qid": 4020360538,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4845,6 +4168,7 @@
     },
     {
       "id": 221,
+      "qid": 2571193034,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4866,29 +4190,8 @@
       "is_pro": false
     },
     {
-      "id": 222,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "सरकारी कार्यालयले मासिक खर्चको फाँटवारी (म.ले.प.फा.नं. २१०) महिना समाप्त भएको कति दिनभित्र को.ले.नि.का. र तालुक कार्यालयमा पठाउनुपर्दछ?",
-      "options": [
-        "७ दिनभित्र",
-        "१५ दिनभित्र",
-        "२१ दिनभित्र",
-        "३५ दिनभित्र"
-      ],
-      "option_a": "७ दिनभित्र",
-      "option_b": "१५ दिनभित्र",
-      "option_c": "२१ दिनभित्र",
-      "option_d": "३५ दिनभित्र",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व नियमावली अनुसार प्रत्येक कार्यालयले महिना समाप्त भएको ७ दिनभित्र मासिक आर्थिक विवरण (फाँटवारी) को.ले.नि.का. र तालुक कार्यालयमा पेश गर्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 223,
+      "qid": 2298945319,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4911,6 +4214,7 @@
     },
     {
       "id": 224,
+      "qid": 1349418791,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4933,6 +4237,7 @@
     },
     {
       "id": 225,
+      "qid": 534085443,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4955,6 +4260,7 @@
     },
     {
       "id": 226,
+      "qid": 3575586716,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4977,6 +4283,7 @@
     },
     {
       "id": 227,
+      "qid": 278827409,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -4998,29 +4305,8 @@
       "is_pro": false
     },
     {
-      "id": 228,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "सर्वोच्च लेखापरीक्षण संस्थाहरूको अन्तर्राष्ट्रिय संगठनलाई छोटकरीमा के भनिन्छ?",
-      "options": [
-        "INTOSAI",
-        "IFAC",
-        "ASOSAI",
-        "IMF"
-      ],
-      "option_a": "INTOSAI",
-      "option_b": "IFAC",
-      "option_c": "ASOSAI",
-      "option_d": "IMF",
-      "answer_index": 0,
-      "explanation": "सर्वोच्च लेखापरीक्षण संस्थाहरूको अन्तर्राष्ट्रिय संगठनलाई INTOSAI (International Organization of Supreme Audit Institutions) भनिन्छ र एशियाली संगठनलाई ASOSAI भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 229,
+      "qid": 3043906390,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5043,6 +4329,7 @@
     },
     {
       "id": 230,
+      "qid": 2564093477,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5064,29 +4351,8 @@
       "is_pro": false
     },
     {
-      "id": 231,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "सार्वजनिक खरिद नियमावली, २०६४ अनुसार कति रकमभन्दा बढीको निर्माण कार्य खरिद गर्दा विद्युतीय खरिद प्रणाली (e-GP) को प्रयोग अनिवार्य गरिएको छ?",
-      "options": [
-        "रु. २० लाखभन्दा माथिको बोलपत्र",
-        "रु. ६० लाखभन्दा माथिको मात्र",
-        "रु. १ करोडभन्दा माथिको मात्र",
-        "रु. १० करोडभन्दा माथिको मात्र"
-      ],
-      "option_a": "रु. २० लाखभन्दा माथिको बोलपत्र",
-      "option_b": "रु. ६० लाखभन्दा माथिको मात्र",
-      "option_c": "रु. १ करोडभन्दा माथिको मात्र",
-      "option_d": "रु. १० करोडभन्दा माथिको मात्र",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद अनुगमन कार्यालयको निर्देशिका र नियमावली अनुसार बोलपत्र आह्वान गर्नुपर्ने सीमा (रु. २० लाखभन्दा माथि) का सबै सार्वजनिक खरिद कार्यहरू अनिवार्य रूपमा विद्युतीय खरिद प्रणाली (e-GP) मार्फत गर्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 232,
+      "qid": 2592928868,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5109,6 +4375,7 @@
     },
     {
       "id": 233,
+      "qid": 4210848675,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5131,6 +4398,7 @@
     },
     {
       "id": 234,
+      "qid": 1358561149,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5153,6 +4421,7 @@
     },
     {
       "id": 235,
+      "qid": 2204465511,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5175,6 +4444,7 @@
     },
     {
       "id": 236,
+      "qid": 1246463660,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5196,29 +4466,8 @@
       "is_pro": false
     },
     {
-      "id": 237,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "लेखापरीक्षण ऐन, २०७५ अनुसार पूर्ण सरकारी स्वामित्व नभएको तर नेपाल सरकारको अधिकांश (५०% भन्दा बढी) लगानी भएको संगठित संस्थाले लेखापरीक्षक नियुक्त गर्दा के गर्नुपर्दछ?",
-      "options": [
-        "महालेखा परीक्षकको परामर्श लिई निजले तोकेको सिद्धान्त बमोजिम लेखापरीक्षण गराउनुपर्दछ",
-        "कसैलाई सोध्नु पर्दैन",
-        "अर्थमन्त्रीबाट लेखापरीक्षण गराउनुपर्दछ",
-        "आन्तरिक राजस्व विभागबाट गराउनुपर्दछ"
-      ],
-      "option_a": "महालेखा परीक्षकको परामर्श लिई निजले तोकेको सिद्धान्त बमोजिम लेखापरीक्षण गराउनुपर्दछ",
-      "option_b": "कसैलाई सोध्नु पर्दैन",
-      "option_c": "अर्थमन्त्रीबाट लेखापरीक्षण गराउनुपर्दछ",
-      "option_d": "आन्तरिक राजस्व विभागबाट गराउनुपर्दछ",
-      "answer_index": 0,
-      "explanation": "नेपालको संविधानको धारा २४१(२) र लेखापरीक्षण ऐन, २०७५ को दफा ६ र ७ अनुसार संगठित संस्थाको लेखापरीक्षक नियुक्त गर्दा महालेखा परीक्षकको परामर्श लिनुपर्ने र महालेखा परीक्षकले तोकेको सिद्धान्त बमोजिम लेखापरीक्षण हुनुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 238,
+      "qid": 3086349332,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5241,6 +4490,7 @@
     },
     {
       "id": 239,
+      "qid": 3556161315,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5263,6 +4513,7 @@
     },
     {
       "id": 240,
+      "qid": 4008924006,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5285,6 +4536,7 @@
     },
     {
       "id": 241,
+      "qid": 1742761894,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5307,6 +4559,7 @@
     },
     {
       "id": 242,
+      "qid": 1309341350,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5329,6 +4582,7 @@
     },
     {
       "id": 243,
+      "qid": 2806126404,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5350,29 +4604,8 @@
       "is_pro": false
     },
     {
-      "id": 244,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "बोलपत्र जमानत (Bid Security) को मान्य हुने अवधि बोलपत्रको मान्य हुने अवधि (Bid Validity Period) भन्दा कम्तीमा कति दिन बढीको हुनुपर्दछ?",
-      "options": [
-        "३० दिन",
-        "१५ दिन",
-        "४५ दिन",
-        "६० दिन"
-      ],
-      "option_a": "३० दिन",
-      "option_b": "१५ दिन",
-      "option_c": "४५ दिन",
-      "option_d": "६० दिन",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावली, २०६४ को नियम ५३(२) अनुसार बोलपत्र जमानतको मान्य हुने अवधि बोलपत्रको मान्य हुने अवधिभन्दा कम्तीमा ३० (तीस) दिन बढी अवधिको हुनुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 245,
+      "qid": 3558968146,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5395,6 +4628,7 @@
     },
     {
       "id": 246,
+      "qid": 2908604369,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5417,6 +4651,7 @@
     },
     {
       "id": 247,
+      "qid": 1131627466,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5438,29 +4673,8 @@
       "is_pro": false
     },
     {
-      "id": 248,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "महालेखा नियन्त्रक कार्यालयले आर्थिक वर्ष समाप्त भएको कति अवधिभित्र संघीय सञ्चित कोषको एकीकृत वार्षिक वित्तीय विवरण तयार गरी अर्थ मन्त्रालय र महालेखा परीक्षकको कार्यालयमा पेश गर्नुपर्दछ?",
-      "options": [
-        "आर्थिक वर्ष समाप्त भएको ३ महिनाभित्र (असोज मसान्तभित्र)",
-        "१ महिनाभित्र",
-        "६ महिनाभित्र",
-        "१ वर्षभित्र"
-      ],
-      "option_a": "आर्थिक वर्ष समाप्त भएको ३ महिनाभित्र (असोज मसान्तभित्र)",
-      "option_b": "१ महिनाभित्र",
-      "option_c": "६ महिनाभित्र",
-      "option_d": "१ वर्षभित्र",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा ३१ अनुसार महालेखा नियन्त्रक कार्यालयले संघीय सञ्चित कोषको एकीकृत वार्षिक वित्तीय विवरण तयार गरी महालेखा परीक्षकको कार्यालयमा पेश गर्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 249,
+      "qid": 3524099978,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5483,6 +4697,7 @@
     },
     {
       "id": 250,
+      "qid": 3536219188,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5505,6 +4720,7 @@
     },
     {
       "id": 251,
+      "qid": 3212405876,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5527,6 +4743,7 @@
     },
     {
       "id": 252,
+      "qid": 3833621270,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5548,29 +4765,8 @@
       "is_pro": false
     },
     {
-      "id": 253,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "एकीकृत आर्थिक संकेत तथा वर्गीकरण अनुसार मसलन्द तथा कार्यालय सामग्री खर्चको संकेत नम्बर कति हो?",
-      "options": [
-        "२२३११",
-        "२२१११",
-        "२२२१२",
-        "२२६१२"
-      ],
-      "option_a": "२२३११",
-      "option_b": "२२१११",
-      "option_c": "२२२१२",
-      "option_d": "२२६१२",
-      "answer_index": 0,
-      "explanation": "एकीकृत आर्थिक संकेत अनुसार २२३११ मसलन्द तथा कार्यालय सामग्री (Office Materials and Stationery), २२१११ पानी तथा बिजुली र २२२१२ इन्धन हो।",
-      "is_pro": false
-    },
-    {
       "id": 254,
+      "qid": 3355237249,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5593,6 +4789,7 @@
     },
     {
       "id": 255,
+      "qid": 572942565,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5615,6 +4812,7 @@
     },
     {
       "id": 256,
+      "qid": 1670414901,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5636,29 +4834,8 @@
       "is_pro": false
     },
     {
-      "id": 257,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "बोलपत्र छनौट भइसकेपछि सार्वजनिक निकायले सफल बोलपत्रदातालाई सम्झौता गर्न आउन कति दिनको म्याद दिई आशयको सूचना र कार्यसम्पादन जमानत पेश गर्ने पत्र पठाउँछ?",
-      "options": [
-        "७ दिन (आशयको सूचना) र १५ दिन (कार्यसम्पादन जमानत सहित सम्झौताका लागि)",
-        "१ दिन",
-        "६० दिन",
-        "९० दिन"
-      ],
-      "option_a": "७ दिन (आशयको सूचना) र १५ दिन (कार्यसम्पादन जमानत सहित सम्झौताका लागि)",
-      "option_b": "१ दिन",
-      "option_c": "६० दिन",
-      "option_d": "९० दिन",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद ऐन, २०६३ को दफा २७ र ५२ अनुसार बोलपत्र छनौट भएपछि ७ दिनको आशयको सूचना प्रकाशन गरिन्छ र उजुरी नपरेमा १५ दिनभित्र कार्यसम्पादन जमानत लिई सम्झौता गर्न बोलाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 258,
+      "qid": 4024135945,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5681,6 +4858,7 @@
     },
     {
       "id": 259,
+      "qid": 2528693095,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5703,6 +4881,7 @@
     },
     {
       "id": 260,
+      "qid": 4179429198,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5725,6 +4904,7 @@
     },
     {
       "id": 261,
+      "qid": 795715258,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5747,6 +4927,7 @@
     },
     {
       "id": 262,
+      "qid": 3015605750,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5769,6 +4950,7 @@
     },
     {
       "id": 263,
+      "qid": 457794829,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5791,6 +4973,7 @@
     },
     {
       "id": 264,
+      "qid": 2434454618,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5812,51 +4995,8 @@
       "is_pro": false
     },
     {
-      "id": 265,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "CGAS प्रणालीमा प्रयोग हुने 'पेश्की सहायक खाता' (Advance Subsidiary Ledger) को म.ले.प. फारम नम्बर कति हो?",
-      "options": [
-        "म.ले.प.फा.नं. २०७",
-        "म.ले.प.फा.नं. २०८",
-        "म.ले.प.फा.नं. २०९",
-        "म.ले.प.फा.नं. २१०"
-      ],
-      "option_a": "म.ले.प.फा.नं. २०७",
-      "option_b": "म.ले.प.फा.नं. २०८",
-      "option_c": "म.ले.प.फा.नं. २०९",
-      "option_d": "म.ले.प.फा.नं. २१०",
-      "answer_index": 0,
-      "explanation": "नयाँ म.ले.प. फारम अनुसार व्यक्तिगत तथा संस्थागत पेश्कीको विस्तृत अभिलेख राख्ने पेश्की सहायक खाताको फारम नं. २०७ हो (पुरानो फारम नं. २२ थियो)।",
-      "is_pro": false
-    },
-    {
-      "id": 266,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "सार्वजनिक खरिद नियमावली, २०६४ अनुसार परामर्श सेवा खरिदमा लागत अनुमान रु. २० लाखभन्दा कम भएमा र कामको प्रकृति सरल तथा निश्चित मापदण्डको भएमा कुन छनौट विधि उपयुक्त मानिन्छ?",
-      "options": [
-        "न्यूनतम लागत छनौट विधि (Least Cost Selection - LCS)",
-        "सोझै वार्ता विधि",
-        "अन्तर्राष्ट्रिय प्रतिस्पर्धा विधि",
-        "चिठ्ठा विधि"
-      ],
-      "option_a": "न्यूनतम लागत छनौट विधि (Least Cost Selection - LCS)",
-      "option_b": "सोझै वार्ता विधि",
-      "option_c": "अन्तर्राष्ट्रिय प्रतिस्पर्धा विधि",
-      "option_d": "चिठ्ठा विधि",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावली अनुसार नियमित प्रकृतिको, मानक निर्धारण भएको (जस्तै: लेखापरीक्षण, साधारण इन्जिनियरिङ डिजाइन) कार्यमा प्राविधिक न्यूनतम अंक प्राप्त गर्नेहरूमध्ये सबभन्दा कम रकम प्रस्ताव गर्नेलाई छनौट गर्ने विधि न्यूनतम लागत छनौट विधि (LCS) हो।",
-      "is_pro": false
-    },
-    {
       "id": 267,
+      "qid": 899994149,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5879,6 +5019,7 @@
     },
     {
       "id": 268,
+      "qid": 642814766,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5901,6 +5042,7 @@
     },
     {
       "id": 269,
+      "qid": 2244560827,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5923,6 +5065,7 @@
     },
     {
       "id": 270,
+      "qid": 2996826088,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5945,6 +5088,7 @@
     },
     {
       "id": 271,
+      "qid": 1700467062,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -5966,29 +5110,8 @@
       "is_pro": false
     },
     {
-      "id": 272,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "कुनै कार्यालयले भ्याटमा दर्ता भएको निर्माण व्यवसायीको रु. २०,००,००० (भ्याट बाहेक) को पहिलो रनिङ बिल भुक्तानी गर्दैछ। उक्त बिलमा १३% भ्याट थपिन्छ भने नियमानुसार ५% रिटेन्सन मनी (धरौटी), १.५% अग्रिम आयकर (TDS) र भ्याट रकमको ३०% सरकारी भ्याट कट्टी गरिन्छ। निर्माण व्यवसायीको बैंक खातामा EFT मार्फत खुद कति रकम भुक्तानी जान्छ?",
-      "options": [
-        "रु. २०,५२,०००",
-        "रु. २१,६०,०००",
-        "रु. १९,००,०००",
-        "रु. २२,६०,०००"
-      ],
-      "option_a": "रु. २०,५२,०००",
-      "option_b": "रु. २१,६०,०००",
-      "option_c": "रु. १९,००,०००",
-      "option_d": "रु. २२,६०,०००",
-      "answer_index": 0,
-      "explanation": "गणना: १) भ्याट बाहेक बिल रकम = २०,००,०००। १३% भ्याट = २,६०,०००। कुल बिल रकम (Gross) = रु. २२,६०,०००। २) कट्टी हुने रकमहरू: (क) ५% रिटेन्सन धरौटी (२० लाखको ५%) = १,००,०००, (ख) १.५% अग्रिम आयकर (२० लाखको १.५%) = ३०,०००, (ग) ३०% भ्याट कट्टी (२,६०,००० को ३०%) = ७८,०००। जम्मा कट्टी = १,००,००० + ३०,००० + ७८,००० = रु. २,०८,०००। ३) व्यवसायीले पाउने खुद भुक्तानी = २२,६०,००० - २,०८,००० = रु. २०,५२,०००।",
-      "is_pro": false
-    },
-    {
       "id": 273,
+      "qid": 539857609,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6011,6 +5134,7 @@
     },
     {
       "id": 274,
+      "qid": 216201794,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6033,6 +5157,7 @@
     },
     {
       "id": 275,
+      "qid": 1884443139,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6055,6 +5180,7 @@
     },
     {
       "id": 276,
+      "qid": 3774345108,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6076,29 +5202,8 @@
       "is_pro": false
     },
     {
-      "id": 277,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा २४ अनुसार सरकारी कार्यालयले कुनै खर्च गर्दा बजेट शीर्षकमा रकम पर्याप्त भए तापनि कुन शर्त पूरा नभएसम्म खर्च लेख्न र भुक्तानी दिन मिल्दैन?",
-      "options": [
-        "रितपूर्वकको बिल, भरपाई, दाखिला प्रतिवेदन वा कार्यसम्पन्न प्रतिवेदन र अधिकार प्राप्त अधिकारीको स्वीकृति नभएसम्म",
-        "महालेखा परीक्षकको पूर्व स्वीकृति नभएसम्म",
-        "लोक सेवा आयोगको सहमति नभएसम्म",
-        "संसदको लेखा समितिको निर्णय नभएसम्म"
-      ],
-      "option_a": "रितपूर्वकको बिल, भरपाई, दाखिला प्रतिवेदन वा कार्यसम्पन्न प्रतिवेदन र अधिकार प्राप्त अधिकारीको स्वीकृति नभएसम्म",
-      "option_b": "महालेखा परीक्षकको पूर्व स्वीकृति नभएसम्म",
-      "option_c": "लोक सेवा आयोगको सहमति नभएसम्म",
-      "option_d": "संसदको लेखा समितिको निर्णय नभएसम्म",
-      "answer_index": 0,
-      "explanation": "ऐनको दफा २४ र नियमावली अनुसार बजेटमा रकम हुनु मात्र खर्च गर्ने आधार होइन; खर्च पुष्टि गर्ने रीतपूर्वकको कागजात (माग, खरिद आदेश, बिल, दाखिला/कार्यसम्पन्न प्रतिवेदन) र अख्तियार प्राप्त अधिकारीको निर्णय/स्वीकृति विना कुनै पनि रकम खर्च र भुक्तानी गर्न पाइँदैन।",
-      "is_pro": false
-    },
-    {
       "id": 278,
+      "qid": 1138609758,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6121,6 +5226,7 @@
     },
     {
       "id": 279,
+      "qid": 942105311,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6143,6 +5249,7 @@
     },
     {
       "id": 280,
+      "qid": 4137313193,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6164,29 +5271,8 @@
       "is_pro": false
     },
     {
-      "id": 281,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "सार्वजनिक खरिद नियमावली, २०६४ अनुसार निर्माण व्यवसायीको 'बोलपत्र क्षमता' (Bidding Capacity) गणना गर्दा कुन सूत्र प्रयोग गरिन्छ?",
-      "options": [
-        "Bidding Capacity = A × N × 1.5 - B (जहाँ A = अधिकतम वार्षिक कारोबार, N = सम्झौता अवधि, B = चालु ठेक्काहरूको बाँकी दायित्व)",
-        "Bidding Capacity = कुल सम्पत्ति + ऋण",
-        "Bidding Capacity = धरौटी रकम × १०",
-        "Bidding Capacity = लागत अनुमानको ५०%"
-      ],
-      "option_a": "Bidding Capacity = A × N × 1.5 - B (जहाँ A = अधिकतम वार्षिक कारोबार, N = सम्झौता अवधि, B = चालु ठेक्काहरूको बाँकी दायित्व)",
-      "option_b": "Bidding Capacity = कुल सम्पत्ति + ऋण",
-      "option_c": "Bidding Capacity = धरौटी रकम × १०",
-      "option_d": "Bidding Capacity = लागत अनुमानको ५०%",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावलीको नियम ६५क अनुसार निर्माण व्यवसायीले एकैपटक क्षमताभन्दा बढी ठेक्का ओगट्न नपाओस् भनी बोलपत्र क्षमता गणना गरिन्छ, जसमा व्यवसायीको विगतको उच्चतम वार्षिक कारोबार र समयको गुणनफलबाट निजले हाल लिइरहेका अन्य चालु ठेक्काको बाँकी कामको रकम (B) घटाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 282,
+      "qid": 4223237614,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6209,6 +5295,7 @@
     },
     {
       "id": 283,
+      "qid": 3797327678,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6231,6 +5318,7 @@
     },
     {
       "id": 284,
+      "qid": 3197468492,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6253,6 +5341,7 @@
     },
     {
       "id": 285,
+      "qid": 161037096,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6275,6 +5364,7 @@
     },
     {
       "id": 286,
+      "qid": 2789605284,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6297,6 +5387,7 @@
     },
     {
       "id": 287,
+      "qid": 2301535912,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6319,6 +5410,7 @@
     },
     {
       "id": 288,
+      "qid": 2964295404,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6341,6 +5433,7 @@
     },
     {
       "id": 289,
+      "qid": 1941942921,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6363,6 +5456,7 @@
     },
     {
       "id": 290,
+      "qid": 2582399026,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6385,6 +5479,7 @@
     },
     {
       "id": 291,
+      "qid": 2484955035,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6407,6 +5502,7 @@
     },
     {
       "id": 292,
+      "qid": 1040136224,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6428,73 +5524,8 @@
       "is_pro": false
     },
     {
-      "id": 293,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "महालेखा परीक्षकको कार्यालयले जारी गर्ने प्रारम्भिक लेखापरीक्षण प्रतिवेदनमा कुनै कैफियत औंल्याइएमा सम्बन्धित कार्यालयले कति दिनभित्र जवाफ वा प्रमाण पेश गरी फर्स्यौट गराएमा सो बेरुजु वार्षिक प्रतिवेदनमा समावेश नहुन सक्छ?",
-      "options": [
-        "३५ दिनभित्र (वा महालेखा परीक्षकले तोकेको म्यादभित्र प्रमाण पेश गरी संपरीक्षण भएमा)",
-        "५ वर्षभित्र",
-        "१० वर्षभित्र",
-        "जवाफ दिने व्यवस्था नै हुँदैन"
-      ],
-      "option_a": "३५ दिनभित्र (वा महालेखा परीक्षकले तोकेको म्यादभित्र प्रमाण पेश गरी संपरीक्षण भएमा)",
-      "option_b": "५ वर्षभित्र",
-      "option_c": "१० वर्षभित्र",
-      "option_d": "जवाफ दिने व्यवस्था नै हुँदैन",
-      "answer_index": 0,
-      "explanation": "लेखापरीक्षण कार्यविधि र आर्थिक कार्यविधि ऐनको दफा ३८ अनुसार प्रारम्भिक प्रतिवेदन प्राप्त भएपछि ३५ दिनभित्र प्रमाण कागजात पेश गरी वा असुल उपर गरी संपरीक्षण गराएमा सो लगत कट्टा हुन्छ र राष्ट्रपति समक्ष पेश हुने अन्तिम वार्षिक प्रतिवेदनमा गम्भीर बेरुजुको रूपमा रहँदैन।",
-      "is_pro": false
-    },
-    {
-      "id": 294,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "सार्वजनिक खरिद नियमावली, २०६४ अनुसार मालसामान वा निर्माण कार्यको खरिदमा 'अमानत' (Force Account) बाट काम गराउँदा एकपटकमा अधिकतम कति रकमसम्मको काम गराउन सकिने कानूनी सीमा छ (विशेष प्राविधिक वा तोकिएको बाहेक)?",
-      "options": [
-        "रु. १ लाखसम्म",
-        "रु. १० लाखसम्म",
-        "रु. १ करोडसम्म",
-        "सीमा तोकिएको छैन"
-      ],
-      "option_a": "रु. १ लाखसम्म",
-      "option_b": "रु. १० लाखसम्म",
-      "option_c": "रु. १ करोडसम्म",
-      "option_d": "सीमा तोकिएको छैन",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावली, २०६४ को नियम ९८ अनुसार एक तह माथिको अधिकारीको पूर्व स्वीकृति बिना सामान्यतया १ लाख रुपैयाँभन्दा बढीको काम अमानतबाट गराउन सकिँदैन (तर विशेष प्राविधिक प्रकृतिका वा दररेट तोकिएका काममा तालुक निकायको स्वीकृतिमा गराउन सकिने व्यवस्था छ)।",
-      "is_pro": false
-    },
-    {
-      "id": 295,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "एकीकृत आर्थिक संकेत तथा वर्गीकरण र व्याख्या, २०७४ ले सरकारी कारोबारको वर्गीकरण गर्दा कुन अन्तर्राष्ट्रिय मानदण्डलाई आधार मानेको छ?",
-      "options": [
-        "GFS 2014 (Government Finance Statistics Manual 2014 - IMF) र COFOG",
-        "BASEL III",
-        "ISO 9001",
-        "WTO Guidelines"
-      ],
-      "option_a": "GFS 2014 (Government Finance Statistics Manual 2014 - IMF) र COFOG",
-      "option_b": "BASEL III",
-      "option_c": "ISO 9001",
-      "option_d": "WTO Guidelines",
-      "answer_index": 0,
-      "explanation": "अन्तर्राष्ट्रिय मुद्रा कोष (IMF) द्वारा प्रतिपादित सरकारी वित्त तथ्याङ्क निर्देशिका (GFSM 2014) र सरकारको कार्यमूलक वर्गीकरण (COFOG) अनुरूप प्रतिवेदन तयार गर्न मिल्ने गरी नेपालमा एकीकृत आर्थिक संकेत तथा वर्गीकरण लागू गरिएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 296,
+      "qid": 1470937637,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6517,6 +5548,7 @@
     },
     {
       "id": 297,
+      "qid": 3155146652,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6539,6 +5571,7 @@
     },
     {
       "id": 298,
+      "qid": 2964110229,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6561,6 +5594,7 @@
     },
     {
       "id": 299,
+      "qid": 1816654588,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6582,51 +5616,8 @@
       "is_pro": false
     },
     {
-      "id": 300,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "लेखापरीक्षण ऐन, २०७५ अनुसार महालेखा परीक्षकले सम्पादन गर्ने लेखापरीक्षणका प्रकारहरूमध्ये समसामयिक र नवीनतम् लेखापरीक्षणमा देहायको कुनचाहिँ पर्दछ?",
-      "options": [
-        "सूचना प्रविधि लेखापरीक्षण (IT Audit), वातावरणीय लेखापरीक्षण (Environmental Audit) र विधिविज्ञान लेखापरीक्षण (Forensic Audit)",
-        "कागजी ढड्डा लेखापरीक्षण मात्र",
-        "मौखिक सोधपुछ मात्र",
-        "हाजिरी छड्के मात्र"
-      ],
-      "option_a": "सूचना प्रविधि लेखापरीक्षण (IT Audit), वातावरणीय लेखापरीक्षण (Environmental Audit) र विधिविज्ञान लेखापरीक्षण (Forensic Audit)",
-      "option_b": "कागजी ढड्डा लेखापरीक्षण मात्र",
-      "option_c": "मौखिक सोधपुछ मात्र",
-      "option_d": "हाजिरी छड्के मात्र",
-      "answer_index": 0,
-      "explanation": "आधुनिक लेखापरीक्षण मानदण्ड (ISSAI) र लेखापरीक्षण ऐन, २०७५ बमोजिम महालेखा परीक्षकले वित्तीय, नियमितता र कार्यमूलक लेखापरीक्षणका अतिरिक्त सूचना प्रविधि (IT Audit), वातावरणीय, लैङ्गिक र विधिविज्ञान (Forensic Audit) जस्ता विशेष लेखापरीक्षणहरू समेत सम्पादन गर्दछ।",
-      "is_pro": false
-    },
-    {
-      "id": 301,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "नयाँ म.ले.प. फारम अनुसार सरकारी कार्यालयमा नगदी रसिदको फारम नम्बर कति हो?",
-      "options": [
-        "म.ले.प.फा.नं. १०१",
-        "म.ले.प.फा.नं. १०२",
-        "म.ले.प.फा.नं. २००",
-        "म.ले.प.फा.नं. २०३"
-      ],
-      "option_a": "म.ले.प.फा.नं. १०१",
-      "option_b": "म.ले.प.फा.नं. १०२",
-      "option_c": "म.ले.प.फा.नं. २००",
-      "option_d": "म.ले.प.फा.नं. २०३",
-      "answer_index": 0,
-      "explanation": "महालेखा परीक्षकको कार्यालयबाट स्वीकृत नयाँ फारम सूची अनुसार राजस्व तथा नगद संकलनका लागि प्रयोग हुने नगदी रसिदको म.ले.प. फारम नं. १०१ कायम गरिएको छ (पुरानो फारम नं. ११ थियो)।",
-      "is_pro": false
-    },
-    {
       "id": 302,
+      "qid": 3861225671,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6649,6 +5640,7 @@
     },
     {
       "id": 303,
+      "qid": 2152159913,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6671,6 +5663,7 @@
     },
     {
       "id": 304,
+      "qid": 249234051,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6693,6 +5686,7 @@
     },
     {
       "id": 305,
+      "qid": 4260356923,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6715,6 +5709,7 @@
     },
     {
       "id": 306,
+      "qid": 2325666282,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6736,29 +5731,8 @@
       "is_pro": false
     },
     {
-      "id": 307,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "खरिद आदेश (Purchase Order) को नयाँ म.ले.प. फारम नम्बर कति हो?",
-      "options": [
-        "म.ले.प.फा.नं. ४०२",
-        "म.ले.प.फा.नं. ४०१",
-        "म.ले.प.फा.नं. ४०३",
-        "म.ले.प.फा.नं. ४०४"
-      ],
-      "option_a": "म.ले.प.फा.नं. ४०२",
-      "option_b": "म.ले.प.फा.नं. ४०१",
-      "option_c": "म.ले.प.फा.नं. ४०३",
-      "option_d": "म.ले.प.फा.नं. ४०४",
-      "answer_index": 0,
-      "explanation": "नयाँ म.ले.प. फारम सूची अनुसार मालसामान खरिदका लागि आपूर्तिकर्तालाई दिइने खरिद आदेश (Purchase Order) को फारम नं. ४०२ हो (पुरानो फारम नं. ४५ थियो)।",
-      "is_pro": false
-    },
-    {
       "id": 308,
+      "qid": 2004703998,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6781,6 +5755,7 @@
     },
     {
       "id": 309,
+      "qid": 687878390,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6803,6 +5778,7 @@
     },
     {
       "id": 310,
+      "qid": 4156438878,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6824,29 +5800,8 @@
       "is_pro": false
     },
     {
-      "id": 311,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "नेपालमा सर्वप्रथम बजेट प्रस्तुत कहिले गरिएको थियो?",
-      "options": [
-        "वि.सं. २००८ माघ २१",
-        "वि.सं. २००७ फागुन ७",
-        "वि.सं. २०१६ असार १५",
-        "वि.सं. २०१८ चैत्र २"
-      ],
-      "option_a": "वि.सं. २००८ माघ २१",
-      "option_b": "वि.सं. २००७ फागुन ७",
-      "option_c": "वि.सं. २०१६ असार १५",
-      "option_d": "वि.सं. २०१८ चैत्र २",
-      "answer_index": 0,
-      "explanation": "नेपालमा सर्वप्रथम वि.सं. २००८ साल माघ २१ गते तत्कालीन अर्थमन्त्री सुवर्ण शमशेरद्वारा पहिलो राष्ट्रिय बजेट प्रस्तुत गरिएको थियो।",
-      "is_pro": false
-    },
-    {
       "id": 312,
+      "qid": 1632465339,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6869,6 +5824,7 @@
     },
     {
       "id": 313,
+      "qid": 3728248557,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6890,29 +5846,8 @@
       "is_pro": false
     },
     {
-      "id": 314,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "परामर्श सेवा खरिदका लागि आशयपत्र (Expression of Interest - EoI) माग गर्दा कम्तीमा कति दिनको सूचना प्रकाशन गर्नुपर्दछ?",
-      "options": [
-        "१५ दिन",
-        "७ दिन",
-        "२१ दिन",
-        "३० दिन"
-      ],
-      "option_a": "१५ दिन",
-      "option_b": "७ दिन",
-      "option_c": "२१ दिन",
-      "option_d": "३० दिन",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद ऐन, २०६३ को दफा ३०(२) अनुसार परामर्श सेवा खरिदका लागि आशयपत्र (EoI) माग गर्दा कम्तीमा १५ दिनको अवधि दिई सूचना प्रकाशन गर्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 315,
+      "qid": 3986343035,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6935,6 +5870,7 @@
     },
     {
       "id": 316,
+      "qid": 94329204,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -6956,29 +5892,8 @@
       "is_pro": false
     },
     {
-      "id": 317,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "एकीकृत आर्थिक संकेत तथा वर्गीकरण अनुसार राजस्व शीर्षकको संकेत कति अंकबाट सुरु हुन्छ?",
-      "options": [
-        "१ बाट",
-        "२ बाट",
-        "३ बाट",
-        "४ बाट"
-      ],
-      "option_a": "१ बाट",
-      "option_b": "२ बाट",
-      "option_c": "३ बाट",
-      "option_d": "४ बाट",
-      "answer_index": 0,
-      "explanation": "एकीकृत आर्थिक संकेत तथा वर्गीकरण र व्याख्या अनुसार ५ अंकको संकेतमा '१' बाट सुरु हुने संकेतहरूले सरकारी राजस्व (Revenue) लाई जनाउँछन्।",
-      "is_pro": false
-    },
-    {
       "id": 318,
+      "qid": 2120015994,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7001,6 +5916,7 @@
     },
     {
       "id": 319,
+      "qid": 326818877,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7023,6 +5939,7 @@
     },
     {
       "id": 320,
+      "qid": 4020360538,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7045,6 +5962,7 @@
     },
     {
       "id": 321,
+      "qid": 2571193034,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7066,29 +5984,8 @@
       "is_pro": false
     },
     {
-      "id": 322,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "सरकारी कार्यालयले मासिक खर्चको फाँटवारी (म.ले.प.फा.नं. २१०) महिना समाप्त भएको कति दिनभित्र को.ले.नि.का. र तालुक कार्यालयमा पठाउनुपर्दछ?",
-      "options": [
-        "७ दिनभित्र",
-        "१५ दिनभित्र",
-        "२१ दिनभित्र",
-        "३५ दिनभित्र"
-      ],
-      "option_a": "७ दिनभित्र",
-      "option_b": "१५ दिनभित्र",
-      "option_c": "२१ दिनभित्र",
-      "option_d": "३५ दिनभित्र",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व नियमावली अनुसार प्रत्येक कार्यालयले महिना समाप्त भएको ७ दिनभित्र मासिक आर्थिक विवरण (फाँटवारी) को.ले.नि.का. र तालुक कार्यालयमा पेश गर्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 323,
+      "qid": 2298945319,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7111,6 +6008,7 @@
     },
     {
       "id": 324,
+      "qid": 1349418791,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7133,6 +6031,7 @@
     },
     {
       "id": 325,
+      "qid": 534085443,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7155,6 +6054,7 @@
     },
     {
       "id": 326,
+      "qid": 3575586716,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7177,6 +6077,7 @@
     },
     {
       "id": 327,
+      "qid": 278827409,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7198,29 +6099,8 @@
       "is_pro": false
     },
     {
-      "id": 328,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Easy",
-      "question": "सर्वोच्च लेखापरीक्षण संस्थाहरूको अन्तर्राष्ट्रिय संगठनलाई छोटकरीमा के भनिन्छ?",
-      "options": [
-        "INTOSAI",
-        "IFAC",
-        "ASOSAI",
-        "IMF"
-      ],
-      "option_a": "INTOSAI",
-      "option_b": "IFAC",
-      "option_c": "ASOSAI",
-      "option_d": "IMF",
-      "answer_index": 0,
-      "explanation": "सर्वोच्च लेखापरीक्षण संस्थाहरूको अन्तर्राष्ट्रिय संगठनलाई INTOSAI (International Organization of Supreme Audit Institutions) भनिन्छ र एशियाली संगठनलाई ASOSAI भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 329,
+      "qid": 3043906390,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7243,6 +6123,7 @@
     },
     {
       "id": 330,
+      "qid": 2564093477,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7264,29 +6145,8 @@
       "is_pro": false
     },
     {
-      "id": 331,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "सार्वजनिक खरिद नियमावली, २०६४ अनुसार कति रकमभन्दा बढीको निर्माण कार्य खरिद गर्दा विद्युतीय खरिद प्रणाली (e-GP) को प्रयोग अनिवार्य गरिएको छ?",
-      "options": [
-        "रु. २० लाखभन्दा माथिको बोलपत्र",
-        "रु. ६० लाखभन्दा माथिको मात्र",
-        "रु. १ करोडभन्दा माथिको मात्र",
-        "रु. १० करोडभन्दा माथिको मात्र"
-      ],
-      "option_a": "रु. २० लाखभन्दा माथिको बोलपत्र",
-      "option_b": "रु. ६० लाखभन्दा माथिको मात्र",
-      "option_c": "रु. १ करोडभन्दा माथिको मात्र",
-      "option_d": "रु. १० करोडभन्दा माथिको मात्र",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद अनुगमन कार्यालयको निर्देशिका र नियमावली अनुसार बोलपत्र आह्वान गर्नुपर्ने सीमा (रु. २० लाखभन्दा माथि) का सबै सार्वजनिक खरिद कार्यहरू अनिवार्य रूपमा विद्युतीय खरिद प्रणाली (e-GP) मार्फत गर्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 332,
+      "qid": 2592928868,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7309,6 +6169,7 @@
     },
     {
       "id": 333,
+      "qid": 4210848675,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7331,6 +6192,7 @@
     },
     {
       "id": 334,
+      "qid": 1358561149,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7353,6 +6215,7 @@
     },
     {
       "id": 335,
+      "qid": 2204465511,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7375,6 +6238,7 @@
     },
     {
       "id": 336,
+      "qid": 1246463660,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7396,29 +6260,8 @@
       "is_pro": false
     },
     {
-      "id": 337,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "लेखापरीक्षण ऐन, २०७५ अनुसार पूर्ण सरकारी स्वामित्व नभएको तर नेपाल सरकारको अधिकांश (५०% भन्दा बढी) लगानी भएको संगठित संस्थाले लेखापरीक्षक नियुक्त गर्दा के गर्नुपर्दछ?",
-      "options": [
-        "महालेखा परीक्षकको परामर्श लिई निजले तोकेको सिद्धान्त बमोजिम लेखापरीक्षण गराउनुपर्दछ",
-        "कसैलाई सोध्नु पर्दैन",
-        "अर्थमन्त्रीबाट लेखापरीक्षण गराउनुपर्दछ",
-        "आन्तरिक राजस्व विभागबाट गराउनुपर्दछ"
-      ],
-      "option_a": "महालेखा परीक्षकको परामर्श लिई निजले तोकेको सिद्धान्त बमोजिम लेखापरीक्षण गराउनुपर्दछ",
-      "option_b": "कसैलाई सोध्नु पर्दैन",
-      "option_c": "अर्थमन्त्रीबाट लेखापरीक्षण गराउनुपर्दछ",
-      "option_d": "आन्तरिक राजस्व विभागबाट गराउनुपर्दछ",
-      "answer_index": 0,
-      "explanation": "नेपालको संविधानको धारा २४१(२) र लेखापरीक्षण ऐन, २०७५ को दफा ६ र ७ अनुसार संगठित संस्थाको लेखापरीक्षक नियुक्त गर्दा महालेखा परीक्षकको परामर्श लिनुपर्ने र महालेखा परीक्षकले तोकेको सिद्धान्त बमोजिम लेखापरीक्षण हुनुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 338,
+      "qid": 3086349332,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7441,6 +6284,7 @@
     },
     {
       "id": 339,
+      "qid": 3556161315,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7463,6 +6307,7 @@
     },
     {
       "id": 340,
+      "qid": 4008924006,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7485,6 +6330,7 @@
     },
     {
       "id": 341,
+      "qid": 1742761894,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7507,6 +6353,7 @@
     },
     {
       "id": 342,
+      "qid": 1309341350,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7529,6 +6376,7 @@
     },
     {
       "id": 343,
+      "qid": 2806126404,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7550,29 +6398,8 @@
       "is_pro": false
     },
     {
-      "id": 344,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "बोलपत्र जमानत (Bid Security) को मान्य हुने अवधि बोलपत्रको मान्य हुने अवधि (Bid Validity Period) भन्दा कम्तीमा कति दिन बढीको हुनुपर्दछ?",
-      "options": [
-        "३० दिन",
-        "१५ दिन",
-        "४५ दिन",
-        "६० दिन"
-      ],
-      "option_a": "३० दिन",
-      "option_b": "१५ दिन",
-      "option_c": "४५ दिन",
-      "option_d": "६० दिन",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावली, २०६४ को नियम ५३(२) अनुसार बोलपत्र जमानतको मान्य हुने अवधि बोलपत्रको मान्य हुने अवधिभन्दा कम्तीमा ३० (तीस) दिन बढी अवधिको हुनुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 345,
+      "qid": 3558968146,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7595,6 +6422,7 @@
     },
     {
       "id": 346,
+      "qid": 2908604369,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7617,6 +6445,7 @@
     },
     {
       "id": 347,
+      "qid": 1131627466,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7638,29 +6467,8 @@
       "is_pro": false
     },
     {
-      "id": 348,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "महालेखा नियन्त्रक कार्यालयले आर्थिक वर्ष समाप्त भएको कति अवधिभित्र संघीय सञ्चित कोषको एकीकृत वार्षिक वित्तीय विवरण तयार गरी अर्थ मन्त्रालय र महालेखा परीक्षकको कार्यालयमा पेश गर्नुपर्दछ?",
-      "options": [
-        "आर्थिक वर्ष समाप्त भएको ३ महिनाभित्र (असोज मसान्तभित्र)",
-        "१ महिनाभित्र",
-        "६ महिनाभित्र",
-        "१ वर्षभित्र"
-      ],
-      "option_a": "आर्थिक वर्ष समाप्त भएको ३ महिनाभित्र (असोज मसान्तभित्र)",
-      "option_b": "१ महिनाभित्र",
-      "option_c": "६ महिनाभित्र",
-      "option_d": "१ वर्षभित्र",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा ३१ अनुसार महालेखा नियन्त्रक कार्यालयले संघीय सञ्चित कोषको एकीकृत वार्षिक वित्तीय विवरण तयार गरी महालेखा परीक्षकको कार्यालयमा पेश गर्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 349,
+      "qid": 3524099978,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7683,6 +6491,7 @@
     },
     {
       "id": 350,
+      "qid": 3536219188,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7705,6 +6514,7 @@
     },
     {
       "id": 351,
+      "qid": 3212405876,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7727,6 +6537,7 @@
     },
     {
       "id": 352,
+      "qid": 3833621270,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7748,29 +6559,8 @@
       "is_pro": false
     },
     {
-      "id": 353,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "एकीकृत आर्थिक संकेत तथा वर्गीकरण अनुसार मसलन्द तथा कार्यालय सामग्री खर्चको संकेत नम्बर कति हो?",
-      "options": [
-        "२२३११",
-        "२२१११",
-        "२२२१२",
-        "२२६१२"
-      ],
-      "option_a": "२२३११",
-      "option_b": "२२१११",
-      "option_c": "२२२१२",
-      "option_d": "२२६१२",
-      "answer_index": 0,
-      "explanation": "एकीकृत आर्थिक संकेत अनुसार २२३११ मसलन्द तथा कार्यालय सामग्री (Office Materials and Stationery), २२१११ पानी तथा बिजुली र २२२१२ इन्धन हो।",
-      "is_pro": false
-    },
-    {
       "id": 354,
+      "qid": 3355237249,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7793,6 +6583,7 @@
     },
     {
       "id": 355,
+      "qid": 572942565,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7815,6 +6606,7 @@
     },
     {
       "id": 356,
+      "qid": 1670414901,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7836,29 +6628,8 @@
       "is_pro": false
     },
     {
-      "id": 357,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "बोलपत्र छनौट भइसकेपछि सार्वजनिक निकायले सफल बोलपत्रदातालाई सम्झौता गर्न आउन कति दिनको म्याद दिई आशयको सूचना र कार्यसम्पादन जमानत पेश गर्ने पत्र पठाउँछ?",
-      "options": [
-        "७ दिन (आशयको सूचना) र १५ दिन (कार्यसम्पादन जमानत सहित सम्झौताका लागि)",
-        "१ दिन",
-        "६० दिन",
-        "९० दिन"
-      ],
-      "option_a": "७ दिन (आशयको सूचना) र १५ दिन (कार्यसम्पादन जमानत सहित सम्झौताका लागि)",
-      "option_b": "१ दिन",
-      "option_c": "६० दिन",
-      "option_d": "९० दिन",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद ऐन, २०६३ को दफा २७ र ५२ अनुसार बोलपत्र छनौट भएपछि ७ दिनको आशयको सूचना प्रकाशन गरिन्छ र उजुरी नपरेमा १५ दिनभित्र कार्यसम्पादन जमानत लिई सम्झौता गर्न बोलाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 358,
+      "qid": 4024135945,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7881,6 +6652,7 @@
     },
     {
       "id": 359,
+      "qid": 2528693095,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7903,6 +6675,7 @@
     },
     {
       "id": 360,
+      "qid": 4179429198,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7925,6 +6698,7 @@
     },
     {
       "id": 361,
+      "qid": 795715258,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7947,6 +6721,7 @@
     },
     {
       "id": 362,
+      "qid": 3015605750,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7969,6 +6744,7 @@
     },
     {
       "id": 363,
+      "qid": 457794829,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -7991,6 +6767,7 @@
     },
     {
       "id": 364,
+      "qid": 2434454618,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8012,51 +6789,8 @@
       "is_pro": false
     },
     {
-      "id": 365,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "CGAS प्रणालीमा प्रयोग हुने 'पेश्की सहायक खाता' (Advance Subsidiary Ledger) को म.ले.प. फारम नम्बर कति हो?",
-      "options": [
-        "म.ले.प.फा.नं. २०७",
-        "म.ले.प.फा.नं. २०८",
-        "म.ले.प.फा.नं. २०९",
-        "म.ले.प.फा.नं. २१०"
-      ],
-      "option_a": "म.ले.प.फा.नं. २०७",
-      "option_b": "म.ले.प.फा.नं. २०८",
-      "option_c": "म.ले.प.फा.नं. २०९",
-      "option_d": "म.ले.प.फा.नं. २१०",
-      "answer_index": 0,
-      "explanation": "नयाँ म.ले.प. फारम अनुसार व्यक्तिगत तथा संस्थागत पेश्कीको विस्तृत अभिलेख राख्ने पेश्की सहायक खाताको फारम नं. २०७ हो (पुरानो फारम नं. २२ थियो)।",
-      "is_pro": false
-    },
-    {
-      "id": 366,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Medium",
-      "question": "सार्वजनिक खरिद नियमावली, २०६४ अनुसार परामर्श सेवा खरिदमा लागत अनुमान रु. २० लाखभन्दा कम भएमा र कामको प्रकृति सरल तथा निश्चित मापदण्डको भएमा कुन छनौट विधि उपयुक्त मानिन्छ?",
-      "options": [
-        "न्यूनतम लागत छनौट विधि (Least Cost Selection - LCS)",
-        "सोझै वार्ता विधि",
-        "अन्तर्राष्ट्रिय प्रतिस्पर्धा विधि",
-        "चिठ्ठा विधि"
-      ],
-      "option_a": "न्यूनतम लागत छनौट विधि (Least Cost Selection - LCS)",
-      "option_b": "सोझै वार्ता विधि",
-      "option_c": "अन्तर्राष्ट्रिय प्रतिस्पर्धा विधि",
-      "option_d": "चिठ्ठा विधि",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावली अनुसार नियमित प्रकृतिको, मानक निर्धारण भएको (जस्तै: लेखापरीक्षण, साधारण इन्जिनियरिङ डिजाइन) कार्यमा प्राविधिक न्यूनतम अंक प्राप्त गर्नेहरूमध्ये सबभन्दा कम रकम प्रस्ताव गर्नेलाई छनौट गर्ने विधि न्यूनतम लागत छनौट विधि (LCS) हो।",
-      "is_pro": false
-    },
-    {
       "id": 367,
+      "qid": 899994149,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8079,6 +6813,7 @@
     },
     {
       "id": 368,
+      "qid": 642814766,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8101,6 +6836,7 @@
     },
     {
       "id": 369,
+      "qid": 2244560827,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8123,6 +6859,7 @@
     },
     {
       "id": 370,
+      "qid": 2996826088,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8145,6 +6882,7 @@
     },
     {
       "id": 371,
+      "qid": 1700467062,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8166,29 +6904,8 @@
       "is_pro": false
     },
     {
-      "id": 372,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "कुनै कार्यालयले भ्याटमा दर्ता भएको निर्माण व्यवसायीको रु. २०,००,००० (भ्याट बाहेक) को पहिलो रनिङ बिल भुक्तानी गर्दैछ। उक्त बिलमा १३% भ्याट थपिन्छ भने नियमानुसार ५% रिटेन्सन मनी (धरौटी), १.५% अग्रिम आयकर (TDS) र भ्याट रकमको ३०% सरकारी भ्याट कट्टी गरिन्छ। निर्माण व्यवसायीको बैंक खातामा EFT मार्फत खुद कति रकम भुक्तानी जान्छ?",
-      "options": [
-        "रु. २०,५२,०००",
-        "रु. २१,६०,०००",
-        "रु. १९,००,०००",
-        "रु. २२,६०,०००"
-      ],
-      "option_a": "रु. २०,५२,०००",
-      "option_b": "रु. २१,६०,०००",
-      "option_c": "रु. १९,००,०००",
-      "option_d": "रु. २२,६०,०००",
-      "answer_index": 0,
-      "explanation": "गणना: १) भ्याट बाहेक बिल रकम = २०,००,०००। १३% भ्याट = २,६०,०००। कुल बिल रकम (Gross) = रु. २२,६०,०००। २) कट्टी हुने रकमहरू: (क) ५% रिटेन्सन धरौटी (२० लाखको ५%) = १,००,०००, (ख) १.५% अग्रिम आयकर (२० लाखको १.५%) = ३०,०००, (ग) ३०% भ्याट कट्टी (२,६०,००० को ३०%) = ७८,०००। जम्मा कट्टी = १,००,००० + ३०,००० + ७८,००० = रु. २,०८,०००। ३) व्यवसायीले पाउने खुद भुक्तानी = २२,६०,००० - २,०८,००० = रु. २०,५२,०००।",
-      "is_pro": false
-    },
-    {
       "id": 373,
+      "qid": 539857609,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8211,6 +6928,7 @@
     },
     {
       "id": 374,
+      "qid": 216201794,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8233,6 +6951,7 @@
     },
     {
       "id": 375,
+      "qid": 1884443139,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8255,6 +6974,7 @@
     },
     {
       "id": 376,
+      "qid": 3774345108,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8276,29 +6996,8 @@
       "is_pro": false
     },
     {
-      "id": 377,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा २४ अनुसार सरकारी कार्यालयले कुनै खर्च गर्दा बजेट शीर्षकमा रकम पर्याप्त भए तापनि कुन शर्त पूरा नभएसम्म खर्च लेख्न र भुक्तानी दिन मिल्दैन?",
-      "options": [
-        "रितपूर्वकको बिल, भरपाई, दाखिला प्रतिवेदन वा कार्यसम्पन्न प्रतिवेदन र अधिकार प्राप्त अधिकारीको स्वीकृति नभएसम्म",
-        "महालेखा परीक्षकको पूर्व स्वीकृति नभएसम्म",
-        "लोक सेवा आयोगको सहमति नभएसम्म",
-        "संसदको लेखा समितिको निर्णय नभएसम्म"
-      ],
-      "option_a": "रितपूर्वकको बिल, भरपाई, दाखिला प्रतिवेदन वा कार्यसम्पन्न प्रतिवेदन र अधिकार प्राप्त अधिकारीको स्वीकृति नभएसम्म",
-      "option_b": "महालेखा परीक्षकको पूर्व स्वीकृति नभएसम्म",
-      "option_c": "लोक सेवा आयोगको सहमति नभएसम्म",
-      "option_d": "संसदको लेखा समितिको निर्णय नभएसम्म",
-      "answer_index": 0,
-      "explanation": "ऐनको दफा २४ र नियमावली अनुसार बजेटमा रकम हुनु मात्र खर्च गर्ने आधार होइन; खर्च पुष्टि गर्ने रीतपूर्वकको कागजात (माग, खरिद आदेश, बिल, दाखिला/कार्यसम्पन्न प्रतिवेदन) र अख्तियार प्राप्त अधिकारीको निर्णय/स्वीकृति विना कुनै पनि रकम खर्च र भुक्तानी गर्न पाइँदैन।",
-      "is_pro": false
-    },
-    {
       "id": 378,
+      "qid": 1138609758,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8321,6 +7020,7 @@
     },
     {
       "id": 379,
+      "qid": 942105311,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8343,6 +7043,7 @@
     },
     {
       "id": 380,
+      "qid": 4137313193,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8364,29 +7065,8 @@
       "is_pro": false
     },
     {
-      "id": 381,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "सार्वजनिक खरिद नियमावली, २०६४ अनुसार निर्माण व्यवसायीको 'बोलपत्र क्षमता' (Bidding Capacity) गणना गर्दा कुन सूत्र प्रयोग गरिन्छ?",
-      "options": [
-        "Bidding Capacity = A × N × 1.5 - B (जहाँ A = अधिकतम वार्षिक कारोबार, N = सम्झौता अवधि, B = चालु ठेक्काहरूको बाँकी दायित्व)",
-        "Bidding Capacity = कुल सम्पत्ति + ऋण",
-        "Bidding Capacity = धरौटी रकम × १०",
-        "Bidding Capacity = लागत अनुमानको ५०%"
-      ],
-      "option_a": "Bidding Capacity = A × N × 1.5 - B (जहाँ A = अधिकतम वार्षिक कारोबार, N = सम्झौता अवधि, B = चालु ठेक्काहरूको बाँकी दायित्व)",
-      "option_b": "Bidding Capacity = कुल सम्पत्ति + ऋण",
-      "option_c": "Bidding Capacity = धरौटी रकम × १०",
-      "option_d": "Bidding Capacity = लागत अनुमानको ५०%",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावलीको नियम ६५क अनुसार निर्माण व्यवसायीले एकैपटक क्षमताभन्दा बढी ठेक्का ओगट्न नपाओस् भनी बोलपत्र क्षमता गणना गरिन्छ, जसमा व्यवसायीको विगतको उच्चतम वार्षिक कारोबार र समयको गुणनफलबाट निजले हाल लिइरहेका अन्य चालु ठेक्काको बाँकी कामको रकम (B) घटाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 382,
+      "qid": 4223237614,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8409,6 +7089,7 @@
     },
     {
       "id": 383,
+      "qid": 3797327678,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8431,6 +7112,7 @@
     },
     {
       "id": 384,
+      "qid": 3197468492,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8453,6 +7135,7 @@
     },
     {
       "id": 385,
+      "qid": 161037096,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8475,6 +7158,7 @@
     },
     {
       "id": 386,
+      "qid": 2789605284,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8497,6 +7181,7 @@
     },
     {
       "id": 387,
+      "qid": 2301535912,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8519,6 +7204,7 @@
     },
     {
       "id": 388,
+      "qid": 2964295404,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8541,6 +7227,7 @@
     },
     {
       "id": 389,
+      "qid": 1941942921,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8563,6 +7250,7 @@
     },
     {
       "id": 390,
+      "qid": 2582399026,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8585,6 +7273,7 @@
     },
     {
       "id": 391,
+      "qid": 2484955035,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8607,6 +7296,7 @@
     },
     {
       "id": 392,
+      "qid": 1040136224,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8628,73 +7318,8 @@
       "is_pro": false
     },
     {
-      "id": 393,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "महालेखा परीक्षकको कार्यालयले जारी गर्ने प्रारम्भिक लेखापरीक्षण प्रतिवेदनमा कुनै कैफियत औंल्याइएमा सम्बन्धित कार्यालयले कति दिनभित्र जवाफ वा प्रमाण पेश गरी फर्स्यौट गराएमा सो बेरुजु वार्षिक प्रतिवेदनमा समावेश नहुन सक्छ?",
-      "options": [
-        "३५ दिनभित्र (वा महालेखा परीक्षकले तोकेको म्यादभित्र प्रमाण पेश गरी संपरीक्षण भएमा)",
-        "५ वर्षभित्र",
-        "१० वर्षभित्र",
-        "जवाफ दिने व्यवस्था नै हुँदैन"
-      ],
-      "option_a": "३५ दिनभित्र (वा महालेखा परीक्षकले तोकेको म्यादभित्र प्रमाण पेश गरी संपरीक्षण भएमा)",
-      "option_b": "५ वर्षभित्र",
-      "option_c": "१० वर्षभित्र",
-      "option_d": "जवाफ दिने व्यवस्था नै हुँदैन",
-      "answer_index": 0,
-      "explanation": "लेखापरीक्षण कार्यविधि र आर्थिक कार्यविधि ऐनको दफा ३८ अनुसार प्रारम्भिक प्रतिवेदन प्राप्त भएपछि ३५ दिनभित्र प्रमाण कागजात पेश गरी वा असुल उपर गरी संपरीक्षण गराएमा सो लगत कट्टा हुन्छ र राष्ट्रपति समक्ष पेश हुने अन्तिम वार्षिक प्रतिवेदनमा गम्भीर बेरुजुको रूपमा रहँदैन।",
-      "is_pro": false
-    },
-    {
-      "id": 394,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "सार्वजनिक खरिद नियमावली, २०६४ अनुसार मालसामान वा निर्माण कार्यको खरिदमा 'अमानत' (Force Account) बाट काम गराउँदा एकपटकमा अधिकतम कति रकमसम्मको काम गराउन सकिने कानूनी सीमा छ (विशेष प्राविधिक वा तोकिएको बाहेक)?",
-      "options": [
-        "रु. १ लाखसम्म",
-        "रु. १० लाखसम्म",
-        "रु. १ करोडसम्म",
-        "सीमा तोकिएको छैन"
-      ],
-      "option_a": "रु. १ लाखसम्म",
-      "option_b": "रु. १० लाखसम्म",
-      "option_c": "रु. १ करोडसम्म",
-      "option_d": "सीमा तोकिएको छैन",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद नियमावली, २०६४ को नियम ९८ अनुसार एक तह माथिको अधिकारीको पूर्व स्वीकृति बिना सामान्यतया १ लाख रुपैयाँभन्दा बढीको काम अमानतबाट गराउन सकिँदैन (तर विशेष प्राविधिक प्रकृतिका वा दररेट तोकिएका काममा तालुक निकायको स्वीकृतिमा गराउन सकिने व्यवस्था छ)।",
-      "is_pro": false
-    },
-    {
-      "id": 395,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "एकीकृत आर्थिक संकेत तथा वर्गीकरण र व्याख्या, २०७४ ले सरकारी कारोबारको वर्गीकरण गर्दा कुन अन्तर्राष्ट्रिय मानदण्डलाई आधार मानेको छ?",
-      "options": [
-        "GFS 2014 (Government Finance Statistics Manual 2014 - IMF) र COFOG",
-        "BASEL III",
-        "ISO 9001",
-        "WTO Guidelines"
-      ],
-      "option_a": "GFS 2014 (Government Finance Statistics Manual 2014 - IMF) र COFOG",
-      "option_b": "BASEL III",
-      "option_c": "ISO 9001",
-      "option_d": "WTO Guidelines",
-      "answer_index": 0,
-      "explanation": "अन्तर्राष्ट्रिय मुद्रा कोष (IMF) द्वारा प्रतिपादित सरकारी वित्त तथ्याङ्क निर्देशिका (GFSM 2014) र सरकारको कार्यमूलक वर्गीकरण (COFOG) अनुरूप प्रतिवेदन तयार गर्न मिल्ने गरी नेपालमा एकीकृत आर्थिक संकेत तथा वर्गीकरण लागू गरिएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 396,
+      "qid": 1470937637,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8717,6 +7342,7 @@
     },
     {
       "id": 397,
+      "qid": 3155146652,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8739,6 +7365,7 @@
     },
     {
       "id": 398,
+      "qid": 2964110229,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8761,6 +7388,7 @@
     },
     {
       "id": 399,
+      "qid": 1816654588,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "130",
@@ -8779,28 +7407,6 @@
       "option_d": "जिल्ला प्रशासन कार्यालयबाट",
       "answer_index": 1,
       "explanation": "आर्थिक कार्यविधि ऐन र बहुवर्षीय ठेक्का सम्बन्धी मापदण्ड अनुसार एकभन्दा बढी आर्थिक वर्षसम्म दायित्व सिर्जना हुने बहुवर्षीय आयोजनाको खरिद प्रक्रिया सुरु गर्नुअघि अर्थ मन्त्रालयबाट बहुवर्षीय स्रोत सुनिश्चितता/सहमति लिनु अनिवार्य छ।",
-      "is_pro": false
-    },
-    {
-      "id": 400,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "130",
-      "sub_cat_name": "लेखा समूह",
-      "level": "Hard",
-      "question": "लेखापरीक्षण ऐन, २०७५ अनुसार महालेखा परीक्षकले सम्पादन गर्ने लेखापरीक्षणका प्रकारहरूमध्ये समसामयिक र नवीनतम् लेखापरीक्षणमा देहायको कुनचाहिँ पर्दछ?",
-      "options": [
-        "सूचना प्रविधि लेखापरीक्षण (IT Audit), वातावरणीय लेखापरीक्षण (Environmental Audit) र विधिविज्ञान लेखापरीक्षण (Forensic Audit)",
-        "कागजी ढड्डा लेखापरीक्षण मात्र",
-        "मौखिक सोधपुछ मात्र",
-        "हाजिरी छड्के मात्र"
-      ],
-      "option_a": "सूचना प्रविधि लेखापरीक्षण (IT Audit), वातावरणीय लेखापरीक्षण (Environmental Audit) र विधिविज्ञान लेखापरीक्षण (Forensic Audit)",
-      "option_b": "कागजी ढड्डा लेखापरीक्षण मात्र",
-      "option_c": "मौखिक सोधपुछ मात्र",
-      "option_d": "हाजिरी छड्के मात्र",
-      "answer_index": 0,
-      "explanation": "आधुनिक लेखापरीक्षण मानदण्ड (ISSAI) र लेखापरीक्षण ऐन, २०७५ बमोजिम महालेखा परीक्षकले वित्तीय, नियमितता र कार्यमूलक लेखापरीक्षणका अतिरिक्त सूचना प्रविधि (IT Audit), वातावरणीय, लैङ्गिक र विधिविज्ञान (Forensic Audit) जस्ता विशेष लेखापरीक्षणहरू समेत सम्पादन गर्दछ।",
       "is_pro": false
     }
   ]
