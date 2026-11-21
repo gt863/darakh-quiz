@@ -1,32 +1,11 @@
 {
   "sub_cat_id": "103",
-  "data_version": 1794491195766,
-  "total_questions": 89,
+  "data_version": 1795279225068,
+  "total_questions": 69,
   "questions": [
     {
-      "id": 1,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Easy",
-      "question": "अङ्ग्रेजी वर्णमालामा Vowel sound को अगाडि कुन Article प्रयोग हुन्छ?",
-      "options": [
-        "an",
-        "a",
-        "the",
-        "none"
-      ],
-      "option_a": "an",
-      "option_b": "a",
-      "option_c": "the",
-      "option_d": "none",
-      "answer_index": 0,
-      "explanation": "Vowel sound (अ, आ, इ, आदि) बाट सुरु हुने एकवचन नाम (Singular Noun) को अगाडि 'an' को प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 2,
+      "qid": 2138411651,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -49,6 +28,7 @@
     },
     {
       "id": 3,
+      "qid": 3951786354,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 349597966,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -92,29 +73,8 @@
       "is_pro": false
     },
     {
-      "id": 5,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Easy",
-      "question": "I have ___ umbrella.' यहाँ कुन Article लाग्छ?",
-      "options": [
-        "an",
-        "a",
-        "the",
-        "no article"
-      ],
-      "option_a": "an",
-      "option_b": "a",
-      "option_c": "the",
-      "option_d": "no article",
-      "answer_index": 0,
-      "explanation": "umbrella' को उच्चारण 'अ' (Vowel sound) बाट सुरु हुने भएकोले 'an' लाग्छ।",
-      "is_pro": false
-    },
-    {
       "id": 6,
+      "qid": 2163793982,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -137,6 +97,7 @@
     },
     {
       "id": 7,
+      "qid": 708754024,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -158,29 +119,8 @@
       "is_pro": false
     },
     {
-      "id": 8,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Hard",
-      "question": "Proper Noun को पहिलो अक्षर सधैँ कस्तो हुन्छ?",
-      "options": [
-        "Capital letter",
-        "Small letter",
-        "Number",
-        "Symbol"
-      ],
-      "option_a": "Capital letter",
-      "option_b": "Small letter",
-      "option_c": "Number",
-      "option_d": "Symbol",
-      "answer_index": 0,
-      "explanation": "Proper Noun (व्यक्तिवाचक नाम) लेख्दा सधैँ पहिलो अक्षर Capital letter (ठूलो अक्षर) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 9,
+      "qid": 2362549757,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -203,6 +143,7 @@
     },
     {
       "id": 10,
+      "qid": 3561487659,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -225,6 +166,7 @@
     },
     {
       "id": 11,
+      "qid": 1817834895,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -246,29 +188,8 @@
       "is_pro": false
     },
     {
-      "id": 12,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Medium",
-      "question": "Sita is my sister. ___ is dancing.' खाली ठाउँमा कुन Pronoun लाग्छ?",
-      "options": [
-        "She",
-        "He",
-        "It",
-        "We"
-      ],
-      "option_a": "She",
-      "option_b": "He",
-      "option_c": "It",
-      "option_d": "We",
-      "answer_index": 0,
-      "explanation": "Sita' स्त्रीलिङ्गी (Feminine) एकवचन भएकोले 'She' को प्रयोग हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 13,
+      "qid": 1563085653,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -291,6 +212,7 @@
     },
     {
       "id": 14,
+      "qid": 813456440,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -313,6 +235,7 @@
     },
     {
       "id": 15,
+      "qid": 1759384320,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -334,29 +257,8 @@
       "is_pro": false
     },
     {
-      "id": 16,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Medium",
-      "question": "The boy plays football.' यो वाक्यमा Verb कुन हो?",
-      "options": [
-        "plays",
-        "The",
-        "boy",
-        "football"
-      ],
-      "option_a": "plays",
-      "option_b": "The",
-      "option_c": "boy",
-      "option_d": "football",
-      "answer_index": 0,
-      "explanation": "यस वाक्यमा 'plays' ले खेल्ने काम बुझाएको छ, त्यसैले यो Verb हो।",
-      "is_pro": false
-    },
-    {
       "id": 17,
+      "qid": 4181992355,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -379,6 +281,7 @@
     },
     {
       "id": 18,
+      "qid": 3789747437,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -401,6 +304,7 @@
     },
     {
       "id": 19,
+      "qid": 2634953383,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -423,6 +327,7 @@
     },
     {
       "id": 20,
+      "qid": 3846742296,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -445,6 +350,7 @@
     },
     {
       "id": 21,
+      "qid": 3939739720,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -467,6 +373,7 @@
     },
     {
       "id": 22,
+      "qid": 2265067616,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -488,29 +395,8 @@
       "is_pro": false
     },
     {
-      "id": 23,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Medium",
-      "question": "तलका मध्ये Adjective कुन हो?",
-      "options": [
-        "Tall",
-        "Run",
-        "Quickly",
-        "He"
-      ],
-      "option_a": "Tall",
-      "option_b": "Run",
-      "option_c": "Quickly",
-      "option_d": "He",
-      "answer_index": 0,
-      "explanation": "Tall' ले उचाइ वा विशेषता बुझाउने भएकोले यो Adjective हो।",
-      "is_pro": false
-    },
-    {
       "id": 24,
+      "qid": 3486389893,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -533,6 +419,7 @@
     },
     {
       "id": 25,
+      "qid": 9333374,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -554,29 +441,8 @@
       "is_pro": false
     },
     {
-      "id": 26,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Medium",
-      "question": "तलका मध्ये Adverb of Time (समय बुझाउने) कुन हो?",
-      "options": [
-        "Yesterday",
-        "Here",
-        "Loudly",
-        "Very"
-      ],
-      "option_a": "Yesterday",
-      "option_b": "Here",
-      "option_c": "Loudly",
-      "option_d": "Very",
-      "answer_index": 0,
-      "explanation": "Yesterday' (हिजो) ले समय बुझाउने भएकोले यो Adverb of Time हो।",
-      "is_pro": false
-    },
-    {
       "id": 27,
+      "qid": 3889285250,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -599,6 +465,7 @@
     },
     {
       "id": 28,
+      "qid": 3643891773,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -620,29 +487,8 @@
       "is_pro": false
     },
     {
-      "id": 29,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Hard",
-      "question": "बारहरू (Days of the week) को अगाडि कुन Preposition लाग्छ?",
-      "options": [
-        "on",
-        "in",
-        "at",
-        "to"
-      ],
-      "option_a": "on",
-      "option_b": "in",
-      "option_c": "at",
-      "option_d": "to",
-      "answer_index": 0,
-      "explanation": "दिन र बारहरूको नाम (जस्तै: Sunday, Monday) अगाडि सधैँ 'on' को प्रयोग हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 30,
+      "qid": 3624345522,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -665,6 +511,7 @@
     },
     {
       "id": 31,
+      "qid": 2010949869,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -686,29 +533,8 @@
       "is_pro": false
     },
     {
-      "id": 32,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Easy",
-      "question": "Ram ___ Hari are friends.' खाली ठाउँमा कुन Conjunction लाग्छ?",
-      "options": [
-        "and",
-        "but",
-        "or",
-        "because"
-      ],
-      "option_a": "and",
-      "option_b": "but",
-      "option_c": "or",
-      "option_d": "because",
-      "answer_index": 0,
-      "explanation": "दुई समान स्तरका नामहरू जोड्न 'and' (र) को प्रयोग हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 33,
+      "qid": 2680379989,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -731,6 +557,7 @@
     },
     {
       "id": 34,
+      "qid": 977569634,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -753,6 +580,7 @@
     },
     {
       "id": 35,
+      "qid": 2599544127,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -775,6 +603,7 @@
     },
     {
       "id": 36,
+      "qid": 771538202,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -797,6 +626,7 @@
     },
     {
       "id": 37,
+      "qid": 2858325855,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -819,6 +649,7 @@
     },
     {
       "id": 38,
+      "qid": 1942993468,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -841,6 +672,7 @@
     },
     {
       "id": 39,
+      "qid": 3552831716,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -863,6 +695,7 @@
     },
     {
       "id": 40,
+      "qid": 3435315621,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -885,6 +718,7 @@
     },
     {
       "id": 41,
+      "qid": 938785473,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -907,6 +741,7 @@
     },
     {
       "id": 42,
+      "qid": 2860591063,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -929,6 +764,7 @@
     },
     {
       "id": 43,
+      "qid": 111829723,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -951,6 +787,7 @@
     },
     {
       "id": 44,
+      "qid": 1715860649,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -972,29 +809,8 @@
       "is_pro": false
     },
     {
-      "id": 45,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Medium",
-      "question": "Happy' को Synonym कुन हो?",
-      "options": [
-        "Glad",
-        "Sad",
-        "Angry",
-        "Cry"
-      ],
-      "option_a": "Glad",
-      "option_b": "Sad",
-      "option_c": "Angry",
-      "option_d": "Cry",
-      "answer_index": 0,
-      "explanation": "Happy' (खुसी) र 'Glad' ले समान अर्थ दिन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 46,
+      "qid": 4138255508,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1017,6 +833,7 @@
     },
     {
       "id": 47,
+      "qid": 3998146122,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1039,6 +856,7 @@
     },
     {
       "id": 48,
+      "qid": 2821045730,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1060,29 +878,8 @@
       "is_pro": false
     },
     {
-      "id": 49,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Easy",
-      "question": "Hot' को Antonym कुन हो?",
-      "options": [
-        "Cold",
-        "Warm",
-        "Boiling",
-        "Sun"
-      ],
-      "option_a": "Cold",
-      "option_b": "Warm",
-      "option_c": "Boiling",
-      "option_d": "Sun",
-      "answer_index": 0,
-      "explanation": "Hot' (तातो) को ठीक उल्टो अर्थ 'Cold' (चिसो) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 50,
+      "qid": 1426597142,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1105,6 +902,7 @@
     },
     {
       "id": 51,
+      "qid": 1326702081,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1127,6 +925,7 @@
     },
     {
       "id": 52,
+      "qid": 32181683,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1148,29 +947,8 @@
       "is_pro": false
     },
     {
-      "id": 53,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Easy",
-      "question": "अहिले भइरहेको वा वर्तमान समयलाई कुन Tense ले बुझाउँछ?",
-      "options": [
-        "Present Tense",
-        "Past Tense",
-        "Future Tense",
-        "Perfect Tense"
-      ],
-      "option_a": "Present Tense",
-      "option_b": "Past Tense",
-      "option_c": "Future Tense",
-      "option_d": "Perfect Tense",
-      "answer_index": 0,
-      "explanation": "वर्तमान समयको काम बुझाउन Present Tense (वर्तमान काल) को प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 54,
+      "qid": 1116462032,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1193,6 +971,7 @@
     },
     {
       "id": 55,
+      "qid": 2254980696,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1215,6 +994,7 @@
     },
     {
       "id": 56,
+      "qid": 4290547725,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1236,29 +1016,8 @@
       "is_pro": false
     },
     {
-      "id": 57,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Hard",
-      "question": "They are playing.' यो कुन Tense हो?",
-      "options": [
-        "Present Continuous",
-        "Simple Present",
-        "Simple Past",
-        "Future"
-      ],
-      "option_a": "Present Continuous",
-      "option_b": "Simple Present",
-      "option_c": "Simple Past",
-      "option_d": "Future",
-      "answer_index": 0,
-      "explanation": "is/am/are सँग verb मा ing (v4) लागेको हुनाले यो Present Continuous Tense हो।",
-      "is_pro": false
-    },
-    {
       "id": 58,
+      "qid": 4117040916,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1281,6 +1040,7 @@
     },
     {
       "id": 59,
+      "qid": 3218257349,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1303,6 +1063,7 @@
     },
     {
       "id": 60,
+      "qid": 4288009090,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1324,29 +1085,8 @@
       "is_pro": false
     },
     {
-      "id": 61,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Medium",
-      "question": "A person who treats sick people is a ___?",
-      "options": [
-        "Doctor",
-        "Teacher",
-        "Singer",
-        "Tailor"
-      ],
-      "option_a": "Doctor",
-      "option_b": "Teacher",
-      "option_c": "Singer",
-      "option_d": "Tailor",
-      "answer_index": 0,
-      "explanation": "बिरामीको उपचार गर्ने व्यक्तिलाई Doctor भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 62,
+      "qid": 869473545,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1369,6 +1109,7 @@
     },
     {
       "id": 63,
+      "qid": 1182881430,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1391,6 +1132,7 @@
     },
     {
       "id": 64,
+      "qid": 2935815688,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1412,29 +1154,8 @@
       "is_pro": false
     },
     {
-      "id": 65,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Easy",
-      "question": "Boy' को Feminine Gender कुन हो?",
-      "options": [
-        "Girl",
-        "Man",
-        "Woman",
-        "Lady"
-      ],
-      "option_a": "Girl",
-      "option_b": "Man",
-      "option_c": "Woman",
-      "option_d": "Lady",
-      "answer_index": 0,
-      "explanation": "Boy' (केटा) को पोथी वा स्त्रीलिङ्गी रूप 'Girl' (केटी) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 66,
+      "qid": 1704493064,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1457,6 +1178,7 @@
     },
     {
       "id": 67,
+      "qid": 3597197694,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1479,6 +1201,7 @@
     },
     {
       "id": 68,
+      "qid": 3630898701,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1501,6 +1224,7 @@
     },
     {
       "id": 69,
+      "qid": 3699043727,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1522,29 +1246,8 @@
       "is_pro": false
     },
     {
-      "id": 70,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Easy",
-      "question": "अङ्ग्रेजी वर्णमालामा कतिवटा Vowel letters (स्वर वर्ण) छन्?",
-      "options": [
-        "5",
-        "21",
-        "26",
-        "10"
-      ],
-      "option_a": "5",
-      "option_b": "21",
-      "option_c": "26",
-      "option_d": "10",
-      "answer_index": 0,
-      "explanation": "अङ्ग्रेजीमा A, E, I, O, U गरी ५ वटा Vowel letters छन्।",
-      "is_pro": false
-    },
-    {
       "id": 71,
+      "qid": 3289222192,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1567,6 +1270,7 @@
     },
     {
       "id": 72,
+      "qid": 1313607597,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1589,6 +1293,7 @@
     },
     {
       "id": 73,
+      "qid": 793957570,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1610,29 +1315,8 @@
       "is_pro": false
     },
     {
-      "id": 74,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Easy",
-      "question": "Sunday को पछि कुन बार आउँछ?",
-      "options": [
-        "Monday",
-        "Tuesday",
-        "Saturday",
-        "Friday"
-      ],
-      "option_a": "Monday",
-      "option_b": "Tuesday",
-      "option_c": "Saturday",
-      "option_d": "Friday",
-      "answer_index": 0,
-      "explanation": "Sunday (आइतबार) को भोलिपल्ट Monday (सोमबार) आउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 75,
+      "qid": 2536367069,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1655,6 +1339,7 @@
     },
     {
       "id": 76,
+      "qid": 1937971326,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1677,6 +1362,7 @@
     },
     {
       "id": 77,
+      "qid": 1952193999,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1698,29 +1384,8 @@
       "is_pro": false
     },
     {
-      "id": 78,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Hard",
-      "question": "बिरालोको बच्चालाई अङ्ग्रेजीमा के भनिन्छ?",
-      "options": [
-        "Kitten",
-        "Puppy",
-        "Kid",
-        "Lamb"
-      ],
-      "option_a": "Kitten",
-      "option_b": "Puppy",
-      "option_c": "Kid",
-      "option_d": "Lamb",
-      "answer_index": 0,
-      "explanation": "बिरालोको छाउरालाई अङ्ग्रेजीमा 'Kitten' भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 79,
+      "qid": 1386537210,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1743,6 +1408,7 @@
     },
     {
       "id": 80,
+      "qid": 4005743424,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1765,6 +1431,7 @@
     },
     {
       "id": 81,
+      "qid": 2028977590,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1786,29 +1453,8 @@
       "is_pro": false
     },
     {
-      "id": 82,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Medium",
-      "question": "They ___ going to market.' यहाँ कुन Verb लाग्छ?",
-      "options": [
-        "are",
-        "is",
-        "am",
-        "was"
-      ],
-      "option_a": "are",
-      "option_b": "is",
-      "option_c": "am",
-      "option_d": "was",
-      "answer_index": 0,
-      "explanation": "Plural Subject 'They' सँग Present Tense मा 'are' को प्रयोग हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 83,
+      "qid": 4159854410,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1831,6 +1477,7 @@
     },
     {
       "id": 84,
+      "qid": 2113349652,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1853,6 +1500,7 @@
     },
     {
       "id": 85,
+      "qid": 834059059,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1874,29 +1522,8 @@
       "is_pro": false
     },
     {
-      "id": 86,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "103",
-      "sub_cat_name": "English",
-      "level": "Easy",
-      "question": "नेपालीमा 'घर' लाई अङ्ग्रेजीमा के भनिन्छ?",
-      "options": [
-        "House",
-        "Tree",
-        "Car",
-        "Road"
-      ],
-      "option_a": "House",
-      "option_b": "Tree",
-      "option_c": "Car",
-      "option_d": "Road",
-      "answer_index": 0,
-      "explanation": "बस्ने घरलाई अङ्ग्रेजीमा House भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 87,
+      "qid": 3760353362,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1919,6 +1546,7 @@
     },
     {
       "id": 88,
+      "qid": 2176624263,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
@@ -1941,6 +1569,7 @@
     },
     {
       "id": 89,
+      "qid": 1733480632,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "103",
