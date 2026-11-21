@@ -1,32 +1,11 @@
 {
   "sub_cat_id": "104",
-  "data_version": 1794491195766,
-  "total_questions": 100,
+  "data_version": 1795279225068,
+  "total_questions": 75,
   "questions": [
     {
-      "id": 1,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "रु. २० र रु. ८५ जोड्दा जम्मा कति हुन्छ?",
-      "options": [
-        "१०५",
-        "११५",
-        "९५",
-        "१०४"
-      ],
-      "option_a": "१०५",
-      "option_b": "११५",
-      "option_c": "९५",
-      "option_d": "१०४",
-      "answer_index": 0,
-      "explanation": "२० र ८५ को योगफल २० + ८५ = १०५ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 2,
+      "qid": 2187699019,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -49,6 +28,7 @@
     },
     {
       "id": 3,
+      "qid": 1895072594,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 3961642110,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -92,29 +73,8 @@
       "is_pro": false
     },
     {
-      "id": 5,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "एउटा आयताकार खेतको लम्बाइ २० मिटर र चौडाइ ६ मिटर छ भने यसको क्षेत्रफल कति होला?",
-      "options": [
-        "१२०",
-        "४६",
-        "१३०",
-        "५२"
-      ],
-      "option_a": "१२०",
-      "option_b": "४६",
-      "option_c": "१३०",
-      "option_d": "५२",
-      "answer_index": 0,
-      "explanation": "आयतको क्षेत्रफल = लम्बाइ x चौडाइ = २० x ६ = १२० वर्ग मिटर हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 6,
+      "qid": 643162783,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -137,6 +97,7 @@
     },
     {
       "id": 7,
+      "qid": 4241796180,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -159,6 +120,7 @@
     },
     {
       "id": 8,
+      "qid": 1201156009,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -180,29 +142,8 @@
       "is_pro": false
     },
     {
-      "id": 9,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "३ र ४ को ल.स. (L.C.M.) कति हुन्छ?",
-      "options": [
-        "१२",
-        "१५",
-        "७",
-        "९"
-      ],
-      "option_a": "१२",
-      "option_b": "१५",
-      "option_c": "७",
-      "option_d": "९",
-      "answer_index": 0,
-      "explanation": "३ र ४ को कुनै साझा गुणनखण्ड नभएकोले, ल.स. = ३ x ४ = १२ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 10,
+      "qid": 2301352160,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -225,6 +166,7 @@
     },
     {
       "id": 11,
+      "qid": 49846813,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -247,6 +189,7 @@
     },
     {
       "id": 12,
+      "qid": 3707248366,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -268,29 +211,8 @@
       "is_pro": false
     },
     {
-      "id": 13,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "एउटा कापीको मूल्य रु. १९ पर्छ भने त्यस्ता ५ वटा कापीको मूल्य कति पर्छ?",
-      "options": [
-        "९५",
-        "७६",
-        "९०",
-        "११४"
-      ],
-      "option_a": "९५",
-      "option_b": "७६",
-      "option_c": "९०",
-      "option_d": "११४",
-      "answer_index": 0,
-      "explanation": "जम्मा मूल्य = एउटाको मूल्य x सङ्ख्या = १९ x ५ = ९५ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 14,
+      "qid": 637172508,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -313,6 +235,7 @@
     },
     {
       "id": 15,
+      "qid": 59096691,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -335,6 +258,7 @@
     },
     {
       "id": 16,
+      "qid": 1518123299,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -356,29 +280,8 @@
       "is_pro": false
     },
     {
-      "id": 17,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "भिन्नहरू ३/५ र ३/५ जोड्दा कति हुन्छ?",
-      "options": [
-        "६/५",
-        "७/५",
-        "५/५",
-        "१२/५"
-      ],
-      "option_a": "६/५",
-      "option_b": "७/५",
-      "option_c": "५/५",
-      "option_d": "१२/५",
-      "answer_index": 0,
-      "explanation": "हर समान भएकोले अंशहरू जोड्दा: (३ + ३) / ५ = ६/५ हुन्छ। (यहाँ अंश ६ हो)",
-      "is_pro": false
-    },
-    {
       "id": 18,
+      "qid": 1831203210,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -401,6 +304,7 @@
     },
     {
       "id": 19,
+      "qid": 334579660,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -423,6 +327,7 @@
     },
     {
       "id": 20,
+      "qid": 4266489371,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -444,29 +349,8 @@
       "is_pro": false
     },
     {
-      "id": 21,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "रु. ८६ र रु. ६८ जोड्दा जम्मा कति हुन्छ?",
-      "options": [
-        "१५४",
-        "१५३",
-        "१६४",
-        "१५५"
-      ],
-      "option_a": "१५४",
-      "option_b": "१५३",
-      "option_c": "१६४",
-      "option_d": "१५५",
-      "answer_index": 0,
-      "explanation": "८६ र ६८ को योगफल ८६ + ६८ = १५४ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 22,
+      "qid": 568018248,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -489,6 +373,7 @@
     },
     {
       "id": 23,
+      "qid": 1534708848,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -511,6 +396,7 @@
     },
     {
       "id": 24,
+      "qid": 1642423784,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -532,29 +418,8 @@
       "is_pro": false
     },
     {
-      "id": 25,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "एउटा आयताकार खेतको लम्बाइ १४ मिटर र चौडाइ ८ मिटर छ भने यसको क्षेत्रफल कति होला?",
-      "options": [
-        "११२",
-        "१२२",
-        "४४",
-        "३६"
-      ],
-      "option_a": "११२",
-      "option_b": "१२२",
-      "option_c": "४४",
-      "option_d": "३६",
-      "answer_index": 0,
-      "explanation": "आयतको क्षेत्रफल = लम्बाइ x चौडाइ = १४ x ८ = ११२ वर्ग मिटर हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 26,
+      "qid": 579244816,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -577,6 +442,7 @@
     },
     {
       "id": 27,
+      "qid": 741414069,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -599,6 +465,7 @@
     },
     {
       "id": 28,
+      "qid": 2952723889,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -620,29 +487,8 @@
       "is_pro": false
     },
     {
-      "id": 29,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "२ र ३ को ल.स. (L.C.M.) कति हुन्छ?",
-      "options": [
-        "६",
-        "१२",
-        "४",
-        "८"
-      ],
-      "option_a": "६",
-      "option_b": "१२",
-      "option_c": "४",
-      "option_d": "८",
-      "answer_index": 0,
-      "explanation": "२ र ३ को कुनै साझा गुणनखण्ड नभएकोले, ल.स. = २ x ३ = ६ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 30,
+      "qid": 3163284034,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -665,6 +511,7 @@
     },
     {
       "id": 31,
+      "qid": 1648489357,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -687,6 +534,7 @@
     },
     {
       "id": 32,
+      "qid": 726015569,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -708,29 +556,8 @@
       "is_pro": false
     },
     {
-      "id": 33,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "एउटा कापीको मूल्य रु. १९ पर्छ भने त्यस्ता ७ वटा कापीको मूल्य कति पर्छ?",
-      "options": [
-        "१३३",
-        "१५२",
-        "१२६",
-        "११४"
-      ],
-      "option_a": "१३३",
-      "option_b": "१५२",
-      "option_c": "१२६",
-      "option_d": "११४",
-      "answer_index": 0,
-      "explanation": "जम्मा मूल्य = एउटाको मूल्य x सङ्ख्या = १९ x ७ = १३३ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 34,
+      "qid": 2697978956,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -753,6 +580,7 @@
     },
     {
       "id": 35,
+      "qid": 1848307082,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -775,6 +603,7 @@
     },
     {
       "id": 36,
+      "qid": 255732625,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -796,29 +625,8 @@
       "is_pro": false
     },
     {
-      "id": 37,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "भिन्नहरू १/६ र ४/६ जोड्दा कति हुन्छ?",
-      "options": [
-        "५/६",
-        "१०/६",
-        "७/६",
-        "४/६"
-      ],
-      "option_a": "५/६",
-      "option_b": "१०/६",
-      "option_c": "७/६",
-      "option_d": "४/६",
-      "answer_index": 0,
-      "explanation": "हर समान भएकोले अंशहरू जोड्दा: (१ + ४) / ६ = ५/६ हुन्छ। (यहाँ अंश ५ हो)",
-      "is_pro": false
-    },
-    {
       "id": 38,
+      "qid": 3304861884,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -841,6 +649,7 @@
     },
     {
       "id": 39,
+      "qid": 4265717026,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -863,6 +672,7 @@
     },
     {
       "id": 40,
+      "qid": 3774818853,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -884,29 +694,8 @@
       "is_pro": false
     },
     {
-      "id": 41,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "रु. ९२ र रु. ४१ जोड्दा जम्मा कति हुन्छ?",
-      "options": [
-        "१३३",
-        "१३४",
-        "१३२",
-        "१२३"
-      ],
-      "option_a": "१३३",
-      "option_b": "१३४",
-      "option_c": "१३२",
-      "option_d": "१२३",
-      "answer_index": 0,
-      "explanation": "९२ र ४१ को योगफल ९२ + ४१ = १३३ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 42,
+      "qid": 2386254762,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -929,6 +718,7 @@
     },
     {
       "id": 43,
+      "qid": 2832795968,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -951,6 +741,7 @@
     },
     {
       "id": 44,
+      "qid": 3898432229,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -972,29 +763,8 @@
       "is_pro": false
     },
     {
-      "id": 45,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "एउटा आयताकार खेतको लम्बाइ ११ मिटर र चौडाइ ८ मिटर छ भने यसको क्षेत्रफल कति होला?",
-      "options": [
-        "८८",
-        "३०",
-        "७८",
-        "३८"
-      ],
-      "option_a": "८८",
-      "option_b": "३०",
-      "option_c": "७८",
-      "option_d": "३८",
-      "answer_index": 0,
-      "explanation": "आयतको क्षेत्रफल = लम्बाइ x चौडाइ = ११ x ८ = ८८ वर्ग मिटर हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 46,
+      "qid": 3099487014,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1017,6 +787,7 @@
     },
     {
       "id": 47,
+      "qid": 1069959505,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1039,6 +810,7 @@
     },
     {
       "id": 48,
+      "qid": 1226206059,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1060,29 +832,8 @@
       "is_pro": false
     },
     {
-      "id": 49,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "२ र ३ को ल.स. (L.C.M.) कति हुन्छ?",
-      "options": [
-        "६",
-        "१२",
-        "४",
-        "८"
-      ],
-      "option_a": "६",
-      "option_b": "१२",
-      "option_c": "४",
-      "option_d": "८",
-      "answer_index": 0,
-      "explanation": "२ र ३ को कुनै साझा गुणनखण्ड नभएकोले, ल.स. = २ x ३ = ६ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 50,
+      "qid": 1312434371,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1105,6 +856,7 @@
     },
     {
       "id": 51,
+      "qid": 2243244789,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1127,6 +879,7 @@
     },
     {
       "id": 52,
+      "qid": 2675752278,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1148,29 +901,8 @@
       "is_pro": false
     },
     {
-      "id": 53,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "एउटा कापीको मूल्य रु. १६ पर्छ भने त्यस्ता ६ वटा कापीको मूल्य कति पर्छ?",
-      "options": [
-        "९६",
-        "९०",
-        "११२",
-        "८०"
-      ],
-      "option_a": "९६",
-      "option_b": "९०",
-      "option_c": "११२",
-      "option_d": "८०",
-      "answer_index": 0,
-      "explanation": "जम्मा मूल्य = एउटाको मूल्य x सङ्ख्या = १६ x ६ = ९६ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 54,
+      "qid": 621952465,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1193,6 +925,7 @@
     },
     {
       "id": 55,
+      "qid": 2045931188,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1215,6 +948,7 @@
     },
     {
       "id": 56,
+      "qid": 1075092274,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1236,29 +970,8 @@
       "is_pro": false
     },
     {
-      "id": 57,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "भिन्नहरू २/८ र ३/८ जोड्दा कति हुन्छ?",
-      "options": [
-        "५/८",
-        "१०/८",
-        "६/८",
-        "४/८"
-      ],
-      "option_a": "५/८",
-      "option_b": "१०/८",
-      "option_c": "६/८",
-      "option_d": "४/८",
-      "answer_index": 0,
-      "explanation": "हर समान भएकोले अंशहरू जोड्दा: (२ + ३) / ८ = ५/८ हुन्छ। (यहाँ अंश ५ हो)",
-      "is_pro": false
-    },
-    {
       "id": 58,
+      "qid": 2995518171,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1281,6 +994,7 @@
     },
     {
       "id": 59,
+      "qid": 4265717026,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1303,6 +1017,7 @@
     },
     {
       "id": 60,
+      "qid": 2301352160,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1324,29 +1039,8 @@
       "is_pro": false
     },
     {
-      "id": 61,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "रु. ९२ र रु. ८७ जोड्दा जम्मा कति हुन्छ?",
-      "options": [
-        "१७९",
-        "१८९",
-        "१८०",
-        "१७८"
-      ],
-      "option_a": "१७९",
-      "option_b": "१८९",
-      "option_c": "१८०",
-      "option_d": "१७८",
-      "answer_index": 0,
-      "explanation": "९२ र ८७ को योगफल ९२ + ८७ = १७९ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 62,
+      "qid": 301011462,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1369,6 +1063,7 @@
     },
     {
       "id": 63,
+      "qid": 3108957966,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1391,6 +1086,7 @@
     },
     {
       "id": 64,
+      "qid": 4190373924,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1412,29 +1108,8 @@
       "is_pro": false
     },
     {
-      "id": 65,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "एउटा आयताकार खेतको लम्बाइ ११ मिटर र चौडाइ ८ मिटर छ भने यसको क्षेत्रफल कति होला?",
-      "options": [
-        "८८",
-        "३०",
-        "७८",
-        "३८"
-      ],
-      "option_a": "८८",
-      "option_b": "३०",
-      "option_c": "७८",
-      "option_d": "३८",
-      "answer_index": 0,
-      "explanation": "आयतको क्षेत्रफल = लम्बाइ x चौडाइ = ११ x ८ = ८८ वर्ग मिटर हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 66,
+      "qid": 2549310119,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1457,6 +1132,7 @@
     },
     {
       "id": 67,
+      "qid": 699760322,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1479,6 +1155,7 @@
     },
     {
       "id": 68,
+      "qid": 3113507363,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1500,29 +1177,8 @@
       "is_pro": false
     },
     {
-      "id": 69,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "२ र ५ को ल.स. (L.C.M.) कति हुन्छ?",
-      "options": [
-        "१०",
-        "१२",
-        "७",
-        "२०"
-      ],
-      "option_a": "१०",
-      "option_b": "१२",
-      "option_c": "७",
-      "option_d": "२०",
-      "answer_index": 0,
-      "explanation": "२ र ५ को कुनै साझा गुणनखण्ड नभएकोले, ल.स. = २ x ५ = १० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 70,
+      "qid": 2345502274,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1545,6 +1201,7 @@
     },
     {
       "id": 71,
+      "qid": 3725138358,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1567,6 +1224,7 @@
     },
     {
       "id": 72,
+      "qid": 2303308969,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1588,29 +1246,8 @@
       "is_pro": false
     },
     {
-      "id": 73,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "एउटा कापीको मूल्य रु. २४ पर्छ भने त्यस्ता ६ वटा कापीको मूल्य कति पर्छ?",
-      "options": [
-        "१४४",
-        "१२०",
-        "१३८",
-        "१६८"
-      ],
-      "option_a": "१४४",
-      "option_b": "१२०",
-      "option_c": "१३८",
-      "option_d": "१६८",
-      "answer_index": 0,
-      "explanation": "जम्मा मूल्य = एउटाको मूल्य x सङ्ख्या = २४ x ६ = १४४ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 74,
+      "qid": 3836346041,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1633,6 +1270,7 @@
     },
     {
       "id": 75,
+      "qid": 2656302862,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1655,6 +1293,7 @@
     },
     {
       "id": 76,
+      "qid": 2871712657,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1676,29 +1315,8 @@
       "is_pro": false
     },
     {
-      "id": 77,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "भिन्नहरू ४/६ र ३/६ जोड्दा कति हुन्छ?",
-      "options": [
-        "७/६",
-        "१४/६",
-        "६/६",
-        "९/६"
-      ],
-      "option_a": "७/६",
-      "option_b": "१४/६",
-      "option_c": "६/६",
-      "option_d": "९/६",
-      "answer_index": 0,
-      "explanation": "हर समान भएकोले अंशहरू जोड्दा: (४ + ३) / ६ = ७/६ हुन्छ। (यहाँ अंश ७ हो)",
-      "is_pro": false
-    },
-    {
       "id": 78,
+      "qid": 1374245239,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1721,6 +1339,7 @@
     },
     {
       "id": 79,
+      "qid": 197748396,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1743,6 +1362,7 @@
     },
     {
       "id": 80,
+      "qid": 891398440,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1764,29 +1384,8 @@
       "is_pro": false
     },
     {
-      "id": 81,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "रु. ३४ र रु. ३० जोड्दा जम्मा कति हुन्छ?",
-      "options": [
-        "६४",
-        "७४",
-        "५४",
-        "६५"
-      ],
-      "option_a": "६४",
-      "option_b": "७४",
-      "option_c": "५४",
-      "option_d": "६५",
-      "answer_index": 0,
-      "explanation": "३४ र ३० को योगफल ३४ + ३० = ६४ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 82,
+      "qid": 1687645749,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1809,6 +1408,7 @@
     },
     {
       "id": 83,
+      "qid": 4158310977,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1831,6 +1431,7 @@
     },
     {
       "id": 84,
+      "qid": 1850427448,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1852,29 +1453,8 @@
       "is_pro": false
     },
     {
-      "id": 85,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "एउटा आयताकार खेतको लम्बाइ १४ मिटर र चौडाइ ९ मिटर छ भने यसको क्षेत्रफल कति होला?",
-      "options": [
-        "१२६",
-        "४६",
-        "१३६",
-        "३७"
-      ],
-      "option_a": "१२६",
-      "option_b": "४६",
-      "option_c": "१३६",
-      "option_d": "३७",
-      "answer_index": 0,
-      "explanation": "आयतको क्षेत्रफल = लम्बाइ x चौडाइ = १४ x ९ = १२६ वर्ग मिटर हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 86,
+      "qid": 1411891387,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1897,6 +1477,7 @@
     },
     {
       "id": 87,
+      "qid": 2111431023,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1919,6 +1500,7 @@
     },
     {
       "id": 88,
+      "qid": 3868362073,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1940,29 +1522,8 @@
       "is_pro": false
     },
     {
-      "id": 89,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "४ र ५ को ल.स. (L.C.M.) कति हुन्छ?",
-      "options": [
-        "२०",
-        "४०",
-        "९",
-        "२४"
-      ],
-      "option_a": "२०",
-      "option_b": "४०",
-      "option_c": "९",
-      "option_d": "२४",
-      "answer_index": 0,
-      "explanation": "४ र ५ को कुनै साझा गुणनखण्ड नभएकोले, ल.स. = ४ x ५ = २० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 90,
+      "qid": 924975635,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -1985,6 +1546,7 @@
     },
     {
       "id": 91,
+      "qid": 3151285868,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -2007,6 +1569,7 @@
     },
     {
       "id": 92,
+      "qid": 2305731137,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -2028,29 +1591,8 @@
       "is_pro": false
     },
     {
-      "id": 93,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "एउटा कापीको मूल्य रु. १२ पर्छ भने त्यस्ता ५ वटा कापीको मूल्य कति पर्छ?",
-      "options": [
-        "६०",
-        "५५",
-        "७२",
-        "६५"
-      ],
-      "option_a": "६०",
-      "option_b": "५५",
-      "option_c": "७२",
-      "option_d": "६५",
-      "answer_index": 0,
-      "explanation": "जम्मा मूल्य = एउटाको मूल्य x सङ्ख्या = १२ x ५ = ६० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 94,
+      "qid": 1478384702,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -2073,6 +1615,7 @@
     },
     {
       "id": 95,
+      "qid": 110289058,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -2095,6 +1638,7 @@
     },
     {
       "id": 96,
+      "qid": 2342650780,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -2116,29 +1660,8 @@
       "is_pro": false
     },
     {
-      "id": 97,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "104",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "भिन्नहरू १/५ र ४/५ जोड्दा कति हुन्छ?",
-      "options": [
-        "५/५",
-        "१०/५",
-        "४/५",
-        "६/५"
-      ],
-      "option_a": "५/५",
-      "option_b": "१०/५",
-      "option_c": "४/५",
-      "option_d": "६/५",
-      "answer_index": 0,
-      "explanation": "हर समान भएकोले अंशहरू जोड्दा: (१ + ४) / ५ = ५/५ हुन्छ। (यहाँ अंश ५ हो)",
-      "is_pro": false
-    },
-    {
       "id": 98,
+      "qid": 4097137924,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -2161,6 +1684,7 @@
     },
     {
       "id": 99,
+      "qid": 334579660,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
@@ -2183,6 +1707,7 @@
     },
     {
       "id": 100,
+      "qid": 2611034560,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "104",
