@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "updated_at": "2026-11-21T07:32:29.103Z",
+  "updated_at": "2026-11-21T08:32:31.107Z",
   "total_users": 1,
   "users": [
     {
@@ -9,8 +9,8 @@
       "photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_5GfG9yiVeoFIiad5giKeiuzxYqnBXo8y5lGOfpLe9V-lZmg=s96-c",
       "coins": 283,
       "is_pro": false,
-      "total_score": 270,
-      "last_active": "2026-11-18T03:42:22.098Z",
+      "total_score": 310,
+      "last_active": "2026-11-21T08:03:03.578Z",
       "status": "🟢 Active"
     }
   ]
