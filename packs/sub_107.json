@@ -1,32 +1,11 @@
 {
   "sub_cat_id": "107",
-  "data_version": 1794491195766,
-  "total_questions": 50,
+  "data_version": 1795279225068,
+  "total_questions": 38,
   "questions": [
     {
-      "id": 1,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "107",
-      "sub_cat_name": "English",
-      "level": "Easy",
-      "question": "अङ्ग्रेजी वर्णमाला (English Alphabet) मा कतिवटा स्वर वर्ण (Vowels) रहेका छन् ?",
-      "options": [
-        "५ वटा",
-        "२१ वटा",
-        "२६ वटा",
-        "७ वटा"
-      ],
-      "option_a": "५ वटा",
-      "option_b": "२१ वटा",
-      "option_c": "२६ वटा",
-      "option_d": "७ वटा",
-      "answer_index": 0,
-      "explanation": "अङ्ग्रेजी वर्णमालामा A, E, I, O, U गरी जम्मा ५ वटा स्वर वर्ण (Vowels) हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 2,
+      "qid": 52603216,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -49,6 +28,7 @@
     },
     {
       "id": 3,
+      "qid": 2525996434,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 3740886060,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -93,6 +74,7 @@
     },
     {
       "id": 5,
+      "qid": 2314057266,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -115,6 +97,7 @@
     },
     {
       "id": 6,
+      "qid": 1238077360,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -136,29 +119,8 @@
       "is_pro": false
     },
     {
-      "id": 7,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "107",
-      "sub_cat_name": "English",
-      "level": "Easy",
-      "question": "Dog' शब्दको स्त्रीलिङ्गी (Feminine) रूप के हो ?",
-      "options": [
-        "Bitch",
-        "Puppy",
-        "Cat",
-        "Vixen"
-      ],
-      "option_a": "Bitch",
-      "option_b": "Puppy",
-      "option_c": "Cat",
-      "option_d": "Vixen",
-      "answer_index": 0,
-      "explanation": "अङ्ग्रेजीमा कुकुर (Dog) को स्त्रीलिङ्गी रूपलाई 'Bitch' भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 8,
+      "qid": 1503262010,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -181,6 +143,7 @@
     },
     {
       "id": 9,
+      "qid": 2823975516,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -203,6 +166,7 @@
     },
     {
       "id": 10,
+      "qid": 1014344876,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -225,6 +189,7 @@
     },
     {
       "id": 11,
+      "qid": 4180269640,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -247,6 +212,7 @@
     },
     {
       "id": 12,
+      "qid": 1358676275,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -269,6 +235,7 @@
     },
     {
       "id": 13,
+      "qid": 1593317381,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -291,6 +258,7 @@
     },
     {
       "id": 14,
+      "qid": 3755107789,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -313,6 +281,7 @@
     },
     {
       "id": 15,
+      "qid": 7546151,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -335,6 +304,7 @@
     },
     {
       "id": 16,
+      "qid": 1377197694,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -357,6 +327,7 @@
     },
     {
       "id": 17,
+      "qid": 4268153390,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -379,6 +350,7 @@
     },
     {
       "id": 18,
+      "qid": 525170234,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -401,6 +373,7 @@
     },
     {
       "id": 19,
+      "qid": 1823134239,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -423,6 +396,7 @@
     },
     {
       "id": 20,
+      "qid": 2334174033,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -445,6 +419,7 @@
     },
     {
       "id": 21,
+      "qid": 395146630,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -467,6 +442,7 @@
     },
     {
       "id": 22,
+      "qid": 1620608299,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -489,6 +465,7 @@
     },
     {
       "id": 23,
+      "qid": 3969205430,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -511,6 +488,7 @@
     },
     {
       "id": 24,
+      "qid": 1929241975,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -533,6 +511,7 @@
     },
     {
       "id": 25,
+      "qid": 2092940815,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -555,6 +534,7 @@
     },
     {
       "id": 26,
+      "qid": 2436357406,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -576,29 +556,8 @@
       "is_pro": false
     },
     {
-      "id": 27,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "107",
-      "sub_cat_name": "English",
-      "level": "Medium",
-      "question": "I have a book.' यस वाक्यमा 'have' कुन Tense मा छ ?",
-      "options": [
-        "Simple Present",
-        "Present Perfect",
-        "Simple Past",
-        "Present Continuous"
-      ],
-      "option_a": "Simple Present",
-      "option_b": "Present Perfect",
-      "option_c": "Simple Past",
-      "option_d": "Present Continuous",
-      "answer_index": 0,
-      "explanation": "यहाँ 'have' मुख्य क्रिया (Main Verb) को रूपमा आएकोले यो वाक्य Simple Present Tense मा रहेको छ।",
-      "is_pro": false
-    },
-    {
       "id": 28,
+      "qid": 2477325656,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -621,6 +580,7 @@
     },
     {
       "id": 29,
+      "qid": 205958049,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -642,29 +602,8 @@
       "is_pro": false
     },
     {
-      "id": 30,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "107",
-      "sub_cat_name": "English",
-      "level": "Medium",
-      "question": "We ___ finish our homework yesterday.' यहाँ कुन क्रियापद सही हुन्छ ?",
-      "options": [
-        "did not",
-        "do not",
-        "does not",
-        "have not"
-      ],
-      "option_a": "did not",
-      "option_b": "do not",
-      "option_c": "does not",
-      "option_d": "have not",
-      "answer_index": 0,
-      "explanation": "Yesterday' ले बितेको समय (Past Tense) बुझाउने हुनाले नकारात्मक वाक्य बनाउँदा 'did not' को प्रयोग हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 31,
+      "qid": 2342719631,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -686,51 +625,8 @@
       "is_pro": false
     },
     {
-      "id": 32,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "107",
-      "sub_cat_name": "English",
-      "level": "Hard",
-      "question": "Ram writes a letter.' यस वाक्यको Passive Voice कुन हो ?",
-      "options": [
-        "A letter is written by Ram.",
-        "A letter was written by Ram.",
-        "A letter has been written by Ram.",
-        "A letter will be written by Ram."
-      ],
-      "option_a": "A letter is written by Ram.",
-      "option_b": "A letter was written by Ram.",
-      "option_c": "A letter has been written by Ram.",
-      "option_d": "A letter will be written by Ram.",
-      "answer_index": 0,
-      "explanation": "Simple Present Tense को वाक्यलाई Passive बनाउँदा (Object + is/am/are + V3 + by + Subject) संरचना प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 33,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "107",
-      "sub_cat_name": "English",
-      "level": "Hard",
-      "question": "She has ___ European friend.' यहाँ कुन Article लाग्छ ?",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "option_a": "a",
-      "option_b": "an",
-      "option_c": "the",
-      "option_d": "no article",
-      "answer_index": 0,
-      "explanation": "European' शब्द 'E' बाट सुरु भए तापनि यसको उच्चारण व्यञ्जन वर्ण (Consonant sound 'यु') बाट सुरु हुने भएकाले 'a' लाग्छ।",
-      "is_pro": false
-    },
-    {
       "id": 34,
+      "qid": 3280926145,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -753,6 +649,7 @@
     },
     {
       "id": 35,
+      "qid": 3759256447,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -774,29 +671,8 @@
       "is_pro": false
     },
     {
-      "id": 36,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "107",
-      "sub_cat_name": "English",
-      "level": "Hard",
-      "question": "Let us go for a walk, ___?' सही Question Tag छान्नुहोस्।",
-      "options": [
-        "shall we?",
-        "will you?",
-        "do we?",
-        "don't we?"
-      ],
-      "option_a": "shall we?",
-      "option_b": "will you?",
-      "option_c": "do we?",
-      "option_d": "don't we?",
-      "answer_index": 0,
-      "explanation": "Let us' वा 'Let's' बाट सुरु हुने प्रस्तावनावाचक (Suggestion) वाक्यको Question Tag सधैँ 'shall we?' हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 37,
+      "qid": 330726510,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -819,6 +695,7 @@
     },
     {
       "id": 38,
+      "qid": 3445566957,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -841,6 +718,7 @@
     },
     {
       "id": 39,
+      "qid": 2452091144,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -862,51 +740,8 @@
       "is_pro": false
     },
     {
-      "id": 40,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "107",
-      "sub_cat_name": "English",
-      "level": "Hard",
-      "question": "The news ___ good.' खाली ठाउँमा सही क्रियापद कुन हुन्छ ?",
-      "options": [
-        "is",
-        "are",
-        "were",
-        "have"
-      ],
-      "option_a": "is",
-      "option_b": "are",
-      "option_c": "were",
-      "option_d": "have",
-      "answer_index": 0,
-      "explanation": "News' शब्द हेर्दा बहुवचन जस्तो (s जोडिएको) देखिए तापनि यो Uncountable Noun हो र यसले सधैँ एकवचन क्रिया (is/has/was) लिन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 41,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "107",
-      "sub_cat_name": "English",
-      "level": "Hard",
-      "question": "Someone has stolen my pen.' यसको Passive Voice कुन हो ?",
-      "options": [
-        "My pen has been stolen.",
-        "My pen is stolen by someone.",
-        "My pen was stolen.",
-        "My pen had been stolen."
-      ],
-      "option_a": "My pen has been stolen.",
-      "option_b": "My pen is stolen by someone.",
-      "option_c": "My pen was stolen.",
-      "option_d": "My pen had been stolen.",
-      "answer_index": 0,
-      "explanation": "Present Perfect Tense को Passive बनाउँदा 'has been + V3' हुन्छ र 'someone' जस्ता अनिश्चित कर्तालाई 'by' सँग लेखिरहनु पर्दैन।",
-      "is_pro": false
-    },
-    {
       "id": 42,
+      "qid": 2263765382,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -929,6 +764,7 @@
     },
     {
       "id": 43,
+      "qid": 4045303377,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -951,6 +787,7 @@
     },
     {
       "id": 44,
+      "qid": 3749831667,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -972,29 +809,8 @@
       "is_pro": false
     },
     {
-      "id": 45,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "107",
-      "sub_cat_name": "English",
-      "level": "Hard",
-      "question": "He is blind ___ one eye.' सही Preposition छान्नुहोस्।",
-      "options": [
-        "of",
-        "in",
-        "with",
-        "to"
-      ],
-      "option_a": "of",
-      "option_b": "in",
-      "option_c": "with",
-      "option_d": "to",
-      "answer_index": 0,
-      "explanation": "एउटा आँखाले नदेख्ने वा काणो भएको अवस्थालाई बुझाउन अङ्ग्रेजीमा 'blind of one eye' भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 46,
+      "qid": 875706952,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -1017,6 +833,7 @@
     },
     {
       "id": 47,
+      "qid": 1820521909,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
@@ -1038,51 +855,8 @@
       "is_pro": false
     },
     {
-      "id": 48,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "107",
-      "sub_cat_name": "English",
-      "level": "Hard",
-      "question": "She asked me where ___.' Indirect Speech को सही संरचना छान्नुहोस्।",
-      "options": [
-        "where I was going",
-        "where was I going",
-        "where I am going",
-        "where am I going"
-      ],
-      "option_a": "where I was going",
-      "option_b": "where was I going",
-      "option_c": "where I am going",
-      "option_d": "where am I going",
-      "answer_index": 0,
-      "explanation": "Indirect Speech मा WH-question पछि Subject अनि Verb (Assertive structure) आउँछ, त्यसैले 'where I was going' सही हो।",
-      "is_pro": false
-    },
-    {
-      "id": 49,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "107",
-      "sub_cat_name": "English",
-      "level": "Hard",
-      "question": "A pair of shoes ___ on the floor.' कुन क्रियापद सही हुन्छ ?",
-      "options": [
-        "is",
-        "are",
-        "were",
-        "have"
-      ],
-      "option_a": "is",
-      "option_b": "are",
-      "option_c": "were",
-      "option_d": "have",
-      "answer_index": 0,
-      "explanation": "Shoes' बहुवचन भए तापनि यसको अगाडि 'A pair of' आएको हुनाले यसले सिङ्गो एकाइलाई बुझाउँछ र एकवचन क्रिया (is) लाग्छ।",
-      "is_pro": false
-    },
-    {
       "id": 50,
+      "qid": 1459168824,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "107",
