@@ -1,32 +1,11 @@
 {
   "sub_cat_id": "109",
-  "data_version": 1794491195766,
-  "total_questions": 300,
+  "data_version": 1795279225068,
+  "total_questions": 225,
   "questions": [
     {
-      "id": 1,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "बल (Force) नाप्ने अन्तर्राष्ट्रिय एकाइ (SI Unit) कुन हो ?",
-      "options": [
-        "न्युटन (Newton)",
-        "जुल (Joule)",
-        "वाट (Watt)",
-        "पास्कल (Pascal)"
-      ],
-      "option_a": "न्युटन (Newton)",
-      "option_b": "जुल (Joule)",
-      "option_c": "वाट (Watt)",
-      "option_d": "पास्कल (Pascal)",
-      "answer_index": 0,
-      "explanation": "बलको अन्तर्राष्ट्रिय एकाइ न्युटन हो, जसलाई अङ्ग्रेजी अक्षर 'N' ले जनाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 2,
+      "qid": 194605610,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -49,6 +28,7 @@
     },
     {
       "id": 3,
+      "qid": 3928933247,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 320309801,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -92,29 +73,8 @@
       "is_pro": false
     },
     {
-      "id": 5,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "स्वस्थ मानिसको शरीरको सामान्य तापक्रम कति हुन्छ ?",
-      "options": [
-        "३७°C",
-        "९८.६°C",
-        "१००°C",
-        "०°C"
-      ],
-      "option_a": "३७°C",
-      "option_b": "९८.६°C",
-      "option_c": "१००°C",
-      "option_d": "०°C",
-      "answer_index": 0,
-      "explanation": "एक स्वस्थ मानिसको शरीरको सामान्य तापक्रम सेल्सियस स्केलमा ३७°C र फरेनहाइट स्केलमा ९८.६°F हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 6,
+      "qid": 1456658787,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -137,6 +97,7 @@
     },
     {
       "id": 7,
+      "qid": 837465950,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -159,6 +120,7 @@
     },
     {
       "id": 8,
+      "qid": 351840793,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -180,29 +142,8 @@
       "is_pro": false
     },
     {
-      "id": 9,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "विद्युत् परिपथमा करेन्ट नाप्न कुन उपकरणको प्रयोग गरिन्छ ?",
-      "options": [
-        "एमिटर (Ammeter)",
-        "भोल्टमिटर (Voltmeter)",
-        "ग्याल्भानोमिटर (Galvanometer)",
-        "ब्यारोमिटर (Barometer)"
-      ],
-      "option_a": "एमिटर (Ammeter)",
-      "option_b": "भोल्टमिटर (Voltmeter)",
-      "option_c": "ग्याल्भानोमिटर (Galvanometer)",
-      "option_d": "ब्यारोमिटर (Barometer)",
-      "answer_index": 0,
-      "explanation": "विद्युत् प्रवाह (Current) नाप्ने यन्त्रलाई एमिटर भनिन्छ, जसलाई परिपथमा श्रेणीक्रम (Series) मा जोडिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 10,
+      "qid": 687102466,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -225,6 +166,7 @@
     },
     {
       "id": 11,
+      "qid": 745334157,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -247,6 +189,7 @@
     },
     {
       "id": 12,
+      "qid": 4001652968,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -268,29 +211,8 @@
       "is_pro": false
     },
     {
-      "id": 13,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "दूरी वा लम्बाइ नाप्ने आधारभूत SI एकाइ के हो ?",
-      "options": [
-        "मिटर (Meter)",
-        "किलोमिटर (Kilometer)",
-        "सेन्टिमिटर (Centimeter)",
-        "माइल (Mile)"
-      ],
-      "option_a": "मिटर (Meter)",
-      "option_b": "किलोमिटर (Kilometer)",
-      "option_c": "सेन्टिमिटर (Centimeter)",
-      "option_d": "माइल (Mile)",
-      "answer_index": 0,
-      "explanation": "अन्तर्राष्ट्रिय नापतौल प्रणाली (SI System) अनुसार लम्बाइको आधारभूत एकाइ मिटर हो।",
-      "is_pro": false
-    },
-    {
       "id": 14,
+      "qid": 1434238204,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -313,6 +235,7 @@
     },
     {
       "id": 15,
+      "qid": 1456247228,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -335,6 +258,7 @@
     },
     {
       "id": 16,
+      "qid": 4233191769,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -356,29 +280,8 @@
       "is_pro": false
     },
     {
-      "id": 17,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "पानी (Water) को रासायनिक सुत्र तलका मध्ये कुन हो ?",
-      "options": [
-        "H2O",
-        "CO2",
-        "H2O2",
-        "HO"
-      ],
-      "option_a": "H2O",
-      "option_b": "CO2",
-      "option_c": "H2O2",
-      "option_d": "HO",
-      "answer_index": 0,
-      "explanation": "पानी हाइड्रोजनका २ परमाणु र अक्सिजनको १ परमाणु मिलेर बन्ने भएकाले यसको सुत्र H2O हो।",
-      "is_pro": false
-    },
-    {
       "id": 18,
+      "qid": 4275488476,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -401,6 +304,7 @@
     },
     {
       "id": 19,
+      "qid": 2497396059,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -423,6 +327,7 @@
     },
     {
       "id": 20,
+      "qid": 4290383155,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -444,29 +349,8 @@
       "is_pro": false
     },
     {
-      "id": 21,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "वनस्पति कोष (Plant Cell) मा मात्र पाइने तर जन्तु कोषमा नपाइने भाग कुन हो ?",
-      "options": [
-        "कोषभित्ता (Cell Wall)",
-        "कोष झिल्ली (Cell Membrane)",
-        "न्युक्लियस (Nucleus)",
-        "माइटोकोन्ड्रिया (Mitochondria)"
-      ],
-      "option_a": "कोषभित्ता (Cell Wall)",
-      "option_b": "कोष झिल्ली (Cell Membrane)",
-      "option_c": "न्युक्लियस (Nucleus)",
-      "option_d": "माइटोकोन्ड्रिया (Mitochondria)",
-      "answer_index": 0,
-      "explanation": "कोषलाई कडा आवरण दिने सेलुलोजबाट बनेको कोषभित्ता वनस्पति कोषमा मात्र पाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 22,
+      "qid": 1556725174,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -489,6 +373,7 @@
     },
     {
       "id": 23,
+      "qid": 1368309957,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -511,6 +396,7 @@
     },
     {
       "id": 24,
+      "qid": 6431740,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -532,29 +418,8 @@
       "is_pro": false
     },
     {
-      "id": 25,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "गुरुत्वाकर्षण बल (Gravitational Force) को सिद्धान्त पत्ता लगाउने वैज्ञानिक को हुन् ?",
-      "options": [
-        "सर आइज्याक न्युटन",
-        "अल्बर्ट आइन्स्टाइन",
-        "ग्यालिलियो ग्यालिली",
-        "आर्किमिडिज"
-      ],
-      "option_a": "सर आइज्याक न्युटन",
-      "option_b": "अल्बर्ट आइन्स्टाइन",
-      "option_c": "ग्यालिलियो ग्यालिली",
-      "option_d": "आर्किमिडिज",
-      "answer_index": 0,
-      "explanation": "स्याउ भुइँमा खसेको अवलोकनपछि सर आइज्याक न्युटनले गुरुत्वाकर्षण बलको सिद्धान्त प्रतिपादन गरेका हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 26,
+      "qid": 3251245486,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -577,6 +442,7 @@
     },
     {
       "id": 27,
+      "qid": 3373178560,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -599,6 +465,7 @@
     },
     {
       "id": 28,
+      "qid": 481782908,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -620,29 +487,8 @@
       "is_pro": false
     },
     {
-      "id": 29,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "स्वस्थ मानिसको मुटु एक मिनेटमा सामान्यतया कति पटक धड्कन्छ ?",
-      "options": [
-        "७२ पटक",
-        "६० पटक",
-        "१०० पटक",
-        "१२० पटक"
-      ],
-      "option_a": "७२ पटक",
-      "option_b": "६० पटक",
-      "option_c": "१०० पटक",
-      "option_d": "१२० पटक",
-      "answer_index": 0,
-      "explanation": "एक वयस्क र स्वस्थ मानिसको मुटु आरामको अवस्थामा प्रतिमिनेट औसत ७२ पटक धड्कन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 30,
+      "qid": 1521763540,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -665,6 +511,7 @@
     },
     {
       "id": 31,
+      "qid": 1919332675,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -687,6 +534,7 @@
     },
     {
       "id": 32,
+      "qid": 1199816224,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -708,29 +556,8 @@
       "is_pro": false
     },
     {
-      "id": 33,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "१ किलोग्राम पिण्ड भएको वस्तुलाई पृथ्वीले आफ्नो केन्द्रतिर कति बलले तान्छ ?",
-      "options": [
-        "९.८ न्युटन",
-        "९८ न्युटन",
-        "०.९८ न्युटन",
-        "९८० न्युटन"
-      ],
-      "option_a": "९.८ न्युटन",
-      "option_b": "९८ न्युटन",
-      "option_c": "०.९८ न्युटन",
-      "option_d": "९८० न्युटन",
-      "answer_index": 0,
-      "explanation": "तौल (W) = m × g हुन्छ। पिण्ड १ के.जी. र पृथ्वीको गुरुत्वप्रवेग ९.८ m/s² भएकोले १ × ९.८ = ९.८ न्युटन बलले तान्छ।",
-      "is_pro": false
-    },
-    {
       "id": 34,
+      "qid": 1477229426,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -753,6 +580,7 @@
     },
     {
       "id": 35,
+      "qid": 3997553115,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -775,6 +603,7 @@
     },
     {
       "id": 36,
+      "qid": 1710064431,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -796,29 +625,8 @@
       "is_pro": false
     },
     {
-      "id": 37,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "निलो लिटमस पेपरलाई रातो बनाउने रसायनलाई के भनिन्छ ?",
-      "options": [
-        "अम्ल (Acid)",
-        "क्षार (Base)",
-        "लवण (Salt)",
-        "पानी (Water)"
-      ],
-      "option_a": "अम्ल (Acid)",
-      "option_b": "क्षार (Base)",
-      "option_c": "लवण (Salt)",
-      "option_d": "पानी (Water)",
-      "answer_index": 0,
-      "explanation": "अम्लले निलो लिटमस पेपरको रङ परिवर्तन गरी रातो बनाउँछ भने क्षारले रातोलाई निलो बनाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 38,
+      "qid": 3971766195,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -841,6 +649,7 @@
     },
     {
       "id": 39,
+      "qid": 2112994089,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -863,6 +672,7 @@
     },
     {
       "id": 40,
+      "qid": 3734723861,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -884,29 +694,8 @@
       "is_pro": false
     },
     {
-      "id": 41,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "कपर सल्फेट (Copper sulphate) को रङ कस्तो हुन्छ ?",
-      "options": [
-        "निलो",
-        "रातो",
-        "सेतो",
-        "हरियो"
-      ],
-      "option_a": "निलो",
-      "option_b": "रातो",
-      "option_c": "सेतो",
-      "option_d": "हरियो",
-      "answer_index": 0,
-      "explanation": "कपर सल्फेट (जसलाई तुथो पनि भनिन्छ) को दानादार रूपको रङ चम्किलो निलो हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 42,
+      "qid": 915550156,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -929,6 +718,7 @@
     },
     {
       "id": 43,
+      "qid": 4125650584,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -951,6 +741,7 @@
     },
     {
       "id": 44,
+      "qid": 1461329566,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -972,29 +763,8 @@
       "is_pro": false
     },
     {
-      "id": 45,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "साधारण विद्युत् चिम (Bulb) भित्र उज्यालो दिने तार (Filament) कुन धातुबाट बनेको हुन्छ ?",
-      "options": [
-        "टङ्स्टेन (Tungsten)",
-        "कपर (Copper)",
-        "आल्मुनियम (Aluminum)",
-        "फलाम (Iron)"
-      ],
-      "option_a": "टङ्स्टेन (Tungsten)",
-      "option_b": "कपर (Copper)",
-      "option_c": "आल्मुनियम (Aluminum)",
-      "option_d": "फलाम (Iron)",
-      "answer_index": 0,
-      "explanation": "टङ्स्टेन धातुको पग्लाङ्क विन्दु धेरै उच्च हुने भएकाले यसलाई चिमको फिलामेन्ट बनाउन प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 46,
+      "qid": 1654561779,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1017,6 +787,7 @@
     },
     {
       "id": 47,
+      "qid": 1886713257,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1039,6 +810,7 @@
     },
     {
       "id": 48,
+      "qid": 3001503089,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1060,29 +832,8 @@
       "is_pro": false
     },
     {
-      "id": 49,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "बिरुवाले श्वासप्रश्वास (Respiration) प्रक्रियामा हावाबाट कुन ग्यास लिन्छन् ?",
-      "options": [
-        "अक्सिजन",
-        "कार्बन डाइअक्साइड",
-        "नाइट्रोजन",
-        "हाइड्रोजन"
-      ],
-      "option_a": "अक्सिजन",
-      "option_b": "कार्बन डाइअक्साइड",
-      "option_c": "नाइट्रोजन",
-      "option_d": "हाइड्रोजन",
-      "answer_index": 0,
-      "explanation": "जीवजन्तुले जस्तै बिरुवाले पनि श्वासप्रश्वास गर्दा अक्सिजन लिने र कार्बन डाइअक्साइड फाल्ने गर्छन् (तर खाना बनाउँदा CO2 लिन्छन्)।",
-      "is_pro": false
-    },
-    {
       "id": 50,
+      "qid": 2017912546,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1105,6 +856,7 @@
     },
     {
       "id": 51,
+      "qid": 1227135531,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1127,6 +879,7 @@
     },
     {
       "id": 52,
+      "qid": 2937190705,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1148,29 +901,8 @@
       "is_pro": false
     },
     {
-      "id": 53,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "सूर्यको प्रकाश पृथ्वीसम्म आइपुग्न करिब कति समय लाग्छ ?",
-      "options": [
-        "८ मिनेट २० सेकेन्ड",
-        "८ सेकेन्ड",
-        "१ प्रकाश वर्ष",
-        "२४ घण्टा"
-      ],
-      "option_a": "८ मिनेट २० सेकेन्ड",
-      "option_b": "८ सेकेन्ड",
-      "option_c": "१ प्रकाश वर्ष",
-      "option_d": "२४ घण्टा",
-      "answer_index": 0,
-      "explanation": "सूर्य र पृथ्वीबीचको १५ करोड कि.मी. दूरी पार गर्न प्रकाशलाई करिब ५०० सेकेन्ड (८ मिनेट २० सेकेन्ड) लाग्छ।",
-      "is_pro": false
-    },
-    {
       "id": 54,
+      "qid": 1486321819,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1193,6 +925,7 @@
     },
     {
       "id": 55,
+      "qid": 1170206867,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1215,6 +948,7 @@
     },
     {
       "id": 56,
+      "qid": 3169007845,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1236,29 +970,8 @@
       "is_pro": false
     },
     {
-      "id": 57,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "विद्युतीय सेल (ब्याट्री) मा कुन शक्ति कुन शक्तिमा परिणत हुन्छ ?",
-      "options": [
-        "रासायनिक शक्ति विद्युत् शक्तिमा",
-        "विद्युत् शक्ति रासायनिक शक्तिमा",
-        "विद्युत् शक्ति प्रकाश शक्तिमा",
-        "प्रकाश शक्ति विद्युत् शक्तिमा"
-      ],
-      "option_a": "रासायनिक शक्ति विद्युत् शक्तिमा",
-      "option_b": "विद्युत् शक्ति रासायनिक शक्तिमा",
-      "option_c": "विद्युत् शक्ति प्रकाश शक्तिमा",
-      "option_d": "प्रकाश शक्ति विद्युत् शक्तिमा",
-      "answer_index": 0,
-      "explanation": "ड्राई सेल वा ब्याट्रीभित्र हुने रासायनिक प्रतिक्रियाबाट विद्युत् उत्पन्न हुने भएकाले रासायनिक शक्ति विद्युत् शक्तिमा परिणत हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 58,
+      "qid": 1333172923,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1281,6 +994,7 @@
     },
     {
       "id": 59,
+      "qid": 1381866652,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1303,6 +1017,7 @@
     },
     {
       "id": 60,
+      "qid": 2857760336,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1324,29 +1039,8 @@
       "is_pro": false
     },
     {
-      "id": 61,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "तापक्रम नाप्न प्रयोग हुने क्लिनिकल थर्मोमिटरमा कुन तरल धातुको प्रयोग गरिन्छ ?",
-      "options": [
-        "पारो (Mercury)",
-        "ब्रोमिन (Bromine)",
-        "मट्टितेल",
-        "पानी"
-      ],
-      "option_a": "पारो (Mercury)",
-      "option_b": "ब्रोमिन (Bromine)",
-      "option_c": "मट्टितेल",
-      "option_d": "पानी",
-      "answer_index": 0,
-      "explanation": "पारो एउटा तरल धातु हो जुन तापक्रम थोरै परिवर्तन हुँदा पनि समानुपातिक रूपमा फैलिने भएकाले थर्मोमिटरमा प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 62,
+      "qid": 2611786213,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1369,6 +1063,7 @@
     },
     {
       "id": 63,
+      "qid": 4252190590,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1391,6 +1086,7 @@
     },
     {
       "id": 64,
+      "qid": 2992582279,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1412,29 +1108,8 @@
       "is_pro": false
     },
     {
-      "id": 65,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "सोडियम (Na) को परमाणु सङ्ख्या (Atomic Number) कति हो ?",
-      "options": [
-        "११",
-        "१२",
-        "१०",
-        "९"
-      ],
-      "option_a": "११",
-      "option_b": "१२",
-      "option_c": "१०",
-      "option_d": "९",
-      "answer_index": 0,
-      "explanation": "आवर्त तालिकाअनुसार सोडियम ११औँ स्थानमा पर्ने तत्त्व हो, तसर्थ यसको परमाणु सङ्ख्या ११ हो।",
-      "is_pro": false
-    },
-    {
       "id": 66,
+      "qid": 850932088,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1457,6 +1132,7 @@
     },
     {
       "id": 67,
+      "qid": 2041535065,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1479,6 +1155,7 @@
     },
     {
       "id": 68,
+      "qid": 2070909739,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1500,29 +1177,8 @@
       "is_pro": false
     },
     {
-      "id": 69,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "कुन भिटामिनको कमीले मानिसमा रतन्धो (Night blindness) रोग लाग्छ ?",
-      "options": [
-        "भिटामिन ए",
-        "भिटामिन बी",
-        "भिटामिन सी",
-        "भिटामिन डी"
-      ],
-      "option_a": "भिटामिन ए",
-      "option_b": "भिटामिन बी",
-      "option_c": "भिटामिन सी",
-      "option_d": "भिटामिन डी",
-      "answer_index": 0,
-      "explanation": "हाम्रो आँखाको दृष्टिविहीनताबाट बचाउन र रतन्धो लाग्न नदिन भिटामिन 'ए' नभई नहुने तत्त्व हो।",
-      "is_pro": false
-    },
-    {
       "id": 70,
+      "qid": 2830275145,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1545,6 +1201,7 @@
     },
     {
       "id": 71,
+      "qid": 4294315484,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1567,6 +1224,7 @@
     },
     {
       "id": 72,
+      "qid": 2988933879,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1588,29 +1246,8 @@
       "is_pro": false
     },
     {
-      "id": 73,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "म्याग्नेसियम अक्साइड (MgO) बन्दा म्याग्नेसियमको संयोज्यता (Valency) कति हुन्छ ?",
-      "options": [
-        "२",
-        "१",
-        "३",
-        "४"
-      ],
-      "option_a": "२",
-      "option_b": "१",
-      "option_c": "३",
-      "option_d": "४",
-      "answer_index": 0,
-      "explanation": "अक्सिजनको संयोज्यता २ हुन्छ र MgO मा अनुपात १:१ भएकाले म्याग्नेसियमको संयोज्यता पनि २ नै हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 74,
+      "qid": 1787562410,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1633,6 +1270,7 @@
     },
     {
       "id": 75,
+      "qid": 3700086440,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1655,6 +1293,7 @@
     },
     {
       "id": 76,
+      "qid": 3729395240,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1676,29 +1315,8 @@
       "is_pro": false
     },
     {
-      "id": 77,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "कार्बन (Carbon) को सही इलेक्ट्रोनिक विन्यास (Electronic Configuration) कुन हो ?",
-      "options": [
-        "२, ४",
-        "२, ६",
-        "२, ८, ४",
-        "२, ८, २"
-      ],
-      "option_a": "२, ४",
-      "option_b": "२, ६",
-      "option_c": "२, ८, ४",
-      "option_d": "२, ८, २",
-      "answer_index": 0,
-      "explanation": "कार्बनको परमाणु सङ्ख्या ६ हो, त्यसैले पहिलो (K) कक्षमा २ र दोस्रो (L) कक्षमा ४ वटा इलेक्ट्रोन हुन्छन् (२, ४)।",
-      "is_pro": false
-    },
-    {
       "id": 78,
+      "qid": 2801923045,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1721,6 +1339,7 @@
     },
     {
       "id": 79,
+      "qid": 2180259808,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1743,6 +1362,7 @@
     },
     {
       "id": 80,
+      "qid": 865640847,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1764,29 +1384,8 @@
       "is_pro": false
     },
     {
-      "id": 81,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "यदि एउटा वस्तुको पिण्ड आधा (१/२) गरियो र गति (Velocity) दुई गुणा गरियो भने त्यसको गतिशक्ति (Kinetic Energy) कति गुणा हुन्छ ?",
-      "options": [
-        "२ गुणा",
-        "४ गुणा",
-        "परिवर्तन हुँदैन",
-        "आधा हुन्छ"
-      ],
-      "option_a": "२ गुणा",
-      "option_b": "४ गुणा",
-      "option_c": "परिवर्तन हुँदैन",
-      "option_d": "आधा हुन्छ",
-      "answer_index": 0,
-      "explanation": "KE = 1/2 mv²। नयाँ KE = 1/2 × (m/2) × (2v)² = 1/2 × (m/2) × 4v² = 2 × (1/2 mv²) = २ गुणा हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 82,
+      "qid": 2429823691,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1809,6 +1408,7 @@
     },
     {
       "id": 83,
+      "qid": 1788527048,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1831,6 +1431,7 @@
     },
     {
       "id": 84,
+      "qid": 4168125250,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1852,29 +1453,8 @@
       "is_pro": false
     },
     {
-      "id": 85,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "मायोपिया (अदूर दृष्टिदोष) हटाउन चस्मामा कुन लेन्सको प्रयोग गरिन्छ ?",
-      "options": [
-        "कन्केभ लेन्स (अवतल लेन्स)",
-        "कन्भेक्स लेन्स (उत्तल लेन्स)",
-        "बाइफोकल लेन्स",
-        "प्लेन सिसा"
-      ],
-      "option_a": "कन्केभ लेन्स (अवतल लेन्स)",
-      "option_b": "कन्भेक्स लेन्स (उत्तल लेन्स)",
-      "option_c": "बाइफोकल लेन्स",
-      "option_d": "प्लेन सिसा",
-      "answer_index": 0,
-      "explanation": "नजिकको देख्ने तर टाढाको नदेख्ने दृष्टिदोषलाई हटाउन प्रकाशलाई फैलाउने कन्केभ लेन्स प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 86,
+      "qid": 692141095,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1897,6 +1477,7 @@
     },
     {
       "id": 87,
+      "qid": 1193915747,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1919,6 +1500,7 @@
     },
     {
       "id": 88,
+      "qid": 2999494869,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1940,29 +1522,8 @@
       "is_pro": false
     },
     {
-      "id": 89,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "हाइड्रोक्लोरिक अम्ल (HCl) र सोडियम हाइड्रोअक्साइड (NaOH) बीचको प्रतिक्रियाबाट कुन लवण (Salt) बन्छ ?",
-      "options": [
-        "सोडियम क्लोराइड (NaCl)",
-        "सोडियम कार्बोनेट",
-        "क्याल्सियम क्लोराइड",
-        "पोटासियम क्लोराइड"
-      ],
-      "option_a": "सोडियम क्लोराइड (NaCl)",
-      "option_b": "सोडियम कार्बोनेट",
-      "option_c": "क्याल्सियम क्लोराइड",
-      "option_d": "पोटासियम क्लोराइड",
-      "answer_index": 0,
-      "explanation": "HCl र NaOH बीच प्रतिक्रिया हुँदा NaCl (खाने नुन) र H2O (पानी) बन्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 90,
+      "qid": 2543044269,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -1985,6 +1546,7 @@
     },
     {
       "id": 91,
+      "qid": 2073677752,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2007,6 +1569,7 @@
     },
     {
       "id": 92,
+      "qid": 1017493656,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2028,29 +1591,8 @@
       "is_pro": false
     },
     {
-      "id": 93,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "अत्यधिक सक्रिय हुने भएकाले हावा वा पानीसँगको प्रतिक्रिया रोक्न कुन धातुलाई मट्टितेलमा डुबाएर राखिन्छ ?",
-      "options": [
-        "सोडियम (Sodium)",
-        "फलाम (Iron)",
-        "सुन (Gold)",
-        "तामा (Copper)"
-      ],
-      "option_a": "सोडियम (Sodium)",
-      "option_b": "फलाम (Iron)",
-      "option_c": "सुन (Gold)",
-      "option_d": "तामा (Copper)",
-      "answer_index": 0,
-      "explanation": "सोडियम धातु हावाको अक्सिजन वा पानीसँग सम्पर्कमा आउने बित्तिकै बल्ने हुनाले यसलाई मट्टितेलमा डुबाएर सुरक्षित राखिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 94,
+      "qid": 4226494409,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2073,6 +1615,7 @@
     },
     {
       "id": 95,
+      "qid": 1208882059,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2095,6 +1638,7 @@
     },
     {
       "id": 96,
+      "qid": 2042636202,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2116,29 +1660,8 @@
       "is_pro": false
     },
     {
-      "id": 97,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "जीवहरूमा 'उत्परिवर्तन' (Mutation) भन्नाले के बुझिन्छ ?",
-      "options": [
-        "वंशानुगत गुणमा अचानक आउने स्थायी परिवर्तन",
-        "वातावरण अनुसारको रूप परिवर्तन",
-        "उमेर बढ्दै जाँदा हुने परिवर्तन",
-        "खानाको कारण हुने शारीरिक परिवर्तन"
-      ],
-      "option_a": "वंशानुगत गुणमा अचानक आउने स्थायी परिवर्तन",
-      "option_b": "वातावरण अनुसारको रूप परिवर्तन",
-      "option_c": "उमेर बढ्दै जाँदा हुने परिवर्तन",
-      "option_d": "खानाको कारण हुने शारीरिक परिवर्तन",
-      "answer_index": 0,
-      "explanation": "जीन (Gene) वा क्रोमोजोमको संरचनामा अचानक आउने स्थायी परिवर्तन जसले नयाँ गुण देखाउँछ, त्यसलाई उत्परिवर्तन भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 98,
+      "qid": 3005781516,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2161,6 +1684,7 @@
     },
     {
       "id": 99,
+      "qid": 3941674495,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2183,6 +1707,7 @@
     },
     {
       "id": 100,
+      "qid": 101534962,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2204,29 +1729,8 @@
       "is_pro": false
     },
     {
-      "id": 101,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "पानी जम्ने तापक्रम फरेनहाइट (Fahrenheit) स्केलमा कति हुन्छ ?",
-      "options": [
-        "३२°F",
-        "२१२°F",
-        "०°F",
-        "१००°F"
-      ],
-      "option_a": "३२°F",
-      "option_b": "२१२°F",
-      "option_c": "०°F",
-      "option_d": "१००°F",
-      "answer_index": 0,
-      "explanation": "सामान्य वायुमण्डलीय चापमा शुद्ध पानी ३२°F मा जम्छ र २१२°F मा उम्लन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 102,
+      "qid": 3792109310,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2249,6 +1753,7 @@
     },
     {
       "id": 103,
+      "qid": 3204497445,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2271,6 +1776,7 @@
     },
     {
       "id": 104,
+      "qid": 3511500518,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2292,29 +1798,8 @@
       "is_pro": false
     },
     {
-      "id": 105,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "विज्ञानमा 'प्रकाश वर्ष' (Light Year) ले के नाप्ने काम गर्छ ?",
-      "options": [
-        "ब्रह्माण्डीय दूरी",
-        "प्रकाशको गति",
-        "समय",
-        "तापक्रम"
-      ],
-      "option_a": "ब्रह्माण्डीय दूरी",
-      "option_b": "प्रकाशको गति",
-      "option_c": "समय",
-      "option_d": "तापक्रम",
-      "answer_index": 0,
-      "explanation": "प्रकाशले एक वर्षमा पार गर्ने दूरीलाई प्रकाश वर्ष भनिन्छ, जुन ताराहरूबीचको लामो दूरी नाप्न प्रयोग हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 106,
+      "qid": 2147279567,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2337,6 +1822,7 @@
     },
     {
       "id": 107,
+      "qid": 3519476527,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2359,6 +1845,7 @@
     },
     {
       "id": 108,
+      "qid": 2208881951,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2380,29 +1867,8 @@
       "is_pro": false
     },
     {
-      "id": 109,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "रगतको रङ रातो हुनुको मुख्य कारण कुन प्रोटिन हो ?",
-      "options": [
-        "हिमोग्लोबिन",
-        "प्लाज्मा",
-        "प्लेटलेट्स",
-        "इन्सुलिन"
-      ],
-      "option_a": "हिमोग्लोबिन",
-      "option_b": "प्लाज्मा",
-      "option_c": "प्लेटलेट्स",
-      "option_d": "इन्सुलिन",
-      "answer_index": 0,
-      "explanation": "रातो रक्तकोषमा हुने हिमोग्लोबिन (Hemoglobin) नामक लौहतत्त्वयुक्त प्रोटिनले गर्दा रगत रातो देखिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 110,
+      "qid": 3748477579,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2425,6 +1891,7 @@
     },
     {
       "id": 111,
+      "qid": 3638900089,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2447,6 +1914,7 @@
     },
     {
       "id": 112,
+      "qid": 266782432,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2468,29 +1936,8 @@
       "is_pro": false
     },
     {
-      "id": 113,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "पृथ्वीको सतहमा रहेको कुनै वस्तुमा कुन शक्ति सञ्चित भएर रहेको हुन्छ ?",
-      "options": [
-        "स्थिति शक्ति (Potential Energy)",
-        "गति शक्ति (Kinetic Energy)",
-        "चुम्बकीय शक्ति",
-        "रासायनिक शक्ति"
-      ],
-      "option_a": "स्थिति शक्ति (Potential Energy)",
-      "option_b": "गति शक्ति (Kinetic Energy)",
-      "option_c": "चुम्बकीय शक्ति",
-      "option_d": "रासायनिक शक्ति",
-      "answer_index": 0,
-      "explanation": "कुनै पनि वस्तुको उचाइ वा अवस्था (Position) को कारणले त्यसमा सञ्चित हुने शक्ति स्थिति शक्ति (Potential Energy) हो।",
-      "is_pro": false
-    },
-    {
       "id": 114,
+      "qid": 2458088823,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2513,6 +1960,7 @@
     },
     {
       "id": 115,
+      "qid": 866142051,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2535,6 +1983,7 @@
     },
     {
       "id": 116,
+      "qid": 307566047,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2556,29 +2005,8 @@
       "is_pro": false
     },
     {
-      "id": 117,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "ध्वनिको तीव्रता (Intensity of Sound) नाप्ने एकाइलाई के भनिन्छ ?",
-      "options": [
-        "डेसिबेल (Decibel)",
-        "हर्ज (Hertz)",
-        "न्युटन",
-        "जुल"
-      ],
-      "option_a": "डेसिबेल (Decibel)",
-      "option_b": "हर्ज (Hertz)",
-      "option_c": "न्युटन",
-      "option_d": "जुल",
-      "answer_index": 0,
-      "explanation": "ध्वनिको चर्कोपन वा तीव्रता नाप्ने एकाइ डेसिबेल (dB) हो, जबकि आवृत्ति (Frequency) हर्जमा नापिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 118,
+      "qid": 2530737929,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2601,6 +2029,7 @@
     },
     {
       "id": 119,
+      "qid": 2248371245,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2623,6 +2052,7 @@
     },
     {
       "id": 120,
+      "qid": 425323503,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2644,29 +2074,8 @@
       "is_pro": false
     },
     {
-      "id": 121,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "तापक्रम नाप्न प्रयोग गरिने यन्त्र कुन हो ?",
-      "options": [
-        "थर्मोमिटर",
-        "ब्यारोमिटर",
-        "ग्याल्भानोमिटर",
-        "भोल्टमिटर"
-      ],
-      "option_a": "थर्मोमिटर",
-      "option_b": "ब्यारोमिटर",
-      "option_c": "ग्याल्भानोमिटर",
-      "option_d": "भोल्टमिटर",
-      "answer_index": 0,
-      "explanation": "मानिसको शरीर वा वातावरणको तापक्रम नाप्न थर्मोमिटरको प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 122,
+      "qid": 432436299,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2689,6 +2098,7 @@
     },
     {
       "id": 123,
+      "qid": 812343367,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2711,6 +2121,7 @@
     },
     {
       "id": 124,
+      "qid": 1353249551,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2732,29 +2143,8 @@
       "is_pro": false
     },
     {
-      "id": 125,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "तरल पदार्थ तातेर ग्यास (बाफ) मा परिणत हुने प्रक्रियालाई के भनिन्छ ?",
-      "options": [
-        "वाष्पीकरण (Evaporation)",
-        "हिमीकरण (Freezing)",
-        "सङ्घनन (Condensation)",
-        "पग्लने (Melting)"
-      ],
-      "option_a": "वाष्पीकरण (Evaporation)",
-      "option_b": "हिमीकरण (Freezing)",
-      "option_c": "सङ्घनन (Condensation)",
-      "option_d": "पग्लने (Melting)",
-      "answer_index": 0,
-      "explanation": "पानी वा अन्य तरल पदार्थ तातेर वाष्प वा बाफ बन्ने प्रक्रिया वाष्पीकरण हो।",
-      "is_pro": false
-    },
-    {
       "id": 126,
+      "qid": 804543443,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2777,6 +2167,7 @@
     },
     {
       "id": 127,
+      "qid": 589715673,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2799,6 +2190,7 @@
     },
     {
       "id": 128,
+      "qid": 3007125374,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2820,29 +2212,8 @@
       "is_pro": false
     },
     {
-      "id": 129,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "चुम्बकका सजातीय ध्रुवहरू (Like Poles) नजिक ल्याउँदा के हुन्छ ?",
-      "options": [
-        "विकर्षण (Repulsion) हुन्छ",
-        "आकर्षण (Attraction) हुन्छ",
-        "टाँसिन्छन्",
-        "केही पनि हुँदैन"
-      ],
-      "option_a": "विकर्षण (Repulsion) हुन्छ",
-      "option_b": "आकर्षण (Attraction) हुन्छ",
-      "option_c": "टाँसिन्छन्",
-      "option_d": "केही पनि हुँदैन",
-      "answer_index": 0,
-      "explanation": "चुम्बकका उस्तै ध्रुवहरू (N-N वा S-S) नजिक ल्याउँदा एकअर्कालाई घचेड्ने वा विकर्षण (Repulsion) गर्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 130,
+      "qid": 2664642549,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2865,6 +2236,7 @@
     },
     {
       "id": 131,
+      "qid": 1801808260,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2887,6 +2259,7 @@
     },
     {
       "id": 132,
+      "qid": 3021627356,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2908,29 +2281,8 @@
       "is_pro": false
     },
     {
-      "id": 133,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "शुद्ध पानीको उम्लने तापक्रम केल्भिन स्केलमा कति हुन्छ ?",
-      "options": [
-        "३७३ K",
-        "२७३ K",
-        "१०० K",
-        "० K"
-      ],
-      "option_a": "३७३ K",
-      "option_b": "२७३ K",
-      "option_c": "१०० K",
-      "option_d": "० K",
-      "answer_index": 0,
-      "explanation": "पानी १००°C मा उम्लन्छ। सेल्सियसलाई केल्भिनमा लैजाँदा २७३ जोड्नुपर्छ (१०० + २७३ = ३७३ K)।",
-      "is_pro": false
-    },
-    {
       "id": 134,
+      "qid": 1899040418,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2953,6 +2305,7 @@
     },
     {
       "id": 135,
+      "qid": 39316624,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2975,6 +2328,7 @@
     },
     {
       "id": 136,
+      "qid": 1072595739,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -2996,29 +2350,8 @@
       "is_pro": false
     },
     {
-      "id": 137,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "टाढाको देख्ने तर नजिकको नदेख्ने दृष्टिदोष (Hypermetropia) हटाउन कुन लेन्स प्रयोग गरिन्छ ?",
-      "options": [
-        "उत्तल लेन्स (Convex Lens)",
-        "अवतल लेन्स (Concave Lens)",
-        "बाइफोकल लेन्स",
-        "बेलनाकार लेन्स"
-      ],
-      "option_a": "उत्तल लेन्स (Convex Lens)",
-      "option_b": "अवतल लेन्स (Concave Lens)",
-      "option_c": "बाइफोकल लेन्स",
-      "option_d": "बेलनाकार लेन्स",
-      "answer_index": 0,
-      "explanation": "टाढा दृष्टिदोषमा प्रकाशका किरणहरू रेटिनाभन्दा पछाडि केन्द्रित हुने भएकाले तिनलाई नजिक ल्याउन उत्तल (Convex) लेन्स प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 138,
+      "qid": 2657371626,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3041,6 +2374,7 @@
     },
     {
       "id": 139,
+      "qid": 787014731,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3063,6 +2397,7 @@
     },
     {
       "id": 140,
+      "qid": 678347872,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3084,29 +2419,8 @@
       "is_pro": false
     },
     {
-      "id": 141,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "अक्सिजन (O) तत्त्वको संयोज्यता (Valency) कति हुन्छ ?",
-      "options": [
-        "२",
-        "१",
-        "३",
-        "४"
-      ],
-      "option_a": "२",
-      "option_b": "१",
-      "option_c": "३",
-      "option_d": "४",
-      "answer_index": 0,
-      "explanation": "अक्सिजनको परमाणु सङ्ख्या ८ हो (२,६)। यसको बाहिरी कक्ष पूरा गर्न २ वटा इलेक्ट्रोन आवश्यक पर्ने भएकाले संयोज्यता २ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 142,
+      "qid": 1244869417,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3129,6 +2443,7 @@
     },
     {
       "id": 143,
+      "qid": 3749943597,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3151,6 +2466,7 @@
     },
     {
       "id": 144,
+      "qid": 2803694907,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3172,29 +2488,8 @@
       "is_pro": false
     },
     {
-      "id": 145,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "शुद्ध पानीको pH मान (pH Value) कति हुन्छ ?",
-      "options": [
-        "७",
-        "५",
-        "९",
-        "०"
-      ],
-      "option_a": "७",
-      "option_b": "५",
-      "option_c": "९",
-      "option_d": "०",
-      "answer_index": 0,
-      "explanation": "शुद्ध पानी न अम्ल हो न क्षार हो, यो तटस्थ (Neutral) हुन्छ। त्यसैले यसको pH मान ठ्याक्कै ७ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 146,
+      "qid": 3562422218,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3217,6 +2512,7 @@
     },
     {
       "id": 147,
+      "qid": 3715974210,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3239,6 +2535,7 @@
     },
     {
       "id": 148,
+      "qid": 2002720608,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3260,29 +2557,8 @@
       "is_pro": false
     },
     {
-      "id": 149,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "फूलको भाले अङ्ग (Anther) बाट परागकणहरू पोथी अङ्ग (Stigma) सम्म पुग्ने प्रक्रियालाई के भनिन्छ ?",
-      "options": [
-        "परागसेचन (Pollination)",
-        "निषेचन (Fertilization)",
-        "अङ्कुरण (Germination)",
-        "प्रकाश संश्लेषण"
-      ],
-      "option_a": "परागसेचन (Pollination)",
-      "option_b": "निषेचन (Fertilization)",
-      "option_c": "अङ्कुरण (Germination)",
-      "option_d": "प्रकाश संश्लेषण",
-      "answer_index": 0,
-      "explanation": "हावा, पानी वा कीराहरूको माध्यमबाट परागकणहरू स्टिग्मामा स्थानान्तरण हुने प्रक्रियालाई परागसेचन (Pollination) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 150,
+      "qid": 3659137307,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3305,6 +2581,7 @@
     },
     {
       "id": 151,
+      "qid": 1884417215,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3327,6 +2604,7 @@
     },
     {
       "id": 152,
+      "qid": 2411090232,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3348,29 +2626,8 @@
       "is_pro": false
     },
     {
-      "id": 153,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "कोषको 'पावर हाउस' (Powerhouse of the Cell) भनेर कुन अङ्गलाई चिनिन्छ ?",
-      "options": [
-        "माइटोकोन्ड्रिया (Mitochondria)",
-        "राइबोजोम",
-        "न्युक्लियस",
-        "क्लोरोप्लास्ट"
-      ],
-      "option_a": "माइटोकोन्ड्रिया (Mitochondria)",
-      "option_b": "राइबोजोम",
-      "option_c": "न्युक्लियस",
-      "option_d": "क्लोरोप्लास्ट",
-      "answer_index": 0,
-      "explanation": "माइटोकोन्ड्रियामा श्वासप्रश्वास प्रक्रिया भई शक्ति (ATP) उत्पादन हुने भएकाले यसलाई पावर हाउस भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 154,
+      "qid": 342520245,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3393,6 +2650,7 @@
     },
     {
       "id": 155,
+      "qid": 1616936713,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3415,6 +2673,7 @@
     },
     {
       "id": 156,
+      "qid": 3523814090,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3436,29 +2695,8 @@
       "is_pro": false
     },
     {
-      "id": 157,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "न्युटनको चालसम्बन्धी कुन नियमलाई 'जडत्वको नियम' (Law of Inertia) पनि भनिन्छ ?",
-      "options": [
-        "पहिलो नियम (First Law)",
-        "दोस्रो नियम",
-        "तेस्रो नियम",
-        "गुरुत्वाकर्षण नियम"
-      ],
-      "option_a": "पहिलो नियम (First Law)",
-      "option_b": "दोस्रो नियम",
-      "option_c": "तेस्रो नियम",
-      "option_d": "गुरुत्वाकर्षण नियम",
-      "answer_index": 0,
-      "explanation": "बाहिरी बल नलागेसम्म स्थिर वस्तु स्थिरमै र चालमा रहेको वस्तु चालमै रहन खोज्ने गुणलाई जडत्व भनिन्छ, जुन न्युटनको पहिलो नियम हो।",
-      "is_pro": false
-    },
-    {
       "id": 158,
+      "qid": 890100030,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3481,6 +2719,7 @@
     },
     {
       "id": 159,
+      "qid": 2937214712,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3503,6 +2742,7 @@
     },
     {
       "id": 160,
+      "qid": 2398845744,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3524,29 +2764,8 @@
       "is_pro": false
     },
     {
-      "id": 161,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "समुद्र सतहमा सामान्य वायुमण्डलीय चाप कति पारोको स्तम्भ (mmHg) सँग बराबर हुन्छ ?",
-      "options": [
-        "७६० mmHg",
-        "७६ mmHg",
-        "१०० mmHg",
-        "१००० mmHg"
-      ],
-      "option_a": "७६० mmHg",
-      "option_b": "७६ mmHg",
-      "option_c": "१०० mmHg",
-      "option_d": "१००० mmHg",
-      "answer_index": 0,
-      "explanation": "समुद्र सतहमा हावाको चाप ब्यारोमिटरमा ७६० मि.मी. (७६ से.मी.) पारोको उचाइसँग बराबर हुन्छ, जसलाई 1 atm भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 162,
+      "qid": 2727368953,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3569,6 +2788,7 @@
     },
     {
       "id": 163,
+      "qid": 689660612,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3591,6 +2811,7 @@
     },
     {
       "id": 164,
+      "qid": 4026843628,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3612,29 +2833,8 @@
       "is_pro": false
     },
     {
-      "id": 165,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "प्रकाश (Light) कुन बाटोमा हिँड्छ ?",
-      "options": [
-        "सीधा रेखामा (Straight line)",
-        "बाङ्गो बाटोमा",
-        "वृत्ताकार बाटोमा",
-        "छाल जस्तै तलमाथि"
-      ],
-      "option_a": "सीधा रेखामा (Straight line)",
-      "option_b": "बाङ्गो बाटोमा",
-      "option_c": "वृत्ताकार बाटोमा",
-      "option_d": "छाल जस्तै तलमाथि",
-      "answer_index": 0,
-      "explanation": "एउटै पारदर्शी माध्यममा प्रकाश सधैँ सीधा रेखामा (Rectilinear propagation) मात्र सञ्चालन हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 166,
+      "qid": 3523146922,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3657,6 +2857,7 @@
     },
     {
       "id": 167,
+      "qid": 790596076,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3679,6 +2880,7 @@
     },
     {
       "id": 168,
+      "qid": 3351252131,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3700,29 +2902,8 @@
       "is_pro": false
     },
     {
-      "id": 169,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "विद्युतीय हिटरमा ताप उत्पन्न गर्न प्रयोग गरिने क्वाइल (Coil) कुन मिश्रधातुबाट बनेको हुन्छ ?",
-      "options": [
-        "नाइक्रोम (Nichrome)",
-        "टङ्स्टेन",
-        "तामा",
-        "फलाम"
-      ],
-      "option_a": "नाइक्रोम (Nichrome)",
-      "option_b": "टङ्स्टेन",
-      "option_c": "तामा",
-      "option_d": "फलाम",
-      "answer_index": 0,
-      "explanation": "नाइक्रोम तारको प्रतिरोध धेरै उच्च हुने र छिट्टै नपग्लिने भएकाले हिटरमा ताप उत्पन्न गर्न यसको प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 170,
+      "qid": 969390869,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3745,6 +2926,7 @@
     },
     {
       "id": 171,
+      "qid": 1071940771,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3767,6 +2949,7 @@
     },
     {
       "id": 172,
+      "qid": 2306336090,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3788,29 +2971,8 @@
       "is_pro": false
     },
     {
-      "id": 173,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "४ ओम (Ohm) का दुईवटा प्रतिरोधकहरूलाई श्रेणीक्रम (Series Combination) मा जोड्दा कुल प्रतिरोध कति हुन्छ ?",
-      "options": [
-        "८ ओम",
-        "२ ओम",
-        "१६ ओम",
-        "१ ओम"
-      ],
-      "option_a": "८ ओम",
-      "option_b": "२ ओम",
-      "option_c": "१६ ओम",
-      "option_d": "१ ओम",
-      "answer_index": 0,
-      "explanation": "श्रेणीक्रममा जोड्दा कुल प्रतिरोध R = R1 + R2 हुन्छ। तसर्थ ४ + ४ = ८ ओम हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 174,
+      "qid": 2630983013,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3833,6 +2995,7 @@
     },
     {
       "id": 175,
+      "qid": 2804841682,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3855,6 +3018,7 @@
     },
     {
       "id": 176,
+      "qid": 4022590936,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3876,29 +3040,8 @@
       "is_pro": false
     },
     {
-      "id": 177,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "एउटा पाङ्ग्रा र बिँड (Wheel and Axle) मा पाङ्ग्राको अर्धव्यास १० सेमी र बिँडको अर्धव्यास २ सेमी छ भने यसको गति अनुपात (VR) कति हुन्छ ?",
-      "options": [
-        "५",
-        "२०",
-        "०.२",
-        "८"
-      ],
-      "option_a": "५",
-      "option_b": "२०",
-      "option_c": "०.२",
-      "option_d": "८",
-      "answer_index": 0,
-      "explanation": "पाङ्ग्रा र बिँडको गति अनुपात (VR) = पाङ्ग्राको अर्धव्यास (R) ÷ बिँडको अर्धव्यास (r) = १० ÷ २ = ५ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 178,
+      "qid": 2430201343,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3921,6 +3064,7 @@
     },
     {
       "id": 179,
+      "qid": 303211502,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3943,6 +3087,7 @@
     },
     {
       "id": 180,
+      "qid": 3421571950,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -3964,29 +3109,8 @@
       "is_pro": false
     },
     {
-      "id": 181,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "कार्बन डाइअक्साइड (CO2) को अणुभार (Molecular Weight) कति हुन्छ ? (परमाणु भार: C=१२, O=१६)",
-      "options": [
-        "४४",
-        "२८",
-        "३२",
-        "१६"
-      ],
-      "option_a": "४४",
-      "option_b": "२८",
-      "option_c": "३२",
-      "option_d": "१६",
-      "answer_index": 0,
-      "explanation": "CO2 मा १ वटा C र २ वटा O हुन्छन्। १२ + (१६ × २) = १२ + ३२ = ४४ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 182,
+      "qid": 512590194,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4009,6 +3133,7 @@
     },
     {
       "id": 183,
+      "qid": 1155266809,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4031,6 +3156,7 @@
     },
     {
       "id": 184,
+      "qid": 747296857,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4052,29 +3178,8 @@
       "is_pro": false
     },
     {
-      "id": 185,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "हावामा एउटा वस्तुको तौल ५० न्युटन छ र पानीमा डुबाएर जोख्दा ४० न्युटन छ भने पानीले दिएको उर्ध्वचाप (Upthrust) कति होला ?",
-      "options": [
-        "१० न्युटन",
-        "९० न्युटन",
-        "४५ न्युटन",
-        "५० न्युटन"
-      ],
-      "option_a": "१० न्युटन",
-      "option_b": "९० न्युटन",
-      "option_c": "४५ न्युटन",
-      "option_d": "५० न्युटन",
-      "answer_index": 0,
-      "explanation": "उर्ध्वचाप = हावामा तौल - पानीमा तौल = ५० - ४० = १० न्युटन हुन्छ, जसले वस्तुलाई हलुका बनाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 186,
+      "qid": 2709114265,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4097,6 +3202,7 @@
     },
     {
       "id": 187,
+      "qid": 1089249855,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4119,6 +3225,7 @@
     },
     {
       "id": 188,
+      "qid": 1553216611,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4140,29 +3247,8 @@
       "is_pro": false
     },
     {
-      "id": 189,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "मानव कोषमा पाइने क्रोमोजोममध्ये भाले (पुरुष) जनाउने लिङ्ग क्रोमोजोम (Sex Chromosomes) कुन हुन् ?",
-      "options": [
-        "XY",
-        "XX",
-        "YY",
-        "XO"
-      ],
-      "option_a": "XY",
-      "option_b": "XX",
-      "option_c": "YY",
-      "option_d": "XO",
-      "answer_index": 0,
-      "explanation": "पुरुषमा एउटा X र एउटा Y क्रोमोजोम (XY) हुन्छ, जबकि महिलामा दुवै X क्रोमोजोम (XX) हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 190,
+      "qid": 3863177328,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4185,6 +3271,7 @@
     },
     {
       "id": 191,
+      "qid": 3279778965,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4207,6 +3294,7 @@
     },
     {
       "id": 192,
+      "qid": 1005510709,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4228,29 +3316,8 @@
       "is_pro": false
     },
     {
-      "id": 193,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "कुनै तरल पदार्थभित्र h गहिराइमा हुने तरलको चाप (P) निकाल्ने सही सुत्र कुन हो ?",
-      "options": [
-        "P = hdg (गहिराइ×घनत्व×गुरुत्वप्रवेग)",
-        "P = F/A",
-        "P = mgh",
-        "P = 1/2 dv²"
-      ],
-      "option_a": "P = hdg (गहिराइ×घनत्व×गुरुत्वप्रवेग)",
-      "option_b": "P = F/A",
-      "option_c": "P = mgh",
-      "option_d": "P = 1/2 dv²",
-      "answer_index": 0,
-      "explanation": "तरल पदार्थको चाप त्यसको गहिराइ (h), तरलको घनत्व (d) र गुरुत्वप्रवेग (g) को गुणनफल बराबर हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 194,
+      "qid": 2783178711,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4273,6 +3340,7 @@
     },
     {
       "id": 195,
+      "qid": 3104767753,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4295,6 +3363,7 @@
     },
     {
       "id": 196,
+      "qid": 286556334,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4316,29 +3385,8 @@
       "is_pro": false
     },
     {
-      "id": 197,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "सामान्य मानव शरीरको प्रत्येक कोषमा कति जोडा क्रोमोजोम (Chromosomes) रहेका हुन्छन् ?",
-      "options": [
-        "२३ जोडा (४६ वटा)",
-        "२१ जोडा",
-        "२४ जोडा",
-        "४६ जोडा"
-      ],
-      "option_a": "२३ जोडा (४६ वटा)",
-      "option_b": "२१ जोडा",
-      "option_c": "२४ जोडा",
-      "option_d": "४६ जोडा",
-      "answer_index": 0,
-      "explanation": "मानव शरीरको प्रत्येक कोषमा २३ जोडा अर्थात् जम्मा ४६ वटा क्रोमोजोमहरू रहेका हुन्छन्, जसमा २२ जोडा अटोजोम र १ जोडा सेक्स क्रोमोजोम हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 198,
+      "qid": 2463490047,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4361,6 +3409,7 @@
     },
     {
       "id": 199,
+      "qid": 4194444305,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4383,6 +3432,7 @@
     },
     {
       "id": 200,
+      "qid": 3923389462,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4404,29 +3454,8 @@
       "is_pro": false
     },
     {
-      "id": 201,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "बल (Force) नाप्ने CGS प्रणालीको एकाइ कुन हो ?",
-      "options": [
-        "डाइन (Dyne)",
-        "न्युटन",
-        "जुल",
-        "पास्कल"
-      ],
-      "option_a": "डाइन (Dyne)",
-      "option_b": "न्युटन",
-      "option_c": "जुल",
-      "option_d": "पास्कल",
-      "answer_index": 0,
-      "explanation": "अन्तर्राष्ट्रिय प्रणालीमा बललाई न्युटनमा नापिन्छ भने CGS प्रणालीमा यसलाई डाइन (Dyne) एकाइमा नापिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 202,
+      "qid": 1836108361,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4449,6 +3478,7 @@
     },
     {
       "id": 203,
+      "qid": 3547539610,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4471,6 +3501,7 @@
     },
     {
       "id": 204,
+      "qid": 691823722,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4492,29 +3523,8 @@
       "is_pro": false
     },
     {
-      "id": 205,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "ठोस पदार्थबाट ताप सञ्चालन हुने मुख्य विधि कुन हो ?",
-      "options": [
-        "कन्डक्सन (Conduction)",
-        "कन्भेक्सन",
-        "रेडियसन",
-        "उर्ध्वपातन"
-      ],
-      "option_a": "कन्डक्सन (Conduction)",
-      "option_b": "कन्भेक्सन",
-      "option_c": "रेडियसन",
-      "option_d": "उर्ध्वपातन",
-      "answer_index": 0,
-      "explanation": "ठोस पदार्थका अणुहरूले आफ्नो स्थान नछोडीकन छेउछाउका अणुलाई ताप सार्ने विधिलाई कन्डक्सन भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 206,
+      "qid": 3283650802,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4537,6 +3547,7 @@
     },
     {
       "id": 207,
+      "qid": 1102167231,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4559,6 +3570,7 @@
     },
     {
       "id": 208,
+      "qid": 1236109042,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4580,29 +3592,8 @@
       "is_pro": false
     },
     {
-      "id": 209,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "विज्ञानमा 'पिण्ड' (Mass) नाप्ने अन्तर्राष्ट्रिय SI एकाइ के हो ?",
-      "options": [
-        "किलोग्राम (kg)",
-        "ग्राम (g)",
-        "न्युटन (N)",
-        "पाउन्ड (lb)"
-      ],
-      "option_a": "किलोग्राम (kg)",
-      "option_b": "ग्राम (g)",
-      "option_c": "न्युटन (N)",
-      "option_d": "पाउन्ड (lb)",
-      "answer_index": 0,
-      "explanation": "कुनै वस्तुमा रहेको पदार्थको परिमाणलाई पिण्ड भनिन्छ र यसको SI एकाइ किलोग्राम हो।",
-      "is_pro": false
-    },
-    {
       "id": 210,
+      "qid": 959449825,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4625,6 +3616,7 @@
     },
     {
       "id": 211,
+      "qid": 1913030480,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4647,6 +3639,7 @@
     },
     {
       "id": 212,
+      "qid": 4035897457,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4668,29 +3661,8 @@
       "is_pro": false
     },
     {
-      "id": 213,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "चुम्बकले कुन धातुलाई आफूतिर तान्छ ?",
-      "options": [
-        "फलाम (Iron)",
-        "तामा",
-        "सुन",
-        "आल्मुनियम"
-      ],
-      "option_a": "फलाम (Iron)",
-      "option_b": "तामा",
-      "option_c": "सुन",
-      "option_d": "आल्मुनियम",
-      "answer_index": 0,
-      "explanation": "चुम्बकले चुम्बकीय पदार्थहरू जस्तै फलाम, निकेल, र कोबाल्टलाई मात्र आफूतिर आकर्षित गर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 214,
+      "qid": 4221953907,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4713,6 +3685,7 @@
     },
     {
       "id": 215,
+      "qid": 703258015,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4735,6 +3708,7 @@
     },
     {
       "id": 216,
+      "qid": 2214438615,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4756,29 +3730,8 @@
       "is_pro": false
     },
     {
-      "id": 217,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "माछाले कुन अङ्गको सहायताले श्वास फेर्छ ?",
-      "options": [
-        "फुलका (Gills)",
-        "फोक्सो",
-        "छाला",
-        "मुख"
-      ],
-      "option_a": "फुलका (Gills)",
-      "option_b": "फोक्सो",
-      "option_c": "छाला",
-      "option_d": "मुख",
-      "answer_index": 0,
-      "explanation": "माछाले पानीमा घुलेको अक्सिजन लिनका लागि आफ्नो टाउकोको दायाँबायाँ रहेको फुलका (Gills) को प्रयोग गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 218,
+      "qid": 2672125703,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4801,6 +3754,7 @@
     },
     {
       "id": 219,
+      "qid": 1130964377,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4823,6 +3777,7 @@
     },
     {
       "id": 220,
+      "qid": 2138808887,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4844,29 +3799,8 @@
       "is_pro": false
     },
     {
-      "id": 221,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "हावाको चाप नाप्ने उपकरणलाई के भनिन्छ ?",
-      "options": [
-        "ब्यारोमिटर (Barometer)",
-        "थर्मोमिटर",
-        "एमिटर",
-        "एनिमोमिटर"
-      ],
-      "option_a": "ब्यारोमिटर (Barometer)",
-      "option_b": "थर्मोमिटर",
-      "option_c": "एमिटर",
-      "option_d": "एनिमोमिटर",
-      "answer_index": 0,
-      "explanation": "हावा वा वायुमण्डलले दिने चाप नाप्न ब्यारोमिटरको प्रयोग गरिन्छ (एनिमोमिटरले हावाको गति नाप्छ)।",
-      "is_pro": false
-    },
-    {
       "id": 222,
+      "qid": 3165961528,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4889,6 +3823,7 @@
     },
     {
       "id": 223,
+      "qid": 862574666,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4911,6 +3846,7 @@
     },
     {
       "id": 224,
+      "qid": 3045201766,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4932,29 +3868,8 @@
       "is_pro": false
     },
     {
-      "id": 225,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "कुनै काम गर्न सक्ने क्षमतालाई विज्ञानमा के भनिन्छ ?",
-      "options": [
-        "शक्ति (Energy)",
-        "सामर्थ्य",
-        "बल",
-        "कार्य"
-      ],
-      "option_a": "शक्ति (Energy)",
-      "option_b": "सामर्थ्य",
-      "option_c": "बल",
-      "option_d": "कार्य",
-      "answer_index": 0,
-      "explanation": "काम गर्न सक्ने क्षमता (Capacity to do work) लाई शक्ति भनिन्छ, जसको एकाइ जुल हो।",
-      "is_pro": false
-    },
-    {
       "id": 226,
+      "qid": 1656074842,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4977,6 +3892,7 @@
     },
     {
       "id": 227,
+      "qid": 2264472820,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -4999,6 +3915,7 @@
     },
     {
       "id": 228,
+      "qid": 3447202594,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5020,29 +3937,8 @@
       "is_pro": false
     },
     {
-      "id": 229,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Easy",
-      "question": "पराल वा सुक्खा घाँसबाट च्याउ उमार्न प्रयोग गरिने बीउलाई के भनिन्छ ?",
-      "options": [
-        "स्पान (Spawn)",
-        "स्पोर (Spore)",
-        "परागकण",
-        "बीज"
-      ],
-      "option_a": "स्पान (Spawn)",
-      "option_b": "स्पोर (Spore)",
-      "option_c": "परागकण",
-      "option_d": "बीज",
-      "answer_index": 0,
-      "explanation": "च्याउ खेती गर्दा प्रयोग गरिने माइसेलियम (ढुसीको जालो) सहितको बीउलाई स्पान भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 230,
+      "qid": 1423168268,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5065,6 +3961,7 @@
     },
     {
       "id": 231,
+      "qid": 3190797823,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5087,6 +3984,7 @@
     },
     {
       "id": 232,
+      "qid": 993536230,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5108,29 +4006,8 @@
       "is_pro": false
     },
     {
-      "id": 233,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "कुनै पनि वस्तुको गति (Velocity) परिवर्तनको दरलाई के भनिन्छ ?",
-      "options": [
-        "प्रवेग (Acceleration)",
-        "चाल",
-        "दूरी",
-        "बल"
-      ],
-      "option_a": "प्रवेग (Acceleration)",
-      "option_b": "चाल",
-      "option_c": "दूरी",
-      "option_d": "बल",
-      "answer_index": 0,
-      "explanation": "एकाइ समयमा हुने गतिको परिवर्तनलाई प्रवेग भनिन्छ (a = (v-u)/t), जसको एकाइ m/s² हो।",
-      "is_pro": false
-    },
-    {
       "id": 234,
+      "qid": 3703149330,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5153,6 +4030,7 @@
     },
     {
       "id": 235,
+      "qid": 4224389070,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5175,6 +4053,7 @@
     },
     {
       "id": 236,
+      "qid": 1485009331,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5196,29 +4075,8 @@
       "is_pro": false
     },
     {
-      "id": 237,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "विद्युत् परिपथमा एम्पियर मिटर (Ammeter) लाई कसरी जोडिन्छ ?",
-      "options": [
-        "श्रेणीक्रम (Series) मा",
-        "समानान्तर (Parallel) क्रममा",
-        "कुनै पनि क्रममा",
-        "अर्थिङ गरेर"
-      ],
-      "option_a": "श्रेणीक्रम (Series) मा",
-      "option_b": "समानान्तर (Parallel) क्रममा",
-      "option_c": "कुनै पनि क्रममा",
-      "option_d": "अर्थिङ गरेर",
-      "answer_index": 0,
-      "explanation": "एमिटरको प्रतिरोध धेरै कम हुने भएकाले सही करेन्ट नाप्न यसलाई परिपथमा सधैँ श्रेणीक्रममा जोडिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 238,
+      "qid": 3550037711,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5241,6 +4099,7 @@
     },
     {
       "id": 239,
+      "qid": 3967775404,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5263,6 +4122,7 @@
     },
     {
       "id": 240,
+      "qid": 2468695160,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5284,29 +4144,8 @@
       "is_pro": false
     },
     {
-      "id": 241,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "यौवन अवस्थामा पुरुषको स्वर धोद्रो बनाउने र दारीजुँगा निकाल्ने मुख्य हर्मोन कुन हो ?",
-      "options": [
-        "टेस्टोस्टेरोन (Testosterone)",
-        "एस्ट्रोजेन",
-        "प्रोजेस्टेरोन",
-        "थाइरोक्सिन"
-      ],
-      "option_a": "टेस्टोस्टेरोन (Testosterone)",
-      "option_b": "एस्ट्रोजेन",
-      "option_c": "प्रोजेस्टेरोन",
-      "option_d": "थाइरोक्सिन",
-      "answer_index": 0,
-      "explanation": "पुरुषहरूको अण्डकोष (Testis) बाट उत्पादन हुने टेस्टोस्टेरोन हर्मोनले पुरुषमा द्वितीयक लैङ्गिक गुणहरू विकास गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 242,
+      "qid": 4211395012,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5329,6 +4168,7 @@
     },
     {
       "id": 243,
+      "qid": 2416996322,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5351,6 +4191,7 @@
     },
     {
       "id": 244,
+      "qid": 1846322459,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5372,29 +4213,8 @@
       "is_pro": false
     },
     {
-      "id": 245,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "अम्ल (Acid) पानीमा घुल्दा कुन आयन दिन्छ ?",
-      "options": [
-        "हाइड्रोजन आयन (H+)",
-        "हाइड्रोक्साइड आयन (OH-)",
-        "क्लोराइड आयन",
-        "सोडियम आयन"
-      ],
-      "option_a": "हाइड्रोजन आयन (H+)",
-      "option_b": "हाइड्रोक्साइड आयन (OH-)",
-      "option_c": "क्लोराइड आयन",
-      "option_d": "सोडियम आयन",
-      "answer_index": 0,
-      "explanation": "अम्लले जलीय घोलमा H+ आयन दिन्छ भने क्षारले OH- (हाइड्रोक्साइड आयन) दिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 246,
+      "qid": 2305489833,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5417,6 +4237,7 @@
     },
     {
       "id": 247,
+      "qid": 2320511577,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5439,6 +4260,7 @@
     },
     {
       "id": 248,
+      "qid": 1222492761,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5460,29 +4282,8 @@
       "is_pro": false
     },
     {
-      "id": 249,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "तलका मध्ये कुन यन्त्र न्युटनको तेस्रो नियम (हरेक क्रियामा बराबर तर विपरीत प्रतिक्रिया हुन्छ) मा आधारित छ ?",
-      "options": [
-        "रकेट (Rocket)",
-        "साइकल",
-        "घिर्नी",
-        "विद्युतीय मोटर"
-      ],
-      "option_a": "रकेट (Rocket)",
-      "option_b": "साइकल",
-      "option_c": "घिर्नी",
-      "option_d": "विद्युतीय मोटर",
-      "answer_index": 0,
-      "explanation": "रकेटबाट निस्कने ग्यासले तलतिर बल दिन्छ (क्रिया) र त्यसको प्रतिक्रिया स्वरूप रकेट माथितिर उड्छ।",
-      "is_pro": false
-    },
-    {
       "id": 250,
+      "qid": 12619058,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5505,6 +4306,7 @@
     },
     {
       "id": 251,
+      "qid": 4188823445,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5527,6 +4329,7 @@
     },
     {
       "id": 252,
+      "qid": 1742303305,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5548,29 +4351,8 @@
       "is_pro": false
     },
     {
-      "id": 253,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "क्याल्सियम कार्बोनेट (चुनढुङ्गा) लाई तताउँदा कुन ग्यास उत्पन्न हुन्छ ?",
-      "options": [
-        "कार्बन डाइअक्साइड (CO2)",
-        "अक्सिजन",
-        "हाइड्रोजन",
-        "नाइट्रोजन"
-      ],
-      "option_a": "कार्बन डाइअक्साइड (CO2)",
-      "option_b": "अक्सिजन",
-      "option_c": "हाइड्रोजन",
-      "option_d": "नाइट्रोजन",
-      "answer_index": 0,
-      "explanation": "CaCO3 लाई तताउँदा CaO (कली चुन) र CO2 (कार्बन डाइअक्साइड) ग्यास बन्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 254,
+      "qid": 2813045273,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5593,6 +4375,7 @@
     },
     {
       "id": 255,
+      "qid": 355432543,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5615,6 +4398,7 @@
     },
     {
       "id": 256,
+      "qid": 4004630669,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5636,29 +4420,8 @@
       "is_pro": false
     },
     {
-      "id": 257,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "विद्युत् परिपथमा 'फ्युज' (Fuse) को मुख्य काम के हो ?",
-      "options": [
-        "भोल्टेज बढाउने",
-        "करेन्ट बढाउने",
-        "उपकरणलाई क्षति हुनबाट बचाउने",
-        "विद्युत् जम्मा गर्ने"
-      ],
-      "option_a": "भोल्टेज बढाउने",
-      "option_b": "करेन्ट बढाउने",
-      "option_c": "उपकरणलाई क्षति हुनबाट बचाउने",
-      "option_d": "विद्युत् जम्मा गर्ने",
-      "answer_index": 0,
-      "explanation": "परिपथमा ओभरलोड वा सर्ट सर्किट भई अत्यधिक करेन्ट बग्दा फ्युज पग्लिएर लाइन काटिन्छ र उपकरणहरू जल्नबाट बच्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 258,
+      "qid": 3047146417,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5681,6 +4444,7 @@
     },
     {
       "id": 259,
+      "qid": 1217337963,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5703,6 +4467,7 @@
     },
     {
       "id": 260,
+      "qid": 2756109738,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5724,29 +4489,8 @@
       "is_pro": false
     },
     {
-      "id": 261,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "मानिसको सामान्य रक्तचाप (Blood Pressure) कति हुनुपर्छ ?",
-      "options": [
-        "१२०/८० mmHg",
-        "१४०/९० mmHg",
-        "१००/६० mmHg",
-        "८०/१२० mmHg"
-      ],
-      "option_a": "१२०/८० mmHg",
-      "option_b": "१४०/९० mmHg",
-      "option_c": "१००/६० mmHg",
-      "option_d": "८०/१२० mmHg",
-      "answer_index": 0,
-      "explanation": "स्वस्थ वयस्क मानिसको सिस्टोलिक प्रेसर १२० र डायस्टोलिक प्रेसर ८० mmHg हुनुलाई सामान्य मानिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 262,
+      "qid": 2594891593,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5769,6 +4513,7 @@
     },
     {
       "id": 263,
+      "qid": 3568953475,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5791,6 +4536,7 @@
     },
     {
       "id": 264,
+      "qid": 2580006804,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5812,29 +4558,8 @@
       "is_pro": false
     },
     {
-      "id": 265,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "चुम्बकीय क्षेत्र (Magnetic Field) को प्रभाव कुन भागमा सबैभन्दा बढी हुन्छ ?",
-      "options": [
-        "चुम्बकको ध्रुवहरूमा (At the poles)",
-        "चुम्बकको बिचमा",
-        "चुम्बकदेखि धेरै टाढा",
-        "सबैतिर बराबर"
-      ],
-      "option_a": "चुम्बकको ध्रुवहरूमा (At the poles)",
-      "option_b": "चुम्बकको बिचमा",
-      "option_c": "चुम्बकदेखि धेरै टाढा",
-      "option_d": "सबैतिर बराबर",
-      "answer_index": 0,
-      "explanation": "चुम्बकीय बल रेखाहरू ध्रुव (Poles) मा खाँदिएर निस्कने भएकाले त्यहाँ आकर्षण बल सबैभन्दा धेरै हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 266,
+      "qid": 790475884,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5857,6 +4582,7 @@
     },
     {
       "id": 267,
+      "qid": 1255494103,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5879,6 +4605,7 @@
     },
     {
       "id": 268,
+      "qid": 2114715963,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5900,29 +4627,8 @@
       "is_pro": false
     },
     {
-      "id": 269,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Medium",
-      "question": "कुनै वस्तुलाई पानीमा डुबाउँदा किन हलुका भएको महसुस हुन्छ ?",
-      "options": [
-        "उर्ध्वचाप (Upthrust) को कारणले",
-        "गुरुत्वाकर्षण घटेकोले",
-        "पानीको तापक्रमले",
-        "वायुमण्डलीय चापले"
-      ],
-      "option_a": "उर्ध्वचाप (Upthrust) को कारणले",
-      "option_b": "गुरुत्वाकर्षण घटेकोले",
-      "option_c": "पानीको तापक्रमले",
-      "option_d": "वायुमण्डलीय चापले",
-      "answer_index": 0,
-      "explanation": "तरल पदार्थले वस्तुमा माथितिर दिने बल (उर्ध्वचाप) ले गर्दा वस्तुको तौल हावामा भन्दा तरलमा हलुका हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 270,
+      "qid": 433538486,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5945,6 +4651,7 @@
     },
     {
       "id": 271,
+      "qid": 146706829,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5967,6 +4674,7 @@
     },
     {
       "id": 272,
+      "qid": 1304233891,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -5988,29 +4696,8 @@
       "is_pro": false
     },
     {
-      "id": 273,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "सल्फ्युरिक अम्ल (H2SO4) मा हाइड्रोजन, सल्फर र अक्सिजनको परमाणु सङ्ख्याको अनुपात कति छ ?",
-      "options": [
-        "२:१:४",
-        "१:२:४",
-        "२:४:१",
-        "१:१:२"
-      ],
-      "option_a": "२:१:४",
-      "option_b": "१:२:४",
-      "option_c": "२:४:१",
-      "option_d": "१:१:२",
-      "answer_index": 0,
-      "explanation": "रासायनिक सुत्र H2SO4 मा हाइड्रोजन २, सल्फर १ र अक्सिजन ४ वटा परमाणु हुने भएकाले अनुपात २:१:४ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 274,
+      "qid": 4287588376,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6033,6 +4720,7 @@
     },
     {
       "id": 275,
+      "qid": 1538854164,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6055,6 +4743,7 @@
     },
     {
       "id": 276,
+      "qid": 545601635,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6076,29 +4765,8 @@
       "is_pro": false
     },
     {
-      "id": 277,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "यदि चन्द्रमामा कुनै अन्तरिक्ष यात्रीले ढुङ्गा खसाल्यो भने त्यो कति प्रवेग (Acceleration) का साथ तल झर्छ ?",
-      "options": [
-        "१.६३ m/s²",
-        "९.८ m/s²",
-        "शून्य",
-        "३.२ m/s²"
-      ],
-      "option_a": "१.६३ m/s²",
-      "option_b": "९.८ m/s²",
-      "option_c": "शून्य",
-      "option_d": "३.२ m/s²",
-      "answer_index": 0,
-      "explanation": "चन्द्रमाको सतहमा गुरुत्वप्रवेगको मान १.६३ m/s² भएकाले खसालिएको वस्तु सोही प्रवेगले तल झर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 278,
+      "qid": 4262205937,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6121,6 +4789,7 @@
     },
     {
       "id": 279,
+      "qid": 3652637358,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6143,6 +4812,7 @@
     },
     {
       "id": 280,
+      "qid": 1838304124,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6164,29 +4834,8 @@
       "is_pro": false
     },
     {
-      "id": 281,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "५ के.जी. पिण्ड भएको वस्तुलाई १० मिटर उचाइबाट स्वतन्त्र रूपमा खसाल्दा भुइँमा ठोक्किने बेलामा यसको गतिशक्ति (Kinetic Energy) कति हुन्छ ? (g = ९.८ m/s²)",
-      "options": [
-        "४९० जुल",
-        "५० जुल",
-        "९८ जुल",
-        "४९०० जुल"
-      ],
-      "option_a": "४९० जुल",
-      "option_b": "५० जुल",
-      "option_c": "९८ जुल",
-      "option_d": "४९०० जुल",
-      "answer_index": 0,
-      "explanation": "शक्तिको संरक्षण नियमअनुसार अधिकतम उचाइको स्थिति शक्ति (mgh) नै भुइँमा ठोक्किने बेलाको गतिशक्ति हो। तसर्थ ५ × ९.८ × १० = ४९० जुल।",
-      "is_pro": false
-    },
-    {
       "id": 282,
+      "qid": 2454817031,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6209,6 +4858,7 @@
     },
     {
       "id": 283,
+      "qid": 2436732339,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6231,6 +4881,7 @@
     },
     {
       "id": 284,
+      "qid": 2704327909,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6252,29 +4903,8 @@
       "is_pro": false
     },
     {
-      "id": 285,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "पृथ्वीमा १ के.जी. पिण्ड भएको वस्तुको तौल ९.८ न्युटन हुन्छ भने वृहस्पति ग्रह (Jupiter) मा त्यसको तौल कति होला ? (वृहस्पतिको g = २५ m/s²)",
-      "options": [
-        "२५ न्युटन",
-        "९.८ न्युटन",
-        "१ न्युटन",
-        "२५० न्युटन"
-      ],
-      "option_a": "२५ न्युटन",
-      "option_b": "९.८ न्युटन",
-      "option_c": "१ न्युटन",
-      "option_d": "२५० न्युटन",
-      "answer_index": 0,
-      "explanation": "तौल W = mg हुन्छ। पिण्ड १ के.जी. र g=२५ m/s² भएकाले वृहस्पतिमा त्यसको तौल १ × २५ = २५ न्युटन हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 286,
+      "qid": 228320354,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6297,6 +4927,7 @@
     },
     {
       "id": 287,
+      "qid": 4100577348,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6319,6 +4950,7 @@
     },
     {
       "id": 288,
+      "qid": 2615728669,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6340,29 +4972,8 @@
       "is_pro": false
     },
     {
-      "id": 289,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "एउटा मानिसले २०० न्युटन भार भएको सुटकेस बोकेर बसपार्कमा १० मिनेटसम्म एकै ठाउँमा उभियो भने उसले कति कार्य गर्‍यो ?",
-      "options": [
-        "० जुल (Zero)",
-        "२००० जुल",
-        "२० जुल",
-        "२०००० जुल"
-      ],
-      "option_a": "० जुल (Zero)",
-      "option_b": "२००० जुल",
-      "option_c": "२० जुल",
-      "option_d": "२०००० जुल",
-      "answer_index": 0,
-      "explanation": "कार्य (W) = F × d। मानिस एकै ठाउँमा उभिएको हुनाले विस्थापन (d) शून्य भयो, त्यसैले विज्ञानको नियमअनुसार कार्य पनि शून्य हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 290,
+      "qid": 926564407,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6385,6 +4996,7 @@
     },
     {
       "id": 291,
+      "qid": 3798499547,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6407,6 +5019,7 @@
     },
     {
       "id": 292,
+      "qid": 3076756596,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6428,29 +5041,8 @@
       "is_pro": false
     },
     {
-      "id": 293,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "रगतको प्लाज्मा (Plasma) मा पानीको मात्रा करिब कति प्रतिशत हुन्छ ?",
-      "options": [
-        "९०%",
-        "७०%",
-        "५०%",
-        "९९%"
-      ],
-      "option_a": "९०%",
-      "option_b": "७०%",
-      "option_c": "५०%",
-      "option_d": "९९%",
-      "answer_index": 0,
-      "explanation": "रगतको तरल भाग प्लाज्मामा करिब ९० प्रतिशत पानी हुन्छ र बाँकी १० प्रतिशतमा प्रोटिन, नुन र अन्य घुलित पदार्थहरू हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 294,
+      "qid": 4190305828,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6473,6 +5065,7 @@
     },
     {
       "id": 295,
+      "qid": 4226326010,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6495,6 +5088,7 @@
     },
     {
       "id": 296,
+      "qid": 50966747,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6516,29 +5110,8 @@
       "is_pro": false
     },
     {
-      "id": 297,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "109",
-      "sub_cat_name": "Science & Technology",
-      "level": "Hard",
-      "question": "न्युटनको गुरुत्वाकर्षणसम्बन्धी विश्वव्यापी नियम (Universal Law of Gravitation) को सुत्र कुन हो ?",
-      "options": [
-        "F = G(m1×m2)/d²",
-        "F = ma",
-        "F = mg",
-        "F = G(m1+m2)/d"
-      ],
-      "option_a": "F = G(m1×m2)/d²",
-      "option_b": "F = ma",
-      "option_c": "F = mg",
-      "option_d": "F = G(m1+m2)/d",
-      "answer_index": 0,
-      "explanation": "ब्रह्माण्डका कुनै दुई वस्तुबीचको गुरुत्वाकर्षण बल तिनीहरूको पिण्डको गुणनफलसँग समानुपातिक र दूरीको वर्गसँग व्युत्क्रमानुपातिक (F = G(m1m2)/d²) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 298,
+      "qid": 1813183521,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6561,6 +5134,7 @@
     },
     {
       "id": 299,
+      "qid": 2906505791,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
@@ -6583,6 +5157,7 @@
     },
     {
       "id": 300,
+      "qid": 908000360,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "109",
