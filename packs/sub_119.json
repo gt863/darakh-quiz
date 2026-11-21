@@ -1,32 +1,11 @@
 {
   "sub_cat_id": "119",
-  "data_version": 1794491195766,
-  "total_questions": 124,
+  "data_version": 1795279225068,
+  "total_questions": 93,
   "questions": [
     {
-      "id": 1,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Medium",
-      "question": "यदि एउटा सामानको क्रय मूल्य रु. ४६० र विक्रय मूल्य रु. ६४४ छ भने, कति प्रतिशत नाफा भयो?",
-      "options": [
-        "४०",
-        "८०",
-        "३५",
-        "३०"
-      ],
-      "option_a": "४०",
-      "option_b": "८०",
-      "option_c": "३५",
-      "option_d": "३०",
-      "answer_index": 0,
-      "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ६४४ - ४६० = १८४। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (१८४ / ४६०) x १००% = ४०%।",
-      "is_pro": false
-    },
-    {
       "id": 2,
+      "qid": 4240916914,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -49,6 +28,7 @@
     },
     {
       "id": 3,
+      "qid": 3199683396,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 3245689626,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -92,29 +73,8 @@
       "is_pro": false
     },
     {
-      "id": 5,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Hard",
-      "question": "रु. ५००० को ७% वार्षिक ब्याजदरले ३ वर्षमा हुने साधारण ब्याज कति होला?",
-      "options": [
-        "१०५०",
-        "२१००",
-        "९५०",
-        "१२५०"
-      ],
-      "option_a": "१०५०",
-      "option_b": "२१००",
-      "option_c": "९५०",
-      "option_d": "१२५०",
-      "answer_index": 0,
-      "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (५००० x ३ x ७) / १०० = रु. १०५०।",
-      "is_pro": false
-    },
-    {
       "id": 6,
+      "qid": 327856568,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -137,6 +97,7 @@
     },
     {
       "id": 7,
+      "qid": 2607159100,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -159,6 +120,7 @@
     },
     {
       "id": 8,
+      "qid": 3189179005,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -180,29 +142,8 @@
       "is_pro": false
     },
     {
-      "id": 9,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Medium",
-      "question": "समीकरण २x + २० = ४० मा x को मान कति हुन्छ?",
-      "options": [
-        "१०",
-        "२०",
-        "१२",
-        "११"
-      ],
-      "option_a": "१०",
-      "option_b": "२०",
-      "option_c": "१२",
-      "option_d": "११",
-      "answer_index": 0,
-      "explanation": "२x + २० = ४० => २x = ४० - २० => २x = २० => x = १०।",
-      "is_pro": false
-    },
-    {
       "id": 10,
+      "qid": 4257397748,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -225,6 +166,7 @@
     },
     {
       "id": 11,
+      "qid": 1398856067,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -247,6 +189,7 @@
     },
     {
       "id": 12,
+      "qid": 778156155,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -268,29 +211,8 @@
       "is_pro": false
     },
     {
-      "id": 13,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Easy",
-      "question": "एउटा आयतको लम्बाइ १५ से.मि. र चौडाइ ९ से.मि. छ भने, यसको क्षेत्रफल कति हुन्छ?",
-      "options": [
-        "१३५",
-        "४८",
-        "२४",
-        "१३०"
-      ],
-      "option_a": "१३५",
-      "option_b": "४८",
-      "option_c": "२४",
-      "option_d": "१३०",
-      "answer_index": 0,
-      "explanation": "आयतको क्षेत्रफल = लम्बाइ x चौडाइ = १५ x ९ = १३५ वर्ग से.मि.।",
-      "is_pro": false
-    },
-    {
       "id": 14,
+      "qid": 973852084,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -313,6 +235,7 @@
     },
     {
       "id": 15,
+      "qid": 3985391727,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -335,6 +258,7 @@
     },
     {
       "id": 16,
+      "qid": 4209708331,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -356,29 +280,8 @@
       "is_pro": false
     },
     {
-      "id": 17,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Hard",
-      "question": "दुई सङ्ख्याहरूको ल.स. (LCM) १७५ र म.स. (HCF) ५ छ। यदि एउटा सङ्ख्या २५ हो भने, अर्को सङ्ख्या कति होला?",
-      "options": [
-        "३५",
-        "३३",
-        "३९",
-        "७०"
-      ],
-      "option_a": "३५",
-      "option_b": "३३",
-      "option_c": "३९",
-      "option_d": "७०",
-      "answer_index": 0,
-      "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (१७५ x ५) / २५ = ३५।",
-      "is_pro": false
-    },
-    {
       "id": 18,
+      "qid": 1378003302,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -401,6 +304,7 @@
     },
     {
       "id": 19,
+      "qid": 2554854720,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -423,6 +327,7 @@
     },
     {
       "id": 20,
+      "qid": 3774506630,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -444,29 +349,8 @@
       "is_pro": false
     },
     {
-      "id": 21,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Medium",
-      "question": "यदि एउटा सामानको क्रय मूल्य रु. ३७० र विक्रय मूल्य रु. ४४४ छ भने, कति प्रतिशत नाफा भयो?",
-      "options": [
-        "२०",
-        "१५",
-        "२५",
-        "१०"
-      ],
-      "option_a": "२०",
-      "option_b": "१५",
-      "option_c": "२५",
-      "option_d": "१०",
-      "answer_index": 0,
-      "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ४४४ - ३७० = ७४। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (७४ / ३७०) x १००% = २०%।",
-      "is_pro": false
-    },
-    {
       "id": 22,
+      "qid": 2332677116,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -489,6 +373,7 @@
     },
     {
       "id": 23,
+      "qid": 3745334552,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -511,6 +396,7 @@
     },
     {
       "id": 24,
+      "qid": 2239502983,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -532,29 +418,8 @@
       "is_pro": false
     },
     {
-      "id": 101,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Medium",
-      "question": "यदि एउटा सामानको क्रय मूल्य रु. ३१० र विक्रय मूल्य रु. ४३४ छ भने, कति प्रतिशत नाफा भयो?",
-      "options": [
-        "४०",
-        "४५",
-        "३५",
-        "८०"
-      ],
-      "option_a": "४०",
-      "option_b": "४५",
-      "option_c": "३५",
-      "option_d": "८०",
-      "answer_index": 0,
-      "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ४३४ - ३१० = १२४। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (१२४ / ३१०) x १००% = ४०%।",
-      "is_pro": false
-    },
-    {
       "id": 102,
+      "qid": 4038805814,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -577,6 +442,7 @@
     },
     {
       "id": 103,
+      "qid": 3281177188,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -599,6 +465,7 @@
     },
     {
       "id": 104,
+      "qid": 1445899883,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -620,29 +487,8 @@
       "is_pro": false
     },
     {
-      "id": 105,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Hard",
-      "question": "रु. ५००० को १०% वार्षिक ब्याजदरले ४ वर्षमा हुने साधारण ब्याज कति होला?",
-      "options": [
-        "२०००",
-        "१९००",
-        "२२००",
-        "४०००"
-      ],
-      "option_a": "२०००",
-      "option_b": "१९००",
-      "option_c": "२२००",
-      "option_d": "४०००",
-      "answer_index": 0,
-      "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (५००० x ४ x १०) / १०० = रु. २०००।",
-      "is_pro": false
-    },
-    {
       "id": 106,
+      "qid": 3721480035,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -665,6 +511,7 @@
     },
     {
       "id": 107,
+      "qid": 2569560294,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -687,6 +534,7 @@
     },
     {
       "id": 108,
+      "qid": 156061812,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -708,29 +556,8 @@
       "is_pro": false
     },
     {
-      "id": 109,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Medium",
-      "question": "समीकरण ३x - ९ = १५ मा x को मान कति हुन्छ?",
-      "options": [
-        "८",
-        "११",
-        "१६",
-        "७"
-      ],
-      "option_a": "८",
-      "option_b": "११",
-      "option_c": "१६",
-      "option_d": "७",
-      "answer_index": 0,
-      "explanation": "३x - ९ = १५ => ३x = १५ + ९ => ३x = २४ => x = ८।",
-      "is_pro": false
-    },
-    {
       "id": 110,
+      "qid": 4065558269,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -753,6 +580,7 @@
     },
     {
       "id": 111,
+      "qid": 3531842592,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -775,6 +603,7 @@
     },
     {
       "id": 112,
+      "qid": 2384580203,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -796,29 +625,8 @@
       "is_pro": false
     },
     {
-      "id": 113,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Easy",
-      "question": "एउटा आयतको लम्बाइ १४ से.मि. र चौडाइ ८ से.मि. छ भने, यसको परिमिति कति हुन्छ?",
-      "options": [
-        "४४",
-        "५४",
-        "४०",
-        "२२"
-      ],
-      "option_a": "४४",
-      "option_b": "५४",
-      "option_c": "४०",
-      "option_d": "२२",
-      "answer_index": 0,
-      "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१४ + ८) = ४४ से.मि.।",
-      "is_pro": false
-    },
-    {
       "id": 114,
+      "qid": 1398585573,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -841,6 +649,7 @@
     },
     {
       "id": 115,
+      "qid": 881837841,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -863,6 +672,7 @@
     },
     {
       "id": 116,
+      "qid": 1186267704,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -884,29 +694,8 @@
       "is_pro": false
     },
     {
-      "id": 117,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Hard",
-      "question": "दुई सङ्ख्याहरूको ल.स. (LCM) ९६ र म.स. (HCF) ४ छ। यदि एउटा सङ्ख्या १२ हो भने, अर्को सङ्ख्या कति होला?",
-      "options": [
-        "३२",
-        "३६",
-        "३४",
-        "३०"
-      ],
-      "option_a": "३२",
-      "option_b": "३६",
-      "option_c": "३४",
-      "option_d": "३०",
-      "answer_index": 0,
-      "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (९६ x ४) / १२ = ३२।",
-      "is_pro": false
-    },
-    {
       "id": 118,
+      "qid": 814931144,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -929,6 +718,7 @@
     },
     {
       "id": 119,
+      "qid": 617428955,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -951,6 +741,7 @@
     },
     {
       "id": 120,
+      "qid": 4213223589,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -972,29 +763,8 @@
       "is_pro": false
     },
     {
-      "id": 121,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Medium",
-      "question": "यदि एउटा सामानको क्रय मूल्य रु. ३१० र विक्रय मूल्य रु. ४०३ छ भने, कति प्रतिशत नाफा भयो?",
-      "options": [
-        "३०",
-        "२५",
-        "६०",
-        "२०"
-      ],
-      "option_a": "३०",
-      "option_b": "२५",
-      "option_c": "६०",
-      "option_d": "२०",
-      "answer_index": 0,
-      "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ४०३ - ३१० = ९३। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (९३ / ३१०) x १००% = ३०%।",
-      "is_pro": false
-    },
-    {
       "id": 122,
+      "qid": 1192784510,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1017,6 +787,7 @@
     },
     {
       "id": 123,
+      "qid": 4231354645,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1039,6 +810,7 @@
     },
     {
       "id": 124,
+      "qid": 838056116,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1060,29 +832,8 @@
       "is_pro": false
     },
     {
-      "id": 125,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Hard",
-      "question": "रु. ४००० को ७% वार्षिक ब्याजदरले ३ वर्षमा हुने साधारण ब्याज कति होला?",
-      "options": [
-        "८४०",
-        "१०४०",
-        "७४०",
-        "१६८०"
-      ],
-      "option_a": "८४०",
-      "option_b": "१०४०",
-      "option_c": "७४०",
-      "option_d": "१६८०",
-      "answer_index": 0,
-      "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (४००० x ३ x ७) / १०० = रु. ८४०।",
-      "is_pro": false
-    },
-    {
       "id": 126,
+      "qid": 4034574343,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1105,6 +856,7 @@
     },
     {
       "id": 127,
+      "qid": 4020604828,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1127,6 +879,7 @@
     },
     {
       "id": 128,
+      "qid": 1796207038,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1148,29 +901,8 @@
       "is_pro": false
     },
     {
-      "id": 129,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Medium",
-      "question": "समीकरण ३x - २१ = -१२ मा x को मान कति हुन्छ?",
-      "options": [
-        "३",
-        "६",
-        "२",
-        "४"
-      ],
-      "option_a": "३",
-      "option_b": "६",
-      "option_c": "२",
-      "option_d": "४",
-      "answer_index": 0,
-      "explanation": "३x - २१ = -१२ => ३x = -१२ + २१ => ३x = ९ => x = ३।",
-      "is_pro": false
-    },
-    {
       "id": 130,
+      "qid": 3179314099,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1193,6 +925,7 @@
     },
     {
       "id": 131,
+      "qid": 3525654753,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1215,6 +948,7 @@
     },
     {
       "id": 132,
+      "qid": 3509161839,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1236,29 +970,8 @@
       "is_pro": false
     },
     {
-      "id": 133,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Easy",
-      "question": "एउटा आयतको लम्बाइ १९ से.मि. र चौडाइ ५ से.मि. छ भने, यसको परिमिति कति हुन्छ?",
-      "options": [
-        "४८",
-        "२४",
-        "९५",
-        "४४"
-      ],
-      "option_a": "४८",
-      "option_b": "२४",
-      "option_c": "९५",
-      "option_d": "४४",
-      "answer_index": 0,
-      "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१९ + ५) = ४८ से.मि.।",
-      "is_pro": false
-    },
-    {
       "id": 134,
+      "qid": 3327609528,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1281,6 +994,7 @@
     },
     {
       "id": 135,
+      "qid": 3544626877,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1303,6 +1017,7 @@
     },
     {
       "id": 136,
+      "qid": 500126245,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1324,29 +1039,8 @@
       "is_pro": false
     },
     {
-      "id": 137,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Hard",
-      "question": "दुई सङ्ख्याहरूको ल.स. (LCM) ६४ र म.स. (HCF) ४ छ। यदि एउटा सङ्ख्या ८ हो भने, अर्को सङ्ख्या कति होला?",
-      "options": [
-        "३२",
-        "३६",
-        "३४",
-        "३०"
-      ],
-      "option_a": "३२",
-      "option_b": "३६",
-      "option_c": "३४",
-      "option_d": "३०",
-      "answer_index": 0,
-      "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (६४ x ४) / ८ = ३२।",
-      "is_pro": false
-    },
-    {
       "id": 138,
+      "qid": 381806421,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1369,6 +1063,7 @@
     },
     {
       "id": 139,
+      "qid": 2296011165,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1391,6 +1086,7 @@
     },
     {
       "id": 140,
+      "qid": 1743860219,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1412,29 +1108,8 @@
       "is_pro": false
     },
     {
-      "id": 141,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Medium",
-      "question": "यदि एउटा सामानको क्रय मूल्य रु. ३८० र विक्रय मूल्य रु. ५७० छ भने, कति प्रतिशत नाफा भयो?",
-      "options": [
-        "५०",
-        "४०",
-        "६०",
-        "४५"
-      ],
-      "option_a": "५०",
-      "option_b": "४०",
-      "option_c": "६०",
-      "option_d": "४५",
-      "answer_index": 0,
-      "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ५७० - ३८० = १९०। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (१९० / ३८०) x १००% = ५०%।",
-      "is_pro": false
-    },
-    {
       "id": 142,
+      "qid": 2111854429,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1457,6 +1132,7 @@
     },
     {
       "id": 143,
+      "qid": 2336681480,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1479,6 +1155,7 @@
     },
     {
       "id": 144,
+      "qid": 3600687672,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1500,29 +1177,8 @@
       "is_pro": false
     },
     {
-      "id": 145,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Hard",
-      "question": "रु. ४००० को ५% वार्षिक ब्याजदरले ३ वर्षमा हुने साधारण ब्याज कति होला?",
-      "options": [
-        "६००",
-        "१२००",
-        "८००",
-        "५००"
-      ],
-      "option_a": "६००",
-      "option_b": "१२००",
-      "option_c": "८००",
-      "option_d": "५००",
-      "answer_index": 0,
-      "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (४००० x ३ x ५) / १०० = रु. ६००।",
-      "is_pro": false
-    },
-    {
       "id": 146,
+      "qid": 268054778,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1545,6 +1201,7 @@
     },
     {
       "id": 147,
+      "qid": 1413293955,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1567,6 +1224,7 @@
     },
     {
       "id": 148,
+      "qid": 448668613,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1588,29 +1246,8 @@
       "is_pro": false
     },
     {
-      "id": 149,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Medium",
-      "question": "समीकरण ३x - २१ = -१२ मा x को मान कति हुन्छ?",
-      "options": [
-        "३",
-        "४",
-        "२",
-        "६"
-      ],
-      "option_a": "३",
-      "option_b": "४",
-      "option_c": "२",
-      "option_d": "६",
-      "answer_index": 0,
-      "explanation": "३x - २१ = -१२ => ३x = -१२ + २१ => ३x = ९ => x = ३।",
-      "is_pro": false
-    },
-    {
       "id": 150,
+      "qid": 1952747796,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1633,6 +1270,7 @@
     },
     {
       "id": 151,
+      "qid": 1236879079,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1655,6 +1293,7 @@
     },
     {
       "id": 152,
+      "qid": 3994909352,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1676,29 +1315,8 @@
       "is_pro": false
     },
     {
-      "id": 153,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Easy",
-      "question": "एउटा आयतको लम्बाइ २० से.मि. र चौडाइ ७ से.मि. छ भने, यसको परिमिति कति हुन्छ?",
-      "options": [
-        "५४",
-        "५०",
-        "६४",
-        "१४०"
-      ],
-      "option_a": "५४",
-      "option_b": "५०",
-      "option_c": "६४",
-      "option_d": "१४०",
-      "answer_index": 0,
-      "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (२० + ७) = ५४ से.मि.।",
-      "is_pro": false
-    },
-    {
       "id": 154,
+      "qid": 257049303,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1721,6 +1339,7 @@
     },
     {
       "id": 155,
+      "qid": 1755298456,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1743,6 +1362,7 @@
     },
     {
       "id": 156,
+      "qid": 4140686884,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1764,29 +1384,8 @@
       "is_pro": false
     },
     {
-      "id": 157,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Hard",
-      "question": "दुई सङ्ख्याहरूको ल.स. (LCM) ८० र म.स. (HCF) ५ छ। यदि एउटा सङ्ख्या १० हो भने, अर्को सङ्ख्या कति होला?",
-      "options": [
-        "४०",
-        "४२",
-        "८०",
-        "४४"
-      ],
-      "option_a": "४०",
-      "option_b": "४२",
-      "option_c": "८०",
-      "option_d": "४४",
-      "answer_index": 0,
-      "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (८० x ५) / १० = ४०।",
-      "is_pro": false
-    },
-    {
       "id": 158,
+      "qid": 2336681480,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1809,6 +1408,7 @@
     },
     {
       "id": 159,
+      "qid": 1724674698,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1831,6 +1431,7 @@
     },
     {
       "id": 160,
+      "qid": 1062105166,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1852,29 +1453,8 @@
       "is_pro": false
     },
     {
-      "id": 161,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Medium",
-      "question": "यदि एउटा सामानको क्रय मूल्य रु. ३०० र विक्रय मूल्य रु. ३९० छ भने, कति प्रतिशत नाफा भयो?",
-      "options": [
-        "३०",
-        "२०",
-        "६०",
-        "३५"
-      ],
-      "option_a": "३०",
-      "option_b": "२०",
-      "option_c": "६०",
-      "option_d": "३५",
-      "answer_index": 0,
-      "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ३९० - ३०० = ९०। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (९० / ३००) x १००% = ३०%।",
-      "is_pro": false
-    },
-    {
       "id": 162,
+      "qid": 2670939433,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1897,6 +1477,7 @@
     },
     {
       "id": 163,
+      "qid": 2630192031,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1919,6 +1500,7 @@
     },
     {
       "id": 164,
+      "qid": 2241355190,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1940,29 +1522,8 @@
       "is_pro": false
     },
     {
-      "id": 165,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Hard",
-      "question": "रु. १०००० को ११% वार्षिक ब्याजदरले ५ वर्षमा हुने साधारण ब्याज कति होला?",
-      "options": [
-        "५५००",
-        "११०००",
-        "५६००",
-        "५४००"
-      ],
-      "option_a": "५५००",
-      "option_b": "११०००",
-      "option_c": "५६००",
-      "option_d": "५४००",
-      "answer_index": 0,
-      "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (१०००० x ५ x ११) / १०० = रु. ५५००।",
-      "is_pro": false
-    },
-    {
       "id": 166,
+      "qid": 1039639537,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -1985,6 +1546,7 @@
     },
     {
       "id": 167,
+      "qid": 721955492,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2007,6 +1569,7 @@
     },
     {
       "id": 168,
+      "qid": 3154267666,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2028,29 +1591,8 @@
       "is_pro": false
     },
     {
-      "id": 169,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Medium",
-      "question": "समीकरण ३x - १८ = ० मा x को मान कति हुन्छ?",
-      "options": [
-        "६",
-        "९",
-        "१२",
-        "५"
-      ],
-      "option_a": "६",
-      "option_b": "९",
-      "option_c": "१२",
-      "option_d": "५",
-      "answer_index": 0,
-      "explanation": "३x - १८ = ० => ३x = ० + १८ => ३x = १८ => x = ६।",
-      "is_pro": false
-    },
-    {
       "id": 170,
+      "qid": 1643432004,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2073,6 +1615,7 @@
     },
     {
       "id": 171,
+      "qid": 1841400014,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2095,6 +1638,7 @@
     },
     {
       "id": 172,
+      "qid": 3082569047,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2116,29 +1660,8 @@
       "is_pro": false
     },
     {
-      "id": 173,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Easy",
-      "question": "एउटा आयतको लम्बाइ १० से.मि. र चौडाइ ९ से.मि. छ भने, यसको परिमिति कति हुन्छ?",
-      "options": [
-        "३८",
-        "३४",
-        "४८",
-        "१९"
-      ],
-      "option_a": "३८",
-      "option_b": "३४",
-      "option_c": "४८",
-      "option_d": "१९",
-      "answer_index": 0,
-      "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१० + ९) = ३८ से.मि.।",
-      "is_pro": false
-    },
-    {
       "id": 174,
+      "qid": 257049303,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2161,6 +1684,7 @@
     },
     {
       "id": 175,
+      "qid": 284093753,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2183,6 +1707,7 @@
     },
     {
       "id": 176,
+      "qid": 3265203958,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2204,29 +1729,8 @@
       "is_pro": false
     },
     {
-      "id": 177,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Hard",
-      "question": "दुई सङ्ख्याहरूको ल.स. (LCM) ७२ र म.स. (HCF) ३ छ। यदि एउटा सङ्ख्या ९ हो भने, अर्को सङ्ख्या कति होला?",
-      "options": [
-        "२४",
-        "२६",
-        "४८",
-        "२८"
-      ],
-      "option_a": "२४",
-      "option_b": "२६",
-      "option_c": "४८",
-      "option_d": "२८",
-      "answer_index": 0,
-      "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (७२ x ३) / ९ = २४।",
-      "is_pro": false
-    },
-    {
       "id": 178,
+      "qid": 970820564,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2249,6 +1753,7 @@
     },
     {
       "id": 179,
+      "qid": 681850527,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2271,6 +1776,7 @@
     },
     {
       "id": 180,
+      "qid": 2158548269,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2292,29 +1798,8 @@
       "is_pro": false
     },
     {
-      "id": 181,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Medium",
-      "question": "यदि एउटा सामानको क्रय मूल्य रु. ३४० र विक्रय मूल्य रु. ३७४ छ भने, कति प्रतिशत नाफा भयो?",
-      "options": [
-        "१०",
-        "२०",
-        "५",
-        "०"
-      ],
-      "option_a": "१०",
-      "option_b": "२०",
-      "option_c": "५",
-      "option_d": "०",
-      "answer_index": 0,
-      "explanation": "नाफा = विक्रय मूल्य - क्रय मूल्य = ३७४ - ३४० = ३४। प्रतिशत नाफा = (नाफा / क्रय मूल्य) x १००% = (३४ / ३४०) x १००% = १०%।",
-      "is_pro": false
-    },
-    {
       "id": 182,
+      "qid": 2384580203,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2337,6 +1822,7 @@
     },
     {
       "id": 183,
+      "qid": 1553424766,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2359,6 +1845,7 @@
     },
     {
       "id": 184,
+      "qid": 1976862378,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2380,29 +1867,8 @@
       "is_pro": false
     },
     {
-      "id": 185,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Hard",
-      "question": "रु. १०००० को ५% वार्षिक ब्याजदरले ४ वर्षमा हुने साधारण ब्याज कति होला?",
-      "options": [
-        "२०००",
-        "१९००",
-        "२१००",
-        "२२००"
-      ],
-      "option_a": "२०००",
-      "option_b": "१९००",
-      "option_c": "२१००",
-      "option_d": "२२००",
-      "answer_index": 0,
-      "explanation": "साधारण ब्याज (I) = (P x T x R) / १०० = (१०००० x ४ x ५) / १०० = रु. २०००।",
-      "is_pro": false
-    },
-    {
       "id": 186,
+      "qid": 1497890712,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2425,6 +1891,7 @@
     },
     {
       "id": 187,
+      "qid": 4020604828,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2447,6 +1914,7 @@
     },
     {
       "id": 188,
+      "qid": 716383916,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2468,29 +1936,8 @@
       "is_pro": false
     },
     {
-      "id": 189,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Medium",
-      "question": "समीकरण ३x - १८ = ३ मा x को मान कति हुन्छ?",
-      "options": [
-        "७",
-        "८",
-        "१०",
-        "१४"
-      ],
-      "option_a": "७",
-      "option_b": "८",
-      "option_c": "१०",
-      "option_d": "१४",
-      "answer_index": 0,
-      "explanation": "३x - १८ = ३ => ३x = ३ + १८ => ३x = २१ => x = ७।",
-      "is_pro": false
-    },
-    {
       "id": 190,
+      "qid": 2761678401,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2513,6 +1960,7 @@
     },
     {
       "id": 191,
+      "qid": 3342475366,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2535,6 +1983,7 @@
     },
     {
       "id": 192,
+      "qid": 3143832224,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2556,29 +2005,8 @@
       "is_pro": false
     },
     {
-      "id": 193,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Easy",
-      "question": "एउटा आयतको लम्बाइ १३ से.मि. र चौडाइ ५ से.मि. छ भने, यसको परिमिति कति हुन्छ?",
-      "options": [
-        "३६",
-        "४६",
-        "३२",
-        "१८"
-      ],
-      "option_a": "३६",
-      "option_b": "४६",
-      "option_c": "३२",
-      "option_d": "१८",
-      "answer_index": 0,
-      "explanation": "आयतको परिमिति = २ x (लम्बाइ + चौडाइ) = २ x (१३ + ५) = ३६ से.मि.।",
-      "is_pro": false
-    },
-    {
       "id": 194,
+      "qid": 2288891411,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2601,6 +2029,7 @@
     },
     {
       "id": 195,
+      "qid": 2497896422,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2623,6 +2052,7 @@
     },
     {
       "id": 196,
+      "qid": 3584511688,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2644,29 +2074,8 @@
       "is_pro": false
     },
     {
-      "id": 197,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "119",
-      "sub_cat_name": "Chemistry",
-      "level": "Hard",
-      "question": "दुई सङ्ख्याहरूको ल.स. (LCM) ७० र म.स. (HCF) २ छ। यदि एउटा सङ्ख्या १० हो भने, अर्को सङ्ख्या कति होला?",
-      "options": [
-        "१४",
-        "१८",
-        "१२",
-        "२८"
-      ],
-      "option_a": "१४",
-      "option_b": "१८",
-      "option_c": "१२",
-      "option_d": "२८",
-      "answer_index": 0,
-      "explanation": "हामीलाई थाहा छ, पहिलो सङ्ख्या x दोस्रो सङ्ख्या = ल.स. x म.स.। त्यसैले, दोस्रो सङ्ख्या = (७० x २) / १० = १४।",
-      "is_pro": false
-    },
-    {
       "id": 198,
+      "qid": 2768777251,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2689,6 +2098,7 @@
     },
     {
       "id": 199,
+      "qid": 513988807,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
@@ -2711,6 +2121,7 @@
     },
     {
       "id": 200,
+      "qid": 4147520399,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "119",
