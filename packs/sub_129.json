@@ -1,10 +1,11 @@
 {
   "sub_cat_id": "129",
-  "data_version": 1794491195766,
-  "total_questions": 272,
+  "data_version": 1795279225068,
+  "total_questions": 202,
   "questions": [
     {
       "id": 1,
+      "qid": 558781116,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -26,29 +27,8 @@
       "is_pro": false
     },
     {
-      "id": 2,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "नेपालमा सर्वप्रथम सरकारी बजेट कहिले प्रस्तुत गरिएको थियो?",
-      "options": [
-        "वि.सं. २००८ माघ २१",
-        "वि.सं. २००७ फागुन ७",
-        "वि.सं. २००९ असार १",
-        "वि.सं. २०१३ भाद्र २२"
-      ],
-      "option_a": "वि.सं. २००८ माघ २१",
-      "option_b": "वि.सं. २००७ फागुन ७",
-      "option_c": "वि.सं. २००९ असार १",
-      "option_d": "वि.सं. २०१३ भाद्र २२",
-      "answer_index": 0,
-      "explanation": "नेपालको इतिहासमा पहिलो पटक वि.सं. २००८ माघ २१ गते तत्कालीन अर्थमन्त्री सुवर्ण शमशेर राणाले ५ करोड २५ लाख २९ हजार रुपैयाँको बजेट प्रस्तुत गरेका थिए।",
-      "is_pro": false
-    },
-    {
       "id": 3,
+      "qid": 3615871104,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 3725203522,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -93,6 +74,7 @@
     },
     {
       "id": 5,
+      "qid": 558781116,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -114,29 +96,8 @@
       "is_pro": false
     },
     {
-      "id": 6,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "नेपालमा सर्वप्रथम सरकारी बजेट कहिले प्रस्तुत गरिएको थियो?",
-      "options": [
-        "वि.सं. २००८ माघ २१",
-        "वि.सं. २००७ फागुन ७",
-        "वि.सं. २००९ असार १",
-        "वि.सं. २०१३ भाद्र २२"
-      ],
-      "option_a": "वि.सं. २००८ माघ २१",
-      "option_b": "वि.सं. २००७ फागुन ७",
-      "option_c": "वि.सं. २००९ असार १",
-      "option_d": "वि.सं. २०१३ भाद्र २२",
-      "answer_index": 0,
-      "explanation": "नेपालको इतिहासमा पहिलो पटक वि.सं. २००८ माघ २१ गते तत्कालीन अर्थमन्त्री सुवर्ण शमशेर राणाले ५ करोड २५ लाख २९ हजार रुपैयाँको बजेट प्रस्तुत गरेका थिए।",
-      "is_pro": false
-    },
-    {
       "id": 7,
+      "qid": 3615871104,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -159,6 +120,7 @@
     },
     {
       "id": 8,
+      "qid": 3725203522,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -181,6 +143,7 @@
     },
     {
       "id": 9,
+      "qid": 1247402067,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -203,6 +166,7 @@
     },
     {
       "id": 10,
+      "qid": 2271602623,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -224,29 +188,8 @@
       "is_pro": false
     },
     {
-      "id": 11,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "बजेट (Budget) शब्दको उत्पत्ति कुन भाषाको 'Bougette' (बौगेट) शब्दबाट भएको हो?",
-      "options": [
-        "फ्रेन्च र ल्याटिन",
-        "जर्मन",
-        "स्पेनिस",
-        "ग्रीक"
-      ],
-      "option_a": "फ्रेन्च र ल्याटिन",
-      "option_b": "जर्मन",
-      "option_c": "स्पेनिस",
-      "option_d": "ग्रीक",
-      "answer_index": 0,
-      "explanation": "अंग्रेजी शब्द 'Budget' पुरानो फ्रेन्च शब्द 'Bougette' (र ल्याटिन शब्द 'Bulga') बाट उत्पत्ति भएको हो, जसको शाब्दिक अर्थ 'छालाको थैली' (Leather Bag) भन्ने हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 12,
+      "qid": 2506760008,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -269,6 +212,7 @@
     },
     {
       "id": 13,
+      "qid": 1281758603,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -291,6 +235,7 @@
     },
     {
       "id": 14,
+      "qid": 209384099,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -312,29 +257,8 @@
       "is_pro": false
     },
     {
-      "id": 15,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Hard",
-      "question": "नेपालको संविधानको धारा १२० बमोजिम विनियोजन ऐन विचाराधीन रहेको अवस्थामा आगामी आर्थिक वर्षका लागि अनुमान गरिएको व्ययको कति अंश नबढ्ने गरी पेश्कीका रूपमा खर्च गर्ने अधिकार (पेश्की खर्च विधेयक) संघीय संसदमा पेश गर्न सकिन्छ?",
-      "options": [
-        "एक तिहाइ (१/३) अंश",
-        "एक चौथाइ (१/४) अंश",
-        "आधा (१/२) अंश",
-        "दुई तिहाइ (२/३) अंश"
-      ],
-      "option_a": "एक तिहाइ (१/३) अंश",
-      "option_b": "एक चौथाइ (१/४) अंश",
-      "option_c": "आधा (१/२) अंश",
-      "option_d": "दुई तिहाइ (२/३) अंश",
-      "answer_index": 0,
-      "explanation": "नेपालको संविधानको धारा १२० अनुसार विनियोजन विधेयक विचाराधीन रहेको अवस्थामा आर्थिक वर्षका लागि अनुमान गरिएको व्ययको एक तिहाइ (१/३) भन्दा बढी नहुने गरी पेश्की खर्च विधेयक मार्फत खर्च गर्न सकिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 16,
+      "qid": 2143478958,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -357,6 +281,7 @@
     },
     {
       "id": 17,
+      "qid": 264483491,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -379,6 +304,7 @@
     },
     {
       "id": 18,
+      "qid": 2068114726,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -400,29 +326,8 @@
       "is_pro": false
     },
     {
-      "id": 19,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "स्थानीय तहको बजेट तर्जुमा, लेखांकन र प्रतिवेदनका लागि प्रयोग गरिने विद्युतीय प्रणाली कुन हो?",
-      "options": [
-        "SuTRA",
-        "LMBIS",
-        "CGAS",
-        "RMIS"
-      ],
-      "option_a": "SuTRA",
-      "option_b": "LMBIS",
-      "option_c": "CGAS",
-      "option_d": "RMIS",
-      "answer_index": 0,
-      "explanation": "स्थानीय तहको योजना, बजेट तथा लेखांकन प्रणालीलाई व्यवस्थित गर्न महालेखा नियन्त्रक कार्यालयले विकास गरेको प्रणाली 'SuTRA' (Sub-national Treasury Regulatory Application - सूत्र) हो।",
-      "is_pro": false
-    },
-    {
       "id": 20,
+      "qid": 465368558,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -445,6 +350,7 @@
     },
     {
       "id": 21,
+      "qid": 558781116,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -466,29 +372,8 @@
       "is_pro": false
     },
     {
-      "id": 22,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "नेपालमा सर्वप्रथम सरकारी बजेट कहिले प्रस्तुत गरिएको थियो?",
-      "options": [
-        "वि.सं. २००८ माघ २१",
-        "वि.सं. २००७ फागुन ७",
-        "वि.सं. २००९ असार १",
-        "वि.सं. २०१३ भाद्र २२"
-      ],
-      "option_a": "वि.सं. २००८ माघ २१",
-      "option_b": "वि.सं. २००७ फागुन ७",
-      "option_c": "वि.सं. २००९ असार १",
-      "option_d": "वि.सं. २०१३ भाद्र २२",
-      "answer_index": 0,
-      "explanation": "नेपालको इतिहासमा पहिलो पटक वि.सं. २००८ माघ २१ गते तत्कालीन अर्थमन्त्री सुवर्ण शमशेर राणाले ५ करोड २५ लाख २९ हजार रुपैयाँको बजेट प्रस्तुत गरेका थिए।",
-      "is_pro": false
-    },
-    {
       "id": 23,
+      "qid": 3615871104,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -511,6 +396,7 @@
     },
     {
       "id": 24,
+      "qid": 3725203522,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -533,6 +419,7 @@
     },
     {
       "id": 25,
+      "qid": 1247402067,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -555,6 +442,7 @@
     },
     {
       "id": 26,
+      "qid": 1809857727,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -576,29 +464,8 @@
       "is_pro": false
     },
     {
-      "id": 27,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "बजेट (Budget) शब्दको उत्पत्ति कुन भाषाको 'Bougette' (बौगेट) शब्दबाट भएको हो?",
-      "options": [
-        "फ्रेन्च र ल्याटिन",
-        "जर्मन",
-        "स्पेनिस",
-        "ग्रीक"
-      ],
-      "option_a": "फ्रेन्च र ल्याटिन",
-      "option_b": "जर्मन",
-      "option_c": "स्पेनिस",
-      "option_d": "ग्रीक",
-      "answer_index": 0,
-      "explanation": "अंग्रेजी शब्द 'Budget' पुरानो फ्रेन्च शब्द 'Bougette' (र ल्याटिन शब्द 'Bulga') बाट उत्पत्ति भएको हो, जसको शाब्दिक अर्थ 'छालाको थैली' (Leather Bag) भन्ने हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 28,
+      "qid": 2506760008,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -621,6 +488,7 @@
     },
     {
       "id": 29,
+      "qid": 1281758603,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -643,6 +511,7 @@
     },
     {
       "id": 30,
+      "qid": 209384099,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -664,29 +533,8 @@
       "is_pro": false
     },
     {
-      "id": 31,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Hard",
-      "question": "नेपालको संविधानको धारा १२० बमोजिम विनियोजन ऐन विचाराधीन रहेको अवस्थामा आगामी आर्थिक वर्षका लागि अनुमान गरिएको व्ययको कति अंश नबढ्ने गरी पेश्कीका रूपमा खर्च गर्ने अधिकार (पेश्की खर्च विधेयक) संघीय संसदमा पेश गर्न सकिन्छ?",
-      "options": [
-        "एक तिहाइ (१/३) अंश",
-        "एक चौथाइ (१/४) अंश",
-        "आधा (१/२) अंश",
-        "दुई तिहाइ (२/३) अंश"
-      ],
-      "option_a": "एक तिहाइ (१/३) अंश",
-      "option_b": "एक चौथाइ (१/४) अंश",
-      "option_c": "आधा (१/२) अंश",
-      "option_d": "दुई तिहाइ (२/३) अंश",
-      "answer_index": 0,
-      "explanation": "नेपालको संविधानको धारा १२० अनुसार विनियोजन विधेयक विचाराधीन रहेको अवस्थामा आर्थिक वर्षका लागि अनुमान गरिएको व्ययको एक तिहाइ (१/३) भन्दा बढी नहुने गरी पेश्की खर्च विधेयक मार्फत खर्च गर्न सकिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 32,
+      "qid": 2143478958,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -709,6 +557,7 @@
     },
     {
       "id": 33,
+      "qid": 264483491,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -731,6 +580,7 @@
     },
     {
       "id": 34,
+      "qid": 2068114726,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -752,29 +602,8 @@
       "is_pro": false
     },
     {
-      "id": 35,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "स्थानीय तहको बजेट तर्जुमा, लेखांकन र प्रतिवेदनका लागि प्रयोग गरिने विद्युतीय प्रणाली कुन हो?",
-      "options": [
-        "SuTRA",
-        "LMBIS",
-        "CGAS",
-        "RMIS"
-      ],
-      "option_a": "SuTRA",
-      "option_b": "LMBIS",
-      "option_c": "CGAS",
-      "option_d": "RMIS",
-      "answer_index": 0,
-      "explanation": "स्थानीय तहको योजना, बजेट तथा लेखांकन प्रणालीलाई व्यवस्थित गर्न महालेखा नियन्त्रक कार्यालयले विकास गरेको प्रणाली 'SuTRA' (Sub-national Treasury Regulatory Application - सूत्र) हो।",
-      "is_pro": false
-    },
-    {
       "id": 36,
+      "qid": 465368558,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -797,6 +626,7 @@
     },
     {
       "id": 37,
+      "qid": 859157867,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -818,29 +648,8 @@
       "is_pro": false
     },
     {
-      "id": 38,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "शून्यमा आधारित बजेट प्रणाली (Zero-Based Budgeting - ZBB) का प्रतिपादक को हुन्?",
-      "options": [
-        "पिटर पायर (Peter Pyhrr)",
-        "जोन मेनार्ड किन्स (J.M. Keynes)",
-        "एडम स्मिथ (Adam Smith)",
-        "डाल्टन (Hugh Dalton)"
-      ],
-      "option_a": "पिटर पायर (Peter Pyhrr)",
-      "option_b": "जोन मेनार्ड किन्स (J.M. Keynes)",
-      "option_c": "एडम स्मिथ (Adam Smith)",
-      "option_d": "डाल्टन (Hugh Dalton)",
-      "answer_index": 0,
-      "explanation": "शून्यमा आधारित बजेट प्रणाली (ZBB) को अवधारणा सन् १९७० मा अमेरिकाका पिटर पायर (Peter Pyhrr) ले प्रतिपादन गरेका हुन्। यसमा प्रत्येक कार्यक्रमलाई शून्य आधारबाट मूल्याङ्कन गरी औचित्य पुष्टि गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 39,
+      "qid": 1957197940,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -863,6 +672,7 @@
     },
     {
       "id": 40,
+      "qid": 3307337813,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -885,6 +695,7 @@
     },
     {
       "id": 41,
+      "qid": 579238289,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -907,6 +718,7 @@
     },
     {
       "id": 42,
+      "qid": 3851102271,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -928,29 +740,8 @@
       "is_pro": false
     },
     {
-      "id": 43,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ बमोजिम विनियोजन ऐनमा समावेश भएका कुनै एक अनुदान संकेत वा खर्च शीर्षकबाट अर्कोमा रकम सार्ने कार्यलाई के भनिन्छ?",
-      "options": [
-        "रकमान्तर (Budget Virement)",
-        "स्रोतान्तर",
-        "पूरक अनुमान",
-        "उधारो खर्च"
-      ],
-      "option_a": "रकमान्तर (Budget Virement)",
-      "option_b": "स्रोतान्तर",
-      "option_c": "पूरक अनुमान",
-      "option_d": "उधारो खर्च",
-      "answer_index": 0,
-      "explanation": "विनियोजन ऐनमा तोकिएको कुनै एक अनुदान संख्या वा बजेट उपशीर्षक तथा खर्च शीर्षकबाट अर्को शीर्षकमा रकम सार्ने प्रक्रियालाई 'रकमान्तर' (Virement) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 44,
+      "qid": 618764777,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -973,6 +764,7 @@
     },
     {
       "id": 45,
+      "qid": 3621485850,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -995,6 +787,7 @@
     },
     {
       "id": 46,
+      "qid": 1390602875,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1016,29 +809,8 @@
       "is_pro": false
     },
     {
-      "id": 47,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "नेपालको संविधानको धारा ११५ अनुसार कानून बमोजिम बाहेक कुनै कर लगाउन र उठाउन नपाइने सिद्धान्त कुन हो?",
-      "options": [
-        "प्रतिनिधित्व बिना कर नलगाउने सिद्धान्त (No Taxation without Representation)",
-        "प्रगतिशील करको सिद्धान्त",
-        "मितव्ययिताको सिद्धान्त",
-        "वित्तीय समानीकरणको सिद्धान्त"
-      ],
-      "option_a": "प्रतिनिधित्व बिना कर नलगाउने सिद्धान्त (No Taxation without Representation)",
-      "option_b": "प्रगतिशील करको सिद्धान्त",
-      "option_c": "मितव्ययिताको सिद्धान्त",
-      "option_d": "वित्तीय समानीकरणको सिद्धान्त",
-      "answer_index": 0,
-      "explanation": "संविधानको धारा ११५(१) मा 'कानून बमोजिम बाहेक कुनै कर लगाइने र उठाइने छैन' भनी उल्लेख छ, जसले जनप्रतिनिधिमूलक संस्था (संसद) को स्वीकृति बिना कर नलगाउने (No Taxation without Representation) सिद्धान्तलाई आत्मसात् गरेको छ।",
-      "is_pro": false
-    },
-    {
       "id": 48,
+      "qid": 621415259,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1061,6 +833,7 @@
     },
     {
       "id": 49,
+      "qid": 4097570967,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1083,6 +856,7 @@
     },
     {
       "id": 50,
+      "qid": 3507127389,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1104,29 +878,8 @@
       "is_pro": false
     },
     {
-      "id": 51,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "नेपाल सरकारले प्रदेश र स्थानीय तहलाई प्रदान गर्ने अनुदान कति प्रकारका रहेका छन्?",
-      "options": [
-        "४ प्रकार",
-        "२ प्रकार",
-        "३ प्रकार",
-        "५ प्रकार"
-      ],
-      "option_a": "४ प्रकार",
-      "option_b": "२ प्रकार",
-      "option_c": "३ प्रकार",
-      "option_d": "५ प्रकार",
-      "answer_index": 0,
-      "explanation": "संविधान र अन्तर-सरकारी वित्त व्यवस्थापन ऐन, २०७४ अनुसार संघले प्रदेश र स्थानीय तहलाई ४ प्रकारका अनुदान (वित्तीय समानीकरण, सशर्त, समपूरक र विशेष अनुदान) प्रदान गर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 52,
+      "qid": 1842475715,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1149,6 +902,7 @@
     },
     {
       "id": 53,
+      "qid": 1860630917,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1171,6 +925,7 @@
     },
     {
       "id": 54,
+      "qid": 1261353588,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1192,29 +947,8 @@
       "is_pro": false
     },
     {
-      "id": 55,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "लेखापरीक्षण ऐन, २०७५ र आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ बमोजिम बेरुजुलाई मुख्यतया कति वर्गमा वर्गीकरण गरिन्छ?",
-      "options": [
-        "३ वर्ग (असुल उपर गर्नुपर्ने, नियमित गर्नुपर्ने र पेश्की)",
-        "२ वर्ग (सैद्धान्तिक र लगत बेरुजु)",
-        "४ वर्ग (साधारण, गम्भीर, असुल उपर र मिन्हा)",
-        "५ वर्ग"
-      ],
-      "option_a": "३ वर्ग (असुल उपर गर्नुपर्ने, नियमित गर्नुपर्ने र पेश्की)",
-      "option_b": "२ वर्ग (सैद्धान्तिक र लगत बेरुजु)",
-      "option_c": "४ वर्ग (साधारण, गम्भीर, असुल उपर र मिन्हा)",
-      "option_d": "५ वर्ग",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा ३८ बमोजिम लेखापरीक्षणबाट औंल्याइएको बेरुजुलाई असुल उपर गर्नुपर्ने, नियमित गर्नुपर्ने (अनियमित र प्रमाण कागजात नपुगेको) र पेश्की गरी मुख्य ३ वर्गमा बाँडिएको छ।",
-      "is_pro": false
-    },
-    {
       "id": 56,
+      "qid": 234575837,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1237,6 +971,7 @@
     },
     {
       "id": 57,
+      "qid": 1871517983,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1258,29 +993,8 @@
       "is_pro": false
     },
     {
-      "id": 58,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारी निकायहरूको अन्तिम लेखापरीक्षण (Final / Supreme Audit) कुन संवैधानिक अंगबाट गरिन्छ?",
-      "options": [
-        "महालेखापरीक्षक",
-        "अख्तियार दुरुपयोग अनुसन्धान आयोग",
-        "महालेखा नियन्त्रक कार्यालय",
-        "राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोग"
-      ],
-      "option_a": "महालेखापरीक्षक",
-      "option_b": "अख्तियार दुरुपयोग अनुसन्धान आयोग",
-      "option_c": "महालेखा नियन्त्रक कार्यालय",
-      "option_d": "राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोग",
-      "answer_index": 0,
-      "explanation": "नेपालको संविधानको धारा २४१ बमोजिम संघ, प्रदेश र स्थानीय तहका सबै सरकारी कार्यालय र पूर्ण स्वामित्वका संगठित संस्थाहरूको अन्तिम लेखापरीक्षण महालेखापरीक्षकबाट हुने व्यवस्था छ।",
-      "is_pro": false
-    },
-    {
       "id": 59,
+      "qid": 2477753857,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1303,6 +1017,7 @@
     },
     {
       "id": 60,
+      "qid": 2056540753,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1325,6 +1040,7 @@
     },
     {
       "id": 61,
+      "qid": 772544349,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1346,29 +1062,8 @@
       "is_pro": false
     },
     {
-      "id": 62,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "नेपालमा जलवायु परिवर्तन सम्बन्धी बजेट संकेत (Climate Change Budget Code) कुन आर्थिक वर्षदेखि लागू गरियो?",
-      "options": [
-        "आ.व. २०६९/७०",
-        "आ.व. २०६४/६५",
-        "आ.व. २०७२/७३",
-        "आ.व. २०७५/७६"
-      ],
-      "option_a": "आ.व. २०६९/७०",
-      "option_b": "आ.व. २०६४/६५",
-      "option_c": "आ.व. २०७२/७३",
-      "option_d": "आ.व. २०७५/७६",
-      "answer_index": 0,
-      "explanation": "नेपालमा जलवायु परिवर्तन अनुकूलन र न्यूनीकरणमा हुने सरकारी खर्चको ट्र्याकिङ गर्न आर्थिक वर्ष २०६९/७० देखि जलवायु परिवर्तन बजेट कोडिङ (Climate Change Budget Code) प्रणाली सुरु गरिएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 63,
+      "qid": 4211689244,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1391,6 +1086,7 @@
     },
     {
       "id": 64,
+      "qid": 744317534,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1413,6 +1109,7 @@
     },
     {
       "id": 65,
+      "qid": 442124139,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1434,29 +1131,8 @@
       "is_pro": false
     },
     {
-      "id": 66,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारी खर्चमा एकरूपता र पारदर्शिता ल्याउन प्रयोग गरिने एकीकृत आर्थिक संकेत तथा वर्गीकरण र व्याख्या (Unified Economic Code) मा खर्च शीर्षकहरू कति अंक (Digits) को संकेतमा राखिएको हुन्छ?",
-      "options": [
-        "५ अंक",
-        "३ अंक",
-        "७ अंक",
-        "१० अंक"
-      ],
-      "option_a": "५ अंक",
-      "option_b": "३ अंक",
-      "option_c": "७ अंक",
-      "option_d": "१० अंक",
-      "answer_index": 0,
-      "explanation": "नेपाल सरकारको एकीकृत आर्थिक संकेत तथा वर्गीकरण र व्याख्या अनुसार राजस्व र खर्चका शीर्षकहरू ५ अंकको संकेत (5-Digit Coding System, जस्तै: २११११ पारिश्रमिक कर्मचारी, ३११२२ मेशिनरी तथा औजार) मा वर्गीकरण गरिएको छ।",
-      "is_pro": false
-    },
-    {
       "id": 67,
+      "qid": 1857222175,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1479,6 +1155,7 @@
     },
     {
       "id": 68,
+      "qid": 1158473199,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1501,6 +1178,7 @@
     },
     {
       "id": 69,
+      "qid": 37334848,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1522,29 +1200,8 @@
       "is_pro": false
     },
     {
-      "id": 70,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सार्वजनिक खर्च तथा वित्तीय उत्तरदायित्व (PEFA - Public Expenditure and Financial Accountability) को अवधारणा कुन संस्थाहरूको संयुक्त पहलमा सन् २००१ मा सुरु भएको हो?",
-      "options": [
-        "विश्व बैंक, IMF, युरोपेली आयोग लगायतका विकास साझेदारहरू",
-        "संयुक्त राष्ट्र संघ र सार्क (SAARC)",
-        "एशियाली विकास बैंक र नेपाल राष्ट्र बैंक",
-        "विश्व व्यापार संगठन (WTO) र ILO"
-      ],
-      "option_a": "विश्व बैंक, IMF, युरोपेली आयोग लगायतका विकास साझेदारहरू",
-      "option_b": "संयुक्त राष्ट्र संघ र सार्क (SAARC)",
-      "option_c": "एशियाली विकास बैंक र नेपाल राष्ट्र बैंक",
-      "option_d": "विश्व व्यापार संगठन (WTO) र ILO",
-      "answer_index": 0,
-      "explanation": "PEFA (Public Expenditure and Financial Accountability) सन् २००१ मा विश्व बैंक, अन्तर्राष्ट्रिय मुद्रा कोष (IMF), युरोपेली आयोग, बेलायतको DFID लगायत ७ वटा अन्तर्राष्ट्रिय निकायहरूको साझेदारीमा देशहरूको सार्वजनिक वित्तीय व्यवस्थापन (PFM) मूल्याङ्कन गर्न सुरु गरिएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 71,
+      "qid": 2734977903,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1567,6 +1224,7 @@
     },
     {
       "id": 72,
+      "qid": 1091527139,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1589,6 +1247,7 @@
     },
     {
       "id": 73,
+      "qid": 558781116,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1610,29 +1269,8 @@
       "is_pro": false
     },
     {
-      "id": 74,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "नेपालमा सर्वप्रथम सरकारी बजेट कहिले प्रस्तुत गरिएको थियो?",
-      "options": [
-        "वि.सं. २००८ माघ २१",
-        "वि.सं. २००७ फागुन ७",
-        "वि.सं. २००९ असार १",
-        "वि.सं. २०१३ भाद्र २२"
-      ],
-      "option_a": "वि.सं. २००८ माघ २१",
-      "option_b": "वि.सं. २००७ फागुन ७",
-      "option_c": "वि.सं. २००९ असार १",
-      "option_d": "वि.सं. २०१३ भाद्र २२",
-      "answer_index": 0,
-      "explanation": "नेपालको इतिहासमा पहिलो पटक वि.सं. २००८ माघ २१ गते (सन् १९५२ फेब्रुअरी ४) तत्कालीन अर्थमन्त्री सुवर्ण शमशेर राणाले ५ करोड २५ लाख २९ हजार रुपैयाँको बजेट प्रस्तुत गरेका थिए।",
-      "is_pro": false
-    },
-    {
       "id": 75,
+      "qid": 3615871104,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1655,6 +1293,7 @@
     },
     {
       "id": 76,
+      "qid": 3725203522,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1677,6 +1316,7 @@
     },
     {
       "id": 77,
+      "qid": 1247402067,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1699,6 +1339,7 @@
     },
     {
       "id": 78,
+      "qid": 1809857727,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1720,29 +1361,8 @@
       "is_pro": false
     },
     {
-      "id": 79,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "बजेट (Budget) शब्दको उत्पत्ति कुन भाषाको 'Bougette' (बौगेट) शब्दबाट भएको हो?",
-      "options": [
-        "फ्रेन्च र ल्याटिन",
-        "जर्मन",
-        "स्पेनिस",
-        "ग्रीक"
-      ],
-      "option_a": "फ्रेन्च र ल्याटिन",
-      "option_b": "जर्मन",
-      "option_c": "स्पेनिस",
-      "option_d": "ग्रीक",
-      "answer_index": 0,
-      "explanation": "अंग्रेजी शब्द 'Budget' पुरानो फ्रेन्च शब्द 'Bougette' (र ल्याटिन शब्द 'Bulga') बाट उत्पत्ति भएको हो, जसको शाब्दिक अर्थ 'छालाको थैली' (Leather Bag) भन्ने हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 80,
+      "qid": 2506760008,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1765,6 +1385,7 @@
     },
     {
       "id": 81,
+      "qid": 1281758603,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1787,6 +1408,7 @@
     },
     {
       "id": 82,
+      "qid": 209384099,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1808,29 +1430,8 @@
       "is_pro": false
     },
     {
-      "id": 83,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Hard",
-      "question": "नेपालको संविधानको धारा १२० बमोजिम विनियोजन ऐन विचाराधीन रहेको अवस्थामा आगामी आर्थिक वर्षका लागि अनुमान गरिएको व्ययको कति अंश नबढ्ने गरी पेश्कीका रूपमा खर्च गर्ने अधिकार (पेश्की खर्च विधेयक) संघीय संसदमा पेश गर्न सकिन्छ?",
-      "options": [
-        "एक तिहाइ (१/३) अंश",
-        "एक चौथाइ (१/४) अंश",
-        "आधा (१/२) अंश",
-        "दुई तिहाइ (२/३) अंश"
-      ],
-      "option_a": "एक तिहाइ (१/३) अंश",
-      "option_b": "एक चौथाइ (१/४) अंश",
-      "option_c": "आधा (१/२) अंश",
-      "option_d": "दुई तिहाइ (२/३) अंश",
-      "answer_index": 0,
-      "explanation": "नेपालको संविधानको धारा १२० अनुसार विनियोजन विधेयक विचाराधीन रहेको अवस्थामा आर्थिक वर्षका लागि अनुमान गरिएको व्ययको एक तिहाइ (१/३) भन्दा बढी नहुने गरी पेश्की खर्च विधेयक मार्फत खर्च गर्न सकिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 84,
+      "qid": 2143478958,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1853,6 +1454,7 @@
     },
     {
       "id": 85,
+      "qid": 264483491,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1875,6 +1477,7 @@
     },
     {
       "id": 86,
+      "qid": 2068114726,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1896,29 +1499,8 @@
       "is_pro": false
     },
     {
-      "id": 87,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "स्थानीय तहको बजेट तर्जुमा, लेखांकन र प्रतिवेदनका लागि प्रयोग गरिने विद्युतीय प्रणाली कुन हो?",
-      "options": [
-        "SuTRA",
-        "LMBIS",
-        "CGAS",
-        "RMIS"
-      ],
-      "option_a": "SuTRA",
-      "option_b": "LMBIS",
-      "option_c": "CGAS",
-      "option_d": "RMIS",
-      "answer_index": 0,
-      "explanation": "स्थानीय तहको योजना, बजेट तथा लेखांकन प्रणालीलाई व्यवस्थित गर्न महालेखा नियन्त्रक कार्यालयले विकास गरेको प्रणाली 'SuTRA' (Sub-national Treasury Regulatory Application - सूत्र) हो।",
-      "is_pro": false
-    },
-    {
       "id": 88,
+      "qid": 465368558,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1941,6 +1523,7 @@
     },
     {
       "id": 89,
+      "qid": 859157867,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -1962,29 +1545,8 @@
       "is_pro": false
     },
     {
-      "id": 90,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "शून्यमा आधारित बजेट प्रणाली (Zero-Based Budgeting - ZBB) का प्रतिपादक को हुन्?",
-      "options": [
-        "पिटर पायर (Peter Pyhrr)",
-        "जोन मेनार्ड किन्स (J.M. Keynes)",
-        "एडम स्मिथ (Adam Smith)",
-        "ह्यु डाल्टन (Hugh Dalton)"
-      ],
-      "option_a": "पिटर पायर (Peter Pyhrr)",
-      "option_b": "जोन मेनार्ड किन्स (J.M. Keynes)",
-      "option_c": "एडम स्मिथ (Adam Smith)",
-      "option_d": "ह्यु डाल्टन (Hugh Dalton)",
-      "answer_index": 0,
-      "explanation": "शून्यमा आधारित बजेट प्रणाली (ZBB) को अवधारणा सन् १९७० मा अमेरिकाका पिटर पायर (Peter Pyhrr) ले प्रतिपादन गरेका हुन्। यसमा प्रत्येक कार्यक्रमलाई शून्य आधारबाट मूल्याङ्कन गरी औचित्य पुष्टि गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 91,
+      "qid": 1957197940,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2007,6 +1569,7 @@
     },
     {
       "id": 92,
+      "qid": 3307337813,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2029,6 +1592,7 @@
     },
     {
       "id": 93,
+      "qid": 579238289,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2051,6 +1615,7 @@
     },
     {
       "id": 94,
+      "qid": 3851102271,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2072,29 +1637,8 @@
       "is_pro": false
     },
     {
-      "id": 95,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ बमोजिम विनियोजन ऐनमा समावेश भएका कुनै एक अनुदान संकेत वा खर्च शीर्षकबाट अर्कोमा रकम सार्ने कार्यलाई के भनिन्छ?",
-      "options": [
-        "रकमान्तर (Budget Virement)",
-        "स्रोतान्तर",
-        "पूरक अनुमान",
-        "उधारो खर्च"
-      ],
-      "option_a": "रकमान्तर (Budget Virement)",
-      "option_b": "स्रोतान्तर",
-      "option_c": "पूरक अनुमान",
-      "option_d": "उधारो खर्च",
-      "answer_index": 0,
-      "explanation": "विनियोजन ऐनमा तोकिएको कुनै एक अनुदान संख्या वा बजेट उपशीर्षक तथा खर्च शीर्षकबाट अर्को शीर्षकमा रकम सार्ने प्रक्रियालाई 'रकमान्तर' (Virement) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 96,
+      "qid": 618764777,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2117,6 +1661,7 @@
     },
     {
       "id": 97,
+      "qid": 3621485850,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2139,6 +1684,7 @@
     },
     {
       "id": 98,
+      "qid": 1390602875,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2160,29 +1706,8 @@
       "is_pro": false
     },
     {
-      "id": 99,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "नेपालको संविधानको धारा ११५ अनुसार कानून बमोजिम बाहेक कुनै कर लगाउन र उठाउन नपाइने सिद्धान्त कुन हो?",
-      "options": [
-        "प्रतिनिधित्व बिना कर नलगाउने सिद्धान्त (No Taxation without Representation)",
-        "प्रगतिशील करको सिद्धान्त",
-        "मितव्ययिताको सिद्धान्त",
-        "वित्तीय समानीकरणको सिद्धान्त"
-      ],
-      "option_a": "प्रतिनिधित्व बिना कर नलगाउने सिद्धान्त (No Taxation without Representation)",
-      "option_b": "प्रगतिशील करको सिद्धान्त",
-      "option_c": "मितव्ययिताको सिद्धान्त",
-      "option_d": "वित्तीय समानीकरणको सिद्धान्त",
-      "answer_index": 0,
-      "explanation": "संविधानको धारा ११५(१) मा 'कानून बमोजिम बाहेक कुनै कर लगाइने र उठाइने छैन' भनी उल्लेख छ, जसले जनप्रतिनिधिमूलक संस्था (संसद) को स्वीकृति बिना कर नलगाउने (No Taxation without Representation) सिद्धान्तलाई आत्मसात् गरेको छ।",
-      "is_pro": false
-    },
-    {
       "id": 100,
+      "qid": 621415259,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2205,6 +1730,7 @@
     },
     {
       "id": 101,
+      "qid": 4097570967,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2227,6 +1753,7 @@
     },
     {
       "id": 102,
+      "qid": 3507127389,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2248,29 +1775,8 @@
       "is_pro": false
     },
     {
-      "id": 103,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "नेपाल सरकारले प्रदेश र स्थानीय तहलाई प्रदान गर्ने अनुदान कति प्रकारका रहेका छन्?",
-      "options": [
-        "४ प्रकार",
-        "२ प्रकार",
-        "३ प्रकार",
-        "५ प्रकार"
-      ],
-      "option_a": "४ प्रकार",
-      "option_b": "२ प्रकार",
-      "option_c": "३ प्रकार",
-      "option_d": "५ प्रकार",
-      "answer_index": 0,
-      "explanation": "संविधानको धारा ६० र अन्तर-सरकारी वित्त व्यवस्थापन ऐन, २०७४ अनुसार संघले प्रदेश र स्थानीय तहलाई ४ प्रकारका अनुदान (वित्तीय समानीकरण, सशर्त, समपूरक र विशेष अनुदान) प्रदान गर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 104,
+      "qid": 1842475715,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2293,6 +1799,7 @@
     },
     {
       "id": 105,
+      "qid": 1860630917,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2315,6 +1822,7 @@
     },
     {
       "id": 106,
+      "qid": 1261353588,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2336,29 +1844,8 @@
       "is_pro": false
     },
     {
-      "id": 107,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "लेखापरीक्षण ऐन, २०७५ र आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ बमोजिम बेरुजुलाई मुख्यतया कति वर्गमा वर्गीकरण गरिन्छ?",
-      "options": [
-        "३ वर्ग (असुल उपर गर्नुपर्ने, नियमित गर्नुपर्ने र पेश्की)",
-        "२ वर्ग (सैद्धान्तिक र लगत बेरुजु)",
-        "४ वर्ग (साधारण, गम्भीर, असुल उपर र मिन्हा)",
-        "५ वर्ग"
-      ],
-      "option_a": "३ वर्ग (असुल उपर गर्नुपर्ने, नियमित गर्नुपर्ने र पेश्की)",
-      "option_b": "२ वर्ग (सैद्धान्तिक र लगत बेरुजु)",
-      "option_c": "४ वर्ग (साधारण, गम्भीर, असुल उपर र मिन्हा)",
-      "option_d": "५ वर्ग",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा ३८ बमोजिम लेखापरीक्षणबाट औंल्याइएको बेरुजुलाई असुल उपर गर्नुपर्ने, नियमित गर्नुपर्ने (अनियमित र प्रमाण कागजात नपुगेको) र पेश्की गरी मुख्य ३ वर्गमा बाँडिएको छ।",
-      "is_pro": false
-    },
-    {
       "id": 108,
+      "qid": 234575837,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2381,6 +1868,7 @@
     },
     {
       "id": 109,
+      "qid": 3468650185,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2402,29 +1890,8 @@
       "is_pro": false
     },
     {
-      "id": 110,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारी निकायहरूको अन्तिम लेखापरीक्षण (Final / Supreme Audit) कुन संवैधानिक अंगबाट गरिन्छ?",
-      "options": [
-        "महालेखापरीक्षक",
-        "अख्तियार दुरुपयोग अनुसन्धान आयोग",
-        "महालेखा नियन्त्रक कार्यालय",
-        "राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोग"
-      ],
-      "option_a": "महालेखापरीक्षक",
-      "option_b": "अख्तियार दुरुपयोग अनुसन्धान आयोग",
-      "option_c": "महालेखा नियन्त्रक कार्यालय",
-      "option_d": "राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोग",
-      "answer_index": 0,
-      "explanation": "नेपालको संविधानको धारा २४१ बमोजिम संघ, प्रदेश र स्थानीय तहका सबै सरकारी कार्यालय र पूर्ण स्वामित्वका संगठित संस्थाहरूको अन्तिम लेखापरीक्षण महालेखापरीक्षकबाट हुने व्यवस्था छ।",
-      "is_pro": false
-    },
-    {
       "id": 111,
+      "qid": 2818919424,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2447,6 +1914,7 @@
     },
     {
       "id": 112,
+      "qid": 2056540753,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2469,6 +1937,7 @@
     },
     {
       "id": 113,
+      "qid": 772544349,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2490,29 +1959,8 @@
       "is_pro": false
     },
     {
-      "id": 114,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "नेपालमा जलवायु परिवर्तन सम्बन्धी बजेट संकेत (Climate Change Budget Code) कुन आर्थिक वर्षदेखि लागू गरियो?",
-      "options": [
-        "आ.व. २०६९/७०",
-        "आ.व. २०६४/६५",
-        "आ.व. २०७२/७३",
-        "आ.व. २०७५/७६"
-      ],
-      "option_a": "आ.व. २०६९/७०",
-      "option_b": "आ.व. २०६४/६५",
-      "option_c": "आ.व. २०७२/७३",
-      "option_d": "आ.व. २०७५/७६",
-      "answer_index": 0,
-      "explanation": "नेपालमा जलवायु परिवर्तन अनुकूलन र न्यूनीकरणमा हुने सरकारी खर्चको ट्र्याकिङ गर्न आर्थिक वर्ष २०६९/७० देखि जलवायु परिवर्तन बजेट कोडिङ (Climate Change Budget Code) प्रणाली सुरु गरिएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 115,
+      "qid": 4211689244,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2535,6 +1983,7 @@
     },
     {
       "id": 116,
+      "qid": 744317534,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2557,6 +2006,7 @@
     },
     {
       "id": 117,
+      "qid": 442124139,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2578,29 +2028,8 @@
       "is_pro": false
     },
     {
-      "id": 118,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारी खर्चमा एकरूपता र पारदर्शिता ल्याउन प्रयोग गरिने एकीकृत आर्थिक संकेत तथा वर्गीकरण र व्याख्या (Unified Economic Code) मा खर्च शीर्षकहरू कति अंक (Digits) को संकेतमा राखिएको हुन्छ?",
-      "options": [
-        "५ अंक",
-        "३ अंक",
-        "७ अंक",
-        "१० अंक"
-      ],
-      "option_a": "५ अंक",
-      "option_b": "३ अंक",
-      "option_c": "७ अंक",
-      "option_d": "१० अंक",
-      "answer_index": 0,
-      "explanation": "नेपाल सरकारको एकीकृत आर्थिक संकेत तथा वर्गीकरण र व्याख्या अनुसार राजस्व र खर्चका शीर्षकहरू ५ अंकको संकेत (5-Digit Coding System, जस्तै: २११११ पारिश्रमिक कर्मचारी, ३११२२ मेशिनरी तथा औजार) मा वर्गीकरण गरिएको छ।",
-      "is_pro": false
-    },
-    {
       "id": 119,
+      "qid": 1857222175,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2623,6 +2052,7 @@
     },
     {
       "id": 120,
+      "qid": 1158473199,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2645,6 +2075,7 @@
     },
     {
       "id": 121,
+      "qid": 4088347935,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2666,29 +2097,8 @@
       "is_pro": false
     },
     {
-      "id": 122,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सार्वजनिक खर्च तथा वित्तीय उत्तरदायित्व (PEFA - Public Expenditure and Financial Accountability) को अवधारणा कुन संस्थाहरूको संयुक्त पहलमा सन् २००१ मा सुरु भएको हो?",
-      "options": [
-        "विश्व बैंक, IMF, युरोपेली आयोग लगायतका विकास साझेदारहरू",
-        "संयुक्त राष्ट्र संघ र सार्क (SAARC)",
-        "एशियाली विकास बैंक र नेपाल राष्ट्र बैंक",
-        "विश्व व्यापार संगठन (WTO) र ILO"
-      ],
-      "option_a": "विश्व बैंक, IMF, युरोपेली आयोग लगायतका विकास साझेदारहरू",
-      "option_b": "संयुक्त राष्ट्र संघ र सार्क (SAARC)",
-      "option_c": "एशियाली विकास बैंक र नेपाल राष्ट्र बैंक",
-      "option_d": "विश्व व्यापार संगठन (WTO) र ILO",
-      "answer_index": 0,
-      "explanation": "PEFA (Public Expenditure and Financial Accountability) सन् २००१ मा विश्व बैंक, अन्तर्राष्ट्रिय मुद्रा कोष (IMF), युरोपेली आयोग, बेलायतको DFID लगायत ७ वटा अन्तर्राष्ट्रिय निकायहरूको साझेदारीमा देशहरूको सार्वजनिक वित्तीय व्यवस्थापन (PFM) मूल्याङ्कन गर्न सुरु गरिएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 123,
+      "qid": 2734977903,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2711,6 +2121,7 @@
     },
     {
       "id": 124,
+      "qid": 2384771322,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2733,6 +2144,7 @@
     },
     {
       "id": 125,
+      "qid": 3072179845,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2754,29 +2166,8 @@
       "is_pro": false
     },
     {
-      "id": 126,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारी कार्यालयमा खर्चको निकासा, भुक्तानी र बैंक मौज्दातको एकीकृत अभिलेख राख्न प्रयोग गरिने 'बैंक नगदी किताब' (Bank Cash Book) को नयाँ मलेप फारम नम्बर कति हो?",
-      "options": [
-        "मलेप फा.नं. २०९",
-        "मलेप फा.नं. २०१",
-        "मलेप फा.नं. २११",
-        "मलेप फा.नं. ४०१"
-      ],
-      "option_a": "मलेप फा.नं. २०९",
-      "option_b": "मलेप फा.नं. २०१",
-      "option_c": "मलेप फा.नं. २११",
-      "option_d": "मलेप फा.नं. ४०१",
-      "answer_index": 0,
-      "explanation": "परिमार्जित मलेप फारम अनुसार बैंक नगदी किताब (पुरानो मलेप फा.नं. ५) लाई 'मलेप फारम नं. २०९' कायम गरिएको छ।",
-      "is_pro": false
-    },
-    {
       "id": 127,
+      "qid": 3598367588,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2799,6 +2190,7 @@
     },
     {
       "id": 128,
+      "qid": 1676911266,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2821,6 +2213,7 @@
     },
     {
       "id": 129,
+      "qid": 4256474245,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2842,29 +2235,8 @@
       "is_pro": false
     },
     {
-      "id": 130,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "नेपालको सरकारी लेखा प्रणाली कुन आधार (Basis of Accounting) मा आधारित रहेको छ?",
-      "options": [
-        "नगदमा आधारित (Cash Basis)",
-        "प्रोदभावी आधार (Accrual Basis)",
-        "मिश्रित आधार (Hybrid Basis)",
-        "अनुमानित आधार (Estimated Basis)"
-      ],
-      "option_a": "नगदमा आधारित (Cash Basis)",
-      "option_b": "प्रोदभावी आधार (Accrual Basis)",
-      "option_c": "मिश्रित आधार (Hybrid Basis)",
-      "option_d": "अनुमानित आधार (Estimated Basis)",
-      "answer_index": 0,
-      "explanation": "नेपालको सरकारी लेखा प्रणाली नगदमा आधारित (Cash Basis Accounting) रहेको छ, यद्यपि NPSAS लागू भएसँगै यसलाई क्रमशः परिमार्जित नगद आधार (Modified Cash Basis) तर्फ उन्मुख गराइएको छ।",
-      "is_pro": false
-    },
-    {
       "id": 131,
+      "qid": 1949622255,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2887,6 +2259,7 @@
     },
     {
       "id": 132,
+      "qid": 2705905362,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2909,6 +2282,7 @@
     },
     {
       "id": 133,
+      "qid": 2013250891,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2930,29 +2304,8 @@
       "is_pro": false
     },
     {
-      "id": 134,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ को दफा ६६ अनुसार गाउँपालिका वा नगरपालिकाको आगामी आर्थिक वर्षको आय-व्ययको प्रक्षेपण र बजेट सीमा निर्धारण गर्ने 'स्रोत अनुमान तथा बजेट सीमा निर्धारण समिति' को संयोजक को हुन्छ?",
-      "options": [
-        "अध्यक्ष वा प्रमुख",
-        "उपाध्यक्ष वा उपप्रमुख",
-        "प्रमुख प्रशासकीय अधिकृत",
-        "लेखा प्रमुख"
-      ],
-      "option_a": "अध्यक्ष वा प्रमुख",
-      "option_b": "उपाध्यक्ष वा उपप्रमुख",
-      "option_c": "प्रमुख प्रशासकीय अधिकृत",
-      "option_d": "लेखा प्रमुख",
-      "answer_index": 0,
-      "explanation": "स्थानीय सरकार सञ्चालन ऐन, २०७४ को दफा ६६ बमोजिम स्थानीय तहमा स्रोत अनुमान तथा बजेट सीमा निर्धारण समितिको संयोजक गाउँपालिकाको अध्यक्ष वा नगरपालिकाको प्रमुख रहने व्यवस्था छ।",
-      "is_pro": false
-    },
-    {
       "id": 135,
+      "qid": 231169852,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2975,6 +2328,7 @@
     },
     {
       "id": 136,
+      "qid": 3557443237,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -2996,29 +2350,8 @@
       "is_pro": false
     },
     {
-      "id": 137,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "सरकारी राजस्व संकलनलाई विद्युतीय र वास्तविक समय (Real-time) मा अभिलेख राख्ने प्रणाली 'RMIS' को पूरा रूप के हो?",
-      "options": [
-        "Revenue Management Information System",
-        "Resource Monitoring and Inspection System",
-        "Regional Monetary Integration System",
-        "Real-time Money Inflow System"
-      ],
-      "option_a": "Revenue Management Information System",
-      "option_b": "Resource Monitoring and Inspection System",
-      "option_c": "Regional Monetary Integration System",
-      "option_d": "Real-time Money Inflow System",
-      "answer_index": 0,
-      "explanation": "RMIS को पूरा रूप 'Revenue Management Information System' (राजस्व व्यवस्थापन सूचना प्रणाली) हो, जसलाई महालेखा नियन्त्रक कार्यालयले सरकारी राजस्वको विद्युतीय लेखांकन र प्रतिवेदनका लागि सञ्चालन गर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 138,
+      "qid": 2948326134,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3041,6 +2374,7 @@
     },
     {
       "id": 139,
+      "qid": 3609639644,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3063,6 +2397,7 @@
     },
     {
       "id": 140,
+      "qid": 3375092335,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3084,29 +2419,8 @@
       "is_pro": false
     },
     {
-      "id": 141,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारको वार्षिक आय र व्ययको विस्तृत विवरण र मन्त्रालयगत कार्यक्रम समावेश गरी अर्थ मन्त्रालयले प्रकाशन गर्ने आधिकारिक बजेट पुस्तिकालाई के भनिन्छ?",
-      "options": [
-        "रातो किताब (Red Book)",
-        "श्वेतपत्र (White Paper)",
-        "पहेँलो किताब (Yellow Book)",
-        "हरियो किताब (Green Book)"
-      ],
-      "option_a": "रातो किताब (Red Book)",
-      "option_b": "श्वेतपत्र (White Paper)",
-      "option_c": "पहेँलो किताब (Yellow Book)",
-      "option_d": "हरियो किताब (Green Book)",
-      "answer_index": 0,
-      "explanation": "नेपाल सरकारले संसदमा पेश गर्ने वार्षिक व्यय अनुमानको विस्तृत शीर्षकगत र मन्त्रालयगत विवरण समेटिएको पुस्तिकालाई प्रचलित भाषामा 'रातो किताब' (Red Book) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 142,
+      "qid": 3741582558,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3129,6 +2443,7 @@
     },
     {
       "id": 143,
+      "qid": 1834219418,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3151,6 +2466,7 @@
     },
     {
       "id": 144,
+      "qid": 2433529380,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3172,29 +2488,8 @@
       "is_pro": false
     },
     {
-      "id": 145,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोग सम्बन्धी व्यवस्था नेपालको संविधानको कुन भाग र धारामा रहेको छ?",
-      "options": [
-        "भाग २६, धारा २५० र २५१",
-        "भाग २१, धारा २३८ र २३९",
-        "भाग २२, धारा २४० र २४१",
-        "भाग २७, धारा २५२"
-      ],
-      "option_a": "भाग २६, धारा २५० र २५१",
-      "option_b": "भाग २१, धारा २३८ र २३९",
-      "option_c": "भाग २२, धारा २४० र २४१",
-      "option_d": "भाग २७, धारा २५२",
-      "answer_index": 0,
-      "explanation": "नेपालको संविधानको भाग २६ को धारा २५० मा राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोगको गठन र धारा २५१ मा आयोगको काम, कर्तव्य र अधिकार सम्बन्धी व्यवस्था रहेको छ।",
-      "is_pro": false
-    },
-    {
       "id": 146,
+      "qid": 3905712947,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3217,6 +2512,7 @@
     },
     {
       "id": 147,
+      "qid": 2566766412,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3239,6 +2535,7 @@
     },
     {
       "id": 148,
+      "qid": 1642859587,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3260,29 +2557,8 @@
       "is_pro": false
     },
     {
-      "id": 149,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "अर्थशास्त्री आर्थर लाफर (Arthur Laffer) द्वारा प्रतिपादित 'लाफर वक्ररेखा' (Laffer Curve) ले के बीचको सम्बन्ध देखाउँछ?",
-      "options": [
-        "करको दर (Tax Rate) र कुल कर राजस्व संकलन (Tax Revenue) बीचको सम्बन्ध",
-        "बेरोजगारी र मुद्रास्फीति बीचको सम्बन्ध",
-        "आम्दानी र उपभोग खर्च बीचको सम्बन्ध",
-        "सरकारी ऋण र आर्थिक वृद्धि बीचको सम्बन्ध"
-      ],
-      "option_a": "करको दर (Tax Rate) र कुल कर राजस्व संकलन (Tax Revenue) बीचको सम्बन्ध",
-      "option_b": "बेरोजगारी र मुद्रास्फीति बीचको सम्बन्ध",
-      "option_c": "आम्दानी र उपभोग खर्च बीचको सम्बन्ध",
-      "option_d": "सरकारी ऋण र आर्थिक वृद्धि बीचको सम्बन्ध",
-      "answer_index": 0,
-      "explanation": "लाफर वक्ररेखा (Laffer Curve) ले करको दर र सरकारलाई प्राप्त हुने कर राजस्व बीचको सम्बन्ध देखाउँछ। यस अनुसार करको दर निश्चित सीमा (Optimum level) भन्दा बढी बढाउँदा कर छली र निरुत्साहनले गर्दा कुल कर राजस्व उल्टै घट्न थाल्छ।",
-      "is_pro": false
-    },
-    {
       "id": 150,
+      "qid": 2715450421,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3305,6 +2581,7 @@
     },
     {
       "id": 151,
+      "qid": 1205197295,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3327,6 +2604,7 @@
     },
     {
       "id": 152,
+      "qid": 1299341162,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3349,6 +2627,7 @@
     },
     {
       "id": 153,
+      "qid": 4018884189,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3371,6 +2650,7 @@
     },
     {
       "id": 154,
+      "qid": 3764525736,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3392,29 +2672,8 @@
       "is_pro": false
     },
     {
-      "id": 155,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "सरकारी कार्यालयमा कुनै निर्माण व्यवसायी वा आपूर्तिकर्ताले सम्झौता बमोजिम काम गर्ने सुरक्षण स्वरूप राखेको र काम सम्पन्न भएपछि फिर्ता हुने रकम कुन खातामा राखिन्छ?",
-      "options": [
-        "धरौटी खाता (Deposit Account)",
-        "संचित कोष खाता",
-        "चालु खर्च खाता",
-        "राजस्व खाता"
-      ],
-      "option_a": "धरौटी खाता (Deposit Account)",
-      "option_b": "संचित कोष खाता",
-      "option_c": "चालु खर्च खाता",
-      "option_d": "राजस्व खाता",
-      "answer_index": 0,
-      "explanation": "कुनै कामको सुरक्षण, जमानत वा बोलपत्रका लागि राखिएको र शर्त पूरा भएपछि सम्बन्धित पक्षलाई फिर्ता गर्नुपर्ने रकम सरकारी राजस्व नभएकाले 'धरौटी खाता' (Deposit Account) मा राखिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 156,
+      "qid": 538810655,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3436,51 +2695,8 @@
       "is_pro": false
     },
     {
-      "id": 157,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सार्वजनिक वित्तमा 'रातो किताब' (Red Book) मा बजेट उपशीर्षकहरूलाई कति अंकको संकेतमा राखिएको हुन्छ?",
-      "options": [
-        "८ अंक",
-        "३ अंक",
-        "४ अंक",
-        "२ अंक"
-      ],
-      "option_a": "८ अंक",
-      "option_b": "३ अंक",
-      "option_c": "४ अंक",
-      "option_d": "२ अंक",
-      "answer_index": 0,
-      "explanation": "नेपाल सरकारको बजेट प्रणाली (LMBIS र रातो किताब) मा मन्त्रालय र मातहतका निकाय तथा आयोजना पहिचान गर्ने बजेट उपशीर्षक संकेत (Budget Sub-head Code) ८ अंकको हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 158,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "अर्थशास्त्रका पिता एडम स्मिथ (Adam Smith) ले सन् १७७६ मा आफ्नो पुस्तक 'Wealth of Nations' मा उल्लेख गरेका करका चार मुख्य सिद्धान्तहरू (Canons of Taxation) कुन-कुन हुन्?",
-      "options": [
-        "समानता (Equality), निश्चितता (Certainty), सुविधा (Convenience) र मितव्ययिता (Economy)",
-        "लचकता, उत्पादकत्व, विविधता र सरलता",
-        "पारदर्शिता, उत्तरदायित्व, वैधानिकता र निष्पक्षता",
-        "प्रगतिशीलता, तटस्थता, पर्याप्तता र स्थायित्व"
-      ],
-      "option_a": "समानता (Equality), निश्चितता (Certainty), सुविधा (Convenience) र मितव्ययिता (Economy)",
-      "option_b": "लचकता, उत्पादकत्व, विविधता र सरलता",
-      "option_c": "पारदर्शिता, उत्तरदायित्व, वैधानिकता र निष्पक्षता",
-      "option_d": "प्रगतिशीलता, तटस्थता, पर्याप्तता र स्थायित्व",
-      "answer_index": 0,
-      "explanation": "एडम स्मिथले प्रतिपादन गरेका करका ४ शास्त्रीय सिद्धान्तहरूमा समानताको सिद्धान्त (Canon of Equality), निश्चितताको सिद्धान्त (Certainty), सुविधाको सिद्धान्त (Convenience) र मितव्ययिताको सिद्धान्त (Economy) पर्दछन्।",
-      "is_pro": false
-    },
-    {
       "id": 159,
+      "qid": 318308835,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3503,6 +2719,7 @@
     },
     {
       "id": 160,
+      "qid": 2353989023,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3525,6 +2742,7 @@
     },
     {
       "id": 161,
+      "qid": 332017131,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3546,29 +2764,8 @@
       "is_pro": false
     },
     {
-      "id": 162,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारी चेक र भुक्तानी आदेशलाई कागजविहीन बनाई कोष तथा लेखा नियन्त्रक कार्यालयबाट सिधै लाभग्राहीको बैंक खातामा रकम पठाउने प्रणाली कुन हो?",
-      "options": [
-        "EFT (Electronic Fund Transfer)",
-        "MICR Cheque System",
-        "Draft System",
-        "Hundi System"
-      ],
-      "option_a": "EFT (Electronic Fund Transfer)",
-      "option_b": "MICR Cheque System",
-      "option_c": "Draft System",
-      "option_d": "Hundi System",
-      "answer_index": 0,
-      "explanation": "सरकारी खर्च प्रणालीलाई आधुनिक, छिटो र पारदर्शी बनाउन महालेखा नियन्त्रक कार्यालयले चेकको सट्टा सिधै सम्बन्धित व्यक्ति वा फर्मको बैंक खातामा रकम जम्मा हुने विद्युतीय कोष हस्तान्तरण (EFT - Electronic Fund Transfer) प्रणाली लागू गरेको छ।",
-      "is_pro": false
-    },
-    {
       "id": 163,
+      "qid": 4243419544,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3591,6 +2788,7 @@
     },
     {
       "id": 164,
+      "qid": 465154433,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3613,6 +2811,7 @@
     },
     {
       "id": 165,
+      "qid": 3261026002,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3634,29 +2833,8 @@
       "is_pro": false
     },
     {
-      "id": 166,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "नेपालमा दिगो विकास लक्ष्य (SDGs) प्राप्तीको प्रगति ट्र्याकिङ गर्न बजेट प्रणालीमा 'दिगो विकास लक्ष्य संकेत' (SDG Coding) कुन निकायको समन्वयमा बजेट र मध्यकालीन खर्च संरचनामा समावेश गरिन्छ?",
-      "options": [
-        "राष्ट्रिय योजना आयोग र अर्थ मन्त्रालय",
-        "परराष्ट्र मन्त्रालय",
-        "महालेखापरीक्षकको कार्यालय",
-        "नेपाल राष्ट्र बैंक"
-      ],
-      "option_a": "राष्ट्रिय योजना आयोग र अर्थ मन्त्रालय",
-      "option_b": "परराष्ट्र मन्त्रालय",
-      "option_c": "महालेखापरीक्षकको कार्यालय",
-      "option_d": "नेपाल राष्ट्र बैंक",
-      "answer_index": 0,
-      "explanation": "सन् २०३० सम्ममा दिगो विकासका १७ लक्ष्यहरू हासिल गर्न सरकारी बजेट कुन लक्ष्यमा कति विनियोजन भयो भनी ट्र्याकिङ गर्न राष्ट्रिय योजना आयोग र अर्थ मन्त्रालयले MTEF र LMBIS मा SDG Coding लागू गरेका छन्।",
-      "is_pro": false
-    },
-    {
       "id": 167,
+      "qid": 4201868133,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3679,6 +2857,7 @@
     },
     {
       "id": 168,
+      "qid": 3798232906,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3700,29 +2879,8 @@
       "is_pro": false
     },
     {
-      "id": 169,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "सरकारी कोषबाट खर्च गर्दा लागतको तुलनामा अधिकतम प्रतिफल र गुणस्तर प्राप्त हुनुपर्ने वित्तीय उत्तरदायित्वको सिद्धान्तलाई के भनिन्छ?",
-      "options": [
-        "पैसाको मूल्य (Value for Money - VfM)",
-        "रोल ओभर सिद्धान्त",
-        "शून्य आधार सिद्धान्त",
-        "समपूरक सिद्धान्त"
-      ],
-      "option_a": "पैसाको मूल्य (Value for Money - VfM)",
-      "option_b": "रोल ओभर सिद्धान्त",
-      "option_c": "शून्य आधार सिद्धान्त",
-      "option_d": "समपूरक सिद्धान्त",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खर्च र खरिदमा जनताको करबाट उठेको प्रत्येक रुपैयाँको अधिकतम उपयोग सुनिश्चित गर्न मितव्ययिता, कार्यदक्षता र प्रभावकारिता मार्फत प्राप्त हुने उच्चतम प्रतिफललाई 'पैसाको मूल्य' (Value for Money - VfM) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 170,
+      "qid": 4290460228,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3745,6 +2903,7 @@
     },
     {
       "id": 171,
+      "qid": 219038852,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3767,6 +2926,7 @@
     },
     {
       "id": 172,
+      "qid": 690421921,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3789,6 +2949,7 @@
     },
     {
       "id": 173,
+      "qid": 2707982438,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3810,29 +2971,8 @@
       "is_pro": false
     },
     {
-      "id": 174,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "नेपालमा एकल खाता कोष प्रणाली (Treasury Single Account - TSA) को परीक्षण (Piloting) सर्वप्रथम कुन जिल्लाबाट सुरु गरिएको थियो?",
-      "options": [
-        "भक्तपुर",
-        "काठमाडौं",
-        "ललितपुर",
-        "कास्की"
-      ],
-      "option_a": "भक्तपुर",
-      "option_b": "काठमाडौं",
-      "option_c": "ललितपुर",
-      "option_d": "कास्की",
-      "answer_index": 0,
-      "explanation": "नेपालमा सरकारी कोष र नगद व्यवस्थापनलाई एकीकृत गर्न आर्थिक वर्ष २०६६/६७ मा भक्तपुर जिल्लाबाट पाइलट प्रोजेक्टको रूपमा एकल खाता कोष प्रणाली (TSA) को सुरुवात गरिएको थियो।",
-      "is_pro": false
-    },
-    {
       "id": 175,
+      "qid": 1364217843,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3855,6 +2995,7 @@
     },
     {
       "id": 176,
+      "qid": 129650209,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3877,6 +3018,7 @@
     },
     {
       "id": 177,
+      "qid": 639136014,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3898,29 +3040,8 @@
       "is_pro": false
     },
     {
-      "id": 178,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "स्रोत अनुमान समितिले तयार पारेको स्रोतको अनुमान र खर्चको सीमा (Ceiling) प्राप्त भएपछि राष्ट्रिय योजना आयोगले कुन मितिसम्ममा आगामी तीन वर्षको बजेट तर्जुमाका लागि मार्गदर्शन तथा ढाँचा (Budget Guideline) सम्बन्धित मन्त्रालयहरूमा पठाउनु पर्दछ?",
-      "options": [
-        "माघ मसान्तभित्र",
-        "पुस १५ गतेभित्र",
-        "फागुन मसान्तभित्र",
-        "चैत १५ गतेभित्र"
-      ],
-      "option_a": "माघ मसान्तभित्र",
-      "option_b": "पुस १५ गतेभित्र",
-      "option_c": "फागुन मसान्तभित्र",
-      "option_d": "चैत १५ गतेभित्र",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व ऐन, २०७६ को दफा ९ र नियमावली बमोजिम स्रोत तथा खर्चको सीमा निर्धारण भएपछि माघ मसान्तभित्र आगामी आर्थिक वर्षको बजेट तर्जुमा मार्गदर्शन तथा सीमा मन्त्रालय र निकायहरूमा पठाउनु पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 179,
+      "qid": 3796711035,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3943,6 +3064,7 @@
     },
     {
       "id": 180,
+      "qid": 809014572,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3965,6 +3087,7 @@
     },
     {
       "id": 181,
+      "qid": 1144610630,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -3987,6 +3110,7 @@
     },
     {
       "id": 182,
+      "qid": 1549215646,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4008,29 +3132,8 @@
       "is_pro": false
     },
     {
-      "id": 183,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Hard",
-      "question": "सरकारी ऋणको ब्याज भुक्तानी (Interest Payment on Public Debt) बजेटको कुन खर्च शीर्षक अन्तर्गत पर्दछ?",
-      "options": [
-        "चालु खर्च (Recurrent Expenditure)",
-        "पुँजीगत खर्च (Capital Expenditure)",
-        "वित्तीय व्यवस्था (Financing)",
-        "धरौटी खर्च"
-      ],
-      "option_a": "चालु खर्च (Recurrent Expenditure)",
-      "option_b": "पुँजीगत खर्च (Capital Expenditure)",
-      "option_c": "वित्तीय व्यवस्था (Financing)",
-      "option_d": "धरौटी खर्च",
-      "answer_index": 0,
-      "explanation": "सरकारी ऋणको साँवा फिर्ता भुक्तानी 'वित्तीय व्यवस्था' अन्तर्गत पर्दछ भने सो ऋण बापत तिर्नुपर्ने ब्याज तथा सेवा शुल्क (आर्थिक संकेत २२४११ र २२४१२) 'चालु खर्च' अन्तर्गत पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 184,
+      "qid": 85156243,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4053,6 +3156,7 @@
     },
     {
       "id": 185,
+      "qid": 2588116394,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4075,6 +3179,7 @@
     },
     {
       "id": 186,
+      "qid": 3249521315,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4096,29 +3201,8 @@
       "is_pro": false
     },
     {
-      "id": 187,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "महालेखापरीक्षकको कार्यालयले सन् २०१९ (वि.सं. २०७६) मा परिमार्जन गरी लागू गरेको नयाँ मलेप फारमहरूलाई कतिवटा मूल समूह (Series) मा वर्गीकरण गरिएको छ?",
-      "options": [
-        "७ समूह (१०० देखि ७०० श्रृंखला सम्म)",
-        "३ समूह",
-        "५ समूह",
-        "१० समूह"
-      ],
-      "option_a": "७ समूह (१०० देखि ७०० श्रृंखला सम्म)",
-      "option_b": "३ समूह",
-      "option_c": "५ समूह",
-      "option_d": "१० समूह",
-      "answer_index": 0,
-      "explanation": "नयाँ मलेप फारमहरूलाई १०० (राजस्व), २०० (विनियोजन/खर्च), ३०० (धरौटी), ४०० (जिन्सी/सम्पत्ति), ५०० (आयोजना/लगानी), ६०० (अन्तरसरकारी/एकीकृत) र ७०० (साझा/प्रशासनिक) गरी ७ वटा मूल समूहमा वर्गीकरण गरिएको छ।",
-      "is_pro": false
-    },
-    {
       "id": 188,
+      "qid": 3948694051,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4141,6 +3225,7 @@
     },
     {
       "id": 189,
+      "qid": 654343841,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4162,29 +3247,8 @@
       "is_pro": false
     },
     {
-      "id": 190,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "नेपालमा राणाकालीन समयमा सरकारी आम्दानी र खर्चको लेखा जाँच (अडिट) गर्ने अड्डालाई के भनिन्थ्यो?",
-      "options": [
-        "कुमारी चोक अड्डा",
-        "मुलुकी खाना",
-        "कौशी तोषाखाना",
-        "सदर अमिनी"
-      ],
-      "option_a": "कुमारी चोक अड्डा",
-      "option_b": "मुलुकी खाना",
-      "option_c": "कौशी तोषाखाना",
-      "option_d": "सदर अमिनी",
-      "answer_index": 0,
-      "explanation": "नेपालमा वि.सं. १८२८ मा पृथ्वीनारायण शाहको पालामा स्थापित 'कुमारी चोक अड्डा' ले सरकारी आय-व्ययको लेखा जाँच र फर्स्यौट गर्ने कार्य गर्दथ्यो।",
-      "is_pro": false
-    },
-    {
       "id": 191,
+      "qid": 1611091232,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4207,6 +3271,7 @@
     },
     {
       "id": 192,
+      "qid": 498944996,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4228,29 +3293,8 @@
       "is_pro": false
     },
     {
-      "id": 193,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "नेपालका प्रथम महालेखापरीक्षक (First Auditor General of Nepal) को हुन्?",
-      "options": [
-        "चन्द्रबहादुर थापा",
-        "भीमबहादुर पाँडे",
-        "नरकान्त अधिकारी",
-        "कल्याण विक्रम अधिकारी"
-      ],
-      "option_a": "चन्द्रबहादुर थापा",
-      "option_b": "भीमबहादुर पाँडे",
-      "option_c": "नरकान्त अधिकारी",
-      "option_d": "कल्याण विक्रम अधिकारी",
-      "answer_index": 0,
-      "explanation": "नेपाल अधिराज्यको संविधान, २०१५ बमोजिम वि.सं. २०१६ असार १५ गते नियुक्त भएका नेपालका प्रथम महालेखापरीक्षक चन्द्रबहादुर थापा हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 194,
+      "qid": 633395931,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4273,6 +3317,7 @@
     },
     {
       "id": 195,
+      "qid": 3249530825,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4295,6 +3340,7 @@
     },
     {
       "id": 196,
+      "qid": 1609741685,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4316,29 +3362,8 @@
       "is_pro": false
     },
     {
-      "id": 197,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "अन्तर-सरकारी वित्त व्यवस्थापन ऐन, २०७४ को अनुसूची-१ बमोजिम देहायका मध्ये कुन कर पूर्ण रूपमा स्थानीय तहको एकल अधिकार क्षेत्र र विभाज्य कोषमा पर्दछ?",
-      "options": [
-        "सम्पत्ति कर, घर बहाल कर र भूमिकर (मालपोत)",
-        "मूल्य अभिवृद्धि कर (VAT)",
-        "सवारी साधन कर",
-        "संस्थागत आयकर"
-      ],
-      "option_a": "सम्पत्ति कर, घर बहाल कर र भूमिकर (मालपोत)",
-      "option_b": "मूल्य अभिवृद्धि कर (VAT)",
-      "option_c": "सवारी साधन कर",
-      "option_d": "संस्थागत आयकर",
-      "answer_index": 0,
-      "explanation": "संविधानको अनुसूची-८ र अन्तर-सरकारी वित्त व्यवस्थापन ऐन, २०७४ बमोजिम सम्पत्ति कर, घर बहाल कर, भूमिकर (मालपोत), व्यवसाय कर र विज्ञापन कर स्थानीय तहले संकलन र उपयोग गर्ने करहरू हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 198,
+      "qid": 3851625201,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4361,6 +3386,7 @@
     },
     {
       "id": 199,
+      "qid": 1214890480,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4383,6 +3409,7 @@
     },
     {
       "id": 200,
+      "qid": 2124710319,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4404,29 +3431,8 @@
       "is_pro": false
     },
     {
-      "id": 201,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "वैदेशिक सहायताको प्रभावकारिता र व्यवस्थापनका लागि अर्थ मन्त्रालयले सञ्चालनमा ल्याएको विद्युतीय सूचना प्रणाली कुन हो?",
-      "options": [
-        "AMIS (Aid Management Information System)",
-        "RMIS",
-        "LMBIS",
-        "PAMS"
-      ],
-      "option_a": "AMIS (Aid Management Information System)",
-      "option_b": "RMIS",
-      "option_c": "LMBIS",
-      "option_d": "PAMS",
-      "answer_index": 0,
-      "explanation": "नेपालमा भित्रिने द्विपक्षीय र बहुपक्षीय वैदेशिक अनुदान तथा ऋण सहायताको अभिलेख र पारदर्शिता कायम गर्न अर्थ मन्त्रालयले AMIS (हाल परिमार्जित रूप IECCD पोर्टल/प्रणाली) प्रयोगमा ल्याएको छ।",
-      "is_pro": false
-    },
-    {
       "id": 202,
+      "qid": 3511422586,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4449,6 +3455,7 @@
     },
     {
       "id": 203,
+      "qid": 1266145932,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4471,6 +3478,7 @@
     },
     {
       "id": 204,
+      "qid": 931456092,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4492,29 +3500,8 @@
       "is_pro": false
     },
     {
-      "id": 205,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "नेपालमा कर प्रणालीको आधुनिक आधारशिला मानिने मूल्य अभिवृद्धि कर (VAT - Value Added Tax) कहिलेदेखि पूर्ण रूपमा कार्यान्वयनमा आएको हो?",
-      "options": [
-        "वि.सं. २०५४ मंसिर १ गते",
-        "वि.सं. २०५२ साउन १ गते",
-        "वि.सं. २०५८ असोज १८ गते",
-        "वि.सं. २०६० वैशाख १ गते"
-      ],
-      "option_a": "वि.सं. २०५४ मंसिर १ गते",
-      "option_b": "वि.सं. २०५२ साउन १ गते",
-      "option_c": "वि.सं. २०५८ असोज १८ गते",
-      "option_d": "वि.सं. २०६० वैशाख १ गते",
-      "answer_index": 0,
-      "explanation": "मूल्य अभिवृद्धि कर ऐन, २०५२ निर्माण भई वि.सं. २०५४ मंसिर १ गते (सन् १९९७ नोभेम्बर १६) देखि नेपालमा बिक्री कर, ठेक्का कर, मनोरञ्जन कर र होटल करलाई प्रतिस्थापन गर्दै भ्याट (VAT) लागू गरिएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 206,
+      "qid": 2010656964,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4537,6 +3524,7 @@
     },
     {
       "id": 207,
+      "qid": 4093147820,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4559,6 +3547,7 @@
     },
     {
       "id": 208,
+      "qid": 3713845543,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4580,29 +3569,8 @@
       "is_pro": false
     },
     {
-      "id": 209,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारी कोषबाट सेवानिवृत्त निजामती, शिक्षक, सेना तथा प्रहरी कर्मचारीहरूलाई पेन्सन (निवृत्तिभरण) र उपदान भुक्तानी गर्ने केन्द्रीय निकाय कुन हो?",
-      "options": [
-        "निवृत्तिभरण व्यवस्थापन कार्यालय",
-        "कर्मचारी सञ्चय कोष",
-        "नागरिक लगानी कोष",
-        "सामाजिक सुरक्षा कोष"
-      ],
-      "option_a": "निवृत्तिभरण व्यवस्थापन कार्यालय",
-      "option_b": "कर्मचारी सञ्चय कोष",
-      "option_c": "नागरिक लगानी कोष",
-      "option_d": "सामाजिक सुरक्षा कोष",
-      "answer_index": 0,
-      "explanation": "महालेखा नियन्त्रक कार्यालय मातहत रहेको 'निवृत्तिभरण व्यवस्थापन कार्यालय' (पहिलेको निजामती किताबखाना/कौशी तोषाखानाको कार्य) ले सरकारी पेन्सन र उपदान भुक्तानीको व्यवस्थापन गर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 210,
+      "qid": 2225931762,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4625,6 +3593,7 @@
     },
     {
       "id": 211,
+      "qid": 888507371,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4647,6 +3616,7 @@
     },
     {
       "id": 212,
+      "qid": 2059260541,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4668,29 +3638,8 @@
       "is_pro": false
     },
     {
-      "id": 213,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "विश्वको इतिहासमा सर्वप्रथम आधुनिक संसदीय बजेट सन् १७३३ मा बेलायतमा कसले प्रस्तुत गरेका थिए?",
-      "options": [
-        "रोबर्ट वालपोल (Sir Robert Walpole)",
-        "विलियम ग्ल्याडस्टोन",
-        "विन्स्टन चर्चिल",
-        "एडम स्मिथ"
-      ],
-      "option_a": "रोबर्ट वालपोल (Sir Robert Walpole)",
-      "option_b": "विलियम ग्ल्याडस्टोन",
-      "option_c": "विन्स्टन चर्चिल",
-      "option_d": "एडम स्मिथ",
-      "answer_index": 0,
-      "explanation": "बेलायतका प्रथम प्रधानमन्त्री तथा चान्सलर अफ द एक्सचेकर सर रोबर्ट वालपोल (Sir Robert Walpole) ले सन् १७३३ मा छालाको झोला (Bougette) बाट वित्तीय प्रस्ताव संसदमा झिक्दा पहिलोपटक 'बजेट' शब्द र अभ्यास सुरु भएको मानिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 214,
+      "qid": 2271652548,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4712,29 +3661,8 @@
       "is_pro": false
     },
     {
-      "id": 215,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Hard",
-      "question": "सार्वजनिक खरिद ऐन, २०६३ को दफा ६ बमोजिम सार्वजनिक निकायले तोकिएको सीमाभन्दा बढीको खरिद गर्दा प्रत्येक वर्ष के तयार गर्नुपर्ने बाध्यकारी व्यवस्था छ?",
-      "options": [
-        "वार्षिक खरिद योजना (Annual Procurement Plan - APP) र बहुवर्षीय भए गुरुयोजना (Master Procurement Plan)",
-        "नयाँ बजेट भाषण",
-        "महालेखापरीक्षकको प्रतिवेदन",
-        "कर्मचारी दरबन्दी विवरण"
-      ],
-      "option_a": "वार्षिक खरिद योजना (Annual Procurement Plan - APP) र बहुवर्षीय भए गुरुयोजना (Master Procurement Plan)",
-      "option_b": "नयाँ बजेट भाषण",
-      "option_c": "महालेखापरीक्षकको प्रतिवेदन",
-      "option_d": "कर्मचारी दरबन्दी विवरण",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद ऐन, २०६३ को दफा ६ र नियमावलीको नियम ७ र ८ बमोजिम बजेट स्वीकृत भएपछि सार्वजनिक निकायले वार्षिक खरिद योजना (APP) र एक वर्षभन्दा बढी अवधिको भए खरिद गुरुयोजना (MPP) तयार गरी स्वीकृत गराउनु पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 216,
+      "qid": 1267830310,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4757,6 +3685,7 @@
     },
     {
       "id": 217,
+      "qid": 2414142611,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4779,6 +3708,7 @@
     },
     {
       "id": 218,
+      "qid": 2824897,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4800,29 +3730,8 @@
       "is_pro": false
     },
     {
-      "id": 219,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारले प्रत्येक वर्ष बजेटसँगै संसदमा पेश गर्ने प्रमुख तीनवटा आश्रित विधेयकहरू (Dependent Bills of Budget) कुन-कुन हुन्?",
-      "options": [
-        "आर्थिक विधेयक, राष्ट्र ऋण उठाउने विधेयक र ऋण तथा जमानत विधेयक (विनियोजन विधेयकसँगै)",
-        "निजामती सेवा विधेयक, प्रहरी विधेयक र शिक्षा विधेयक",
-        "आयकर विधेयक, भन्सार विधेयक र मदिरा विधेयक",
-        "भ्रष्टाचार निवारण विधेयक, लेखापरीक्षण विधेयक र खरिद विधेयक"
-      ],
-      "option_a": "आर्थिक विधेयक, राष्ट्र ऋण उठाउने विधेयक र ऋण तथा जमानत विधेयक (विनियोजन विधेयकसँगै)",
-      "option_b": "निजामती सेवा विधेयक, प्रहरी विधेयक र शिक्षा विधेयक",
-      "option_c": "आयकर विधेयक, भन्सार विधेयक र मदिरा विधेयक",
-      "option_d": "भ्रष्टाचार निवारण विधेयक, लेखापरीक्षण विधेयक र खरिद विधेयक",
-      "answer_index": 0,
-      "explanation": "बजेट कार्यान्वयनका लागि विनियोजन विधेयक (खर्च गर्ने अधिकार) सँगै करका दर हेरफेर गर्न 'आर्थिक विधेयक', आन्तरिक ऋण उठाउन 'राष्ट्र ऋण उठाउने विधेयक' र 'ऋण तथा जमानत विधेयक' संसदमा पेश गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 220,
+      "qid": 3877938482,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4845,6 +3754,7 @@
     },
     {
       "id": 221,
+      "qid": 1096537927,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4867,6 +3777,7 @@
     },
     {
       "id": 222,
+      "qid": 3759546835,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4889,6 +3800,7 @@
     },
     {
       "id": 223,
+      "qid": 1517591629,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4910,29 +3822,8 @@
       "is_pro": false
     },
     {
-      "id": 224,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारी कार्यालयमा स-साना खुद्रे खर्च (चियापान, टिकट, आकस्मिक मसलन्द आदि) नगदमा भुक्तानी दिन खडा गरिने कोषलाई के भनिन्छ?",
-      "options": [
-        "सानो नगदी कोष (Petty Cash Fund)",
-        "संचित कोष",
-        "आकस्मिक कोष",
-        "धरौटी कोष"
-      ],
-      "option_a": "सानो नगदी कोष (Petty Cash Fund)",
-      "option_b": "संचित कोष",
-      "option_c": "आकस्मिक कोष",
-      "option_d": "धरौटी कोष",
-      "answer_index": 0,
-      "explanation": "सरकारी कार्यालयमा दैनिक कार्यसञ्चालनका क्रममा आइपर्ने स-साना खुद्रे खर्चहरू तत्काल नगदै भुक्तानी गर्न निश्चित सीमा तोकी स्थापना गरिने कोषलाई 'सानो नगदी कोष' (Petty Cash Fund) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 225,
+      "qid": 3482695414,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4955,6 +3846,7 @@
     },
     {
       "id": 226,
+      "qid": 1062041714,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -4976,29 +3868,8 @@
       "is_pro": false
     },
     {
-      "id": 227,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारी आम्दानी (राजस्व) संकलन गर्दा प्रयोग गरिने 'नगदी रसिद' को नयाँ मलेप फारम नम्बर कति हो?",
-      "options": [
-        "मलेप फा.नं. १०१",
-        "मलेप फा.नं. २०१",
-        "मलेप फा.नं. ३०१",
-        "मलेप फा.नं. ४०१"
-      ],
-      "option_a": "मलेप फा.नं. १०१",
-      "option_b": "मलेप फा.नं. २०१",
-      "option_c": "मलेप फा.नं. ३०१",
-      "option_d": "मलेप फा.नं. ४०१",
-      "answer_index": 0,
-      "explanation": "महालेखापरीक्षकको कार्यालयबाट स्वीकृत नयाँ मलेप फारमको १०० श्रृंखला राजस्वसँग सम्बन्धित छ, जसमा 'मलेप फारम नं. १०१' सरकारी नगदी रसिद (पुरानो फा.नं. ११) हो।",
-      "is_pro": false
-    },
-    {
       "id": 228,
+      "qid": 1345930429,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5020,29 +3891,8 @@
       "is_pro": false
     },
     {
-      "id": 229,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Hard",
-      "question": "सार्वजनिक वित्तमा बेलायती अर्थशास्त्री ज्याक वाइजम्यान र एलन पिकक (Wiseman-Peacock Hypothesis, 1961) ले अघि सारेको सिद्धान्त केसँग सम्बन्धित छ?",
-      "options": [
-        "संकट वा युद्धको समयमा सार्वजनिक खर्च र करको स्तर अकस्मात् माथि उक्लने (Displacement Effect) र सामान्य अवस्थामा पनि पुरानो स्तरमा नझर्ने प्रवृत्ति",
-        "कूटनीतिक खर्च घटाउने सिद्धान्त",
-        "विदेशी विनिमय संचिति स्थिर राख्ने सिद्धान्त",
-        "कृषिमा अनुदान कटौती गर्ने सिद्धान्त"
-      ],
-      "option_a": "संकट वा युद्धको समयमा सार्वजनिक खर्च र करको स्तर अकस्मात् माथि उक्लने (Displacement Effect) र सामान्य अवस्थामा पनि पुरानो स्तरमा नझर्ने प्रवृत्ति",
-      "option_b": "कूटनीतिक खर्च घटाउने सिद्धान्त",
-      "option_c": "विदेशी विनिमय संचिति स्थिर राख्ने सिद्धान्त",
-      "option_d": "कृषिमा अनुदान कटौती गर्ने सिद्धान्त",
-      "answer_index": 0,
-      "explanation": "वाइजम्यान-पिकक परिकल्पना (Wiseman-Peacock Hypothesis) अनुसार सार्वजनिक खर्च सधैं एउटै गतिमा नबढी युद्ध, महामारी वा संकटको समयमा भर्याङको खुड्किलो जस्तै अचानक माथि सर्छ (Displacement, Inspection & Concentration Effect) र संकट पछि पनि पुरानो तल्लो बिन्दुमा फर्किंदैन।",
-      "is_pro": false
-    },
-    {
       "id": 230,
+      "qid": 2983584885,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5065,6 +3915,7 @@
     },
     {
       "id": 231,
+      "qid": 3790513339,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5087,6 +3938,7 @@
     },
     {
       "id": 232,
+      "qid": 2935816519,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5109,6 +3961,7 @@
     },
     {
       "id": 233,
+      "qid": 101301318,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5130,29 +3983,8 @@
       "is_pro": false
     },
     {
-      "id": 234,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "नेपालले सर्वप्रथम आन्तरिक ऋण कहिले र कुन माध्यमबाट उठाएको थियो?",
-      "options": [
-        "वि.सं. २०१८ सालमा ट्रेजरी बिल निष्कासन गरी",
-        "वि.सं. २००८ सालमा विकास ऋणपत्र निष्कासन गरी",
-        "वि.सं. २०२० सालमा विकास ऋणपत्र निष्कासन गरी",
-        "वि.सं. २०४० सालमा नागरिक बचतपत्र मार्फत"
-      ],
-      "option_a": "वि.सं. २०१८ सालमा ट्रेजरी बिल निष्कासन गरी",
-      "option_b": "वि.सं. २००८ सालमा विकास ऋणपत्र निष्कासन गरी",
-      "option_c": "वि.सं. २०२० सालमा विकास ऋणपत्र निष्कासन गरी",
-      "option_d": "वि.सं. २०४० सालमा नागरिक बचतपत्र मार्फत",
-      "answer_index": 0,
-      "explanation": "नेपाल सरकारले सर्वप्रथम वि.सं. २०१८ सालमा ७० लाख रुपैयाँको ट्रेजरी बिल निष्कासन गरी आन्तरिक ऋण उठाउन सुरु गरेको थियो भने वि.सं. २०२० सालमा पहिलो पटक विकास ऋणपत्र निष्कासन गरेको थियो।",
-      "is_pro": false
-    },
-    {
       "id": 235,
+      "qid": 3236637535,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5175,6 +4007,7 @@
     },
     {
       "id": 236,
+      "qid": 1492458547,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5197,6 +4030,7 @@
     },
     {
       "id": 237,
+      "qid": 1071284515,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5218,29 +4052,8 @@
       "is_pro": false
     },
     {
-      "id": 238,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "महालेखापरीक्षकले आप्नो वार्षिक लेखापरीक्षण प्रतिवेदन नेपालको संविधानको धारा २९४ बमोजिम को समक्ष पेश गर्दछ?",
-      "options": [
-        "राष्ट्रपति समक्ष",
-        "प्रधानमन्त्री समक्ष",
-        "सभामुख समक्ष",
-        "अर्थमन्त्री समक्ष"
-      ],
-      "option_a": "राष्ट्रपति समक्ष",
-      "option_b": "प्रधानमन्त्री समक्ष",
-      "option_c": "सभामुख समक्ष",
-      "option_d": "अर्थमन्त्री समक्ष",
-      "answer_index": 0,
-      "explanation": "नेपालको संविधानको धारा २९४(१) अनुसार महालेखापरीक्षक लगायतका संवैधानिक निकायहरूले आप्नो काम कारबाहीको वार्षिक प्रतिवेदन राष्ट्रपति समक्ष पेश गर्दछन् र राष्ट्रपतिले प्रधानमन्त्री मार्फत संघीय संसदमा पेश गर्न लगाउँछन्।",
-      "is_pro": false
-    },
-    {
       "id": 239,
+      "qid": 3158974026,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5263,6 +4076,7 @@
     },
     {
       "id": 240,
+      "qid": 1959106974,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5285,6 +4099,7 @@
     },
     {
       "id": 241,
+      "qid": 1723897922,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5306,29 +4121,8 @@
       "is_pro": false
     },
     {
-      "id": 242,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारको आय-व्यय, राजस्व, सार्वजनिक खर्च र ऋण सम्बन्धी अध्ययन गर्ने अर्थशास्त्रको विधा 'सार्वजनिक वित्त' (Public Finance) लाई कसले 'निजी वित्त र सरकारी कार्यको सीमामा रहेको सर्वोत्तम विषय' भनी परिभाषित गरेका छन्?",
-      "options": [
-        "प्रो. ह्यु डाल्टन (Hugh Dalton)",
-        "एडम स्मिथ",
-        "कार्ल मार्क्स",
-        "डेभिड रिकार्डो"
-      ],
-      "option_a": "प्रो. ह्यु डाल्टन (Hugh Dalton)",
-      "option_b": "एडम स्मिथ",
-      "option_c": "कार्ल मार्क्स",
-      "option_d": "डेभिड रिकार्डो",
-      "answer_index": 0,
-      "explanation": "प्रसिद्ध अर्थशास्त्री प्रो. ह्यु डाल्टन (Hugh Dalton) ले 'सार्वजनिक वित्त त्यो विषय हो जुन अर्थशास्त्र र राजनीतिशास्त्रको सीमारेखामा रहन्छ र यसले सार्वजनिक निकायहरूको आय र व्यय तथा तिनको समायोजनको अध्ययन गर्छ' भनेका छन्।",
-      "is_pro": false
-    },
-    {
       "id": 243,
+      "qid": 607175547,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5351,6 +4145,7 @@
     },
     {
       "id": 244,
+      "qid": 272131475,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5372,29 +4167,8 @@
       "is_pro": false
     },
     {
-      "id": 245,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Medium",
-      "question": "वित्तीय उत्तरदायित्व (Financial Accountability) भन्नाले के बुझिन्छ?",
-      "options": [
-        "सार्वजनिक कोष, स्रोत र सम्पत्तिको प्रचलित कानून बमोजिम मितव्ययी, पारदर्शी र नतिजामूलक उपयोग गरी सोको हरहिसाब र प्रतिफलप्रति जवाफदेही हुने दायित्व",
-        "बजेट खर्च नगरी बैंकमा थुपारेर राख्ने कार्य",
-        "राजनीतिक कार्यकर्तालाई अनुदान बाँड्ने प्रक्रिया",
-        "लेखापरीक्षण गराउन इन्कार गर्ने अधिकार"
-      ],
-      "option_a": "सार्वजनिक कोष, स्रोत र सम्पत्तिको प्रचलित कानून बमोजिम मितव्ययी, पारदर्शी र नतिजामूलक उपयोग गरी सोको हरहिसाब र प्रतिफलप्रति जवाफदेही हुने दायित्व",
-      "option_b": "बजेट खर्च नगरी बैंकमा थुपारेर राख्ने कार्य",
-      "option_c": "राजनीतिक कार्यकर्तालाई अनुदान बाँड्ने प्रक्रिया",
-      "option_d": "लेखापरीक्षण गराउन इन्कार गर्ने अधिकार",
-      "answer_index": 0,
-      "explanation": "वित्तीय उत्तरदायित्व (Financial Accountability) ले सार्वजनिक स्रोतको परिचालन र खर्च गर्दा वित्तीय अनुशासन, कानूनी वैधानिकता, पारदर्शिता र औचित्य पुष्टि गर्दै संसद तथा नागरिकप्रति जवाफदेही रहनुलाई जनाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 246,
+      "qid": 1539457774,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5417,6 +4191,7 @@
     },
     {
       "id": 247,
+      "qid": 3113717342,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5439,6 +4214,7 @@
     },
     {
       "id": 248,
+      "qid": 3096345879,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5460,29 +4236,8 @@
       "is_pro": false
     },
     {
-      "id": 249,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "नेपाल सरकारको केन्द्रीय बैंक तथा सरकारी बैंकर (Banker to the Government) को रूपमा कुन संस्थाले कार्य गर्दछ?",
-      "options": [
-        "नेपाल राष्ट्र बैंक",
-        "राष्ट्रिय वाणिज्य बैंक",
-        "नेपाल बैंक लिमिटेड",
-        "कृषि विकास बैंक"
-      ],
-      "option_a": "नेपाल राष्ट्र बैंक",
-      "option_b": "राष्ट्रिय वाणिज्य बैंक",
-      "option_c": "नेपाल बैंक लिमिटेड",
-      "option_d": "कृषि विकास बैंक",
-      "answer_index": 0,
-      "explanation": "नेपाल राष्ट्र बैंक ऐन, २०५८ बमोजिम नेपाल राष्ट्र बैंकले नेपाल सरकारको बैंकर, वित्तीय सल्लाहकार र सार्वजनिक ऋण व्यवस्थापकको एजेन्टको रूपमा कार्य गर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 250,
+      "qid": 1922822060,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5505,6 +4260,7 @@
     },
     {
       "id": 251,
+      "qid": 3715997700,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5527,6 +4283,7 @@
     },
     {
       "id": 252,
+      "qid": 10972124,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5548,29 +4305,8 @@
       "is_pro": false
     },
     {
-      "id": 253,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारी बजेटमा विनियोजित रकम कुन विधिबाट खर्च गर्दा अधिक पारदर्शिता र प्रतिस्पर्धा कायम हुन्छ?",
-      "options": [
-        "विद्युतीय खरिद प्रणाली (e-GP / e-Bidding) र खुला बोलपत्र मार्फत",
-        "सिधै कोटेशन र तोक आदेशबाट",
-        "बिना दरभाउपत्र मौखिक सम्झौताबाट",
-        "उपभोक्ता समितिलाई बिना अनुगमन जिम्मा दिएर"
-      ],
-      "option_a": "विद्युतीय खरिद प्रणाली (e-GP / e-Bidding) र खुला बोलपत्र मार्फत",
-      "option_b": "सिधै कोटेशन र तोक आदेशबाट",
-      "option_c": "बिना दरभाउपत्र मौखिक सम्झौताबाट",
-      "option_d": "उपभोक्ता समितिलाई बिना अनुगमन जिम्मा दिएर",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक खरिद अनुगमन कार्यालय (PPMO) ले सञ्चालन गरेको विद्युतीय खरिद प्रणाली (Electronic Government Procurement - e-GP) मार्फत खुला बोलपत्र आह्वान गर्दा मिलेमतो रोकिई प्रतिस्पर्धा र वित्तीय पारदर्शिता कायम हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 254,
+      "qid": 2937018910,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5593,6 +4329,7 @@
     },
     {
       "id": 255,
+      "qid": 3309938596,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5615,6 +4352,7 @@
     },
     {
       "id": 256,
+      "qid": 3708039332,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5636,29 +4374,8 @@
       "is_pro": false
     },
     {
-      "id": 257,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारी बजेटमा समावेश हुने 'गैर-कर राजस्व' (Non-Tax Revenue) अन्तर्गत देहायको कुन आम्दानी पर्दछ?",
-      "options": [
-        "दस्तुर, शुल्क, लाभांश, ब्याज, रोयल्टी र दण्ड-जरिवाना",
-        "मूल्य अभिवृद्धि कर (VAT)",
-        "भन्सार महसुल",
-        "अन्तःशुल्क र आयकर"
-      ],
-      "option_a": "दस्तुर, शुल्क, लाभांश, ब्याज, रोयल्टी र दण्ड-जरिवाना",
-      "option_b": "मूल्य अभिवृद्धि कर (VAT)",
-      "option_c": "भन्सार महसुल",
-      "option_d": "अन्तःशुल्क र आयकर",
-      "answer_index": 0,
-      "explanation": "सरकारले प्रदान गर्ने प्रशासनिक सेवा बापत लिइने राहदानी/भिसा दस्तुर, सरकारी लगानीको लाभांश र ब्याज, प्राकृतिक स्रोतको रोयल्टी तथा न्यायिक दण्ड-जरिवाना 'गैर-कर राजस्व' अन्तर्गत पर्दछन्।",
-      "is_pro": false
-    },
-    {
       "id": 258,
+      "qid": 2239391804,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5681,6 +4398,7 @@
     },
     {
       "id": 259,
+      "qid": 2185112395,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5703,6 +4421,7 @@
     },
     {
       "id": 260,
+      "qid": 2891409004,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5724,29 +4443,8 @@
       "is_pro": false
     },
     {
-      "id": 261,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारी बजेटको पारदर्शिता मापन गर्ने अन्तर्राष्ट्रिय संस्था 'International Budget Partnership' (IBP) ले प्रकाशन गर्ने सूचकाङ्कलाई के भनिन्छ?",
-      "options": [
-        "खुला बजेट सर्वेक्षण / सूचकाङ्क (Open Budget Survey / Index - OBI)",
-        "भ्रष्टाचार अनुभूति सूचकाङ्क (CPI)",
-        "मानव विकास सूचकाङ्क (HDI)",
-        "व्यापार सहजीकरण सूचकाङ्क"
-      ],
-      "option_a": "खुला बजेट सर्वेक्षण / सूचकाङ्क (Open Budget Survey / Index - OBI)",
-      "option_b": "भ्रष्टाचार अनुभूति सूचकाङ्क (CPI)",
-      "option_c": "मानव विकास सूचकाङ्क (HDI)",
-      "option_d": "व्यापार सहजीकरण सूचकाङ्क",
-      "answer_index": 0,
-      "explanation": "इन्टरनेशनल बजेट पार्टनरसिप (IBP) ले विश्वका देशहरूको बजेट प्रक्रियामा नागरिकको पहुँच, पारदर्शिता र विधायिकी निगरानीको मूल्याङ्कन गरी प्रत्येक २ वर्षमा 'Open Budget Survey' (खुला बजेट सर्वेक्षण) प्रकाशन गर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 262,
+      "qid": 1656451779,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5769,6 +4467,7 @@
     },
     {
       "id": 263,
+      "qid": 3151029920,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5791,6 +4490,7 @@
     },
     {
       "id": 264,
+      "qid": 4265495799,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5812,29 +4512,8 @@
       "is_pro": false
     },
     {
-      "id": 265,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारी कार्यालयमा भुक्तानी दिँदा नियमानुसार कट्टा गर्नुपर्ने कर (जस्तै: टीडीएस / अग्रिम आयकर) कट्टा गरी कुन खातामा दाखिला गरिन्छ?",
-      "options": [
-        "राजस्व खातामा",
-        "कार्यालय प्रमुखको व्यक्तिगत खातामा",
-        "सानो नगदी कोषमा",
-        "कर्मचारी कल्याण कोषमा"
-      ],
-      "option_a": "राजस्व खातामा",
-      "option_b": "कार्यालय प्रमुखको व्यक्तिगत खातामा",
-      "option_c": "सानो नगदी कोषमा",
-      "option_d": "कर्मचारी कल्याण कोषमा",
-      "answer_index": 0,
-      "explanation": "आयकर ऐन, २०५८ बमोजिम सरकारी कार्यालयले ज्याला, पारिश्रमिक, घरभाडा वा ठेक्का भुक्तानी दिँदा स्रोतमा कर कट्टी (TDS - Tax Deducted at Source) गरी आन्तरिक राजस्व कार्यालयको राजस्व खातामा दाखिला गर्नुपर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 266,
+      "qid": 1989170141,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5857,6 +4536,7 @@
     },
     {
       "id": 267,
+      "qid": 948612863,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5879,6 +4559,7 @@
     },
     {
       "id": 268,
+      "qid": 2142503544,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5900,29 +4581,8 @@
       "is_pro": false
     },
     {
-      "id": 269,
-      "main_cat_id": 5,
-      "main_cat_name": "Sarkari Loksewa",
-      "sub_cat_id": "129",
-      "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-      "level": "Easy",
-      "question": "सरकारी कार्यालयमा रहेका जिन्सी तथा स्थिर सम्पत्तिहरूको भौतिक परीक्षण (Physical Verification / जिन्सी निरीक्षण) कति अवधिमा अनिवार्य रूपमा गराउनु पर्दछ?",
-      "options": [
-        "प्रत्येक आर्थिक वर्षमा कम्तीमा एक पटक",
-        "प्रत्येक ५ वर्षमा एक पटक",
-        "प्रत्येक १० वर्षमा एक पटक",
-        "कार्यालय खारेज हुँदा मात्र"
-      ],
-      "option_a": "प्रत्येक आर्थिक वर्षमा कम्तीमा एक पटक",
-      "option_b": "प्रत्येक ५ वर्षमा एक पटक",
-      "option_c": "प्रत्येक १० वर्षमा एक पटक",
-      "option_d": "कार्यालय खारेज हुँदा मात्र",
-      "answer_index": 0,
-      "explanation": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व नियमावली, २०७७ बमोजिम प्रत्येक सरकारी कार्यालय प्रमुखले वर्षमा कम्तीमा एक पटक जिन्सी निरीक्षण समिति गठन गरी मौज्दात रहेका मालसामानको भौतिक अवस्था (चालु, मर्मत गर्नुपर्ने वा लिलाम/मिन्हा गर्नुपर्ने) को निरीक्षण गराउनु पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 270,
+      "qid": 3950942649,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5945,6 +4605,7 @@
     },
     {
       "id": 271,
+      "qid": 684391409,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
@@ -5967,6 +4628,7 @@
     },
     {
       "id": 272,
+      "qid": 3019338067,
       "main_cat_id": 5,
       "main_cat_name": "Sarkari Loksewa",
       "sub_cat_id": "129",
