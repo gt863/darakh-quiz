@@ -1,10 +1,11 @@
 {
   "sub_cat_id": "118",
-  "data_version": 1794491195766,
-  "total_questions": 200,
+  "data_version": 1795279225068,
+  "total_questions": 124,
   "questions": [
     {
       "id": 1,
+      "qid": 2965229822,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -26,29 +27,8 @@
       "is_pro": false
     },
     {
-      "id": 2,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "वेगको विमीय सूत्र कुन हो?",
-      "options": [
-        "[M⁰L¹T⁻¹]",
-        "[M¹L¹T⁻²]",
-        "[M⁰L²T⁻¹]",
-        "[M¹L²T⁻²]"
-      ],
-      "option_a": "[M⁰L¹T⁻¹]",
-      "option_b": "[M¹L¹T⁻²]",
-      "option_c": "[M⁰L²T⁻¹]",
-      "option_d": "[M¹L²T⁻²]",
-      "answer_index": 0,
-      "explanation": "वेग = विस्थापन/समय हुन्छ। विस्थापनको विमा [L] र समयको विमा [T] हुँदा वेगको विमीय सूत्र [M⁰L¹T⁻¹] हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 3,
+      "qid": 2767480069,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 2452812233,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -93,6 +74,7 @@
     },
     {
       "id": 5,
+      "qid": 1129169057,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -115,6 +97,7 @@
     },
     {
       "id": 6,
+      "qid": 224664399,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -136,29 +119,8 @@
       "is_pro": false
     },
     {
-      "id": 7,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "प्रत्यास्थ स्थितिज ऊर्जाको सूत्र कुन हो?",
-      "options": [
-        "½kx²",
-        "kx",
-        "½mv²",
-        "mgh"
-      ],
-      "option_a": "½kx²",
-      "option_b": "kx",
-      "option_c": "½mv²",
-      "option_d": "mgh",
-      "answer_index": 0,
-      "explanation": "हुकको नियमअनुसार स्प्रिङमा भण्डारित प्रत्यास्थ स्थितिज ऊर्जा U = ½kx² हुन्छ, जहाँ k बल स्थिरांक र x विस्थापन हो।",
-      "is_pro": false
-    },
-    {
       "id": 8,
+      "qid": 4108660954,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -181,6 +143,7 @@
     },
     {
       "id": 9,
+      "qid": 2602684997,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -202,29 +165,8 @@
       "is_pro": false
     },
     {
-      "id": 10,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "रैखिक प्रसार गुणांकको एकाइ कुन हो?",
-      "options": [
-        "K⁻¹",
-        "m",
-        "m²",
-        "J/K"
-      ],
-      "option_a": "K⁻¹",
-      "option_b": "m",
-      "option_c": "m²",
-      "option_d": "J/K",
-      "answer_index": 0,
-      "explanation": "रैखिक प्रसार गुणांक α = ΔL/(L·ΔT) हुन्छ। यसको एकाइ प्रति केल्भिन (K⁻¹) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 11,
+      "qid": 851475862,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -247,6 +189,7 @@
     },
     {
       "id": 12,
+      "qid": 4252006709,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -268,29 +211,8 @@
       "is_pro": false
     },
     {
-      "id": 13,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "समतापी प्रक्रियामा गरिएको कार्यको सूत्र कुन हो?",
-      "options": [
-        "nRT ln(V₂/V₁)",
-        "nRT(V₂ - V₁)",
-        "nCvΔT",
-        "nCpΔT"
-      ],
-      "option_a": "nRT ln(V₂/V₁)",
-      "option_b": "nRT(V₂ - V₁)",
-      "option_c": "nCvΔT",
-      "option_d": "nCpΔT",
-      "answer_index": 0,
-      "explanation": "समतापी प्रक्रियामा तापमान स्थिर हुन्छ। आदर्श ग्यासको समतापी कार्य W = nRT ln(V₂/V₁) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 14,
+      "qid": 1532238258,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -312,29 +234,8 @@
       "is_pro": false
     },
     {
-      "id": 15,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "०°C मा हावामा ध्वनिको गति लगभग कति हुन्छ?",
-      "options": [
-        "३३२ m/s",
-        "३४० m/s",
-        "३०० m/s",
-        "३५० m/s"
-      ],
-      "option_a": "३३२ m/s",
-      "option_b": "३४० m/s",
-      "option_c": "३०० m/s",
-      "option_d": "३५० m/s",
-      "answer_index": 0,
-      "explanation": "०°C (२७३ K) मा हावामा ध्वनिको गति लगभग ३३२ m/s हुन्छ। तापमान बढ्दा यो मान बढ्छ।",
-      "is_pro": false
-    },
-    {
       "id": 16,
+      "qid": 742646927,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -357,6 +258,7 @@
     },
     {
       "id": 17,
+      "qid": 3244052626,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -378,29 +280,8 @@
       "is_pro": false
     },
     {
-      "id": 18,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "यङको द्वि-झिरा प्रयोगमा फ्रिन्ज चौडाइको सूत्र कुन हो?",
-      "options": [
-        "λD/d",
-        "λd/D",
-        "Dd/λ",
-        "λ/(Dd)"
-      ],
-      "option_a": "λD/d",
-      "option_b": "λd/D",
-      "option_c": "Dd/λ",
-      "option_d": "λ/(Dd)",
-      "answer_index": 0,
-      "explanation": "यङको द्वि-झिरा प्रयोगमा फ्रिन्ज चौडाइ β = λD/d हुन्छ, जहाँ λ तरंगदैर्ध्य, D झिरादेखि पर्दासम्मको दूरी र d झिराहरूबीचको दूरी हो।",
-      "is_pro": false
-    },
-    {
       "id": 19,
+      "qid": 3130142458,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -423,6 +304,7 @@
     },
     {
       "id": 20,
+      "qid": 653152614,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -444,51 +326,8 @@
       "is_pro": false
     },
     {
-      "id": 21,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "ओमको नियमको सही सम्बन्ध कुन हो?",
-      "options": [
-        "V = IR",
-        "V = I/R",
-        "I = VR",
-        "R = VI"
-      ],
-      "option_a": "V = IR",
-      "option_b": "V = I/R",
-      "option_c": "I = VR",
-      "option_d": "R = VI",
-      "answer_index": 0,
-      "explanation": "ओमको नियमअनुसार स्थिर तापक्रममा चालकमा बहने धारा विभवान्तरको समानुपाती हुन्छ: V = IR, जहाँ R प्रतिरोध हो।",
-      "is_pro": false
-    },
-    {
-      "id": 22,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "ह्विटस्टोन ब्रिजको सन्तुलन अवस्थाको सर्त कुन हो?",
-      "options": [
-        "P/Q = R/S",
-        "P/R = Q/S",
-        "P/Q = S/R",
-        "P/S = Q/R"
-      ],
-      "option_a": "P/Q = R/S",
-      "option_b": "P/R = Q/S",
-      "option_c": "P/Q = S/R",
-      "option_d": "P/S = Q/R",
-      "answer_index": 0,
-      "explanation": "ह्विटस्टोन ब्रिज सन्तुलनमा हुँदा कुनै पनि धारा ग्याल्भेनोमिटरबाट बहँदैन। यो अवस्थामा P/Q = R/S हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 23,
+      "qid": 2900327372,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -511,6 +350,7 @@
     },
     {
       "id": 24,
+      "qid": 239517910,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -533,6 +373,7 @@
     },
     {
       "id": 25,
+      "qid": 3715145499,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -555,6 +396,7 @@
     },
     {
       "id": 26,
+      "qid": 160988249,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -577,6 +419,7 @@
     },
     {
       "id": 27,
+      "qid": 1835040904,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -599,6 +442,7 @@
     },
     {
       "id": 28,
+      "qid": 2806469761,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -621,6 +465,7 @@
     },
     {
       "id": 29,
+      "qid": 2065064583,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -642,29 +487,8 @@
       "is_pro": false
     },
     {
-      "id": 30,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "डी ब्रोग्ली तरंगदैर्ध्यको सूत्र कुन हो?",
-      "options": [
-        "λ = h/p",
-        "λ = p/h",
-        "λ = hp",
-        "λ = h/(2p)"
-      ],
-      "option_a": "λ = h/p",
-      "option_b": "λ = p/h",
-      "option_c": "λ = hp",
-      "option_d": "λ = h/(2p)",
-      "answer_index": 0,
-      "explanation": "डी ब्रोग्लीको पदार्थ तरंग सिद्धान्तअनुसार λ = h/p हुन्छ, जहाँ h प्लान्क स्थिरांक र p संवेग हो।",
-      "is_pro": false
-    },
-    {
       "id": 31,
+      "qid": 4165148962,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -687,6 +511,7 @@
     },
     {
       "id": 32,
+      "qid": 2298036609,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -709,6 +534,7 @@
     },
     {
       "id": 33,
+      "qid": 1393175632,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -731,6 +557,7 @@
     },
     {
       "id": 34,
+      "qid": 1197899433,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -753,6 +580,7 @@
     },
     {
       "id": 35,
+      "qid": 3449590163,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -774,51 +602,8 @@
       "is_pro": false
     },
     {
-      "id": 36,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "प्लान्क स्थिरांकको एकाइ कुन हो?",
-      "options": [
-        "J·s",
-        "J/s",
-        "N·s",
-        "W·s"
-      ],
-      "option_a": "J·s",
-      "option_b": "J/s",
-      "option_c": "N·s",
-      "option_d": "W·s",
-      "answer_index": 0,
-      "explanation": "प्लान्क स्थिरांक h को एकाइ जुल-सेकेन्ड (J·s) हो। यो ऊर्जा र समयको गुणनफलको एकाइ हो।",
-      "is_pro": false
-    },
-    {
-      "id": 37,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "गुरुत्वाकर्षण स्थिरांक (G) को विमीय सूत्र कुन हो?",
-      "options": [
-        "[M⁻¹L³T⁻²]",
-        "[M⁻¹L²T⁻²]",
-        "[ML³T⁻²]",
-        "[M⁻¹L³T⁻¹]"
-      ],
-      "option_a": "[M⁻¹L³T⁻²]",
-      "option_b": "[M⁻¹L²T⁻²]",
-      "option_c": "[ML³T⁻²]",
-      "option_d": "[M⁻¹L³T⁻¹]",
-      "answer_index": 0,
-      "explanation": "F = G(m₁m₂)/r² बाट G = Fr²/(m₁m₂) हुन्छ। विमीय विश्लेषण गर्दा G को विमीय सूत्र [M⁻¹L³T⁻²] प्राप्त हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 38,
+      "qid": 3557182645,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -840,73 +625,8 @@
       "is_pro": false
     },
     {
-      "id": 39,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "जडत्व आघूर्ण (Moment of inertia) केमा निर्भर हुन्छ?",
-      "options": [
-        "पिण्डको मात्रा र अक्षबाट दूरी",
-        "पिण्डको मात्रा मात्र",
-        "घूर्णन वेग",
-        "बल"
-      ],
-      "option_a": "पिण्डको मात्रा र अक्षबाट दूरी",
-      "option_b": "पिण्डको मात्रा मात्र",
-      "option_c": "घूर्णन वेग",
-      "option_d": "बल",
-      "answer_index": 0,
-      "explanation": "जडत्व आघूर्ण I = Σmr² हुन्छ। यो पिण्डको मात्रा र घूर्णन अक्षबाटको दूरी दुवैमा निर्भर हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 40,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "कोणीय संवेग संरक्षणको सूत्र कुन हो?",
-      "options": [
-        "I₁ω₁ = I₂ω₂",
-        "I₁ω₂ = I₂ω₁",
-        "I₁/I₂ = ω₁/ω₂",
-        "I₁ω₁² = I₂ω₂²"
-      ],
-      "option_a": "I₁ω₁ = I₂ω₂",
-      "option_b": "I₁ω₂ = I₂ω₁",
-      "option_c": "I₁/I₂ = ω₁/ω₂",
-      "option_d": "I₁ω₁² = I₂ω₂²",
-      "answer_index": 0,
-      "explanation": "बाह्य बलआघूर्ण शून्य हुँदा कोणीय संवेग संरक्षित रहन्छ: I₁ω₁ = I₂ω₂। यसैलाई कोणीय संवेग संरक्षण भनिन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 41,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "यङ मोडुलसको एकाइ कुन हो?",
-      "options": [
-        "N/m²",
-        "N/m",
-        "N·m",
-        "J/m²"
-      ],
-      "option_a": "N/m²",
-      "option_b": "N/m",
-      "option_c": "N·m",
-      "option_d": "J/m²",
-      "answer_index": 0,
-      "explanation": "यङ मोडुलस Y = (F/A)/(ΔL/L) हुन्छ। यो चाप/विकृति भएकाले यसको एकाइ N/m² (पास्कल) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 42,
+      "qid": 1750475462,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -928,95 +648,8 @@
       "is_pro": false
     },
     {
-      "id": 43,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "श्यानता (Viscosity) को SI एकाइ कुन हो?",
-      "options": [
-        "Pa·s",
-        "N/m",
-        "m²/s",
-        "J/kg"
-      ],
-      "option_a": "Pa·s",
-      "option_b": "N/m",
-      "option_c": "m²/s",
-      "option_d": "J/kg",
-      "answer_index": 0,
-      "explanation": "श्यानताको SI एकाइ पास्कल-सेकेन्ड (Pa·s) वा N·s/m² हो। यसलाई डेकापोइजमा पनि व्यक्त गरिन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 44,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "सतह तनाव (Surface tension) को एकाइ कुन हो?",
-      "options": [
-        "N/m",
-        "N/m²",
-        "J",
-        "Pa"
-      ],
-      "option_a": "N/m",
-      "option_b": "N/m²",
-      "option_c": "J",
-      "option_d": "Pa",
-      "answer_index": 0,
-      "explanation": "सतह तनाव T = F/L हुन्छ। यसको एकाइ न्युटन प्रति मिटर (N/m) हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 45,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "ग्यासमा ध्वनिको गतिको सूत्र कुन हो?",
-      "options": [
-        "√(γRT/M)",
-        "√(RT/M)",
-        "√(γM/RT)",
-        "√(γRTM)"
-      ],
-      "option_a": "√(γRT/M)",
-      "option_b": "√(RT/M)",
-      "option_c": "√(γM/RT)",
-      "option_d": "√(γRTM)",
-      "answer_index": 0,
-      "explanation": "लाप्लासको संशोधनअनुसार ग्यासमा ध्वनिको गति v = √(γRT/M) हुन्छ, जहाँ γ विशिष्ट ताप अनुपात, R ग्यास स्थिरांक, T तापमान र M आणविक पिण्ड हो।",
-      "is_pro": false
-    },
-    {
-      "id": 46,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "लाप्लासको संशोधनमा कुन कारक समावेश गरिन्छ?",
-      "options": [
-        "γ (विशिष्ट ताप अनुपात)",
-        "R (ग्यास स्थिरांक)",
-        "T (तापमान)",
-        "M (आणविक पिण्ड)"
-      ],
-      "option_a": "γ (विशिष्ट ताप अनुपात)",
-      "option_b": "R (ग्यास स्थिरांक)",
-      "option_c": "T (तापमान)",
-      "option_d": "M (आणविक पिण्ड)",
-      "answer_index": 0,
-      "explanation": "न्युटनले ध्वनिको गति समतापी प्रक्रिया मानेका थिए। लाप्लासले यसलाई रुद्धोष्म प्रक्रिया मानेर γ (विशिष्ट ताप अनुपात) समावेश गरे।",
-      "is_pro": false
-    },
-    {
       "id": 47,
+      "qid": 2944788861,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1039,6 +672,7 @@
     },
     {
       "id": 48,
+      "qid": 2914864343,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1061,6 +695,7 @@
     },
     {
       "id": 49,
+      "qid": 2452657038,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1082,29 +717,8 @@
       "is_pro": false
     },
     {
-      "id": 50,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "पूर्ण आन्तरिक परावर्तनको सर्त के हो?",
-      "options": [
-        "प्रकाश सघन माध्यमबाट विरल माध्यममा जानुपर्ने",
-        "प्रकाश विरलबाट सघनमा जानुपर्ने",
-        "आपतन कोण क्रान्तिक कोणभन्दा सानो हुनुपर्ने",
-        "तरंगदैर्ध्य बढी हुनुपर्ने"
-      ],
-      "option_a": "प्रकाश सघन माध्यमबाट विरल माध्यममा जानुपर्ने",
-      "option_b": "प्रकाश विरलबाट सघनमा जानुपर्ने",
-      "option_c": "आपतन कोण क्रान्तिक कोणभन्दा सानो हुनुपर्ने",
-      "option_d": "तरंगदैर्ध्य बढी हुनुपर्ने",
-      "answer_index": 0,
-      "explanation": "पूर्ण आन्तरिक परावर्तनका लागि प्रकाश सघन माध्यमबाट विरल माध्यममा जानुपर्छ र आपतन कोण क्रान्तिक कोणभन्दा ठूलो हुनुपर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 51,
+      "qid": 527032524,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1127,6 +741,7 @@
     },
     {
       "id": 52,
+      "qid": 3130295766,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1148,51 +763,8 @@
       "is_pro": false
     },
     {
-      "id": 53,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "धारिताको SI एकाइ कुन हो?",
-      "options": [
-        "फराड",
-        "हेनरी",
-        "टेस्ला",
-        "ओम"
-      ],
-      "option_a": "फराड",
-      "option_b": "हेनरी",
-      "option_c": "टेस्ला",
-      "option_d": "ओम",
-      "answer_index": 0,
-      "explanation": "धारिता C = Q/V हुन्छ। यसको SI एकाइ फराड (F) हो। १ F = १ C/V।",
-      "is_pro": false
-    },
-    {
-      "id": 54,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "धारितामा भण्डारित ऊर्जाको सूत्र कुन हो?",
-      "options": [
-        "½CV²",
-        "CV²",
-        "½C²V",
-        "C/V²"
-      ],
-      "option_a": "½CV²",
-      "option_b": "CV²",
-      "option_c": "½C²V",
-      "option_d": "C/V²",
-      "answer_index": 0,
-      "explanation": "धारितामा भण्डारित ऊर्जा U = ½CV² हुन्छ, जहाँ C धारिता र V विभवान्तर हो।",
-      "is_pro": false
-    },
-    {
       "id": 55,
+      "qid": 472283125,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1215,6 +787,7 @@
     },
     {
       "id": 56,
+      "qid": 1588528894,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1236,117 +809,8 @@
       "is_pro": false
     },
     {
-      "id": 57,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "बायोट-सावर्ट नियम केसँग सम्बन्धित छ?",
-      "options": [
-        "धारावाही तत्वले उत्पन्न चुम्बकीय क्षेत्र",
-        "धारावाही तारमा लाग्ने बल",
-        "विद्युत क्षेत्र",
-        "गुरुत्वाकर्षण क्षेत्र"
-      ],
-      "option_a": "धारावाही तत्वले उत्पन्न चुम्बकीय क्षेत्र",
-      "option_b": "धारावाही तारमा लाग्ने बल",
-      "option_c": "विद्युत क्षेत्र",
-      "option_d": "गुरुत्वाकर्षण क्षेत्र",
-      "answer_index": 0,
-      "explanation": "बायोट-सावर्ट नियमअनुसार धारावाही तत्वले उत्पन्न गर्ने चुम्बकीय क्षेत्र dB = (μ₀I dl sinθ)/(4πr²) हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 58,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "एम्पियरको नियम प्रयोग गरेर कुनको चुम्बकीय क्षेत्र निकालिन्छ?",
-      "options": [
-        "सोलेनोइड",
-        "प्रिज्म",
-        "लेन्स",
-        "धारिता"
-      ],
-      "option_a": "सोलेनोइड",
-      "option_b": "प्रिज्म",
-      "option_c": "लेन्स",
-      "option_d": "धारिता",
-      "answer_index": 0,
-      "explanation": "एम्पियरको परिपथीय नियम ∮B·dl = μ₀I प्रयोग गरेर लामो सोलेनोइडको भित्री चुम्बकीय क्षेत्र B = μ₀nI निकालिन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 59,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "डायम्याग्नेटिक पदार्थको चुम्बकीय संवेदनशीलता (Susceptibility) कस्तो हुन्छ?",
-      "options": [
-        "सानो ऋणात्मक",
-        "ठूलो धनात्मक",
-        "शून्य",
-        "अनन्त"
-      ],
-      "option_a": "सानो ऋणात्मक",
-      "option_b": "ठूलो धनात्मक",
-      "option_c": "शून्य",
-      "option_d": "अनन्त",
-      "answer_index": 0,
-      "explanation": "डायम्याग्नेटिक पदार्थमा चुम्बकीय संवेदनशीलता χ सानो र ऋणात्मक हुन्छ। यसकारण यी पदार्थ चुम्बकीय क्षेत्रले हल्का विकर्षित हुन्छन्।",
-      "is_pro": false
-    },
-    {
-      "id": 60,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "एडी करेन्ट (Eddy current) कम गर्न के प्रयोग गरिन्छ?",
-      "options": [
-        "ल्यामिनेटेड कोर",
-        "ठोस कोर",
-        "तामाको तार",
-        "काच"
-      ],
-      "option_a": "ल्यामिनेटेड कोर",
-      "option_b": "ठोस कोर",
-      "option_c": "तामाको तार",
-      "option_d": "काच",
-      "answer_index": 0,
-      "explanation": "ट्रान्सफर्मरको कोरलाई पातलो पाताहरू (Laminated core) मा बनाउँदा एडी करेन्ट कम हुन्छ र ऊर्जा हानि घट्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 61,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "AC जेनेरेटर कुन सिद्धान्तमा आधारित छ?",
-      "options": [
-        "विद्युत चुम्बकीय प्रेरण",
-        "स्थिर विद्युत",
-        "ताप विद्युत",
-        "रासायनिक प्रभाव"
-      ],
-      "option_a": "विद्युत चुम्बकीय प्रेरण",
-      "option_b": "स्थिर विद्युत",
-      "option_c": "ताप विद्युत",
-      "option_d": "रासायनिक प्रभाव",
-      "answer_index": 0,
-      "explanation": "AC जेनेरेटर विद्युत चुम्बकीय प्रेरणको सिद्धान्तमा आधारित छ। चुम्बकीय क्षेत्रमा कुण्डली घुमाउँदा प्रेरित EMF उत्पन्न हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 62,
+      "qid": 3055728392,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1368,117 +832,8 @@
       "is_pro": false
     },
     {
-      "id": 63,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "फोटोनको ऊर्जाको सूत्र कुन हो?",
-      "options": [
-        "E = hf",
-        "E = h/f",
-        "E = f/h",
-        "E = hf²"
-      ],
-      "option_a": "E = hf",
-      "option_b": "E = h/f",
-      "option_c": "E = f/h",
-      "option_d": "E = hf²",
-      "answer_index": 0,
-      "explanation": "फोटोनको ऊर्जा E = hf हुन्छ, जहाँ h प्लान्क स्थिरांक र f आवृत्ति हो।",
-      "is_pro": false
-    },
-    {
-      "id": 64,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "कार्य फलन (Work function) को एकाइ के हो?",
-      "options": [
-        "जुल",
-        "न्युटन",
-        "वाट",
-        "एम्पियर"
-      ],
-      "option_a": "जुल",
-      "option_b": "न्युटन",
-      "option_c": "वाट",
-      "option_d": "एम्पियर",
-      "answer_index": 0,
-      "explanation": "कार्य फलन धातुको सतहबाट इलेक्ट्रोन निकाल्न आवश्यक न्यूनतम ऊर्जा हो। यसको एकाइ जुल (J) वा इलेक्ट्रोन-भोल्ट (eV) हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 65,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "आइसोटोपहरूमा के समान हुन्छ?",
-      "options": [
-        "परमाणु संख्या",
-        "द्रव्यमान संख्या",
-        "न्युट्रोन संख्या",
-        "आणविक पिण्ड"
-      ],
-      "option_a": "परमाणु संख्या",
-      "option_b": "द्रव्यमान संख्या",
-      "option_c": "न्युट्रोन संख्या",
-      "option_d": "आणविक पिण्ड",
-      "answer_index": 0,
-      "explanation": "आइसोटोपहरूमा प्रोटोनको संख्या (परमाणु संख्या) समान हुन्छ तर न्युट्रोनको संख्या फरक हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 66,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "आणविक विखण्डन (Nuclear fission) मा ऊर्जा किन निस्कन्छ?",
-      "options": [
-        "द्रव्यमान क्षति (Mass defect)",
-        "आवेश क्षति",
-        "संवेग वृद्धि",
-        "तापमान वृद्धि"
-      ],
-      "option_a": "द्रव्यमान क्षति (Mass defect)",
-      "option_b": "आवेश क्षति",
-      "option_c": "संवेग वृद्धि",
-      "option_d": "तापमान वृद्धि",
-      "answer_index": 0,
-      "explanation": "आणविक विखण्डनमा न्युक्लियसको द्रव्यमान विखण्डन पछिका टुक्राहरूको कुल द्रव्यमानभन्दा बढी हुन्छ। यो द्रव्यमान क्षति E = Δmc² अनुसार ऊर्जामा परिणत हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 67,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "रेडियोएक्टिभिटीको SI एकाइ कुन हो?",
-      "options": [
-        "बेक्वेरल",
-        "क्युरी",
-        "रोन्टजेन",
-        "ग्रे"
-      ],
-      "option_a": "बेक्वेरल",
-      "option_b": "क्युरी",
-      "option_c": "रोन्टजेन",
-      "option_d": "ग्रे",
-      "answer_index": 0,
-      "explanation": "रेडियोएक्टिभिटीको SI एकाइ बेक्वेरल (Bq) हो। १ Bq = १ क्षय प्रति सेकेन्ड।",
-      "is_pro": false
-    },
-    {
       "id": 68,
+      "qid": 1942508980,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1500,95 +855,8 @@
       "is_pro": false
     },
     {
-      "id": 69,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "रिक्टिफायरले के रूपान्तरण गर्छ?",
-      "options": [
-        "AC लाई DC",
-        "DC लाई AC",
-        "उच्च भोल्टेजलाई न्यून",
-        "न्यून भोल्टेजलाई उच्च"
-      ],
-      "option_a": "AC लाई DC",
-      "option_b": "DC लाई AC",
-      "option_c": "उच्च भोल्टेजलाई न्यून",
-      "option_d": "न्यून भोल्टेजलाई उच्च",
-      "answer_index": 0,
-      "explanation": "रिक्टिफायरले प्रत्यावर्ती धारा (AC) लाई दिष्ट धारा (DC) मा रूपान्तरण गर्छ। यो डायोडको प्रयोग गरेर गरिन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 70,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "ट्रान्जिस्टरको मुख्य प्रयोग केका लागि गरिन्छ?",
-      "options": [
-        "प्रवर्धन (Amplification)",
-        "दिष्टकरण",
-        "नियमन",
-        "मोडुलन"
-      ],
-      "option_a": "प्रवर्धन (Amplification)",
-      "option_b": "दिष्टकरण",
-      "option_c": "नियमन",
-      "option_d": "मोडुलन",
-      "answer_index": 0,
-      "explanation": "ट्रान्जिस्टरलाई प्रवर्धक (Amplifier) को रूपमा प्रयोग गरिन्छ। यसले सानो सङ्केतलाई ठूलो बनाउँछ।",
-      "is_pro": false
-    },
-    {
-      "id": 71,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "OR गेटको आउटपुट कहिले ० हुन्छ?",
-      "options": [
-        "जब सबै इनपुट ० हुन्छन्",
-        "जब कुनै एक इनपुट १ हुन्छ",
-        "जब सबै इनपुट १ हुन्छन्",
-        "सधैं ० हुन्छ"
-      ],
-      "option_a": "जब सबै इनपुट ० हुन्छन्",
-      "option_b": "जब कुनै एक इनपुट १ हुन्छ",
-      "option_c": "जब सबै इनपुट १ हुन्छन्",
-      "option_d": "सधैं ० हुन्छ",
-      "answer_index": 0,
-      "explanation": "OR गेटको आउटपुट तब मात्र ० हुन्छ जब सबै इनपुटहरू ० हुन्छन्। कुनै पनि इनपुट १ हुँदा आउटपुट १ हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 72,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "X-रे कसरी उत्पन्न हुन्छ?",
-      "options": [
-        "उच्च गतिका इलेक्ट्रोनले लक्ष्यमा ठोक्किँदा",
-        "न्युट्रोन क्षय हुँदा",
-        "प्रोटोन क्षय हुँदा",
-        "अल्फा कण उत्सर्जन हुँदा"
-      ],
-      "option_a": "उच्च गतिका इलेक्ट्रोनले लक्ष्यमा ठोक्किँदा",
-      "option_b": "न्युट्रोन क्षय हुँदा",
-      "option_c": "प्रोटोन क्षय हुँदा",
-      "option_d": "अल्फा कण उत्सर्जन हुँदा",
-      "answer_index": 0,
-      "explanation": "X-रे उच्च भोल्टेजले त्वरित गरिएका इलेक्ट्रोनहरूले धातुको लक्ष्यमा ठोक्किँदा उत्पन्न हुन्छ। यसलाई ब्रेम्सस्ट्रालुङ विकिरण पनि भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 73,
+      "qid": 1224212279,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1611,6 +879,7 @@
     },
     {
       "id": 74,
+      "qid": 3932314148,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1633,6 +902,7 @@
     },
     {
       "id": 75,
+      "qid": 2018065529,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1655,6 +925,7 @@
     },
     {
       "id": 76,
+      "qid": 202791413,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1676,29 +947,8 @@
       "is_pro": false
     },
     {
-      "id": 77,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "सापेक्ष वेगको सूत्र कुन हो?",
-      "options": [
-        "v_AB = v_A - v_B",
-        "v_AB = v_A + v_B",
-        "v_AB = v_B - v_A",
-        "v_AB = v_A × v_B"
-      ],
-      "option_a": "v_AB = v_A - v_B",
-      "option_b": "v_AB = v_A + v_B",
-      "option_c": "v_AB = v_B - v_A",
-      "option_d": "v_AB = v_A × v_B",
-      "answer_index": 0,
-      "explanation": "A को B सापेक्ष वेग v_AB = v_A - v_B हुन्छ। यो भेक्टर घटाउने नियमअनुसार निकालिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 78,
+      "qid": 622124076,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1720,73 +970,8 @@
       "is_pro": false
     },
     {
-      "id": 79,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "जडत्वीय निर्देशन तन्त्र (Inertial frame) भन्नाले के बुझिन्छ?",
-      "options": [
-        "स्थिर वेगमा गतिशील वा स्थिर निर्देशन तन्त्र",
-        "त्वरित निर्देशन तन्त्र",
-        "घूर्णनशील निर्देशन तन्त्र",
-        "कम्पनशील निर्देशन तन्त्र"
-      ],
-      "option_a": "स्थिर वेगमा गतिशील वा स्थिर निर्देशन तन्त्र",
-      "option_b": "त्वरित निर्देशन तन्त्र",
-      "option_c": "घूर्णनशील निर्देशन तन्त्र",
-      "option_d": "कम्पनशील निर्देशन तन्त्र",
-      "answer_index": 0,
-      "explanation": "जडत्वीय निर्देशन तन्त्र त्यो हो जसमा न्युटनका नियमहरू लागू हुन्छन्। यो स्थिर वा स्थिर वेगमा गतिशील हुन सक्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 80,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "आवेग-संवेग प्रमेयको समीकरण कुन हो?",
-      "options": [
-        "FΔt = Δp",
-        "FΔp = Δt",
-        "F = ΔpΔt",
-        "FΔt² = Δp"
-      ],
-      "option_a": "FΔt = Δp",
-      "option_b": "FΔp = Δt",
-      "option_c": "F = ΔpΔt",
-      "option_d": "FΔt² = Δp",
-      "answer_index": 0,
-      "explanation": "आवेग-संवेग प्रमेयअनुसार वस्तुमा लाग्ने आवेग (FΔt) संवेग परिवर्तन (Δp) बराबर हुन्छ: FΔt = Δp।",
-      "is_pro": false
-    },
-    {
-      "id": 81,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "कार्य-ऊर्जा प्रमेयको समीकरण कुन हो?",
-      "options": [
-        "W = ΔK",
-        "W = ΔU",
-        "W = K + U",
-        "W = Δp"
-      ],
-      "option_a": "W = ΔK",
-      "option_b": "W = ΔU",
-      "option_c": "W = K + U",
-      "option_d": "W = Δp",
-      "answer_index": 0,
-      "explanation": "कार्य-ऊर्जा प्रमेयअनुसार कुल कार्य गतिज ऊर्जा परिवर्तन बराबर हुन्छ: W = ΔK = K_f - K_i।",
-      "is_pro": false
-    },
-    {
       "id": 82,
+      "qid": 3190073090,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1808,73 +993,8 @@
       "is_pro": false
     },
     {
-      "id": 83,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "केन्द्रीय त्वरणको दिशा कता हुन्छ?",
-      "options": [
-        "वृत्तको केन्द्रतर्फ",
-        "वृत्तको स्पर्शरेखातर्फ",
-        "बाहिरतर्फ",
-        "माथितर्फ"
-      ],
-      "option_a": "वृत्तको केन्द्रतर्फ",
-      "option_b": "वृत्तको स्पर्शरेखातर्फ",
-      "option_c": "बाहिरतर्फ",
-      "option_d": "माथितर्फ",
-      "answer_index": 0,
-      "explanation": "वृत्तीय गतिमा केन्द्रीय त्वरण सधैं वृत्तको केन्द्रतर्फ हुन्छ। यसको परिमाण a = v²/r हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 84,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "केप्लरको तेस्रो नियमअनुसार के सम्बन्ध हुन्छ?",
-      "options": [
-        "T² ∝ r³",
-        "T ∝ r²",
-        "T² ∝ r²",
-        "T³ ∝ r²"
-      ],
-      "option_a": "T² ∝ r³",
-      "option_b": "T ∝ r²",
-      "option_c": "T² ∝ r²",
-      "option_d": "T³ ∝ r²",
-      "answer_index": 0,
-      "explanation": "केप्लरको तेस्रो नियमअनुसार ग्रहको परिक्रमण कालको वर्ग कक्षाको अर्ध-प्रमुख अक्षको घनको समानुपाती हुन्छ: T² ∝ r³।",
-      "is_pro": false
-    },
-    {
-      "id": 85,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "चाप (Stress) को सूत्र कुन हो?",
-      "options": [
-        "F/A",
-        "A/F",
-        "F×A",
-        "F/A²"
-      ],
-      "option_a": "F/A",
-      "option_b": "A/F",
-      "option_c": "F×A",
-      "option_d": "F/A²",
-      "answer_index": 0,
-      "explanation": "चाप = बल/क्षेत्रफल हुन्छ। यसको सूत्र σ = F/A हो।",
-      "is_pro": false
-    },
-    {
       "id": 86,
+      "qid": 4151807747,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1897,6 +1017,7 @@
     },
     {
       "id": 87,
+      "qid": 1688347906,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1919,6 +1040,7 @@
     },
     {
       "id": 88,
+      "qid": 1948690891,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -1940,117 +1062,8 @@
       "is_pro": false
     },
     {
-      "id": 89,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "आदर्श ग्यासको अवस्था समीकरण कुन हो?",
-      "options": [
-        "PV = nRT",
-        "PV = RT",
-        "P = nRT",
-        "V = nRT"
-      ],
-      "option_a": "PV = nRT",
-      "option_b": "PV = RT",
-      "option_c": "P = nRT",
-      "option_d": "V = nRT",
-      "answer_index": 0,
-      "explanation": "आदर्श ग्यासको अवस्था समीकरण PV = nRT हो, जहाँ P चाप, V आयतन, n मोल संख्या, R ग्यास स्थिरांक र T तापमान हो।",
-      "is_pro": false
-    },
-    {
-      "id": 90,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "मेयरको सम्बन्ध (Mayer's relation) कुन हो?",
-      "options": [
-        "Cp - Cv = R",
-        "Cp + Cv = R",
-        "Cp/Cv = R",
-        "Cp × Cv = R"
-      ],
-      "option_a": "Cp - Cv = R",
-      "option_b": "Cp + Cv = R",
-      "option_c": "Cp/Cv = R",
-      "option_d": "Cp × Cv = R",
-      "answer_index": 0,
-      "explanation": "आदर्श ग्यासका लागि मेयरको सम्बन्ध Cp - Cv = R हुन्छ, जहाँ Cp स्थिर चापमा विशिष्ट ताप र Cv स्थिर आयतनमा विशिष्ट ताप हो।",
-      "is_pro": false
-    },
-    {
-      "id": 91,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "उष्मागतिकीको दोस्रो नियमको केल्भिन-प्लान्क कथनअनुसार कुन इन्जिन सम्भव छैन?",
-      "options": [
-        "१००% दक्षता भएको इन्जिन",
-        "५०% दक्षता भएको इन्जिन",
-        "कानोट इन्जिन",
-        "पेट्रोल इन्जिन"
-      ],
-      "option_a": "१००% दक्षता भएको इन्जिन",
-      "option_b": "५०% दक्षता भएको इन्जिन",
-      "option_c": "कानोट इन्जिन",
-      "option_d": "पेट्रोल इन्जिन",
-      "answer_index": 0,
-      "explanation": "केल्भिन-प्लान्क कथनअनुसार कुनै पनि इन्जिनले तातो भण्डारबाट लिएको सबै तापलाई कार्यमा परिणत गर्न सक्दैन। त्यसैले १००% दक्षता भएको इन्जिन असम्भव छ।",
-      "is_pro": false
-    },
-    {
-      "id": 92,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "एन्ट्रोपीको एकाइ कुन हो?",
-      "options": [
-        "J/K",
-        "J·K",
-        "J/K²",
-        "K/J"
-      ],
-      "option_a": "J/K",
-      "option_b": "J·K",
-      "option_c": "J/K²",
-      "option_d": "K/J",
-      "answer_index": 0,
-      "explanation": "एन्ट्रोपी परिवर्तन ΔS = Q_rev/T हुन्छ। यसको एकाइ जुल प्रति केल्भिन (J/K) हो।",
-      "is_pro": false
-    },
-    {
-      "id": 93,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "तरंगको गतिको सूत्र कुन हो?",
-      "options": [
-        "v = fλ",
-        "v = f/λ",
-        "v = λ/f",
-        "v = f²λ"
-      ],
-      "option_a": "v = fλ",
-      "option_b": "v = f/λ",
-      "option_c": "v = λ/f",
-      "option_d": "v = f²λ",
-      "answer_index": 0,
-      "explanation": "तरंगको गति v = fλ हुन्छ, जहाँ f आवृत्ति र λ तरंगदैर्ध्य हो।",
-      "is_pro": false
-    },
-    {
       "id": 94,
+      "qid": 2241796300,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2072,29 +1085,8 @@
       "is_pro": false
     },
     {
-      "id": 95,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "ध्वनि तरंग कस्तो तरंग हो?",
-      "options": [
-        "अनुदैर्घ्य",
-        "अनुप्रस्थ",
-        "विद्युत चुम्बकीय",
-        "स्थिर"
-      ],
-      "option_a": "अनुदैर्घ्य",
-      "option_b": "अनुप्रस्थ",
-      "option_c": "विद्युत चुम्बकीय",
-      "option_d": "स्थिर",
-      "answer_index": 0,
-      "explanation": "हावा जस्ता माध्यममा ध्वनि तरंग कणहरूको कम्पनद्वारा अनुदैर्घ्य (Longitudinal) रूपमा चल्छ।",
-      "is_pro": false
-    },
-    {
       "id": 96,
+      "qid": 1451946795,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2117,6 +1109,7 @@
     },
     {
       "id": 97,
+      "qid": 1646386295,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2138,29 +1131,8 @@
       "is_pro": false
     },
     {
-      "id": 98,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "व्यतिकरणका लागि सुसंगत स्रोत (Coherent sources) मा के हुनुपर्छ?",
-      "options": [
-        "स्थिर कला भिन्नता",
-        "फरक आवृत्ति",
-        "फरक तरंगदैर्ध्य",
-        "फरक आयाम"
-      ],
-      "option_a": "स्थिर कला भिन्नता",
-      "option_b": "फरक आवृत्ति",
-      "option_c": "फरक तरंगदैर्ध्य",
-      "option_d": "फरक आयाम",
-      "answer_index": 0,
-      "explanation": "सुसंगत स्रोतहरूमा आवृत्ति समान र कला भिन्नता स्थिर हुनुपर्छ। यस्तो भएमा मात्र स्थिर व्यतिकरण ढाँचा देखिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 99,
+      "qid": 3466535143,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2182,29 +1154,8 @@
       "is_pro": false
     },
     {
-      "id": 100,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "लेजरको कार्य सिद्धान्त के हो?",
-      "options": [
-        "उत्तेजित उत्सर्जन",
-        "स्वतः उत्सर्जन",
-        "अवशोषण",
-        "विकिरण"
-      ],
-      "option_a": "उत्तेजित उत्सर्जन",
-      "option_b": "स्वतः उत्सर्जन",
-      "option_c": "अवशोषण",
-      "option_d": "विकिरण",
-      "answer_index": 0,
-      "explanation": "लेजर उत्तेजित उत्सर्जन (Stimulated emission) को सिद्धान्तमा कार्य गर्छ। यसमा उत्तेजित अणुहरूले समान कला र तरंगदैर्ध्यको प्रकाश उत्सर्जन गर्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 101,
+      "qid": 913088870,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2226,29 +1177,8 @@
       "is_pro": false
     },
     {
-      "id": 102,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "त्वरणको विमीय सूत्र कुन हो?",
-      "options": [
-        "[M⁰L¹T⁻²]",
-        "[M⁰L¹T⁻¹]",
-        "[M¹L¹T⁻²]",
-        "[M⁰L²T⁻²]"
-      ],
-      "option_a": "[M⁰L¹T⁻²]",
-      "option_b": "[M⁰L¹T⁻¹]",
-      "option_c": "[M¹L¹T⁻²]",
-      "option_d": "[M⁰L²T⁻²]",
-      "answer_index": 0,
-      "explanation": "त्वरण = वेग परिवर्तन/समय हुन्छ। विमीय विश्लेषण गर्दा त्वरणको विमीय सूत्र [M⁰L¹T⁻²] प्राप्त हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 103,
+      "qid": 1543100192,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2271,6 +1201,7 @@
     },
     {
       "id": 104,
+      "qid": 4283981321,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2293,6 +1224,7 @@
     },
     {
       "id": 105,
+      "qid": 1199494081,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2315,6 +1247,7 @@
     },
     {
       "id": 106,
+      "qid": 3521776179,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2336,29 +1269,8 @@
       "is_pro": false
     },
     {
-      "id": 107,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "स्प्रिङको बल स्थिरांकको SI एकाइ कुन हो?",
-      "options": [
-        "N/m",
-        "N·m",
-        "J/m",
-        "kg/m"
-      ],
-      "option_a": "N/m",
-      "option_b": "N·m",
-      "option_c": "J/m",
-      "option_d": "kg/m",
-      "answer_index": 0,
-      "explanation": "हुकको नियम F = kx बाट k = F/x हुन्छ। त्यसैले बल स्थिरांकको SI एकाइ N/m हो।",
-      "is_pro": false
-    },
-    {
       "id": 108,
+      "qid": 1812980978,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2381,6 +1293,7 @@
     },
     {
       "id": 109,
+      "qid": 3628837765,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2403,6 +1316,7 @@
     },
     {
       "id": 110,
+      "qid": 1145841088,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2425,6 +1339,7 @@
     },
     {
       "id": 111,
+      "qid": 781134956,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2446,51 +1361,8 @@
       "is_pro": false
     },
     {
-      "id": 112,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "सतह तनावको SI एकाइ कुन हो?",
-      "options": [
-        "N/m",
-        "N/m²",
-        "J",
-        "Pa"
-      ],
-      "option_a": "N/m",
-      "option_b": "N/m²",
-      "option_c": "J",
-      "option_d": "Pa",
-      "answer_index": 0,
-      "explanation": "सतह तनाव T = बल/लम्बाइ हुन्छ। त्यसैले यसको SI एकाइ N/m हो।",
-      "is_pro": false
-    },
-    {
-      "id": 113,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "श्यानताको SI एकाइ कुन हो?",
-      "options": [
-        "Pa·s",
-        "N/m",
-        "m²/s",
-        "J/kg"
-      ],
-      "option_a": "Pa·s",
-      "option_b": "N/m",
-      "option_c": "m²/s",
-      "option_d": "J/kg",
-      "answer_index": 0,
-      "explanation": "श्यानताको SI एकाइ पास्कल-सेकेन्ड (Pa·s) हो। यसलाई N·s/m² पनि भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 114,
+      "qid": 3715066478,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2513,6 +1385,7 @@
     },
     {
       "id": 115,
+      "qid": 2763586993,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2535,6 +1408,7 @@
     },
     {
       "id": 116,
+      "qid": 3025709316,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2557,6 +1431,7 @@
     },
     {
       "id": 117,
+      "qid": 2698954261,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2579,6 +1454,7 @@
     },
     {
       "id": 118,
+      "qid": 723501825,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2600,29 +1476,8 @@
       "is_pro": false
     },
     {
-      "id": 119,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "पूर्ण आन्तरिक परावर्तनका लागि आपतन कोण क्रान्तिक कोणभन्दा कस्तो हुनुपर्छ?",
-      "options": [
-        "ठूलो",
-        "सानो",
-        "बराबर",
-        "शून्य"
-      ],
-      "option_a": "ठूलो",
-      "option_b": "सानो",
-      "option_c": "बराबर",
-      "option_d": "शून्य",
-      "answer_index": 0,
-      "explanation": "पूर्ण आन्तरिक परावर्तन हुन आपतन कोण क्रान्तिक कोणभन्दा ठूलो हुनुपर्छ र प्रकाश सघनबाट विरल माध्यममा जानुपर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 120,
+      "qid": 829951544,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2645,6 +1500,7 @@
     },
     {
       "id": 121,
+      "qid": 2355724727,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2666,29 +1522,8 @@
       "is_pro": false
     },
     {
-      "id": 122,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "कर्चफको धारा नियम कुन संरक्षणमा आधारित छ?",
-      "options": [
-        "आवेश संरक्षण",
-        "ऊर्जा संरक्षण",
-        "संवेग संरक्षण",
-        "द्रव्यमान संरक्षण"
-      ],
-      "option_a": "आवेश संरक्षण",
-      "option_b": "ऊर्जा संरक्षण",
-      "option_c": "संवेग संरक्षण",
-      "option_d": "द्रव्यमान संरक्षण",
-      "answer_index": 0,
-      "explanation": "कर्चफको धारा नियम (KCL) आवेश संरक्षणको सिद्धान्तमा आधारित छ। जंक्सनमा आउने र जाने धाराको बीजगणितीय योग शून्य हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 123,
+      "qid": 2900327372,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2711,6 +1546,7 @@
     },
     {
       "id": 124,
+      "qid": 2595244633,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2733,6 +1569,7 @@
     },
     {
       "id": 125,
+      "qid": 3951271422,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2755,6 +1592,7 @@
     },
     {
       "id": 126,
+      "qid": 160988249,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2776,29 +1614,8 @@
       "is_pro": false
     },
     {
-      "id": 127,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "ट्रान्सफर्मर कुन सिद्धान्तमा कार्य गर्छ?",
-      "options": [
-        "पारस्परिक प्रेरण",
-        "स्व-प्रेरण",
-        "विद्युत अपघटन",
-        "स्थिर विद्युत"
-      ],
-      "option_a": "पारस्परिक प्रेरण",
-      "option_b": "स्व-प्रेरण",
-      "option_c": "विद्युत अपघटन",
-      "option_d": "स्थिर विद्युत",
-      "answer_index": 0,
-      "explanation": "ट्रान्सफर्मर पारस्परिक प्रेरणको सिद्धान्तमा कार्य गर्छ। प्राथमिक कुण्डलीको परिवर्तनशील धाराले दोस्रो कुण्डलीमा EMF प्रेरित गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 128,
+      "qid": 1835040904,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2820,29 +1637,8 @@
       "is_pro": false
     },
     {
-      "id": 129,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "आइन्स्टाइनको प्रकाश विद्युत समीकरण कुन हो?",
-      "options": [
-        "K_max = hf - φ",
-        "K_max = hf + φ",
-        "K_max = φ - hf",
-        "K_max = h/f - φ"
-      ],
-      "option_a": "K_max = hf - φ",
-      "option_b": "K_max = hf + φ",
-      "option_c": "K_max = φ - hf",
-      "option_d": "K_max = h/f - φ",
-      "answer_index": 0,
-      "explanation": "प्रकाश विद्युत प्रभावमा उत्सर्जित इलेक्ट्रोनको अधिकतम गतिज ऊर्जा K_max = hf - φ हुन्छ, जहाँ φ कार्य फलन हो।",
-      "is_pro": false
-    },
-    {
       "id": 130,
+      "qid": 2328407586,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2865,6 +1661,7 @@
     },
     {
       "id": 131,
+      "qid": 3087962199,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2887,6 +1684,7 @@
     },
     {
       "id": 132,
+      "qid": 2298036609,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2909,6 +1707,7 @@
     },
     {
       "id": 133,
+      "qid": 1393175632,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2930,29 +1729,8 @@
       "is_pro": false
     },
     {
-      "id": 134,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "जेनर डायोडको मुख्य प्रयोग केका लागि गरिन्छ?",
-      "options": [
-        "भोल्टेज नियमन",
-        "प्रवर्धन",
-        "दिष्टकरण",
-        "मोडुलन"
-      ],
-      "option_a": "भोल्टेज नियमन",
-      "option_b": "प्रवर्धन",
-      "option_c": "दिष्टकरण",
-      "option_d": "मोडुलन",
-      "answer_index": 0,
-      "explanation": "जेनर डायोड रिभर्स बायसमा स्थिर भोल्टेजमा कार्य गर्छ। त्यसैले यसलाई भोल्टेज नियमनका लागि प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 135,
+      "qid": 3449590163,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -2974,29 +1752,8 @@
       "is_pro": false
     },
     {
-      "id": 136,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "प्लान्क स्थिरांकको SI एकाइ कुन हो?",
-      "options": [
-        "J·s",
-        "J/s",
-        "N·s",
-        "W·s"
-      ],
-      "option_a": "J·s",
-      "option_b": "J/s",
-      "option_c": "N·s",
-      "option_d": "W·s",
-      "answer_index": 0,
-      "explanation": "प्लान्क स्थिरांक h को SI एकाइ जुल-सेकेन्ड (J·s) हो। यो ऊर्जा र समयको गुणनफलको एकाइ हो।",
-      "is_pro": false
-    },
-    {
       "id": 137,
+      "qid": 4161056518,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3019,6 +1776,7 @@
     },
     {
       "id": 138,
+      "qid": 2730081016,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3040,29 +1798,8 @@
       "is_pro": false
     },
     {
-      "id": 139,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "जडत्व आघूर्ण केमा निर्भर हुन्छ?",
-      "options": [
-        "पिण्डको मात्रा र घूर्णन अक्षबाट दूरी",
-        "पिण्डको मात्रा मात्र",
-        "घूर्णन वेग",
-        "बल"
-      ],
-      "option_a": "पिण्डको मात्रा र घूर्णन अक्षबाट दूरी",
-      "option_b": "पिण्डको मात्रा मात्र",
-      "option_c": "घूर्णन वेग",
-      "option_d": "बल",
-      "answer_index": 0,
-      "explanation": "जडत्व आघूर्ण I = Σmr² हुन्छ। यो पिण्डको मात्रा र घूर्णन अक्षबाटको दूरी दुवैमा निर्भर हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 140,
+      "qid": 419155201,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3085,6 +1822,7 @@
     },
     {
       "id": 141,
+      "qid": 2565350556,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3106,29 +1844,8 @@
       "is_pro": false
     },
     {
-      "id": 142,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "आयतन प्रत्यास्थता गुणांक (Bulk modulus) को एकाइ कुन हो?",
-      "options": [
-        "N/m²",
-        "N/m",
-        "J",
-        "N·m"
-      ],
-      "option_a": "N/m²",
-      "option_b": "N/m",
-      "option_c": "J",
-      "option_d": "N·m",
-      "answer_index": 0,
-      "explanation": "Bulk modulus K = -P/(ΔV/V) हुन्छ। यो चाप/विकृति भएकाले यसको एकाइ N/m² हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 143,
+      "qid": 2004240999,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3151,6 +1868,7 @@
     },
     {
       "id": 144,
+      "qid": 2285809785,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3172,29 +1890,8 @@
       "is_pro": false
     },
     {
-      "id": 145,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "स्टेफन-बोल्टजम्यान नियमअनुसार विकिरित ऊर्जा तापमानको कुन घातको समानुपाती हुन्छ?",
-      "options": [
-        "T⁴",
-        "T³",
-        "T²",
-        "T"
-      ],
-      "option_a": "T⁴",
-      "option_b": "T³",
-      "option_c": "T²",
-      "option_d": "T",
-      "answer_index": 0,
-      "explanation": "स्टेफन-बोल्टजम्यान नियमअनुसार E = σT⁴ हुन्छ। त्यसैले विकिरित ऊर्जा निरपेक्ष तापमानको चौथो घातको समानुपाती हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 146,
+      "qid": 851475862,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3217,6 +1914,7 @@
     },
     {
       "id": 147,
+      "qid": 37116191,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3239,6 +1937,7 @@
     },
     {
       "id": 148,
+      "qid": 3300184761,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3261,6 +1960,7 @@
     },
     {
       "id": 149,
+      "qid": 2748768178,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3283,6 +1983,7 @@
     },
     {
       "id": 150,
+      "qid": 2064550008,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3304,29 +2005,8 @@
       "is_pro": false
     },
     {
-      "id": 151,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "तरंगको गतिको सूत्र कुन हो?",
-      "options": [
-        "v = fλ",
-        "v = f/λ",
-        "v = λ/f",
-        "v = f²λ"
-      ],
-      "option_a": "v = fλ",
-      "option_b": "v = f/λ",
-      "option_c": "v = λ/f",
-      "option_d": "v = f²λ",
-      "answer_index": 0,
-      "explanation": "तरंगको गति v = fλ हुन्छ, जहाँ f आवृत्ति र λ तरंगदैर्ध्य हो।",
-      "is_pro": false
-    },
-    {
       "id": 152,
+      "qid": 2855340056,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3349,6 +2029,7 @@
     },
     {
       "id": 153,
+      "qid": 1792817587,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3371,6 +2052,7 @@
     },
     {
       "id": 154,
+      "qid": 1451946795,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3393,6 +2075,7 @@
     },
     {
       "id": 155,
+      "qid": 1646386295,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3414,29 +2097,8 @@
       "is_pro": false
     },
     {
-      "id": 156,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "व्यतिकरणका लागि सुसंगत स्रोतमा के हुनुपर्छ?",
-      "options": [
-        "स्थिर कला भिन्नता",
-        "फरक आवृत्ति",
-        "फरक तरंगदैर्ध्य",
-        "फरक आयाम"
-      ],
-      "option_a": "स्थिर कला भिन्नता",
-      "option_b": "फरक आवृत्ति",
-      "option_c": "फरक तरंगदैर्ध्य",
-      "option_d": "फरक आयाम",
-      "answer_index": 0,
-      "explanation": "सुसंगत स्रोतहरूमा आवृत्ति समान र कला भिन्नता स्थिर हुनुपर्छ। यस्तो भएमा मात्र स्थिर व्यतिकरण ढाँचा देखिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 157,
+      "qid": 4065261688,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3459,6 +2121,7 @@
     },
     {
       "id": 158,
+      "qid": 2264132736,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3481,6 +2144,7 @@
     },
     {
       "id": 159,
+      "qid": 1512797826,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3502,51 +2166,8 @@
       "is_pro": false
     },
     {
-      "id": 160,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "निकट दृष्टि दोष (Myopia) को सुधार कुन लेन्सले गर्छ?",
-      "options": [
-        "अवतल लेन्स",
-        "उत्तल लेन्स",
-        "बेलनाकार लेन्स",
-        "समतल लेन्स"
-      ],
-      "option_a": "अवतल लेन्स",
-      "option_b": "उत्तल लेन्स",
-      "option_c": "बेलनाकार लेन्स",
-      "option_d": "समतल लेन्स",
-      "answer_index": 0,
-      "explanation": "निकट दृष्टि दोषमा टाढाको वस्तु स्पष्ट देखिँदैन। यसलाई अवतल (Concave) लेन्सले सुधार गर्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 161,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "धारिताको SI एकाइ कुन हो?",
-      "options": [
-        "फराड",
-        "हेनरी",
-        "टेस्ला",
-        "ओम"
-      ],
-      "option_a": "फराड",
-      "option_b": "हेनरी",
-      "option_c": "टेस्ला",
-      "option_d": "ओम",
-      "answer_index": 0,
-      "explanation": "धारिता C = Q/V हुन्छ। यसको SI एकाइ फराड (F) हो। १ F = १ C/V।",
-      "is_pro": false
-    },
-    {
       "id": 162,
+      "qid": 1896045660,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3569,6 +2190,7 @@
     },
     {
       "id": 163,
+      "qid": 2343735389,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3591,6 +2213,7 @@
     },
     {
       "id": 164,
+      "qid": 2337523896,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3613,6 +2236,7 @@
     },
     {
       "id": 165,
+      "qid": 3066510406,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3634,29 +2258,8 @@
       "is_pro": false
     },
     {
-      "id": 166,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "डायम्याग्नेटिक पदार्थको चुम्बकीय संवेदनशीलता कस्तो हुन्छ?",
-      "options": [
-        "सानो ऋणात्मक",
-        "ठूलो धनात्मक",
-        "शून्य",
-        "अनन्त"
-      ],
-      "option_a": "सानो ऋणात्मक",
-      "option_b": "ठूलो धनात्मक",
-      "option_c": "शून्य",
-      "option_d": "अनन्त",
-      "answer_index": 0,
-      "explanation": "डायम्याग्नेटिक पदार्थमा चुम्बकीय संवेदनशीलता χ सानो र ऋणात्मक हुन्छ। यी पदार्थ चुम्बकीय क्षेत्रले हल्का विकर्षित हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 167,
+      "qid": 410391576,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3679,6 +2282,7 @@
     },
     {
       "id": 168,
+      "qid": 3630295616,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3701,6 +2305,7 @@
     },
     {
       "id": 169,
+      "qid": 2914639049,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3723,6 +2328,7 @@
     },
     {
       "id": 170,
+      "qid": 2396060950,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3745,6 +2351,7 @@
     },
     {
       "id": 171,
+      "qid": 854268376,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3766,29 +2373,8 @@
       "is_pro": false
     },
     {
-      "id": 172,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "आइसोटोपहरूमा के समान हुन्छ?",
-      "options": [
-        "परमाणु संख्या",
-        "द्रव्यमान संख्या",
-        "न्युट्रोन संख्या",
-        "आणविक पिण्ड"
-      ],
-      "option_a": "परमाणु संख्या",
-      "option_b": "द्रव्यमान संख्या",
-      "option_c": "न्युट्रोन संख्या",
-      "option_d": "आणविक पिण्ड",
-      "answer_index": 0,
-      "explanation": "आइसोटोपहरूमा प्रोटोनको संख्या अर्थात् परमाणु संख्या समान हुन्छ, तर न्युट्रोन संख्या फरक हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 173,
+      "qid": 3046646553,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3810,29 +2396,8 @@
       "is_pro": false
     },
     {
-      "id": 174,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "रेडियोएक्टिभिटीको SI एकाइ कुन हो?",
-      "options": [
-        "बेक्वेरल",
-        "क्युरी",
-        "रोन्टजेन",
-        "ग्रे"
-      ],
-      "option_a": "बेक्वेरल",
-      "option_b": "क्युरी",
-      "option_c": "रोन्टजेन",
-      "option_d": "ग्रे",
-      "answer_index": 0,
-      "explanation": "रेडियोएक्टिभिटीको SI एकाइ बेक्वेरल (Bq) हो। १ Bq = १ क्षय प्रति सेकेन्ड।",
-      "is_pro": false
-    },
-    {
       "id": 175,
+      "qid": 1942508980,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3855,6 +2420,7 @@
     },
     {
       "id": 176,
+      "qid": 2998940478,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3876,29 +2442,8 @@
       "is_pro": false
     },
     {
-      "id": 177,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "ट्रान्जिस्टरको मुख्य प्रयोग केका लागि गरिन्छ?",
-      "options": [
-        "प्रवर्धन (Amplification)",
-        "दिष्टकरण",
-        "नियमन",
-        "मोडुलन"
-      ],
-      "option_a": "प्रवर्धन (Amplification)",
-      "option_b": "दिष्टकरण",
-      "option_c": "नियमन",
-      "option_d": "मोडुलन",
-      "answer_index": 0,
-      "explanation": "ट्रान्जिस्टरलाई प्रवर्धक (Amplifier) को रूपमा प्रयोग गरिन्छ। यसले सानो सङ्केतलाई ठूलो बनाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 178,
+      "qid": 2513693076,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3921,6 +2466,7 @@
     },
     {
       "id": 179,
+      "qid": 2956755228,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3943,6 +2489,7 @@
     },
     {
       "id": 180,
+      "qid": 1224212279,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3965,6 +2512,7 @@
     },
     {
       "id": 181,
+      "qid": 3932314148,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -3987,6 +2535,7 @@
     },
     {
       "id": 182,
+      "qid": 2018065529,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -4008,29 +2557,8 @@
       "is_pro": false
     },
     {
-      "id": 183,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "भेक्टर गुणनफलको दिशा कस्तो हुन्छ?",
-      "options": [
-        "दुवै भेक्टरको लम्बवत्",
-        "दुवै भेक्टरको समतलमा",
-        "पहिलो भेक्टरको दिशामा",
-        "दोस्रो भेक्टरको दिशामा"
-      ],
-      "option_a": "दुवै भेक्टरको लम्बवत्",
-      "option_b": "दुवै भेक्टरको समतलमा",
-      "option_c": "पहिलो भेक्टरको दिशामा",
-      "option_d": "दोस्रो भेक्टरको दिशामा",
-      "answer_index": 0,
-      "explanation": "भेक्टर गुणनफल A×B को दिशा दुवै भेक्टरले बनाएको समतलको लम्बवत् हुन्छ। यो दायाँ हातको नियमले निर्धारण गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 184,
+      "qid": 220208724,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -4053,6 +2581,7 @@
     },
     {
       "id": 185,
+      "qid": 4154479186,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -4074,29 +2603,8 @@
       "is_pro": false
     },
     {
-      "id": 186,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "कार्य-ऊर्जा प्रमेयको समीकरण कुन हो?",
-      "options": [
-        "W = ΔK",
-        "W = ΔU",
-        "W = K + U",
-        "W = Δp"
-      ],
-      "option_a": "W = ΔK",
-      "option_b": "W = ΔU",
-      "option_c": "W = K + U",
-      "option_d": "W = Δp",
-      "answer_index": 0,
-      "explanation": "कार्य-ऊर्जा प्रमेयअनुसार कुल कार्य गतिज ऊर्जा परिवर्तन बराबर हुन्छ: W = ΔK = K_f - K_i।",
-      "is_pro": false
-    },
-    {
       "id": 187,
+      "qid": 3190073090,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -4119,6 +2627,7 @@
     },
     {
       "id": 188,
+      "qid": 890065394,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -4141,6 +2650,7 @@
     },
     {
       "id": 189,
+      "qid": 2188603359,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -4163,6 +2673,7 @@
     },
     {
       "id": 190,
+      "qid": 1761809473,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -4184,29 +2695,8 @@
       "is_pro": false
     },
     {
-      "id": 191,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Medium",
-      "question": "स्प्रिङको बल स्थिरांकको एकाइ कुन हो?",
-      "options": [
-        "N/m",
-        "N·m",
-        "J/m",
-        "kg/m"
-      ],
-      "option_a": "N/m",
-      "option_b": "N·m",
-      "option_c": "J/m",
-      "option_d": "kg/m",
-      "answer_index": 0,
-      "explanation": "हुकको नियम F = kx बाट k = F/x हुन्छ। त्यसैले बल स्थिरांकको एकाइ N/m हो।",
-      "is_pro": false
-    },
-    {
       "id": 192,
+      "qid": 1752508493,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -4228,29 +2718,8 @@
       "is_pro": false
     },
     {
-      "id": 193,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Easy",
-      "question": "सरल पेन्डुलमको आवर्तकालको सूत्र कुन हो?",
-      "options": [
-        "T = 2π√(l/g)",
-        "T = 2π√(g/l)",
-        "T = π√(l/g)",
-        "T = 2π(l/g)"
-      ],
-      "option_a": "T = 2π√(l/g)",
-      "option_b": "T = 2π√(g/l)",
-      "option_c": "T = π√(l/g)",
-      "option_d": "T = 2π(l/g)",
-      "answer_index": 0,
-      "explanation": "सरल पेन्डुलमको आवर्तकाल T = 2π√(l/g) हुन्छ, जहाँ l लम्बाइ र g गुरुत्वाकर्षण प्रवेग हो।",
-      "is_pro": false
-    },
-    {
       "id": 194,
+      "qid": 3290651031,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -4273,6 +2742,7 @@
     },
     {
       "id": 195,
+      "qid": 3449670142,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -4295,6 +2765,7 @@
     },
     {
       "id": 195,
+      "qid": 1177004899,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -4317,6 +2788,7 @@
     },
     {
       "id": 197,
+      "qid": 96272896,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -4338,29 +2810,8 @@
       "is_pro": false
     },
     {
-      "id": 198,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "118",
-      "sub_cat_name": "Physics",
-      "level": "Hard",
-      "question": "अपवर्तनाङ्कको सूत्र कुन हो?",
-      "options": [
-        "μ = c/v",
-        "μ = v/c",
-        "μ = cv",
-        "μ = 1/(cv)"
-      ],
-      "option_a": "μ = c/v",
-      "option_b": "μ = v/c",
-      "option_c": "μ = cv",
-      "option_d": "μ = 1/(cv)",
-      "answer_index": 0,
-      "explanation": "अपवर्तनाङ्क μ = c/v हुन्छ, जहाँ c निर्वातमा प्रकाशको गति र v माध्यममा प्रकाशको गति हो।",
-      "is_pro": false
-    },
-    {
       "id": 199,
+      "qid": 3883084677,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
@@ -4383,6 +2834,7 @@
     },
     {
       "id": 200,
+      "qid": 623952759,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "118",
