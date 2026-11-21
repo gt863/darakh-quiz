@@ -1,32 +1,11 @@
 {
   "sub_cat_id": "105",
-  "data_version": 1794491195766,
-  "total_questions": 66,
+  "data_version": 1795279225068,
+  "total_questions": 52,
   "questions": [
     {
-      "id": 1,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "105",
-      "sub_cat_name": "Science",
-      "level": "Easy",
-      "question": "हाम्रो सौर्यमण्डलको सबैभन्दा ठूलो ग्रह कुन हो?",
-      "options": [
-        "बृहस्पति (Jupiter)",
-        "पृथ्वी (Earth)",
-        "मङ्गल (Mars)",
-        "शनि (Saturn)"
-      ],
-      "option_a": "बृहस्पति (Jupiter)",
-      "option_b": "पृथ्वी (Earth)",
-      "option_c": "मङ्गल (Mars)",
-      "option_d": "शनि (Saturn)",
-      "answer_index": 0,
-      "explanation": "सौर्यमण्डलको सबैभन्दा ठूलो ग्रह बृहस्पति हो।",
-      "is_pro": false
-    },
-    {
       "id": 2,
+      "qid": 3131340530,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -49,6 +28,7 @@
     },
     {
       "id": 3,
+      "qid": 1846198879,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 3459003665,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -92,29 +73,8 @@
       "is_pro": false
     },
     {
-      "id": 5,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "105",
-      "sub_cat_name": "Science",
-      "level": "Medium",
-      "question": "कुन ग्रहलाई 'नीलो ग्रह' (Blue Planet) भनिन्छ?",
-      "options": [
-        "पृथ्वी",
-        "शुक्र",
-        "मङ्गल",
-        "वरुण"
-      ],
-      "option_a": "पृथ्वी",
-      "option_b": "शुक्र",
-      "option_c": "मङ्गल",
-      "option_d": "वरुण",
-      "answer_index": 0,
-      "explanation": "पृथ्वीको धेरैजसो भाग पानीले ढाकेको हुनाले यसलाई नीलो ग्रह भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 6,
+      "qid": 2175437232,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -137,6 +97,7 @@
     },
     {
       "id": 7,
+      "qid": 803076691,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -159,6 +120,7 @@
     },
     {
       "id": 8,
+      "qid": 4137237462,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -180,29 +142,8 @@
       "is_pro": false
     },
     {
-      "id": 9,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "105",
-      "sub_cat_name": "Science",
-      "level": "Medium",
-      "question": "सौर्यमण्डलमा जम्मा कतिवटा ग्रहहरू छन्?",
-      "options": [
-        "८ (आठ)",
-        "९ (नौ)",
-        "७ (सात)",
-        "१० (दश)"
-      ],
-      "option_a": "८ (आठ)",
-      "option_b": "९ (नौ)",
-      "option_c": "७ (सात)",
-      "option_d": "१० (दश)",
-      "answer_index": 0,
-      "explanation": "सन् २००६ पछि यम (Pluto) लाई ग्रहको सूचीबाट हटाएपछि सौर्यमण्डलमा ८ वटा ग्रहहरू छन्।",
-      "is_pro": false
-    },
-    {
       "id": 10,
+      "qid": 1740497178,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -225,6 +166,7 @@
     },
     {
       "id": 11,
+      "qid": 1029078658,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -247,6 +189,7 @@
     },
     {
       "id": 12,
+      "qid": 2341615879,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -269,6 +212,7 @@
     },
     {
       "id": 13,
+      "qid": 591318343,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -291,6 +235,7 @@
     },
     {
       "id": 14,
+      "qid": 748100295,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -312,29 +257,8 @@
       "is_pro": false
     },
     {
-      "id": 15,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "105",
-      "sub_cat_name": "Science",
-      "level": "Hard",
-      "question": "मानिसको शरीरमा जम्मा कतिवटा हाडहरू (Bones) हुन्छन्? (वयस्कमा)",
-      "options": [
-        "२०६",
-        "२००",
-        "२१२",
-        "३००"
-      ],
-      "option_a": "२०६",
-      "option_b": "२००",
-      "option_c": "२१२",
-      "option_d": "३००",
-      "answer_index": 0,
-      "explanation": "एक वयस्क मानिसको शरीरमा जम्मा २०६ वटा हाडहरू हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 16,
+      "qid": 3646935375,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -357,6 +281,7 @@
     },
     {
       "id": 17,
+      "qid": 977492798,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -378,29 +303,8 @@
       "is_pro": false
     },
     {
-      "id": 18,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "105",
-      "sub_cat_name": "Science",
-      "level": "Medium",
-      "question": "जमिन र पानी दुवै ठाउँमा बाँच्न सक्ने प्राणीलाई के भनिन्छ?",
-      "options": [
-        "उभयचर (Amphibian)",
-        "सरिसृप (Reptile)",
-        "स्तनधारी (Mammal)",
-        "माछा (Fish)"
-      ],
-      "option_a": "उभयचर (Amphibian)",
-      "option_b": "सरिसृप (Reptile)",
-      "option_c": "स्तनधारी (Mammal)",
-      "option_d": "माछा (Fish)",
-      "answer_index": 0,
-      "explanation": "भ्यागुतो जस्ता जमिन र पानी दुवै ठाउँमा बस्न सक्ने प्राणी उभयचर हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 19,
+      "qid": 2771507292,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -422,29 +326,8 @@
       "is_pro": false
     },
     {
-      "id": 20,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "105",
-      "sub_cat_name": "Science",
-      "level": "Easy",
-      "question": "कुन जनावरलाई 'मरुभूमिको जहाज' भनिन्छ?",
-      "options": [
-        "ऊँट",
-        "घोडा",
-        "गधा",
-        "हात्ती"
-      ],
-      "option_a": "ऊँट",
-      "option_b": "घोडा",
-      "option_c": "गधा",
-      "option_d": "हात्ती",
-      "answer_index": 0,
-      "explanation": "मरुभूमिमा बालुवामा सजिलै हिँड्न र धेरै दिन पानीविना बाँच्न सक्ने भएकोले ऊँटलाई मरुभूमिको जहाज भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 21,
+      "qid": 2434206122,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -467,6 +350,7 @@
     },
     {
       "id": 22,
+      "qid": 4121977969,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -489,6 +373,7 @@
     },
     {
       "id": 23,
+      "qid": 4041675961,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -511,6 +396,7 @@
     },
     {
       "id": 24,
+      "qid": 4278311757,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -533,6 +419,7 @@
     },
     {
       "id": 25,
+      "qid": 4015182232,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -554,29 +441,8 @@
       "is_pro": false
     },
     {
-      "id": 26,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "105",
-      "sub_cat_name": "Science",
-      "level": "Medium",
-      "question": "नयाँ बिरुवा उम्रिनको लागि फलभित्र के हुन्छ?",
-      "options": [
-        "बीउ (Seed)",
-        "रस",
-        "बोक्रा",
-        "काँडा"
-      ],
-      "option_a": "बीउ (Seed)",
-      "option_b": "रस",
-      "option_c": "बोक्रा",
-      "option_d": "काँडा",
-      "answer_index": 0,
-      "explanation": "फलभित्र हुने बीउबाट फेरि नयाँ बिरुवा उम्रिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 27,
+      "qid": 1926481324,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -599,6 +465,7 @@
     },
     {
       "id": 28,
+      "qid": 4192903330,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -621,6 +488,7 @@
     },
     {
       "id": 29,
+      "qid": 1863396506,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -643,6 +511,7 @@
     },
     {
       "id": 30,
+      "qid": 2910597639,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -665,6 +534,7 @@
     },
     {
       "id": 31,
+      "qid": 759676728,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -687,6 +557,7 @@
     },
     {
       "id": 32,
+      "qid": 1857242679,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -709,6 +580,7 @@
     },
     {
       "id": 33,
+      "qid": 217034636,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -731,6 +603,7 @@
     },
     {
       "id": 34,
+      "qid": 211839720,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -753,6 +626,7 @@
     },
     {
       "id": 35,
+      "qid": 2522590539,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -774,29 +648,8 @@
       "is_pro": false
     },
     {
-      "id": 36,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "105",
-      "sub_cat_name": "Science",
-      "level": "Medium",
-      "question": "आगो बाल्नको लागि कुन ग्यास आवश्यक पर्छ?",
-      "options": [
-        "अक्सिजन",
-        "कार्बन डाइअक्साइड",
-        "नाइट्रोजन",
-        "हाइड्रोजन"
-      ],
-      "option_a": "अक्सिजन",
-      "option_b": "कार्बन डाइअक्साइड",
-      "option_c": "नाइट्रोजन",
-      "option_d": "हाइड्रोजन",
-      "answer_index": 0,
-      "explanation": "अक्सिजनविना आगो बल्न सक्दैन।",
-      "is_pro": false
-    },
-    {
       "id": 37,
+      "qid": 1449729905,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -819,6 +672,7 @@
     },
     {
       "id": 38,
+      "qid": 529026552,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -841,6 +695,7 @@
     },
     {
       "id": 39,
+      "qid": 183942438,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -863,6 +718,7 @@
     },
     {
       "id": 40,
+      "qid": 589087687,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -885,6 +741,7 @@
     },
     {
       "id": 41,
+      "qid": 3804330705,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -907,6 +764,7 @@
     },
     {
       "id": 42,
+      "qid": 4278687419,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -928,51 +786,8 @@
       "is_pro": false
     },
     {
-      "id": 43,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "105",
-      "sub_cat_name": "Science",
-      "level": "Easy",
-      "question": "हामीले खाना खानु अघि केले हात धुनुपर्छ?",
-      "options": [
-        "साबुन पानीले",
-        "माटोले",
-        "सुक्खा कपडाले",
-        "विना साबुन पानीले"
-      ],
-      "option_a": "साबुन पानीले",
-      "option_b": "माटोले",
-      "option_c": "सुक्खा कपडाले",
-      "option_d": "विना साबुन पानीले",
-      "answer_index": 0,
-      "explanation": "हातमा भएका कीटाणुहरू मार्न खाना खानु अघि साबुन पानीले हात धुनुपर्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 44,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "105",
-      "sub_cat_name": "Science",
-      "level": "Hard",
-      "question": "भिटामिन 'ए' को कमीले कुन रोग लाग्छ?",
-      "options": [
-        "रतन्धो (Night blindness)",
-        "स्कर्भी",
-        "बेरीबेरी",
-        "रिकेट्स"
-      ],
-      "option_a": "रतन्धो (Night blindness)",
-      "option_b": "स्कर्भी",
-      "option_c": "बेरीबेरी",
-      "option_d": "रिकेट्स",
-      "answer_index": 0,
-      "explanation": "भिटामिन एको कमीले बेलुका वा कम उज्यालोमा राम्रोसँग नदेख्ने रतन्धो रोग लाग्छ।",
-      "is_pro": false
-    },
-    {
       "id": 45,
+      "qid": 2632412062,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -995,6 +810,7 @@
     },
     {
       "id": 46,
+      "qid": 1649263514,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1016,29 +832,8 @@
       "is_pro": false
     },
     {
-      "id": 47,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "105",
-      "sub_cat_name": "Science",
-      "level": "Easy",
-      "question": "हामीले दिनमा कति पटक दाँत माझ्नुपर्छ?",
-      "options": [
-        "२ पटक (बिहान र बेलुका)",
-        "१ पटक",
-        "३ पटक",
-        "माझ्नु पर्दैन"
-      ],
-      "option_a": "२ पटक (बिहान र बेलुका)",
-      "option_b": "१ पटक",
-      "option_c": "३ पटक",
-      "option_d": "माझ्नु पर्दैन",
-      "answer_index": 0,
-      "explanation": "दाँतलाई कीरा लाग्नबाट बचाउन बिहान उठेपछि र राति सुत्नुअघि गरी २ पटक माझ्नुपर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 48,
+      "qid": 344947488,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1061,6 +856,7 @@
     },
     {
       "id": 49,
+      "qid": 1066287093,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1083,6 +879,7 @@
     },
     {
       "id": 50,
+      "qid": 3060873032,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1104,29 +901,8 @@
       "is_pro": false
     },
     {
-      "id": 51,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "105",
-      "sub_cat_name": "Science",
-      "level": "Medium",
-      "question": "काम गर्न सक्ने क्षमतालाई के भनिन्छ?",
-      "options": [
-        "ऊर्जा (Energy)",
-        "बल (Force)",
-        "चाल (Motion)",
-        "ताप (Heat)"
-      ],
-      "option_a": "ऊर्जा (Energy)",
-      "option_b": "बल (Force)",
-      "option_c": "चाल (Motion)",
-      "option_d": "ताप (Heat)",
-      "answer_index": 0,
-      "explanation": "कुनै पनि काम गर्न वा वस्तुलाई एक ठाउँबाट अर्को ठाउँमा सार्न ऊर्जा चाहिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 52,
+      "qid": 2494751261,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1149,6 +925,7 @@
     },
     {
       "id": 53,
+      "qid": 4240393315,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1171,6 +948,7 @@
     },
     {
       "id": 54,
+      "qid": 62929493,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1193,6 +971,7 @@
     },
     {
       "id": 55,
+      "qid": 760308073,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1215,6 +994,7 @@
     },
     {
       "id": 56,
+      "qid": 1799206923,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1237,6 +1017,7 @@
     },
     {
       "id": 57,
+      "qid": 1693137827,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1259,6 +1040,7 @@
     },
     {
       "id": 58,
+      "qid": 3869085219,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1281,6 +1063,7 @@
     },
     {
       "id": 59,
+      "qid": 1830056978,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1302,29 +1085,8 @@
       "is_pro": false
     },
     {
-      "id": 60,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "105",
-      "sub_cat_name": "Science",
-      "level": "Easy",
-      "question": "आकाशमा देखिने सप्तरङ्गी धनुषलाई के भनिन्छ?",
-      "options": [
-        "इन्द्रेणी (Rainbow)",
-        "बादल",
-        "तारा",
-        "बिजुली"
-      ],
-      "option_a": "इन्द्रेणी (Rainbow)",
-      "option_b": "बादल",
-      "option_c": "तारा",
-      "option_d": "बिजुली",
-      "answer_index": 0,
-      "explanation": "पानी परेपछि घाम लाग्दा पानीका थोपाहरूमा प्रकाश परेर इन्द्रेणी बन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 61,
+      "qid": 617277702,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1347,6 +1109,7 @@
     },
     {
       "id": 62,
+      "qid": 1913304346,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1368,29 +1131,8 @@
       "is_pro": false
     },
     {
-      "id": 63,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "105",
-      "sub_cat_name": "Science",
-      "level": "Medium",
-      "question": "१ वर्षमा कति दिन हुन्छन्? (सामान्यतया)",
-      "options": [
-        "३६५ दिन",
-        "३६६ दिन",
-        "३०० दिन",
-        "३६० दिन"
-      ],
-      "option_a": "३६५ दिन",
-      "option_b": "३६६ दिन",
-      "option_c": "३०० दिन",
-      "option_d": "३६० दिन",
-      "answer_index": 0,
-      "explanation": "पृथ्वीले सूर्यलाई एक फन्को लगाउन ३६५ दिन र करिब ६ घण्टा लाग्छ।",
-      "is_pro": false
-    },
-    {
       "id": 64,
+      "qid": 2569667512,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1413,6 +1155,7 @@
     },
     {
       "id": 65,
+      "qid": 2094311028,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
@@ -1435,6 +1178,7 @@
     },
     {
       "id": 66,
+      "qid": 690068065,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "105",
