@@ -1,10 +1,11 @@
 {
   "sub_cat_id": "123",
-  "data_version": 1794491195766,
-  "total_questions": 100,
+  "data_version": 1795279225068,
+  "total_questions": 61,
   "questions": [
     {
       "id": 1,
+      "qid": 450583016,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -26,29 +27,8 @@
       "is_pro": false
     },
     {
-      "id": 2,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Medium",
-      "question": "मागको नियम अनुसार अन्य कुरा समान रहँदा वस्तुको मूल्य बढ्दा त्यसको मागमा के परिवर्तन हुन्छ?",
-      "options": [
-        "माग बढ्छ",
-        "माग घट्छ",
-        "माग स्थिर रहन्छ",
-        "माग अनिश्चित हुन्छ"
-      ],
-      "option_a": "माग बढ्छ",
-      "option_b": "माग घट्छ",
-      "option_c": "माग स्थिर रहन्छ",
-      "option_d": "माग अनिश्चित हुन्छ",
-      "answer_index": 0,
-      "explanation": "मागको नियमले मूल्य र मागबीच ऋणात्मक सम्बन्ध देखाउँछ। अन्य कुरा समान रहँदा वस्तुको मूल्य बढ्दा त्यसको माग घट्छ र मूल्य घट्दा माग बढ्छ।",
-      "is_pro": false
-    },
-    {
       "id": 3,
+      "qid": 2740922694,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 2187959055,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -93,6 +74,7 @@
     },
     {
       "id": 5,
+      "qid": 4072436457,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -115,6 +97,7 @@
     },
     {
       "id": 6,
+      "qid": 2336933117,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -136,29 +119,8 @@
       "is_pro": false
     },
     {
-      "id": 7,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Hard",
-      "question": "राष्ट्रिय आय गणनाको आय विधिमा कुन समावेश हुँदैन?",
-      "options": [
-        "ज्याला",
-        "ब्याज",
-        "नाफा",
-        "स्थानान्तरण भुक्तानी"
-      ],
-      "option_a": "ज्याला",
-      "option_b": "ब्याज",
-      "option_c": "नाफा",
-      "option_d": "स्थानान्तरण भुक्तानी",
-      "answer_index": 0,
-      "explanation": "राष्ट्रिय आयको आय विधिमा उत्पादनका साधनहरूबाट प्राप्त आय (ज्याला, ब्याज, लगानी, नाफा) समावेश हुन्छन्। स्थानान्तरण भुक्तानी (जस्तै पेन्सन, छात्रवृत्ति) उत्पादनमा योगदान नगर्ने हुँदा राष्ट्रिय आयमा समावेश गरिँदैन।",
-      "is_pro": false
-    },
-    {
       "id": 8,
+      "qid": 957015893,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -180,29 +142,8 @@
       "is_pro": false
     },
     {
-      "id": 9,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Easy",
-      "question": "नेपालको केन्द्रीय बैंक कुन हो?",
-      "options": [
-        "नेपाल राष्ट्र बैंक",
-        "राष्ट्रिय वाणिज्य बैंक",
-        "कृषि विकास बैंक",
-        "नबिल बैंक"
-      ],
-      "option_a": "नेपाल राष्ट्र बैंक",
-      "option_b": "राष्ट्रिय वाणिज्य बैंक",
-      "option_c": "कृषि विकास बैंक",
-      "option_d": "नबिल बैंक",
-      "answer_index": 0,
-      "explanation": "नेपाल राष्ट्र बैंक नेपालको केन्द्रीय बैंक हो। यसको स्थापना २०१३ साल वैशाख १४ गते भएको थियो। यसले मुद्रा जारी गर्ने, मौद्रिक नीति बनाउने र बैंकिङ नियमन गर्ने काम गर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 10,
+      "qid": 265254725,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -225,6 +166,7 @@
     },
     {
       "id": 11,
+      "qid": 1221756666,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -246,29 +188,8 @@
       "is_pro": false
     },
     {
-      "id": 12,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Easy",
-      "question": "उत्पादनको सीमान्त लागत (Marginal Cost) भन्नाले के बुझिन्छ?",
-      "options": [
-        "थप एक इकाइ उत्पादन गर्दा हुने कुल लागतमा वृद्धि",
-        "कुल लागतलाई उत्पादन मात्राले भाग गर्दा आउने लागत",
-        "उत्पादन नहुँदा हुने लागत",
-        "परिवर्तनशील लागतको औसत"
-      ],
-      "option_a": "थप एक इकाइ उत्पादन गर्दा हुने कुल लागतमा वृद्धि",
-      "option_b": "कुल लागतलाई उत्पादन मात्राले भाग गर्दा आउने लागत",
-      "option_c": "उत्पादन नहुँदा हुने लागत",
-      "option_d": "परिवर्तनशील लागतको औसत",
-      "answer_index": 0,
-      "explanation": "सीमान्त लागत (MC) भन्नाले थप एक इकाइ वस्तु उत्पादन गर्दा कुल लागतमा हुने वृद्धिलाई जनाउँछ। गणितीय रूपमा MC = कुल लागतमा परिवर्तन ÷ उत्पादनमा परिवर्तन।",
-      "is_pro": false
-    },
-    {
       "id": 13,
+      "qid": 601690177,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -290,29 +211,8 @@
       "is_pro": false
     },
     {
-      "id": 14,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Hard",
-      "question": "कुन अवस्थामा कुल उपयोगिता अधिकतम हुन्छ?",
-      "options": [
-        "सीमान्त उपयोगिता शून्य हुँदा",
-        "सीमान्त उपयोगिता ऋणात्मक हुँदा",
-        "सीमान्त उपयोगिता अधिकतम हुँदा",
-        "कुल उपयोगिता शून्य हुँदा"
-      ],
-      "option_a": "सीमान्त उपयोगिता शून्य हुँदा",
-      "option_b": "सीमान्त उपयोगिता ऋणात्मक हुँदा",
-      "option_c": "सीमान्त उपयोगिता अधिकतम हुँदा",
-      "option_d": "कुल उपयोगिता शून्य हुँदा",
-      "answer_index": 0,
-      "explanation": "कुल उपयोगिता त्यस बिन्दुमा अधिकतम हुन्छ जहाँ सीमान्त उपयोगिता (Marginal Utility) शून्य हुन्छ। त्यसपछि उपभोग बढाउँदा सीमान्त उपयोगिता ऋणात्मक हुन्छ र कुल उपयोगिता घट्छ।",
-      "is_pro": false
-    },
-    {
       "id": 15,
+      "qid": 3593650009,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -335,6 +235,7 @@
     },
     {
       "id": 16,
+      "qid": 3340779039,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -357,6 +258,7 @@
     },
     {
       "id": 17,
+      "qid": 1606629621,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -379,6 +281,7 @@
     },
     {
       "id": 18,
+      "qid": 775487961,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -401,6 +304,7 @@
     },
     {
       "id": 19,
+      "qid": 4223442617,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -423,6 +327,7 @@
     },
     {
       "id": 20,
+      "qid": 464640847,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -445,6 +350,7 @@
     },
     {
       "id": 21,
+      "qid": 3534978129,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -466,29 +372,8 @@
       "is_pro": false
     },
     {
-      "id": 22,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Medium",
-      "question": "मागको मूल्य लोचको सूत्र कुन हो?",
-      "options": [
-        "(मागमा प्रतिशत परिवर्तन) ÷ (मूल्यमा प्रतिशत परिवर्तन)",
-        "(मूल्यमा प्रतिशत परिवर्तन) ÷ (मागमा प्रतिशत परिवर्तन)",
-        "(मागमा परिवर्तन) × (मूल्यमा परिवर्तन)",
-        "(मूल्यमा परिवर्तन) ÷ (मागमा परिवर्तन)"
-      ],
-      "option_a": "(मागमा प्रतिशत परिवर्तन) ÷ (मूल्यमा प्रतिशत परिवर्तन)",
-      "option_b": "(मूल्यमा प्रतिशत परिवर्तन) ÷ (मागमा प्रतिशत परिवर्तन)",
-      "option_c": "(मागमा परिवर्तन) × (मूल्यमा परिवर्तन)",
-      "option_d": "(मूल्यमा परिवर्तन) ÷ (मागमा परिवर्तन)",
-      "answer_index": 0,
-      "explanation": "मागको मूल्य लोच (Price Elasticity of Demand) को सूत्र: Ed = मागमा भएको प्रतिशत परिवर्तन ÷ मूल्यमा भएको प्रतिशत परिवर्तन। यसले मूल्य परिवर्तनप्रति मागको संवेदनशीलता मापन गर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 23,
+      "qid": 2822243658,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -511,6 +396,7 @@
     },
     {
       "id": 24,
+      "qid": 3891110264,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -533,6 +419,7 @@
     },
     {
       "id": 25,
+      "qid": 2258648108,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -555,6 +442,7 @@
     },
     {
       "id": 26,
+      "qid": 4088946271,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -577,6 +465,7 @@
     },
     {
       "id": 27,
+      "qid": 920160353,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -598,29 +487,8 @@
       "is_pro": false
     },
     {
-      "id": 28,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Medium",
-      "question": "मागको क्रस लोच धनात्मक हुन्छ जब दुई वस्तु के हुन्?",
-      "options": [
-        "पूरक वस्तु",
-        "प्रतिस्थापन वस्तु",
-        "हीन वस्तु",
-        "स्वतन्त्र वस्तु"
-      ],
-      "option_a": "पूरक वस्तु",
-      "option_b": "प्रतिस्थापन वस्तु",
-      "option_c": "हीन वस्तु",
-      "option_d": "स्वतन्त्र वस्तु",
-      "answer_index": 0,
-      "explanation": "मागको क्रस लोच (Cross Elasticity of Demand) धनात्मक हुन्छ जब दुई वस्तुहरू प्रतिस्थापन (Substitute) हुन्छन्। जस्तै, चिया र कफी: कफीको मूल्य बढ्दा चियाको माग बढ्छ। पूरक वस्तुको क्रस लोच ऋणात्मक हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 29,
+      "qid": 3647714136,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -643,6 +511,7 @@
     },
     {
       "id": 30,
+      "qid": 428631371,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -665,6 +534,7 @@
     },
     {
       "id": 31,
+      "qid": 2607234745,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -687,6 +557,7 @@
     },
     {
       "id": 32,
+      "qid": 3286263712,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -709,6 +580,7 @@
     },
     {
       "id": 33,
+      "qid": 3254772656,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -731,6 +603,7 @@
     },
     {
       "id": 34,
+      "qid": 437556065,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -753,6 +626,7 @@
     },
     {
       "id": 35,
+      "qid": 993704824,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -775,6 +649,7 @@
     },
     {
       "id": 36,
+      "qid": 359438512,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -797,6 +672,7 @@
     },
     {
       "id": 37,
+      "qid": 2922395440,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -819,6 +695,7 @@
     },
     {
       "id": 38,
+      "qid": 391695287,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -841,6 +718,7 @@
     },
     {
       "id": 39,
+      "qid": 3659826097,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -862,51 +740,8 @@
       "is_pro": false
     },
     {
-      "id": 40,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Medium",
-      "question": "कुन अवस्थामा सरकारले करको दर बढाउँदा मुद्रास्फीति नियन्त्रणमा मद्दत गर्छ?",
-      "options": [
-        "जब अर्थतन्त्रमा माग बढी छ",
-        "जब अर्थतन्त्रमा माग कम छ",
-        "जब बेरोजगारी उच्च छ",
-        "जब लगानी उच्च छ"
-      ],
-      "option_a": "जब अर्थतन्त्रमा माग बढी छ",
-      "option_b": "जब अर्थतन्त्रमा माग कम छ",
-      "option_c": "जब बेरोजगारी उच्च छ",
-      "option_d": "जब लगानी उच्च छ",
-      "answer_index": 0,
-      "explanation": "मुद्रास्फीति सामान्यतया माग बढी हुँदा उत्पन्न हुन्छ। करको दर बढाउँदा उपभोक्ताको प्रयोग्य आय घट्छ र माग घट्छ, जसले मूल्य वृद्धि नियन्त्रण गर्न मद्दत गर्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 41,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Hard",
-      "question": "कुन अवस्थामा कुल उत्पादनमा वृद्धि हुँदा पनि प्रतिव्यक्ति आय घट्न सक्छ?",
-      "options": [
-        "जब जनसंख्या उत्पादनभन्दा छिटो बढ्छ",
-        "जब जनसंख्या उत्पादनभन्दा ढिलो बढ्छ",
-        "जब जनसंख्या स्थिर रहन्छ",
-        "जब उत्पादन स्थिर रहन्छ"
-      ],
-      "option_a": "जब जनसंख्या उत्पादनभन्दा छिटो बढ्छ",
-      "option_b": "जब जनसंख्या उत्पादनभन्दा ढिलो बढ्छ",
-      "option_c": "जब जनसंख्या स्थिर रहन्छ",
-      "option_d": "जब उत्पादन स्थिर रहन्छ",
-      "answer_index": 0,
-      "explanation": "प्रतिव्यक्ति आय = कुल राष्ट्रिय आय ÷ कुल जनसंख्या। यदि कुल उत्पादन बढे पनि जनसंख्या उत्पादनभन्दा छिटो बढ्यो भने प्रतिव्यक्ति आय घट्न सक्छ।",
-      "is_pro": false
-    },
-    {
       "id": 42,
+      "qid": 2096102668,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -928,29 +763,8 @@
       "is_pro": false
     },
     {
-      "id": 43,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Medium",
-      "question": "उपभोक्ताको सन्तुलन कुन अवस्थामा प्राप्त हुन्छ?",
-      "options": [
-        "जब सीमान्त उपयोगिता = मूल्य",
-        "जब सीमान्त उपयोगिता > मूल्य",
-        "जब सीमान्त उपयोगिता < मूल्य",
-        "जब कुल उपयोगिता शून्य हुन्छ"
-      ],
-      "option_a": "जब सीमान्त उपयोगिता = मूल्य",
-      "option_b": "जब सीमान्त उपयोगिता > मूल्य",
-      "option_c": "जब सीमान्त उपयोगिता < मूल्य",
-      "option_d": "जब कुल उपयोगिता शून्य हुन्छ",
-      "answer_index": 0,
-      "explanation": "उपभोक्ता सन्तुलन त्यस बिन्दुमा हुन्छ जहाँ वस्तुको सीमान्त उपयोगिता (MU) र त्यसको मूल्य (P) बराबर हुन्छ। यसलाई MU = P भनिन्छ। यदि MU > P भए उपभोक्ताले थप उपभोग गर्छ र यदि MU < P भए उपभोग घटाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 44,
+      "qid": 1040586387,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -973,6 +787,7 @@
     },
     {
       "id": 45,
+      "qid": 2401522575,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -995,6 +810,7 @@
     },
     {
       "id": 46,
+      "qid": 349046136,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1017,6 +833,7 @@
     },
     {
       "id": 47,
+      "qid": 4257450790,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1039,6 +856,7 @@
     },
     {
       "id": 48,
+      "qid": 353789341,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1061,6 +879,7 @@
     },
     {
       "id": 49,
+      "qid": 1221756666,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1083,6 +902,7 @@
     },
     {
       "id": 50,
+      "qid": 779390534,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1105,6 +925,7 @@
     },
     {
       "id": 51,
+      "qid": 3340369462,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1126,29 +947,8 @@
       "is_pro": false
     },
     {
-      "id": 52,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Medium",
-      "question": "कुन अवस्थामा बजारमा अभाव (Shortage) उत्पन्न हुन्छ?",
-      "options": [
-        "जब माग > आपूर्ति",
-        "जब माग < आपूर्ति",
-        "जब माग = आपूर्ति",
-        "जब मूल्य सन्तुलन मूल्यभन्दा माथि हुन्छ"
-      ],
-      "option_a": "जब माग > आपूर्ति",
-      "option_b": "जब माग < आपूर्ति",
-      "option_c": "जब माग = आपूर्ति",
-      "option_d": "जब मूल्य सन्तुलन मूल्यभन्दा माथि हुन्छ",
-      "answer_index": 0,
-      "explanation": "बजारमा अभाव (Shortage) त्यस अवस्थामा उत्पन्न हुन्छ जब माग आपूर्तिभन्दा बढी हुन्छ। यो सामान्यतया सन्तुलन मूल्यभन्दा तलको मूल्यमा हुन्छ, जसले उत्पादकहरूलाई मूल्य बढाउन प्रोत्साहित गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 53,
+      "qid": 1353951379,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1171,6 +971,7 @@
     },
     {
       "id": 54,
+      "qid": 1133313163,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1192,29 +993,8 @@
       "is_pro": false
     },
     {
-      "id": 55,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Medium",
-      "question": "कुन अवस्थामा राष्ट्रिय आयमा वृद्धि हुन्छ?",
-      "options": [
-        "जब उत्पादन बढ्छ",
-        "जब मूल्य स्तर बढ्छ",
-        "जब जनसंख्या बढ्छ",
-        "जब आयात बढ्छ"
-      ],
-      "option_a": "जब उत्पादन बढ्छ",
-      "option_b": "जब मूल्य स्तर बढ्छ",
-      "option_c": "जब जनसंख्या बढ्छ",
-      "option_d": "जब आयात बढ्छ",
-      "answer_index": 0,
-      "explanation": "राष्ट्रिय आय वस्तु र सेवाको उत्पादनमा निर्भर गर्दछ। उत्पादन बढ्दा राष्ट्रिय आय बढ्छ। मूल्य स्तर बढ्नु वा जनसंख्या बढ्नुले वास्तविक राष्ट्रिय आय बढाउँदैन।",
-      "is_pro": false
-    },
-    {
       "id": 56,
+      "qid": 1165703434,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1236,29 +1016,8 @@
       "is_pro": false
     },
     {
-      "id": 57,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Easy",
-      "question": "कुन अवस्थामा उपभोक्ताले अधिकतम सन्तुष्टि प्राप्त गर्छ?",
-      "options": [
-        "जब सीमान्त उपयोगिता = मूल्य",
-        "जब सीमान्त उपयोगिता > मूल्य",
-        "जब सीमान्त उपयोगिता < मूल्य",
-        "जब कुल उपयोगिता शून्य हुन्छ"
-      ],
-      "option_a": "जब सीमान्त उपयोगिता = मूल्य",
-      "option_b": "जब सीमान्त उपयोगिता > मूल्य",
-      "option_c": "जब सीमान्त उपयोगिता < मूल्य",
-      "option_d": "जब कुल उपयोगिता शून्य हुन्छ",
-      "answer_index": 0,
-      "explanation": "उपभोक्ता सन्तुलन त्यस बिन्दुमा हुन्छ जहाँ प्रत्येक वस्तुको सीमान्त उपयोगिता र त्यसको मूल्य बराबर हुन्छ। यसलाई MU = P भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 58,
+      "qid": 252498498,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1280,29 +1039,8 @@
       "is_pro": false
     },
     {
-      "id": 59,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Hard",
-      "question": "कुन अवस्थामा उत्पादनको पैमानीय प्रतिफल स्थिर हुन्छ?",
-      "options": [
-        "जब सबै साधन समान अनुपातमा बढाउँदा उत्पादन पनि त्यसै अनुपातमा बढ्छ",
-        "जब सबै साधन समान अनुपातमा बढाउँदा उत्पादन त्यसभन्दा बढी अनुपातमा बढ्छ",
-        "जब सबै साधन समान अनुपातमा बढाउँदा उत्पादन घट्छ",
-        "जब उत्पादन स्थिर रहन्छ"
-      ],
-      "option_a": "जब सबै साधन समान अनुपातमा बढाउँदा उत्पादन पनि त्यसै अनुपातमा बढ्छ",
-      "option_b": "जब सबै साधन समान अनुपातमा बढाउँदा उत्पादन त्यसभन्दा बढी अनुपातमा बढ्छ",
-      "option_c": "जब सबै साधन समान अनुपातमा बढाउँदा उत्पादन घट्छ",
-      "option_d": "जब उत्पादन स्थिर रहन्छ",
-      "answer_index": 0,
-      "explanation": "स्थिर पैमानीय प्रतिफल (Constant Returns to Scale) त्यस अवस्थामा हुन्छ जब सबै उत्पादन साधनहरूलाई समान अनुपातमा बढाउँदा उत्पादन पनि त्यसै अनुपातमा बढ्छ।",
-      "is_pro": false
-    },
-    {
       "id": 60,
+      "qid": 2688281613,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1325,6 +1063,7 @@
     },
     {
       "id": 61,
+      "qid": 2428766379,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1346,117 +1085,8 @@
       "is_pro": false
     },
     {
-      "id": 62,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Hard",
-      "question": "कुन अवस्थामा राष्ट्रिय आयको गणना गर्दा 'मूल्य अभिवृद्धि विधि' उपयुक्त हुन्छ?",
-      "options": [
-        "जब दोहोरो गणना रोक्नु छ",
-        "जब आयको वितरण हेर्नु छ",
-        "जब उपभोगको स्तर हेर्नु छ",
-        "जब विदेशी व्यापार हेर्नु छ"
-      ],
-      "option_a": "जब दोहोरो गणना रोक्नु छ",
-      "option_b": "जब आयको वितरण हेर्नु छ",
-      "option_c": "जब उपभोगको स्तर हेर्नु छ",
-      "option_d": "जब विदेशी व्यापार हेर्नु छ",
-      "answer_index": 0,
-      "explanation": "मूल्य अभिवृद्धि विधि (Value Added Method) मा प्रत्येक उत्पादन चरणमा थपिएको मूल्य मात्र समावेश गरिन्छ, जसले मध्यवर्ती वस्तुको दोहोरो गणना रोक्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 63,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Easy",
-      "question": "कुन अवस्थामा मुद्रास्फीति हुन्छ?",
-      "options": [
-        "जब सामान्य मूल्य स्तर लगातार बढ्छ",
-        "जब सामान्य मूल्य स्तर लगातार घट्छ",
-        "जब उत्पादन लगातार बढ्छ",
-        "जब बेरोजगारी लगातार बढ्छ"
-      ],
-      "option_a": "जब सामान्य मूल्य स्तर लगातार बढ्छ",
-      "option_b": "जब सामान्य मूल्य स्तर लगातार घट्छ",
-      "option_c": "जब उत्पादन लगातार बढ्छ",
-      "option_d": "जब बेरोजगारी लगातार बढ्छ",
-      "answer_index": 0,
-      "explanation": "मुद्रास्फीति (Inflation) भन्नाले अर्थतन्त्रमा वस्तु र सेवाको सामान्य मूल्य स्तरमा लगातार वृद्धि हुनुलाई जनाउँछ। यसले मुद्राको क्रयशक्ति घटाउँछ।",
-      "is_pro": false
-    },
-    {
-      "id": 64,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Medium",
-      "question": "कुन अवस्थामा सरकारले आयातमा कर लगाउँछ?",
-      "options": [
-        "जब स्वदेशी उद्योगलाई संरक्षण दिनु छ",
-        "जब निर्यात बढाउनु छ",
-        "जब विदेशी लगानी बढाउनु छ",
-        "जब उपभोग घटाउनु छ"
-      ],
-      "option_a": "जब स्वदेशी उद्योगलाई संरक्षण दिनु छ",
-      "option_b": "जब निर्यात बढाउनु छ",
-      "option_c": "जब विदेशी लगानी बढाउनु छ",
-      "option_d": "जब उपभोग घटाउनु छ",
-      "answer_index": 0,
-      "explanation": "सरकारले आयातमा भन्सार महसुल लगाएर स्वदेशी उद्योगहरूलाई संरक्षण दिन सक्छ। यसले आयातित वस्तुको मूल्य बढाउँछ र स्वदेशी वस्तुको माग बढाउँछ।",
-      "is_pro": false
-    },
-    {
-      "id": 65,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Hard",
-      "question": "कुन अवस्थामा उपभोक्ता र उत्पादकबीच अधिकतम सन्तुलन हुन्छ?",
-      "options": [
-        "जब माग र आपूर्ति दुवै लोचदार हुन्छन्",
-        "जब माग र आपूर्ति दुवै बेलोचदार हुन्छन्",
-        "जब माग लोचदार र आपूर्ति बेलोचदार हुन्छ",
-        "जब माग बेलोचदार र आपूर्ति लोचदार हुन्छ"
-      ],
-      "option_a": "जब माग र आपूर्ति दुवै लोचदार हुन्छन्",
-      "option_b": "जब माग र आपूर्ति दुवै बेलोचदार हुन्छन्",
-      "option_c": "जब माग लोचदार र आपूर्ति बेलोचदार हुन्छ",
-      "option_d": "जब माग बेलोचदार र आपूर्ति लोचदार हुन्छ",
-      "answer_index": 0,
-      "explanation": "जब माग र आपूर्ति दुवै लोचदार हुन्छन्, बजारमा सन्तुलन सहजै स्थापित हुन्छ र मूल्य परिवर्तनप्रति दुवै पक्ष संवेदनशील हुन्छन्। यसले उपभोक्ता र उत्पादक दुवैको सन्तुलनमा योगदान गर्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 66,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Easy",
-      "question": "कुन अवस्थामा बैंकले ऋण दिन सक्छ?",
-      "options": [
-        "जब निक्षेप बढ्छ",
-        "जब निक्षेप घट्छ",
-        "जब ब्याजदर शून्य हुन्छ",
-        "जब सरकारी खर्च बढ्छ"
-      ],
-      "option_a": "जब निक्षेप बढ्छ",
-      "option_b": "जब निक्षेप घट्छ",
-      "option_c": "जब ब्याजदर शून्य हुन्छ",
-      "option_d": "जब सरकारी खर्च बढ्छ",
-      "answer_index": 0,
-      "explanation": "बैंकले निक्षेपको आधारमा ऋण दिन्छ। निक्षेप बढ्दा बैंकसँग ऋण दिने क्षमता बढ्छ। बैंकले नगद आरक्षित अनुपात कायम राखेर बाँकी रकम ऋण दिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 67,
+      "qid": 867862117,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1478,29 +1108,8 @@
       "is_pro": false
     },
     {
-      "id": 68,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Hard",
-      "question": "कुन अवस्थामा उत्पादनको सीमान्त लागत वक्र U-आकारको हुन्छ?",
-      "options": [
-        "जब उत्पादन बढ्दा सीमान्त लागत पहिले घट्छ र पछि बढ्छ",
-        "जब उत्पादन बढ्दा सीमान्त लागत लगातार बढ्छ",
-        "जब उत्पादन बढ्दा सीमान्त लागत लगातार घट्छ",
-        "जब उत्पादन स्थिर रहन्छ"
-      ],
-      "option_a": "जब उत्पादन बढ्दा सीमान्त लागत पहिले घट्छ र पछि बढ्छ",
-      "option_b": "जब उत्पादन बढ्दा सीमान्त लागत लगातार बढ्छ",
-      "option_c": "जब उत्पादन बढ्दा सीमान्त लागत लगातार घट्छ",
-      "option_d": "जब उत्पादन स्थिर रहन्छ",
-      "answer_index": 0,
-      "explanation": "सीमान्त लागत वक्र सामान्यतया U-आकारको हुन्छ किनभने सुरुमा उत्पादन बढ्दा ह्रासमान प्रतिफलको कारण सीमान्त लागत घट्छ, तर पछि बढ्दो प्रतिफलको कारण बढ्छ।",
-      "is_pro": false
-    },
-    {
       "id": 69,
+      "qid": 3007655595,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1523,6 +1132,7 @@
     },
     {
       "id": 70,
+      "qid": 2520935247,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1545,6 +1155,7 @@
     },
     {
       "id": 71,
+      "qid": 3462291879,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1566,29 +1177,8 @@
       "is_pro": false
     },
     {
-      "id": 72,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Easy",
-      "question": "कुन अवस्थामा सरकारले सार्वजनिक वस्तु उत्पादन गर्छ?",
-      "options": [
-        "जब निजी क्षेत्रले उत्पादन गर्न इन्कार गर्छ",
-        "जब निजी क्षेत्रले उत्पादन गर्न सक्छ",
-        "जब बजारमा प्रतिस्पर्धा छ",
-        "जब उपभोक्ताले माग गर्छ"
-      ],
-      "option_a": "जब निजी क्षेत्रले उत्पादन गर्न इन्कार गर्छ",
-      "option_b": "जब निजी क्षेत्रले उत्पादन गर्न सक्छ",
-      "option_c": "जब बजारमा प्रतिस्पर्धा छ",
-      "option_d": "जब उपभोक्ताले माग गर्छ",
-      "answer_index": 0,
-      "explanation": "सार्वजनिक वस्तु (Public Goods) जस्तै राष्ट्रिय सुरक्षा, सडक, पुल निजी क्षेत्रले उत्पादन गर्न इन्कार गर्ने वा नाफा नहुने हुँदा सरकारले उत्पादन गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 73,
+      "qid": 1056392155,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1611,6 +1201,7 @@
     },
     {
       "id": 74,
+      "qid": 3979794818,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1633,6 +1224,7 @@
     },
     {
       "id": 75,
+      "qid": 702993718,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1655,6 +1247,7 @@
     },
     {
       "id": 76,
+      "qid": 784356574,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1676,29 +1269,8 @@
       "is_pro": false
     },
     {
-      "id": 77,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Hard",
-      "question": "कुन अवस्थामा सरकारले कर सङ्कलन गर्नु आवश्यक हुन्छ?",
-      "options": [
-        "जब सार्वजनिक खर्च गर्नुपर्छ",
-        "जब निजी लगानी बढ्छ",
-        "जब विदेशी सहायता बढ्छ",
-        "जब उपभोग बढ्छ"
-      ],
-      "option_a": "जब सार्वजनिक खर्च गर्नुपर्छ",
-      "option_b": "जब निजी लगानी बढ्छ",
-      "option_c": "जब विदेशी सहायता बढ्छ",
-      "option_d": "जब उपभोग बढ्छ",
-      "answer_index": 0,
-      "explanation": "सरकारले सार्वजनिक वस्तु र सेवा (जस्तै पूर्वाधार, शिक्षा, स्वास्थ्य, सुरक्षा) उपलब्ध गराउन सार्वजनिक खर्च गर्नुपर्छ, जसका लागि कर सङ्कलन आवश्यक हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 78,
+      "qid": 4247791325,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1720,29 +1292,8 @@
       "is_pro": false
     },
     {
-      "id": 79,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Medium",
-      "question": "कुन अवस्थामा कुल लागत (Total Cost) शून्य हुन्छ?",
-      "options": [
-        "जब उत्पादन शून्य हुन्छ",
-        "जब उत्पादन अधिकतम हुन्छ",
-        "जब स्थिर लागत शून्य हुन्छ",
-        "जब परिवर्तनशील लागत शून्य हुन्छ"
-      ],
-      "option_a": "जब उत्पादन शून्य हुन्छ",
-      "option_b": "जब उत्पादन अधिकतम हुन्छ",
-      "option_c": "जब स्थिर लागत शून्य हुन्छ",
-      "option_d": "जब परिवर्तनशील लागत शून्य हुन्छ",
-      "answer_index": 0,
-      "explanation": "कुल लागत = स्थिर लागत + परिवर्तनशील लागत। उत्पादन शून्य हुँदा परिवर्तनशील लागत शून्य हुन्छ तर स्थिर लागत रहन्छ, त्यसैले कुल लागत शून्य हुँदैन। तर दीर्घकालमा सबै लागत परिवर्तनशील हुन्छन् र उत्पादन शून्य हुँदा कुल लागत शून्य हुन सक्छ।",
-      "is_pro": false
-    },
-    {
       "id": 80,
+      "qid": 3789387756,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1764,51 +1315,8 @@
       "is_pro": false
     },
     {
-      "id": 81,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Easy",
-      "question": "कुन अवस्थामा उपयोगिता बढ्छ?",
-      "options": [
-        "जब वस्तुको उपभोग बढ्छ",
-        "जब वस्तुको मूल्य बढ्छ",
-        "जब आय घट्छ",
-        "जब वस्तु दुर्लभ हुन्छ"
-      ],
-      "option_a": "जब वस्तुको उपभोग बढ्छ",
-      "option_b": "जब वस्तुको मूल्य बढ्छ",
-      "option_c": "जब आय घट्छ",
-      "option_d": "जब वस्तु दुर्लभ हुन्छ",
-      "answer_index": 0,
-      "explanation": "उपयोगिता (Utility) भन्नाले वस्तु वा सेवाबाट प्राप्त हुने सन्तुष्टिलाई जनाउँछ। सामान्यतया वस्तुको उपभोग बढ्दा कुल उपयोगिता बढ्छ, यद्यपि सीमान्त उपयोगिता घट्दै जान्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 82,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Medium",
-      "question": "कुन अवस्थामा मूल्य सूचकांक प्रयोग गरिन्छ?",
-      "options": [
-        "जब मुद्रास्फीति मापन गर्नु छ",
-        "जब बेरोजगारी मापन गर्नु छ",
-        "जब GDP मापन गर्नु छ",
-        "जब जनसंख्या मापन गर्नु छ"
-      ],
-      "option_a": "जब मुद्रास्फीति मापन गर्नु छ",
-      "option_b": "जब बेरोजगारी मापन गर्नु छ",
-      "option_c": "जब GDP मापन गर्नु छ",
-      "option_d": "जब जनसंख्या मापन गर्नु छ",
-      "answer_index": 0,
-      "explanation": "मूल्य सूचकांक (Price Index) ले विभिन्न समयमा वस्तु र सेवाको मूल्य स्तरमा भएको परिवर्तन मापन गर्छ। यसको प्रयोग मुद्रास्फीति दर गणना गर्न गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 83,
+      "qid": 196398914,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1830,29 +1338,8 @@
       "is_pro": false
     },
     {
-      "id": 84,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Easy",
-      "question": "कुन अवस्थामा बैंकको नगद आरक्षित अनुपात (CRR) बढाइन्छ?",
-      "options": [
-        "जब मुद्रास्फीति नियन्त्रण गर्नु छ",
-        "जब मन्दी नियन्त्रण गर्नु छ",
-        "जब बेरोजगारी बढाउनु छ",
-        "जब लगानी बढाउनु छ"
-      ],
-      "option_a": "जब मुद्रास्फीति नियन्त्रण गर्नु छ",
-      "option_b": "जब मन्दी नियन्त्रण गर्नु छ",
-      "option_c": "जब बेरोजगारी बढाउनु छ",
-      "option_d": "जब लगानी बढाउनु छ",
-      "answer_index": 0,
-      "explanation": "मुद्रास्फीति नियन्त्रण गर्न केन्द्रीय बैंकले नगद आरक्षित अनुपात (CRR) बढाउँछ, जसले बैंकहरूले ऋण दिन सक्ने रकम घटाउँछ र मुद्रा आपूर्ति घट्छ।",
-      "is_pro": false
-    },
-    {
       "id": 85,
+      "qid": 3084752770,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -1874,205 +1361,8 @@
       "is_pro": false
     },
     {
-      "id": 86,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Hard",
-      "question": "कुन अवस्थामा एक देशको तुलनात्मक लाभ हुन्छ?",
-      "options": [
-        "जब देशले कम अवसर लागतमा वस्तु उत्पादन गर्न सक्छ",
-        "जब देशले बढी अवसर लागतमा वस्तु उत्पादन गर्न सक्छ",
-        "जब देशले सबै वस्तु उत्पादन गर्न सक्छ",
-        "जब देशले कुनै वस्तु उत्पादन गर्न सक्दैन"
-      ],
-      "option_a": "जब देशले कम अवसर लागतमा वस्तु उत्पादन गर्न सक्छ",
-      "option_b": "जब देशले बढी अवसर लागतमा वस्तु उत्पादन गर्न सक्छ",
-      "option_c": "जब देशले सबै वस्तु उत्पादन गर्न सक्छ",
-      "option_d": "जब देशले कुनै वस्तु उत्पादन गर्न सक्दैन",
-      "answer_index": 0,
-      "explanation": "तुलनात्मक लाभ (Comparative Advantage) त्यस अवस्थामा हुन्छ जब एक देशले अर्को देशको तुलनामा कम अवसर लागतमा वस्तु उत्पादन गर्न सक्छ। यसले विशेषज्ञता र व्यापारबाट लाभ देखाउँछ।",
-      "is_pro": false
-    },
-    {
-      "id": 87,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Easy",
-      "question": "कुन अवस्थामा मागको मूल्य लोच एक (१) भन्दा बढी हुन्छ?",
-      "options": [
-        "जब मागमा प्रतिशत परिवर्तन मूल्यमा प्रतिशत परिवर्तनभन्दा बढी हुन्छ",
-        "जब मागमा प्रतिशत परिवर्तन मूल्यमा प्रतिशत परिवर्तनभन्दा कम हुन्छ",
-        "जब मागमा प्रतिशत परिवर्तन मूल्यमा प्रतिशत परिवर्तनसँग बराबर हुन्छ",
-        "जब माग स्थिर हुन्छ"
-      ],
-      "option_a": "जब मागमा प्रतिशत परिवर्तन मूल्यमा प्रतिशत परिवर्तनभन्दा बढी हुन्छ",
-      "option_b": "जब मागमा प्रतिशत परिवर्तन मूल्यमा प्रतिशत परिवर्तनभन्दा कम हुन्छ",
-      "option_c": "जब मागमा प्रतिशत परिवर्तन मूल्यमा प्रतिशत परिवर्तनसँग बराबर हुन्छ",
-      "option_d": "जब माग स्थिर हुन्छ",
-      "answer_index": 0,
-      "explanation": "मागको मूल्य लोच (Ed) = मागमा प्रतिशत परिवर्तन ÷ मूल्यमा प्रतिशत परिवर्तन। जब Ed > १, मागमा प्रतिशत परिवर्तन मूल्यमा प्रतिशत परिवर्तनभन्दा बढी हुन्छ, जसलाई लोचदार माग भनिन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 88,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Medium",
-      "question": "कुन अवस्थामा सरकारले राजकोषीय नीति प्रयोग गर्छ?",
-      "options": [
-        "जब मौद्रिक नीति पर्याप्त हुँदैन",
-        "जब केन्द्रीय बैंकले निर्णय गर्छ",
-        "जब विदेशी विनिमय दर परिवर्तन हुन्छ",
-        "जब बैंकहरूले ऋण दिन्छन्"
-      ],
-      "option_a": "जब मौद्रिक नीति पर्याप्त हुँदैन",
-      "option_b": "जब केन्द्रीय बैंकले निर्णय गर्छ",
-      "option_c": "जब विदेशी विनिमय दर परिवर्तन हुन्छ",
-      "option_d": "जब बैंकहरूले ऋण दिन्छन्",
-      "answer_index": 0,
-      "explanation": "राजकोषीय नीति (Fiscal Policy) सरकारले कर र सार्वजनिक खर्चको माध्यमबाट अर्थतन्त्रलाई प्रभावित गर्न प्रयोग गर्छ। जब मौद्रिक नीति मात्र पर्याप्त हुँदैन, सरकारले राजकोषीय नीति प्रयोग गर्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 89,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Hard",
-      "question": "कुन अवस्थामा उत्पादनको सीमान्त उत्पादन (Marginal Product) शून्य हुन्छ?",
-      "options": [
-        "जब कुल उत्पादन अधिकतम हुन्छ",
-        "जब कुल उत्पादन शून्य हुन्छ",
-        "जब औसत उत्पादन अधिकतम हुन्छ",
-        "जब सीमान्त लागत शून्य हुन्छ"
-      ],
-      "option_a": "जब कुल उत्पादन अधिकतम हुन्छ",
-      "option_b": "जब कुल उत्पादन शून्य हुन्छ",
-      "option_c": "जब औसत उत्पादन अधिकतम हुन्छ",
-      "option_d": "जब सीमान्त लागत शून्य हुन्छ",
-      "answer_index": 0,
-      "explanation": "सीमान्त उत्पादन (Marginal Product) शून्य हुन्छ जब कुल उत्पादन (Total Product) अधिकतम हुन्छ। त्यसपछि थप साधन लगाउँदा सीमान्त उत्पादन ऋणात्मक हुन्छ र कुल उत्पादन घट्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 90,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Easy",
-      "question": "कुन अवस्थामा नेपालमा विप्रेषण (Remittance) आय बढ्छ?",
-      "options": [
-        "जब विदेशमा काम गर्ने नेपालीको सङ्ख्या बढ्छ",
-        "जब आयात बढ्छ",
-        "जब निर्यात घट्छ",
-        "जब विदेशी लगानी घट्छ"
-      ],
-      "option_a": "जब विदेशमा काम गर्ने नेपालीको सङ्ख्या बढ्छ",
-      "option_b": "जब आयात बढ्छ",
-      "option_c": "जब निर्यात घट्छ",
-      "option_d": "जब विदेशी लगानी घट्छ",
-      "answer_index": 0,
-      "explanation": "विप्रेषण भन्नाले विदेशमा काम गर्ने नेपालीहरूले स्वदेश पठाउने रकमलाई जनाउँछ। विदेशमा काम गर्ने नेपालीको सङ्ख्या बढ्दा विप्रेषण आय बढ्छ, जुन नेपालको अर्थतन्त्रका लागि महत्त्वपूर्ण छ।",
-      "is_pro": false
-    },
-    {
-      "id": 91,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Medium",
-      "question": "कुन अवस्थामा उपभोक्ता सन्तुलनमा परिवर्तन हुन्छ?",
-      "options": [
-        "जब आय परिवर्तन हुन्छ",
-        "जब मूल्य स्थिर रहन्छ",
-        "जब रुचि स्थिर रहन्छ",
-        "जब बजार स्थिर रहन्छ"
-      ],
-      "option_a": "जब आय परिवर्तन हुन्छ",
-      "option_b": "जब मूल्य स्थिर रहन्छ",
-      "option_c": "जब रुचि स्थिर रहन्छ",
-      "option_d": "जब बजार स्थिर रहन्छ",
-      "answer_index": 0,
-      "explanation": "उपभोक्ता सन्तुलन आय, मूल्य र रुचिमा निर्भर गर्दछ। आय परिवर्तन हुँदा उपभोक्ताले खरिद गर्न सक्ने वस्तुको मात्रा परिवर्तन हुन्छ र सन्तुलन बिन्दु पनि परिवर्तन हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 92,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Hard",
-      "question": "कुन अवस्थामा पूर्ण प्रतिस्पर्धात्मक बजारमा स्रोत आवण्टन कुशल हुन्छ?",
-      "options": [
-        "जब मूल्य = सीमान्त लागत",
-        "जब मूल्य > सीमान्त लागत",
-        "जब मूल्य < सीमान्त लागत",
-        "जब औसत लागत स्थिर हुन्छ"
-      ],
-      "option_a": "जब मूल्य = सीमान्त लागत",
-      "option_b": "जब मूल्य > सीमान्त लागत",
-      "option_c": "जब मूल्य < सीमान्त लागत",
-      "option_d": "जब औसत लागत स्थिर हुन्छ",
-      "answer_index": 0,
-      "explanation": "पूर्ण प्रतिस्पर्धात्मक बजारमा स्रोत आवण्टन कुशल हुन्छ जब मूल्य (P) = सीमान्त लागत (MC)। यसले उपभोक्ताको तिर्न तयार भएको मूल्य र उत्पादनको सीमान्त लागत बराबर हुन्छ, जसले अधिकतम सामाजिक कल्याण सुनिश्चित गर्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 93,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Easy",
-      "question": "कुन अवस्थामा मुद्रास्फीति दर गणना गरिन्छ?",
-      "options": [
-        "(वर्तमान वर्षको मूल्य सूचकांक - अघिल्लो वर्षको मूल्य सूचकांक) ÷ अघिल्लो वर्षको मूल्य सूचकांक × १००",
-        "(वर्तमान वर्षको मूल्य सूचकांक + अघिल्लो वर्षको मूल्य सूचकांक) × १००",
-        "(अघिल्लो वर्षको मूल्य सूचकांक - वर्तमान वर्षको मूल्य सूचकांक) ÷ वर्तमान वर्षको मूल्य सूचकांक × १००",
-        "(वर्तमान वर्षको मूल्य सूचकांक ÷ अघिल्लो वर्षको मूल्य सूचकांक) × १००"
-      ],
-      "option_a": "(वर्तमान वर्षको मूल्य सूचकांक - अघिल्लो वर्षको मूल्य सूचकांक) ÷ अघिल्लो वर्षको मूल्य सूचकांक × १००",
-      "option_b": "(वर्तमान वर्षको मूल्य सूचकांक + अघिल्लो वर्षको मूल्य सूचकांक) × १००",
-      "option_c": "(अघिल्लो वर्षको मूल्य सूचकांक - वर्तमान वर्षको मूल्य सूचकांक) ÷ वर्तमान वर्षको मूल्य सूचकांक × १००",
-      "option_d": "(वर्तमान वर्षको मूल्य सूचकांक ÷ अघिल्लो वर्षको मूल्य सूचकांक) × १००",
-      "answer_index": 0,
-      "explanation": "मुद्रास्फीति दर = (वर्तमान वर्षको मूल्य सूचकांक - अघिल्लो वर्षको मूल्य सूचकांक) ÷ अघिल्लो वर्षको मूल्य सूचकांक × १००। यसले दुई वर्षबीचको मूल्य स्तरमा भएको प्रतिशत परिवर्तन देखाउँछ।",
-      "is_pro": false
-    },
-    {
-      "id": 94,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Medium",
-      "question": "कुन अवस्थामा सरकारले सार्वजनिक ऋण चुक्ता गर्न सक्छ?",
-      "options": [
-        "जब राजस्व बढ्छ",
-        "जब खर्च बढ्छ",
-        "जब कर घट्छ",
-        "जब लगानी घट्छ"
-      ],
-      "option_a": "जब राजस्व बढ्छ",
-      "option_b": "जब खर्च बढ्छ",
-      "option_c": "जब कर घट्छ",
-      "option_d": "जब लगानी घट्छ",
-      "answer_index": 0,
-      "explanation": "सरकारले राजस्व (कर र अन्य आय) बढेमा सार्वजनिक ऋण चुक्ता गर्न सक्छ। राजस्व बढ्दा सरकारसँग ऋण तिर्न बढी स्रोत उपलब्ध हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 95,
+      "qid": 2371875805,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -2094,51 +1384,8 @@
       "is_pro": false
     },
     {
-      "id": 96,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Easy",
-      "question": "कुन अवस्थामा नेपालमा औद्योगिक क्षेत्रको योगदान GDP मा बढ्न सक्छ?",
-      "options": [
-        "जब उद्योग स्थापना बढ्छ",
-        "जब कृषि उत्पादन बढ्छ",
-        "जब सेवा क्षेत्र बढ्छ",
-        "जब आयात बढ्छ"
-      ],
-      "option_a": "जब उद्योग स्थापना बढ्छ",
-      "option_b": "जब कृषि उत्पादन बढ्छ",
-      "option_c": "जब सेवा क्षेत्र बढ्छ",
-      "option_d": "जब आयात बढ्छ",
-      "answer_index": 0,
-      "explanation": "औद्योगिक क्षेत्रको योगदान GDP मा बढ्नका लागि नयाँ उद्योग स्थापना र उत्पादन वृद्धि आवश्यक छ। उद्योग स्थापना बढ्दा औद्योगिक उत्पादन बढ्छ र GDP मा योगदान बढ्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 97,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Medium",
-      "question": "कुन अवस्थामा मागको मूल्य लोच एक (१) हुन्छ?",
-      "options": [
-        "जब मागमा प्रतिशत परिवर्तन मूल्यमा प्रतिशत परिवर्तनसँग बराबर हुन्छ",
-        "जब मागमा प्रतिशत परिवर्तन मूल्यमा प्रतिशत परिवर्तनभन्दा बढी हुन्छ",
-        "जब मागमा प्रतिशत परिवर्तन मूल्यमा प्रतिशत परिवर्तनभन्दा कम हुन्छ",
-        "जब माग स्थिर हुन्छ"
-      ],
-      "option_a": "जब मागमा प्रतिशत परिवर्तन मूल्यमा प्रतिशत परिवर्तनसँग बराबर हुन्छ",
-      "option_b": "जब मागमा प्रतिशत परिवर्तन मूल्यमा प्रतिशत परिवर्तनभन्दा बढी हुन्छ",
-      "option_c": "जब मागमा प्रतिशत परिवर्तन मूल्यमा प्रतिशत परिवर्तनभन्दा कम हुन्छ",
-      "option_d": "जब माग स्थिर हुन्छ",
-      "answer_index": 0,
-      "explanation": "मागको मूल्य लोच एक (Ed = १) हुन्छ जब मागमा भएको प्रतिशत परिवर्तन मूल्यमा भएको प्रतिशत परिवर्तनसँग बराबर हुन्छ। यसलाई एकल लोचदार माग (Unitary Elastic Demand) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 98,
+      "qid": 2167035224,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
       "sub_cat_id": "123",
@@ -2157,50 +1404,6 @@
       "option_d": "जब उत्पादन अधिकतम हुन्छ",
       "answer_index": 0,
       "explanation": "एकाधिकार बजारमा फर्मले मूल्य सीमान्त लागतभन्दा बढी राख्छ (P > MC), जसले उत्पादन कम र मूल्य उच्च हुन्छ। यसले उपभोक्ता अधिशेष घटाउँछ र सामाजिक कल्याणमा ह्रास (Deadweight Loss) उत्पन्न गर्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 99,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Easy",
-      "question": "कुन अवस्थामा सरकारले विदेशी सहायता लिन सक्छ?",
-      "options": [
-        "जब आन्तरिक स्रोत अपुग हुन्छ",
-        "जब आन्तरिक स्रोत पर्याप्त हुन्छ",
-        "जब कर राजस्व बढ्छ",
-        "जब निजी लगानी बढ्छ"
-      ],
-      "option_a": "जब आन्तरिक स्रोत अपुग हुन्छ",
-      "option_b": "जब आन्तरिक स्रोत पर्याप्त हुन्छ",
-      "option_c": "जब कर राजस्व बढ्छ",
-      "option_d": "जब निजी लगानी बढ्छ",
-      "answer_index": 0,
-      "explanation": "सरकारले विकास परियोजना वा बजेट पूर्तिका लागि आन्तरिक स्रोत अपुग भएमा विदेशी सहायता वा ऋण लिन सक्छ। तर दिगो विकासका लागि आन्तरिक स्रोतमा निर्भरता बढाउनु उपयुक्त हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 100,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary (+2 / Class 11–12 Entrance & Board):",
-      "sub_cat_id": "123",
-      "sub_cat_name": "Economics",
-      "level": "Medium",
-      "question": "कुन अवस्थामा उत्पादनको औसत लागत (Average Cost) घट्छ?",
-      "options": [
-        "जब सीमान्त लागत औसत लागतभन्दा कम हुन्छ",
-        "जब सीमान्त लागत औसत लागतभन्दा बढी हुन्छ",
-        "जब सीमान्त लागत औसत लागतसँग बराबर हुन्छ",
-        "जब कुल लागत स्थिर हुन्छ"
-      ],
-      "option_a": "जब सीमान्त लागत औसत लागतभन्दा कम हुन्छ",
-      "option_b": "जब सीमान्त लागत औसत लागतभन्दा बढी हुन्छ",
-      "option_c": "जब सीमान्त लागत औसत लागतसँग बराबर हुन्छ",
-      "option_d": "जब कुल लागत स्थिर हुन्छ",
-      "answer_index": 0,
-      "explanation": "औसत लागत (AC) घट्छ जब सीमान्त लागत (MC) औसत लागतभन्दा कम हुन्छ। जब MC < AC, AC तलतिर ढल्कन्छ। जब MC > AC, AC माथितिर ढल्कन्छ।",
       "is_pro": false
     }
   ]
