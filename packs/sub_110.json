@@ -1,10 +1,11 @@
 {
   "sub_cat_id": "110",
-  "data_version": 1794491195766,
-  "total_questions": 200,
+  "data_version": 1795279225068,
+  "total_questions": 153,
   "questions": [
     {
       "id": 1,
+      "qid": 360797038,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -27,6 +28,7 @@
     },
     {
       "id": 2,
+      "qid": 1793805537,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -48,51 +50,8 @@
       "is_pro": false
     },
     {
-      "id": 3,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Easy",
-      "question": "नेपालको राष्ट्रिय फूल कुन हो ?",
-      "options": [
-        "गुराँस (Rhododendron)",
-        "कमल",
-        "सयपत्री",
-        "सुनाखरी"
-      ],
-      "option_a": "गुराँस (Rhododendron)",
-      "option_b": "कमल",
-      "option_c": "सयपत्री",
-      "option_d": "सुनाखरी",
-      "answer_index": 0,
-      "explanation": "लालीगुराँस (Rhododendron arboreum) नेपालको राष्ट्रिय फूल हो।",
-      "is_pro": false
-    },
-    {
-      "id": 4,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Easy",
-      "question": "गौतम बुद्धको जन्म कहाँ भएको थियो ?",
-      "options": [
-        "लुम्बिनी",
-        "बोधगया",
-        "सारनाथ",
-        "कुशीनगर"
-      ],
-      "option_a": "लुम्बिनी",
-      "option_b": "बोधगया",
-      "option_c": "सारनाथ",
-      "option_d": "कुशीनगर",
-      "answer_index": 0,
-      "explanation": "गौतम बुद्धको जन्म नेपालको रूपन्देही जिल्लाको लुम्बिनीमा भएको थियो।",
-      "is_pro": false
-    },
-    {
       "id": 5,
+      "qid": 4190366120,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -115,6 +74,7 @@
     },
     {
       "id": 6,
+      "qid": 2434900551,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -136,29 +96,8 @@
       "is_pro": false
     },
     {
-      "id": 7,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Easy",
-      "question": "नेपालमा कतिवटा स्थानीय तहहरू रहेका छन् ?",
-      "options": [
-        "७५३ वटा",
-        "७४४ वटा",
-        "७६१ वटा",
-        "७७ वटा"
-      ],
-      "option_a": "७५३ वटा",
-      "option_b": "७४४ वटा",
-      "option_c": "७६१ वटा",
-      "option_d": "७७ वटा",
-      "answer_index": 0,
-      "explanation": "नेपालमा ६ महानगरपालिका, ११ उपमहानगरपालिका, २७६ नगरपालिका र ४६० गाउँपालिका गरी जम्मा ७५३ स्थानीय तह छन्।",
-      "is_pro": false
-    },
-    {
       "id": 8,
+      "qid": 2597766523,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -181,6 +120,7 @@
     },
     {
       "id": 9,
+      "qid": 815028798,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -203,6 +143,7 @@
     },
     {
       "id": 10,
+      "qid": 251140947,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -224,29 +165,8 @@
       "is_pro": false
     },
     {
-      "id": 11,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Easy",
-      "question": "विश्व वातावरण दिवस कहिले मनाइन्छ ?",
-      "options": [
-        "जुन ५",
-        "मार्च ८",
-        "अप्रिल २२",
-        "मे १"
-      ],
-      "option_a": "जुन ५",
-      "option_b": "मार्च ८",
-      "option_c": "अप्रिल २२",
-      "option_d": "मे १",
-      "answer_index": 0,
-      "explanation": "वातावरण संरक्षणमा जनचेतना जगाउन हरेक वर्ष जुन ५ तारिखमा विश्व वातावरण दिवस मनाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 12,
+      "qid": 1514904264,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -269,6 +189,7 @@
     },
     {
       "id": 13,
+      "qid": 375906439,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -291,6 +212,7 @@
     },
     {
       "id": 14,
+      "qid": 2499949804,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -312,29 +234,8 @@
       "is_pro": false
     },
     {
-      "id": 15,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Easy",
-      "question": "मानव अधिकारको विश्वव्यापी घोषणापत्र कहिले जारी भएको हो ?",
-      "options": [
-        "सन् १९४८",
-        "सन् १९४५",
-        "सन् १९५०",
-        "सन् १९६०"
-      ],
-      "option_a": "सन् १९४८",
-      "option_b": "सन् १९४५",
-      "option_c": "सन् १९५०",
-      "option_d": "सन् १९६०",
-      "answer_index": 0,
-      "explanation": "संयुक्त राष्ट्रसङ्घको महासभाले १० डिसेम्बर १९४८ मा मानव अधिकारको विश्वव्यापी घोषणापत्र जारी गरेको हो।",
-      "is_pro": false
-    },
-    {
       "id": 16,
+      "qid": 2231159309,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -357,6 +258,7 @@
     },
     {
       "id": 17,
+      "qid": 576406347,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -379,6 +281,7 @@
     },
     {
       "id": 18,
+      "qid": 347920753,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -400,51 +303,8 @@
       "is_pro": false
     },
     {
-      "id": 19,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Easy",
-      "question": "पशुपतिनाथको मन्दिर कुन नदीको किनारमा अवस्थित छ ?",
-      "options": [
-        "बागमती",
-        "विष्णुमती",
-        "मनोहरा",
-        "हनुमन्ते"
-      ],
-      "option_a": "बागमती",
-      "option_b": "विष्णुमती",
-      "option_c": "मनोहरा",
-      "option_d": "हनुमन्ते",
-      "answer_index": 0,
-      "explanation": "काठमाडौँमा रहेको प्रसिद्ध हिन्दु तीर्थस्थल पशुपतिनाथको मन्दिर बागमती नदीको किनारमा रहेको छ।",
-      "is_pro": false
-    },
-    {
-      "id": 20,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Easy",
-      "question": "नेपालमा प्रजातन्त्रको स्थापना कहिले भएको थियो ?",
-      "options": [
-        "वि.सं. २००७ साल",
-        "वि.सं. २०४६ साल",
-        "वि.सं. २०६२ साल",
-        "वि.सं. २०१५ साल"
-      ],
-      "option_a": "वि.सं. २००७ साल",
-      "option_b": "वि.सं. २०४६ साल",
-      "option_c": "वि.सं. २०६२ साल",
-      "option_d": "वि.सं. २०१५ साल",
-      "answer_index": 0,
-      "explanation": "राणा शासनको अन्त्य भई राजा त्रिभुवनको पालामा वि.सं. २००७ साल फागुन ७ गते नेपालमा प्रजातन्त्रको स्थापना भएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 21,
+      "qid": 1970127873,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -467,6 +327,7 @@
     },
     {
       "id": 22,
+      "qid": 4205932624,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -489,6 +350,7 @@
     },
     {
       "id": 23,
+      "qid": 3885032272,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -511,6 +373,7 @@
     },
     {
       "id": 24,
+      "qid": 2209856411,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -533,6 +396,7 @@
     },
     {
       "id": 25,
+      "qid": 3085443418,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -554,29 +418,8 @@
       "is_pro": false
     },
     {
-      "id": 26,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Easy",
-      "question": "संयुक्त राष्ट्रसङ्घ (UNO) को स्थापना कहिले भएको हो ?",
-      "options": [
-        "सन् १९४५",
-        "सन् १९४८",
-        "सन् १९१४",
-        "सन् १९३९"
-      ],
-      "option_a": "सन् १९४५",
-      "option_b": "सन् १९४८",
-      "option_c": "सन् १९१४",
-      "option_d": "सन् १९३९",
-      "answer_index": 0,
-      "explanation": "दोस्रो विश्वयुद्ध पछि शान्ति कायम गर्न २४ अक्टोबर १९४५ मा संयुक्त राष्ट्रसङ्घको स्थापना भएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 27,
+      "qid": 1704052299,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -598,51 +441,8 @@
       "is_pro": false
     },
     {
-      "id": 28,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Easy",
-      "question": "अन्तर्राष्ट्रिय नारी दिवस कहिले मनाइन्छ ?",
-      "options": [
-        "मार्च ८",
-        "मे १",
-        "मार्च २२",
-        "अप्रिल ७"
-      ],
-      "option_a": "मार्च ८",
-      "option_b": "मे १",
-      "option_c": "मार्च २२",
-      "option_d": "अप्रिल ७",
-      "answer_index": 0,
-      "explanation": "महिला अधिकार र समानताको वकालत गर्न हरेक वर्ष मार्च ८ तारिखमा अन्तर्राष्ट्रिय नारी दिवस मनाइन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 29,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Easy",
-      "question": "नेपालको वर्तमान राष्ट्रिय झन्डामा कतिवटा कुनाहरू छन् ?",
-      "options": [
-        "३ वटा",
-        "४ वटा",
-        "५ वटा",
-        "२ वटा"
-      ],
-      "option_a": "३ वटा",
-      "option_b": "४ वटा",
-      "option_c": "५ वटा",
-      "option_d": "२ वटा",
-      "answer_index": 0,
-      "explanation": "नेपालको राष्ट्रिय झन्डा विश्वकै एक मात्र त्रिकोण आकारको (दुईवटा त्रिकोण जोडिएको) झन्डा हो जसमा ३ वटा कुना हुन्छन्। (यद्यपि बाहिरी किनारा गन्दा बढी हुन्छ तर सामान्यतया त्रिकोणको अर्थमा ३ कुना मानिन्छ। स्पष्टताका लागि, यसको आकार 'त्रिकोणात्मक' हो।)",
-      "is_pro": false
-    },
-    {
       "id": 30,
+      "qid": 254795639,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -665,6 +465,7 @@
     },
     {
       "id": 31,
+      "qid": 2375544403,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -686,29 +487,8 @@
       "is_pro": false
     },
     {
-      "id": 32,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "नेपालको प्रतिनिधि सभामा जम्मा कति जना सदस्यहरू रहन्छन् ?",
-      "options": [
-        "२७५ जना",
-        "५९ जना",
-        "१६५ जना",
-        "११० जना"
-      ],
-      "option_a": "२७५ जना",
-      "option_b": "५९ जना",
-      "option_c": "१६५ जना",
-      "option_d": "११० जना",
-      "answer_index": 0,
-      "explanation": "प्रतिनिधि सभामा प्रत्यक्ष निर्वाचित १६५ र समानुपातिकबाट ११० गरी जम्मा २७५ जना सांसदहरू रहन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 33,
+      "qid": 423865048,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -730,29 +510,8 @@
       "is_pro": false
     },
     {
-      "id": 34,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "कुन सन्धिको कारणले नेपालले आफ्नो एक तिहाइ भूभाग गुमाउनुपरेको थियो ?",
-      "options": [
-        "सुगौली सन्धि",
-        "कोसी सम्झौता",
-        "गण्डक सम्झौता",
-        "महाकाली सन्धि"
-      ],
-      "option_a": "सुगौली सन्धि",
-      "option_b": "कोसी सम्झौता",
-      "option_c": "गण्डक सम्झौता",
-      "option_d": "महाकाली सन्धि",
-      "answer_index": 0,
-      "explanation": "सन् १८१६ मा इस्ट इन्डिया कम्पनीसँग भएको सुगौली सन्धिका कारण नेपालले टिस्टादेखि सतलजसम्मको भूभाग गुमाएको थियो।",
-      "is_pro": false
-    },
-    {
       "id": 35,
+      "qid": 700291901,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -775,6 +534,7 @@
     },
     {
       "id": 36,
+      "qid": 2365715930,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -797,6 +557,7 @@
     },
     {
       "id": 37,
+      "qid": 1161956302,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -818,29 +579,8 @@
       "is_pro": false
     },
     {
-      "id": 38,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "नेपालको कुन जिल्लालाई 'ज्वालामुखीको निसान' भएको जिल्ला भनिन्छ ?",
-      "options": [
-        "दैलेख",
-        "मुस्ताङ",
-        "सोलुखुम्बु",
-        "मनाङ"
-      ],
-      "option_a": "दैलेख",
-      "option_b": "मुस्ताङ",
-      "option_c": "सोलुखुम्बु",
-      "option_d": "मनाङ",
-      "answer_index": 0,
-      "explanation": "दैलेख जिल्लाको शिरस्थान, नाभिस्थान जस्ता ठाउँमा निरन्तर प्राकृतिक ग्यास बल्ने भएकाले यसलाई ज्वालामुखीको निसान मानिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 39,
+      "qid": 4083492083,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -863,6 +603,7 @@
     },
     {
       "id": 40,
+      "qid": 689643339,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -885,6 +626,7 @@
     },
     {
       "id": 41,
+      "qid": 1087289618,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -906,29 +648,8 @@
       "is_pro": false
     },
     {
-      "id": 42,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "नेपालको राष्ट्रिय सभामा कति जना सदस्यहरू रहन्छन् ?",
-      "options": [
-        "५९ जना",
-        "६० जना",
-        "१६५ जना",
-        "२७५ जना"
-      ],
-      "option_a": "५९ जना",
-      "option_b": "६० जना",
-      "option_c": "१६५ जना",
-      "option_d": "२७५ जना",
-      "answer_index": 0,
-      "explanation": "सङ्घीय संसद्को माथिल्लो सदन राष्ट्रिय सभामा ५६ जना निर्वाचित र ३ जना राष्ट्रपतिबाट मनोनित गरी जम्मा ५९ सदस्य रहन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 43,
+      "qid": 3426352747,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -951,6 +672,7 @@
     },
     {
       "id": 44,
+      "qid": 2073235036,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -973,6 +695,7 @@
     },
     {
       "id": 45,
+      "qid": 3503027203,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -995,6 +718,7 @@
     },
     {
       "id": 46,
+      "qid": 3273028419,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1017,6 +741,7 @@
     },
     {
       "id": 47,
+      "qid": 22406627,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1039,6 +764,7 @@
     },
     {
       "id": 48,
+      "qid": 2197456066,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1061,6 +787,7 @@
     },
     {
       "id": 49,
+      "qid": 3535726631,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1082,29 +809,8 @@
       "is_pro": false
     },
     {
-      "id": 50,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "संयुक्त राष्ट्रसङ्घको सुरक्षा परिषद् (Security Council) मा कतिवटा स्थायी सदस्य राष्ट्रहरू (Veto power भएका) छन् ?",
-      "options": [
-        "५ वटा",
-        "१० वटा",
-        "१५ वटा",
-        "२० वटा"
-      ],
-      "option_a": "५ वटा",
-      "option_b": "१० वटा",
-      "option_c": "१५ वटा",
-      "option_d": "२० वटा",
-      "answer_index": 0,
-      "explanation": "सुरक्षा परिषद्मा अमेरिका, बेलायत, फ्रान्स, रुस र चीन गरी ५ स्थायी सदस्य र १० अस्थायी सदस्य रहन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 51,
+      "qid": 1682072064,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1127,6 +833,7 @@
     },
     {
       "id": 52,
+      "qid": 1464989352,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1149,6 +856,7 @@
     },
     {
       "id": 53,
+      "qid": 3100656879,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1171,6 +879,7 @@
     },
     {
       "id": 54,
+      "qid": 3511972634,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1193,6 +902,7 @@
     },
     {
       "id": 55,
+      "qid": 3130130475,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1214,29 +924,8 @@
       "is_pro": false
     },
     {
-      "id": 56,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "कोसी सम्झौता (Kosi Agreement) नेपाल र भारतबीच कहिले भएको थियो ?",
-      "options": [
-        "सन् १९५४",
-        "सन् १९५९",
-        "सन् १९६२",
-        "सन् १९५०"
-      ],
-      "option_a": "सन् १९५४",
-      "option_b": "सन् १९५९",
-      "option_c": "सन् १९६२",
-      "option_d": "सन् १९५०",
-      "answer_index": 0,
-      "explanation": "कोसी नदीको पानी उपयोग र बाढी नियन्त्रणका लागि नेपाल र भारतबीच २५ अप्रिल १९५४ मा कोसी सम्झौता भएको थियो।",
-      "is_pro": false
-    },
-    {
       "id": 57,
+      "qid": 2426207799,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1259,6 +948,7 @@
     },
     {
       "id": 58,
+      "qid": 764919008,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1281,6 +971,7 @@
     },
     {
       "id": 59,
+      "qid": 3401679487,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1303,6 +994,7 @@
     },
     {
       "id": 60,
+      "qid": 1178150023,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1324,29 +1016,8 @@
       "is_pro": false
     },
     {
-      "id": 61,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "विश्वको सबैभन्दा ठूलो महासागर कुन हो ?",
-      "options": [
-        "प्रशान्त महासागर (Pacific Ocean)",
-        "आन्ध्र महासागर",
-        "हिन्द महासागर",
-        "सुमेरु महासागर"
-      ],
-      "option_a": "प्रशान्त महासागर (Pacific Ocean)",
-      "option_b": "आन्ध्र महासागर",
-      "option_c": "हिन्द महासागर",
-      "option_d": "सुमेरु महासागर",
-      "answer_index": 0,
-      "explanation": "पृथ्वीको करिब एक तिहाइ भाग ओगटेको प्रशान्त महासागर सबैभन्दा ठूलो र गहिरो महासागर हो।",
-      "is_pro": false
-    },
-    {
       "id": 62,
+      "qid": 2614654965,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1369,6 +1040,7 @@
     },
     {
       "id": 63,
+      "qid": 360493025,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1391,6 +1063,7 @@
     },
     {
       "id": 64,
+      "qid": 4155923147,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1413,6 +1086,7 @@
     },
     {
       "id": 65,
+      "qid": 939667668,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1435,6 +1109,7 @@
     },
     {
       "id": 66,
+      "qid": 3078840396,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1457,6 +1132,7 @@
     },
     {
       "id": 67,
+      "qid": 2817820206,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1479,6 +1155,7 @@
     },
     {
       "id": 68,
+      "qid": 2333613068,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1500,29 +1177,8 @@
       "is_pro": false
     },
     {
-      "id": 69,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "नेपालले संयुक्त राष्ट्रसङ्घको सदस्यता कहिले प्राप्त गर्‍यो ?",
-      "options": [
-        "१४ डिसेम्बर १९५५",
-        "२४ अक्टोबर १९४५",
-        "१ जनवरी १९९०",
-        "८ अगस्ट १९६०"
-      ],
-      "option_a": "१४ डिसेम्बर १९५५",
-      "option_b": "२४ अक्टोबर १९४५",
-      "option_c": "१ जनवरी १९९०",
-      "option_d": "८ अगस्ट १९६०",
-      "answer_index": 0,
-      "explanation": "नेपालले सन् १९५५ डिसेम्बर १४ (प्याकेज डिल अन्तर्गत) मा संयुक्त राष्ट्रसङ्घको सदस्यता प्राप्त गरेको हो।",
-      "is_pro": false
-    },
-    {
       "id": 70,
+      "qid": 3480602471,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1545,6 +1201,7 @@
     },
     {
       "id": 71,
+      "qid": 165919296,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1567,6 +1224,7 @@
     },
     {
       "id": 72,
+      "qid": 1012352660,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1589,6 +1247,7 @@
     },
     {
       "id": 73,
+      "qid": 2858055082,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1611,6 +1270,7 @@
     },
     {
       "id": 74,
+      "qid": 3212288787,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1632,29 +1292,8 @@
       "is_pro": false
     },
     {
-      "id": 75,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Hard",
-      "question": "नेपालको संविधान (२०७२) कहिले जारी भयो ? (वि.सं. मा)",
-      "options": [
-        "२०७२ असोज ३ गते",
-        "२०७२ वैशाख १२ गते",
-        "२०७२ जेठ १५ गते",
-        "२०७२ फागुन ७ गते"
-      ],
-      "option_a": "२०७२ असोज ३ गते",
-      "option_b": "२०७२ वैशाख १२ गते",
-      "option_c": "२०७२ जेठ १५ गते",
-      "option_d": "२०७२ फागुन ७ गते",
-      "answer_index": 0,
-      "explanation": "संविधान सभाबाट पारित भई राष्ट्रपति रामवरण यादवद्वारा वि.सं. २०७२ असोज ३ गते नेपालको संविधान जारी गरिएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 76,
+      "qid": 679395708,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1676,29 +1315,8 @@
       "is_pro": false
     },
     {
-      "id": 77,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Hard",
-      "question": "पृथ्वीको अक्षीय ढल्काइ (Axial Tilt) कति डिग्री छ जसका कारण ऋतु परिवर्तन हुन्छ ?",
-      "options": [
-        "२३.५ डिग्री (23.5°)",
-        "४५ डिग्री",
-        "६६.५ डिग्री",
-        "९० डिग्री"
-      ],
-      "option_a": "२३.५ डिग्री (23.5°)",
-      "option_b": "४५ डिग्री",
-      "option_c": "६६.५ डिग्री",
-      "option_d": "९० डिग्री",
-      "answer_index": 0,
-      "explanation": "पृथ्वी आफ्नो कक्षमा २३.५ डिग्री ढल्किएर सूर्यलाई परिक्रमा गर्ने भएकाले पृथ्वीमा गर्मी र जाडो (ऋतु) परिवर्तन हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 78,
+      "qid": 1230692039,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1721,6 +1339,7 @@
     },
     {
       "id": 79,
+      "qid": 2794167394,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1743,6 +1362,7 @@
     },
     {
       "id": 80,
+      "qid": 4012445694,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1765,6 +1385,7 @@
     },
     {
       "id": 81,
+      "qid": 3185219051,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1787,6 +1408,7 @@
     },
     {
       "id": 82,
+      "qid": 2907259083,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1809,6 +1431,7 @@
     },
     {
       "id": 83,
+      "qid": 1215563167,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1830,29 +1453,8 @@
       "is_pro": false
     },
     {
-      "id": 84,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Hard",
-      "question": "भण्डारखाल पर्व' कुन सालमा भएको थियो र यसको मुख्य निसाना को थिए ?",
-      "options": [
-        "वि.सं. १९०३, जङ्गबहादुर",
-        "वि.सं. १८४५, भीमसेन थापा",
-        "वि.सं. १८६३, माथवरसिंह थापा",
-        "वि.सं. १९३८, रणोद्दीप सिंह"
-      ],
-      "option_a": "वि.सं. १९०३, जङ्गबहादुर",
-      "option_b": "वि.सं. १८४५, भीमसेन थापा",
-      "option_c": "वि.सं. १८६३, माथवरसिंह थापा",
-      "option_d": "वि.सं. १९३८, रणोद्दीप सिंह",
-      "answer_index": 0,
-      "explanation": "कोतपर्व पछि जङ्गबहादुरलाई मार्न रानी राज्यलक्ष्मीले वि.सं. १९०३ कात्तिक १२ गते भण्डारखाल बगैँचामा षड्यन्त्र रचेकी थिइन्, जुन असफल भयो।",
-      "is_pro": false
-    },
-    {
       "id": 85,
+      "qid": 1518195607,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1875,6 +1477,7 @@
     },
     {
       "id": 86,
+      "qid": 2599014539,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1897,6 +1500,7 @@
     },
     {
       "id": 87,
+      "qid": 2025498520,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1919,6 +1523,7 @@
     },
     {
       "id": 88,
+      "qid": 1801481521,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1941,6 +1546,7 @@
     },
     {
       "id": 89,
+      "qid": 3288158439,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1963,6 +1569,7 @@
     },
     {
       "id": 90,
+      "qid": 316937424,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -1985,6 +1592,7 @@
     },
     {
       "id": 91,
+      "qid": 2941968574,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2007,6 +1615,7 @@
     },
     {
       "id": 92,
+      "qid": 68099858,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2029,6 +1638,7 @@
     },
     {
       "id": 93,
+      "qid": 2280647782,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2051,6 +1661,7 @@
     },
     {
       "id": 94,
+      "qid": 962089449,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2073,6 +1684,7 @@
     },
     {
       "id": 95,
+      "qid": 3800756429,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2095,6 +1707,7 @@
     },
     {
       "id": 96,
+      "qid": 261790296,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2117,6 +1730,7 @@
     },
     {
       "id": 97,
+      "qid": 1713116380,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2139,6 +1753,7 @@
     },
     {
       "id": 98,
+      "qid": 125480140,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2160,29 +1775,8 @@
       "is_pro": false
     },
     {
-      "id": 99,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Hard",
-      "question": "नेपालको सबैभन्दा उच्च स्थानमा रहेको ताल 'तिलिचो ताल' कुन जिल्लामा पर्दछ ?",
-      "options": [
-        "मनाङ",
-        "मुस्ताङ",
-        "डोल्पा",
-        "रसुवा"
-      ],
-      "option_a": "मनाङ",
-      "option_b": "मुस्ताङ",
-      "option_c": "डोल्पा",
-      "option_d": "रसुवा",
-      "answer_index": 0,
-      "explanation": "समुद्र सतहबाट ४९१९ मिटर उचाइमा रहेको विश्वकै उच्च स्थानका तालहरूमध्ये एक तिलिचो ताल मनाङ जिल्लामा अवस्थित छ।",
-      "is_pro": false
-    },
-    {
       "id": 100,
+      "qid": 4002184877,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2204,29 +1798,8 @@
       "is_pro": false
     },
     {
-      "id": 101,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Easy",
-      "question": "गणतन्त्र नेपालको पहिलो राष्ट्रपति को हुन् ?",
-      "options": [
-        "डा. रामवरण यादव",
-        "विद्यादेवी भण्डारी",
-        "रामचन्द्र पौडेल",
-        "सुवासचन्द्र नेम्वाङ"
-      ],
-      "option_a": "डा. रामवरण यादव",
-      "option_b": "विद्यादेवी भण्डारी",
-      "option_c": "रामचन्द्र पौडेल",
-      "option_d": "सुवासचन्द्र नेम्वाङ",
-      "answer_index": 0,
-      "explanation": "वि.सं. २०६५ सालमा राजतन्त्रको अन्त्य भएपछि डा. रामवरण यादव गणतन्त्र नेपालको पहिलो राष्ट्रपति निर्वाचित भएका थिए।",
-      "is_pro": false
-    },
-    {
       "id": 102,
+      "qid": 4240002655,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2249,6 +1822,7 @@
     },
     {
       "id": 103,
+      "qid": 1394813753,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2271,6 +1845,7 @@
     },
     {
       "id": 104,
+      "qid": 2133311140,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2293,6 +1868,7 @@
     },
     {
       "id": 105,
+      "qid": 2698770811,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2315,6 +1891,7 @@
     },
     {
       "id": 106,
+      "qid": 3521108640,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2337,6 +1914,7 @@
     },
     {
       "id": 107,
+      "qid": 238748584,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2358,29 +1936,8 @@
       "is_pro": false
     },
     {
-      "id": 108,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Easy",
-      "question": "विश्वमा सबैभन्दा धेरै देशहरू भएको महादेश कुन हो ?",
-      "options": [
-        "अफ्रिका",
-        "एसिया",
-        "युरोप",
-        "उत्तर अमेरिका"
-      ],
-      "option_a": "अफ्रिका",
-      "option_b": "एसिया",
-      "option_c": "युरोप",
-      "option_d": "उत्तर अमेरिका",
-      "answer_index": 0,
-      "explanation": "अफ्रिका महादेशमा सबैभन्दा धेरै ५४ वटा स्वतन्त्र राष्ट्रहरू रहेका छन्।",
-      "is_pro": false
-    },
-    {
       "id": 109,
+      "qid": 3769480637,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2402,29 +1959,8 @@
       "is_pro": false
     },
     {
-      "id": 110,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Easy",
-      "question": "पृथ्वीको कुन गोलार्धमा जमिनभन्दा जलभाग (पानी) अत्यधिक रहेको छ ?",
-      "options": [
-        "दक्षिणी गोलार्ध",
-        "उत्तरी गोलार्ध",
-        "पूर्वी गोलार्ध",
-        "पश्चिमी गोलार्ध"
-      ],
-      "option_a": "दक्षिणी गोलार्ध",
-      "option_b": "उत्तरी गोलार्ध",
-      "option_c": "पूर्वी गोलार्ध",
-      "option_d": "पश्चिमी गोलार्ध",
-      "answer_index": 0,
-      "explanation": "पृथ्वीको दक्षिणी गोलार्धमा जमिन निकै कम र महासागरहरू धेरै भएकाले यसलाई 'जल गोलार्ध' पनि भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 111,
+      "qid": 3089020000,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2447,6 +1983,7 @@
     },
     {
       "id": 112,
+      "qid": 213310381,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2469,6 +2006,7 @@
     },
     {
       "id": 113,
+      "qid": 765091682,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2491,6 +2029,7 @@
     },
     {
       "id": 114,
+      "qid": 2090502547,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2512,29 +2051,8 @@
       "is_pro": false
     },
     {
-      "id": 115,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Easy",
-      "question": "प्रदेश नं १ को नाम 'कोसी प्रदेश' कहिले नामकरण गरिएको हो ?",
-      "options": [
-        "वि.सं. २०७९ फागुन १७ गते",
-        "वि.सं. २०७८ फागुन १७ गते",
-        "वि.सं. २०८० वैशाख १ गते",
-        "वि.सं. २०७६ फागुन १७ गते"
-      ],
-      "option_a": "वि.सं. २०७९ फागुन १७ गते",
-      "option_b": "वि.सं. २०७८ फागुन १७ गते",
-      "option_c": "वि.सं. २०८० वैशाख १ गते",
-      "option_d": "वि.सं. २०७६ फागुन १७ गते",
-      "answer_index": 0,
-      "explanation": "प्रदेश नं १ को प्रदेश सभा बैठकले वि.सं. २०७९ फागुन १७ गते प्रदेशको नाम 'कोसी प्रदेश' राख्ने निर्णय गरेको हो।",
-      "is_pro": false
-    },
-    {
       "id": 116,
+      "qid": 4145320304,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2557,6 +2075,7 @@
     },
     {
       "id": 117,
+      "qid": 3914023848,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2579,6 +2098,7 @@
     },
     {
       "id": 118,
+      "qid": 1239503622,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2601,6 +2121,7 @@
     },
     {
       "id": 119,
+      "qid": 122115424,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2622,29 +2143,8 @@
       "is_pro": false
     },
     {
-      "id": 120,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Easy",
-      "question": "जनकपुरमा रहेको प्रसिद्ध 'जानकी मन्दिर' कसले बनाउन लगाएका हुन् ?",
-      "options": [
-        "रानी वृषभानु कुमारी",
-        "राजा जनक",
-        "रामचन्द्र",
-        "सीता"
-      ],
-      "option_a": "रानी वृषभानु कुमारी",
-      "option_b": "राजा जनक",
-      "option_c": "रामचन्द्र",
-      "option_d": "सीता",
-      "answer_index": 0,
-      "explanation": "टिकमगढ (भारत) की रानी वृषभानु कुमारीले वि.सं. १९६८ मा नौ लाख रूपैयाँ खर्च गरी यो मन्दिर (नौलाखा मन्दिर) निर्माण गराएकी हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 121,
+      "qid": 2571849790,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2667,6 +2167,7 @@
     },
     {
       "id": 122,
+      "qid": 1168886098,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2688,29 +2189,8 @@
       "is_pro": false
     },
     {
-      "id": 123,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "नेपालमा 'दास प्रथा' को कानुनी रूपमा अन्त्य कसले गरेका हुन् ?",
-      "options": [
-        "चन्द्रशमशेर",
-        "जङ्गबहादुर राणा",
-        "देवशमशेर",
-        "भीमसेन थापा"
-      ],
-      "option_a": "चन्द्रशमशेर",
-      "option_b": "जङ्गबहादुर राणा",
-      "option_c": "देवशमशेर",
-      "option_d": "भीमसेन थापा",
-      "answer_index": 0,
-      "explanation": "तत्कालीन प्रधानमन्त्री चन्द्रशमशेरले वि.सं. १९८१ मा घोषणा गरी १९८२ वैशाख १ गतेदेखि नेपालमा दास प्रथाको अन्त्य गरेका थिए।",
-      "is_pro": false
-    },
-    {
       "id": 124,
+      "qid": 3585049592,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2733,6 +2213,7 @@
     },
     {
       "id": 125,
+      "qid": 2739834751,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2754,29 +2235,8 @@
       "is_pro": false
     },
     {
-      "id": 126,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "विश्व स्वास्थ्य सङ्गठन (WHO) को स्थापना कहिले भएको हो ?",
-      "options": [
-        "७ अप्रिल १९४८",
-        "१ जनवरी १९९५",
-        "२४ अक्टोबर १९४५",
-        "१० डिसेम्बर १९४८"
-      ],
-      "option_a": "७ अप्रिल १९४८",
-      "option_b": "१ जनवरी १९९५",
-      "option_c": "२४ अक्टोबर १९४५",
-      "option_d": "१० डिसेम्बर १९४८",
-      "answer_index": 0,
-      "explanation": "जनस्वास्थ्यको प्रवर्द्धन गर्ने उद्देश्यले संयुक्त राष्ट्रसङ्घको विशिष्टीकृत संस्थाको रूपमा ७ अप्रिल १९४८ मा WHO को स्थापना भएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 127,
+      "qid": 3924260521,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2799,6 +2259,7 @@
     },
     {
       "id": 128,
+      "qid": 864316424,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2820,29 +2281,8 @@
       "is_pro": false
     },
     {
-      "id": 129,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "दोस्रो विश्वयुद्ध कहिलेदेखि कहिलेसम्म चलेको थियो ?",
-      "options": [
-        "सन् १९३९ देखि १९४५ सम्म",
-        "सन् १९१४ देखि १९१८ सम्म",
-        "सन् १९३५ देखि १९४० सम्म",
-        "सन् १९४५ देखि १९५० सम्म"
-      ],
-      "option_a": "सन् १९३९ देखि १९४५ सम्म",
-      "option_b": "सन् १९१४ देखि १९१८ सम्म",
-      "option_c": "सन् १९३५ देखि १९४० सम्म",
-      "option_d": "सन् १९४५ देखि १९५० सम्म",
-      "answer_index": 0,
-      "explanation": "जर्मनीले पोल्यान्डमा आक्रमण गरेपछि सन् १९३९ सेप्टेम्बर १ देखि सुरु भई सन् १९४५ सेप्टेम्बर २ मा दोस्रो विश्वयुद्ध समाप्त भएको थियो।",
-      "is_pro": false
-    },
-    {
       "id": 130,
+      "qid": 3359273365,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2865,6 +2305,7 @@
     },
     {
       "id": 131,
+      "qid": 2432299798,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2887,6 +2328,7 @@
     },
     {
       "id": 132,
+      "qid": 4256859942,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2909,6 +2351,7 @@
     },
     {
       "id": 133,
+      "qid": 591038547,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2931,6 +2374,7 @@
     },
     {
       "id": 134,
+      "qid": 3347050290,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2952,29 +2396,8 @@
       "is_pro": false
     },
     {
-      "id": 135,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "पृथ्वीले आफ्नो अक्ष (Axis) मा एक फन्को घुम्ने गतिलाई के भनिन्छ ?",
-      "options": [
-        "परिभ्रमण (Rotation/दैनिक गति)",
-        "परिक्रमा (Revolution/वार्षिक गति)",
-        "गुरुत्वाकर्षण",
-        "कम्पन"
-      ],
-      "option_a": "परिभ्रमण (Rotation/दैनिक गति)",
-      "option_b": "परिक्रमा (Revolution/वार्षिक गति)",
-      "option_c": "गुरुत्वाकर्षण",
-      "option_d": "कम्पन",
-      "answer_index": 0,
-      "explanation": "पृथ्वीले आफ्नो अक्षमा पश्चिमबाट पूर्वतिर घुम्ने गति दैनिक गति हो, जसका कारण दिन र रात हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 136,
+      "qid": 410297238,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -2997,6 +2420,7 @@
     },
     {
       "id": 137,
+      "qid": 1215138260,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3019,6 +2443,7 @@
     },
     {
       "id": 138,
+      "qid": 3066847362,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3041,6 +2466,7 @@
     },
     {
       "id": 139,
+      "qid": 3702686574,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3062,29 +2488,8 @@
       "is_pro": false
     },
     {
-      "id": 140,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "लिच्छविकालमा गाउँको स्थानीय प्रशासन हेर्ने मुख्य निकायलाई के भनिन्थ्यो ?",
-      "options": [
-        "पाञ्चाली",
-        "अन्तरासन",
-        "परमासन",
-        "विष्टी"
-      ],
-      "option_a": "पाञ्चाली",
-      "option_b": "अन्तरासन",
-      "option_c": "परमासन",
-      "option_d": "विष्टी",
-      "answer_index": 0,
-      "explanation": "लिच्छविकालमा गाउँको न्याय प्रशासन र विकास निर्माणको काम हेर्न गठन गरिएको स्थानीय निकायलाई 'पाञ्चाली' भनिन्थ्यो।",
-      "is_pro": false
-    },
-    {
       "id": 141,
+      "qid": 2163998671,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3106,29 +2511,8 @@
       "is_pro": false
     },
     {
-      "id": 142,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "नेपालको कुन नदीलाई भारतमा 'बिहारको दुःख' (Sorrow of Bihar) भनेर चिनिन्छ ?",
-      "options": [
-        "कोसी",
-        "कर्णाली",
-        "गण्डकी",
-        "महाकाली"
-      ],
-      "option_a": "कोसी",
-      "option_b": "कर्णाली",
-      "option_c": "गण्डकी",
-      "option_d": "महाकाली",
-      "answer_index": 0,
-      "explanation": "मनसुनको समयमा बाढीले भारतको बिहार राज्यमा धेरै जनधनको क्षति गर्ने भएकाले कोसी नदीलाई 'बिहारको दुःख' भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 143,
+      "qid": 898489559,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3151,6 +2535,7 @@
     },
     {
       "id": 144,
+      "qid": 3552494979,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3172,29 +2557,8 @@
       "is_pro": false
     },
     {
-      "id": 145,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "नेपालको कञ्चनजङ्घा हिमाल कुन जिल्लामा अवस्थित छ ?",
-      "options": [
-        "ताप्लेजुङ",
-        "सोलुखुम्बु",
-        "सङ्खुवासभा",
-        "मनाङ"
-      ],
-      "option_a": "ताप्लेजुङ",
-      "option_b": "सोलुखुम्बु",
-      "option_c": "सङ्खुवासभा",
-      "option_d": "मनाङ",
-      "answer_index": 0,
-      "explanation": "विश्वको तेस्रो अग्लो र नेपालको दोस्रो अग्लो हिमाल कञ्चनजङ्घा (८५८६ मि.) ताप्लेजुङ जिल्लामा पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 146,
+      "qid": 1778086580,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3217,6 +2581,7 @@
     },
     {
       "id": 147,
+      "qid": 2163602427,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3239,6 +2604,7 @@
     },
     {
       "id": 148,
+      "qid": 3057968282,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3261,6 +2627,7 @@
     },
     {
       "id": 149,
+      "qid": 2203184392,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3283,6 +2650,7 @@
     },
     {
       "id": 150,
+      "qid": 2584353298,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3304,29 +2672,8 @@
       "is_pro": false
     },
     {
-      "id": 151,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "युरोप र एसिया महादेशको जमिन आपसमा जोडिएको हुनाले यी दुईलाई संयुक्त रूपमा के भनिन्छ ?",
-      "options": [
-        "युरेसिया (Eurasia)",
-        "एसियोप",
-        "अफ्रसिया",
-        "सुपर कन्टिनेन्ट"
-      ],
-      "option_a": "युरेसिया (Eurasia)",
-      "option_b": "एसियोप",
-      "option_c": "अफ्रसिया",
-      "option_d": "सुपर कन्टिनेन्ट",
-      "answer_index": 0,
-      "explanation": "युरोप र एसिया महादेशलाई उराल पर्वतले मात्र छुट्याएको र जमिन जोडिएको हुनाले भौगोलिक रूपमा यसलाई 'युरेसिया' भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 152,
+      "qid": 3155997211,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3349,6 +2696,7 @@
     },
     {
       "id": 153,
+      "qid": 381494236,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3371,6 +2719,7 @@
     },
     {
       "id": 154,
+      "qid": 733459072,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3393,6 +2742,7 @@
     },
     {
       "id": 155,
+      "qid": 2542377033,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3414,29 +2764,8 @@
       "is_pro": false
     },
     {
-      "id": 156,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "नेपालको सबैभन्दा उच्च स्थानमा रहेको सदरमुकाम कुन हो ?",
-      "options": [
-        "सिमिकोट",
-        "जोमसोम",
-        "चामे",
-        "दुनै"
-      ],
-      "option_a": "सिमिकोट",
-      "option_b": "जोमसोम",
-      "option_c": "चामे",
-      "option_d": "दुनै",
-      "answer_index": 0,
-      "explanation": "हुम्ला जिल्लाको सदरमुकाम सिमिकोट (समुद्र सतहबाट करिब २९४५ मिटर उचाइ) नेपालको सबैभन्दा उच्च स्थानमा रहेको सदरमुकाम हो।",
-      "is_pro": false
-    },
-    {
       "id": 157,
+      "qid": 2373779484,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3458,29 +2787,8 @@
       "is_pro": false
     },
     {
-      "id": 158,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Medium",
-      "question": "नेपालको एकीकरण पूर्वको इतिहासमा 'पर्वत' राज्य कुन राज्य समूह अन्तर्गत पर्थ्यो ?",
-      "options": [
-        "चौबिसे राज्य",
-        "बाइसे राज्य",
-        "सेन राज्य",
-        "मल्ल राज्य"
-      ],
-      "option_a": "चौबिसे राज्य",
-      "option_b": "बाइसे राज्य",
-      "option_c": "सेन राज्य",
-      "option_d": "मल्ल राज्य",
-      "answer_index": 0,
-      "explanation": "गण्डकी प्रदेश आसपासका चौबिसे राज्यहरूमध्ये पर्वत एउटा शक्तिशाली चौबिसे राज्य थियो।",
-      "is_pro": false
-    },
-    {
       "id": 159,
+      "qid": 3314814212,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3503,6 +2811,7 @@
     },
     {
       "id": 160,
+      "qid": 2101168021,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3525,6 +2834,7 @@
     },
     {
       "id": 161,
+      "qid": 3768141282,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3547,6 +2857,7 @@
     },
     {
       "id": 162,
+      "qid": 2068385520,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3568,29 +2879,8 @@
       "is_pro": false
     },
     {
-      "id": 163,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Hard",
-      "question": "सन् १२१५ मा नागरिक अधिकारको वडापत्र 'म्याग्नाकार्टा' (Magna Carta) मा हस्ताक्षर गर्दा बेलायतका राजा को थिए ?",
-      "options": [
-        "राजा जोन",
-        "राजा हेनरी दोस्रो",
-        "राजा चाल्र्स प्रथम",
-        "राजा रिचर्ड"
-      ],
-      "option_a": "राजा जोन",
-      "option_b": "राजा हेनरी दोस्रो",
-      "option_c": "राजा चाल्र्स प्रथम",
-      "option_d": "राजा रिचर्ड",
-      "answer_index": 0,
-      "explanation": "सामन्तहरूको दबाबमा परी १५ जुन १२१५ मा बेलायतका राजा जोन (King John) ले म्याग्नाकार्टामा हस्ताक्षर गरेका थिए।",
-      "is_pro": false
-    },
-    {
       "id": 164,
+      "qid": 192495566,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3613,6 +2903,7 @@
     },
     {
       "id": 165,
+      "qid": 1673070449,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3635,6 +2926,7 @@
     },
     {
       "id": 166,
+      "qid": 1321610327,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3657,6 +2949,7 @@
     },
     {
       "id": 167,
+      "qid": 1493510600,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3678,29 +2971,8 @@
       "is_pro": false
     },
     {
-      "id": 168,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Hard",
-      "question": "संयुक्त राष्ट्रसङ्घको 'मानव अधिकारको विश्वव्यापी घोषणापत्र, १९४८' मा जम्मा कतिवटा धाराहरू रहेका छन् ?",
-      "options": [
-        "३० वटा",
-        "४५ वटा",
-        "५० वटा",
-        "२५ वटा"
-      ],
-      "option_a": "३० वटा",
-      "option_b": "४५ वटा",
-      "option_c": "५० वटा",
-      "option_d": "२५ वटा",
-      "answer_index": 0,
-      "explanation": "सबै मानिसको सम्मान र अधिकारको कुरा गरिएको यस घोषणापत्रमा जम्मा ३० वटा धाराहरू रहेका छन्।",
-      "is_pro": false
-    },
-    {
       "id": 169,
+      "qid": 3521362457,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3722,29 +2994,8 @@
       "is_pro": false
     },
     {
-      "id": 170,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Hard",
-      "question": "नेपाल सरकारले दाङ, कैलाली लगायतका जिल्लाहरूमा प्रचलित 'कम्लहरी प्रथा' को औपचारिक रूपमा कहिले अन्त्य घोषणा गर्‍यो ?",
-      "options": [
-        "वि.सं. २०७० साउन ३ गते",
-        "वि.सं. २०६५ भदौ २१ गते",
-        "वि.सं. २०७२ असोज ३ गते",
-        "वि.सं. २०६३ वैशाख ११ गते"
-      ],
-      "option_a": "वि.सं. २०७० साउन ३ गते",
-      "option_b": "वि.सं. २०६५ भदौ २१ गते",
-      "option_c": "वि.सं. २०७२ असोज ३ गते",
-      "option_d": "वि.सं. २०६३ वैशाख ११ गते",
-      "answer_index": 0,
-      "explanation": "थारु समुदायका बालिकाहरूलाई साहुको घरमा काम गर्न पठाउने कम्लहरी प्रथालाई मन्त्रिपरिषद्को निर्णयले २०७० साउन ३ गते खारेज गरेको हो।",
-      "is_pro": false
-    },
-    {
       "id": 171,
+      "qid": 1151056028,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3767,6 +3018,7 @@
     },
     {
       "id": 172,
+      "qid": 1452776917,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3788,29 +3040,8 @@
       "is_pro": false
     },
     {
-      "id": 173,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Hard",
-      "question": "पृथ्वीको सतहमा १ डिग्री देशान्तर (Longitude) को फरक पर्दा समयमा कति फरक पर्छ ?",
-      "options": [
-        "४ मिनेट",
-        "१५ मिनेट",
-        "१ घण्टा",
-        "१ मिनेट"
-      ],
-      "option_a": "४ मिनेट",
-      "option_b": "१५ मिनेट",
-      "option_c": "१ घण्टा",
-      "option_d": "१ मिनेट",
-      "answer_index": 0,
-      "explanation": "पृथ्वीले ३६० डिग्री घुम्न २४ घण्टा (१४४० मिनेट) लगाउने भएकाले १ डिग्री देशान्तर पार गर्न ४ मिनेट समय लाग्छ।",
-      "is_pro": false
-    },
-    {
       "id": 174,
+      "qid": 3566361642,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3833,6 +3064,7 @@
     },
     {
       "id": 175,
+      "qid": 1449868871,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3855,6 +3087,7 @@
     },
     {
       "id": 176,
+      "qid": 2150165712,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3877,6 +3110,7 @@
     },
     {
       "id": 177,
+      "qid": 3776853987,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3899,6 +3133,7 @@
     },
     {
       "id": 178,
+      "qid": 2871343079,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3921,6 +3156,7 @@
     },
     {
       "id": 179,
+      "qid": 1234585109,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3942,29 +3178,8 @@
       "is_pro": false
     },
     {
-      "id": 180,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Hard",
-      "question": "नेपालमा कृषि गणना (Agricultural Census) कति-कति वर्षको अन्तरालमा गर्ने गरिन्छ ?",
-      "options": [
-        "१० वर्ष",
-        "५ वर्ष",
-        "१२ वर्ष",
-        "१५ वर्ष"
-      ],
-      "option_a": "१० वर्ष",
-      "option_b": "५ वर्ष",
-      "option_c": "१२ वर्ष",
-      "option_d": "१५ वर्ष",
-      "answer_index": 0,
-      "explanation": "राष्ट्रिय जनगणना जस्तै कृषि गणना पनि नेपालमा प्रत्येक १०-१० वर्षको अन्तरालमा गर्ने गरिन्छ (पहिलो वि.सं. २०१८ मा भएको थियो)।",
-      "is_pro": false
-    },
-    {
       "id": 181,
+      "qid": 1730533513,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -3987,6 +3202,7 @@
     },
     {
       "id": 182,
+      "qid": 4060319253,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -4008,29 +3224,8 @@
       "is_pro": false
     },
     {
-      "id": 183,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Hard",
-      "question": "नेपालको सङ्घीय संसद्को संयुक्त बैठक (राष्ट्रिय सभा र प्रतिनिधि सभा दुवैको) को अध्यक्षता कसले गर्ने संवैधानिक व्यवस्था छ ?",
-      "options": [
-        "प्रतिनिधि सभाको सभामुखले",
-        "राष्ट्रिय सभाको अध्यक्षले",
-        "राष्ट्रपतिले",
-        "प्रधानन्यायाधीशले"
-      ],
-      "option_a": "प्रतिनिधि सभाको सभामुखले",
-      "option_b": "राष्ट्रिय सभाको अध्यक्षले",
-      "option_c": "राष्ट्रपतिले",
-      "option_d": "प्रधानन्यायाधीशले",
-      "answer_index": 0,
-      "explanation": "नेपालको संविधानको धारा १०४ अनुसार दुवै सदनको संयुक्त बैठकको अध्यक्षता प्रतिनिधि सभाको सभामुखले गर्नेछन्।",
-      "is_pro": false
-    },
-    {
       "id": 184,
+      "qid": 2562934185,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -4053,6 +3248,7 @@
     },
     {
       "id": 185,
+      "qid": 3674205025,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -4074,29 +3270,8 @@
       "is_pro": false
     },
     {
-      "id": 186,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Hard",
-      "question": "नेपालको वर्तमान संविधानको धारा ३५ मा कुन मौलिक हकको व्यवस्था गरिएको छ ?",
-      "options": [
-        "स्वास्थ्यसम्बन्धी हक",
-        "रोजगारीको हक",
-        "शिक्षासम्बन्धी हक",
-        "समानताको हक"
-      ],
-      "option_a": "स्वास्थ्यसम्बन्धी हक",
-      "option_b": "रोजगारीको हक",
-      "option_c": "शिक्षासम्बन्धी हक",
-      "option_d": "समानताको हक",
-      "answer_index": 0,
-      "explanation": "संविधानको धारा ३५ मा प्रत्येक नागरिकलाई राज्यबाट आधारभूत स्वास्थ्य सेवा निःशुल्क प्राप्त गर्ने 'स्वास्थ्यसम्बन्धी हक' को व्यवस्था छ।",
-      "is_pro": false
-    },
-    {
       "id": 187,
+      "qid": 2247048093,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -4119,6 +3294,7 @@
     },
     {
       "id": 188,
+      "qid": 217493794,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -4141,6 +3317,7 @@
     },
     {
       "id": 189,
+      "qid": 110904245,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -4163,6 +3340,7 @@
     },
     {
       "id": 190,
+      "qid": 2182723020,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -4184,29 +3362,8 @@
       "is_pro": false
     },
     {
-      "id": 191,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Hard",
-      "question": "विश्वको सबैभन्दा लामो नदी 'नाइल' (Nile) कुन तालबाट निस्कन्छ ?",
-      "options": [
-        "भिक्टोरिया ताल",
-        "सुपेरियर ताल",
-        "टिटिकाका ताल",
-        "क्यास्पियन सागर"
-      ],
-      "option_a": "भिक्टोरिया ताल",
-      "option_b": "सुपेरियर ताल",
-      "option_c": "टिटिकाका ताल",
-      "option_d": "क्यास्पियन सागर",
-      "answer_index": 0,
-      "explanation": "अफ्रिका महादेशमा बग्ने नाइल नदीको प्रमुख स्रोत (सेतो नाइल) अफ्रिकाकै सबैभन्दा ठूलो ताल भिक्टोरिया ताल हो।",
-      "is_pro": false
-    },
-    {
       "id": 192,
+      "qid": 3898545563,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -4229,6 +3386,7 @@
     },
     {
       "id": 193,
+      "qid": 4046786547,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -4250,29 +3408,8 @@
       "is_pro": false
     },
     {
-      "id": 194,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Hard",
-      "question": "अफ्रिका महादेशको सबैभन्दा अग्लो हिमाल (चुचुरो) कुन हो ?",
-      "options": [
-        "माउन्ट किलिमन्जारो",
-        "माउन्ट एल्ब्रस",
-        "माउन्ट म्याकिन्ले",
-        "माउन्ट एटलस"
-      ],
-      "option_a": "माउन्ट किलिमन्जारो",
-      "option_b": "माउन्ट एल्ब्रस",
-      "option_c": "माउन्ट म्याकिन्ले",
-      "option_d": "माउन्ट एटलस",
-      "answer_index": 0,
-      "explanation": "तान्जानियामा अवस्थित माउन्ट किलिमन्जारो (५८९५ मिटर) अफ्रिकाको सबैभन्दा अग्लो हिमाल हो।",
-      "is_pro": false
-    },
-    {
       "id": 195,
+      "qid": 2698827708,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -4295,6 +3432,7 @@
     },
     {
       "id": 196,
+      "qid": 2054616713,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -4316,29 +3454,8 @@
       "is_pro": false
     },
     {
-      "id": 197,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "110",
-      "sub_cat_name": "Social Studies",
-      "level": "Hard",
-      "question": "नेपालको कुन पञ्चवर्षीय योजनाबाट 'गरिबी निवारण' लाई विकासको मुख्य उद्देश्य बनाउन थालिएको हो ?",
-      "options": [
-        "आठौँ योजना",
-        "छैटौँ योजना",
-        "दसौँ योजना",
-        "बाह्रौँ योजना"
-      ],
-      "option_a": "आठौँ योजना",
-      "option_b": "छैटौँ योजना",
-      "option_c": "दसौँ योजना",
-      "option_d": "बाह्रौँ योजना",
-      "answer_index": 0,
-      "explanation": "वि.सं. २०४९ देखि २०५४ सम्म लागू भएको आठौँ योजनादेखि गरिबी निवारणलाई प्रमुख प्राथमिकतामा राखिएको हो (दसौँ योजनालाई त गरिबी निवारणको एकसूत्रीय योजना नै भनिन्छ, तर सुरुवात आठौँबाट भएको हो)।",
-      "is_pro": false
-    },
-    {
       "id": 198,
+      "qid": 3451955183,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -4361,6 +3478,7 @@
     },
     {
       "id": 199,
+      "qid": 2531727748,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
@@ -4383,6 +3501,7 @@
     },
     {
       "id": 200,
+      "qid": 831487998,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "110",
