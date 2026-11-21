@@ -1,32 +1,11 @@
 {
   "sub_cat_id": "120",
-  "data_version": 1794491195766,
-  "total_questions": 200,
+  "data_version": 1795279225068,
+  "total_questions": 150,
   "questions": [
     {
-      "id": 1,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "प्यारामिसियम' कुन फाइलम (Phylum) अन्तर्गत पर्दछ?",
-      "options": [
-        "प्रोटोजोवा",
-        "एनेलिडा",
-        "इकिनोडर्माटा",
-        "आर्थ्रोपोडा"
-      ],
-      "option_a": "प्रोटोजोवा",
-      "option_b": "एनेलिडा",
-      "option_c": "इकिनोडर्माटा",
-      "option_d": "आर्थ्रोपोडा",
-      "answer_index": 0,
-      "explanation": "प्यारामिसियम एक ढाड नभएको जनावर हो जुन प्रोटोजोवा फाइलम अन्तर्गत पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 2,
+      "qid": 2508747762,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -49,6 +28,7 @@
     },
     {
       "id": 3,
+      "qid": 2186364713,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 3788544885,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -92,29 +73,8 @@
       "is_pro": false
     },
     {
-      "id": 5,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "बिरुवामा 'जरा' को मुख्य कार्य के हो?",
-      "options": [
-        "माटोबाट पानी र खनिज तत्व सोस्ने",
-        "प्रकाश संश्लेषणद्वारा खाना बनाउने",
-        "बीउलाई सुरक्षित राख्ने",
-        "बिरुवालाई ठाडो राख्ने र पानी ओसारपसार गर्ने"
-      ],
-      "option_a": "माटोबाट पानी र खनिज तत्व सोस्ने",
-      "option_b": "प्रकाश संश्लेषणद्वारा खाना बनाउने",
-      "option_c": "बीउलाई सुरक्षित राख्ने",
-      "option_d": "बिरुवालाई ठाडो राख्ने र पानी ओसारपसार गर्ने",
-      "answer_index": 0,
-      "explanation": "बिरुवाको जरा ले मुख्यतया माटोबाट पानी र खनिज तत्व सोस्ने कार्य गर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 6,
+      "qid": 797581956,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -137,6 +97,7 @@
     },
     {
       "id": 7,
+      "qid": 1313889440,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -159,6 +120,7 @@
     },
     {
       "id": 8,
+      "qid": 2402956101,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -180,29 +142,8 @@
       "is_pro": false
     },
     {
-      "id": 9,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "स्क्विड' कुन फाइलम (Phylum) अन्तर्गत पर्दछ?",
-      "options": [
-        "मोलस्का",
-        "पोरिफेरा",
-        "आर्थ्रोपोडा",
-        "प्रोटोजोवा"
-      ],
-      "option_a": "मोलस्का",
-      "option_b": "पोरिफेरा",
-      "option_c": "आर्थ्रोपोडा",
-      "option_d": "प्रोटोजोवा",
-      "answer_index": 0,
-      "explanation": "स्क्विड एक ढाड नभएको जनावर हो जुन मोलस्का फाइलम अन्तर्गत पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 10,
+      "qid": 1442954010,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -225,6 +166,7 @@
     },
     {
       "id": 11,
+      "qid": 3029253041,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -247,6 +189,7 @@
     },
     {
       "id": 12,
+      "qid": 2375331491,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -268,29 +211,8 @@
       "is_pro": false
     },
     {
-      "id": 13,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "ब्रिटल स्टार' कुन फाइलम (Phylum) अन्तर्गत पर्दछ?",
-      "options": [
-        "इकिनोडर्माटा",
-        "पोरिफेरा",
-        "प्लाटीहेल्मिन्थेस",
-        "मोलस्का"
-      ],
-      "option_a": "इकिनोडर्माटा",
-      "option_b": "पोरिफेरा",
-      "option_c": "प्लाटीहेल्मिन्थेस",
-      "option_d": "मोलस्का",
-      "answer_index": 0,
-      "explanation": "ब्रिटल स्टार एक ढाड नभएको जनावर हो जुन इकिनोडर्माटा फाइलम अन्तर्गत पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 14,
+      "qid": 3100593094,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -313,6 +235,7 @@
     },
     {
       "id": 15,
+      "qid": 2639803297,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -335,6 +258,7 @@
     },
     {
       "id": 16,
+      "qid": 3546216739,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -356,29 +280,8 @@
       "is_pro": false
     },
     {
-      "id": 17,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Easy",
-      "question": "ढुकुर' कुन वर्ग (Class) मा पर्दछ?",
-      "options": [
-        "पन्छी (Aves)",
-        "सरिसृप (Reptilia)",
-        "उभयचर (Amphibia)",
-        "स्तनधारी (Mammalia)"
-      ],
-      "option_a": "पन्छी (Aves)",
-      "option_b": "सरिसृप (Reptilia)",
-      "option_c": "उभयचर (Amphibia)",
-      "option_d": "स्तनधारी (Mammalia)",
-      "answer_index": 0,
-      "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार ढुकुर पन्छी (Aves) वर्गमा पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 18,
+      "qid": 913959130,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -401,6 +304,7 @@
     },
     {
       "id": 19,
+      "qid": 2889136412,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -423,6 +327,7 @@
     },
     {
       "id": 20,
+      "qid": 1795303420,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -444,29 +349,8 @@
       "is_pro": false
     },
     {
-      "id": 21,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "स्टारफिस' कुन फाइलम (Phylum) अन्तर्गत पर्दछ?",
-      "options": [
-        "इकिनोडर्माटा",
-        "नेमाथेल्मिन्थेस",
-        "प्रोटोजोवा",
-        "मोलस्का"
-      ],
-      "option_a": "इकिनोडर्माटा",
-      "option_b": "नेमाथेल्मिन्थेस",
-      "option_c": "प्रोटोजोवा",
-      "option_d": "मोलस्का",
-      "answer_index": 0,
-      "explanation": "स्टारफिस एक ढाड नभएको जनावर हो जुन इकिनोडर्माटा फाइलम अन्तर्गत पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 22,
+      "qid": 1842136723,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -489,6 +373,7 @@
     },
     {
       "id": 23,
+      "qid": 1117366669,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -511,6 +396,7 @@
     },
     {
       "id": 24,
+      "qid": 3924583669,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -532,29 +418,8 @@
       "is_pro": false
     },
     {
-      "id": 25,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Easy",
-      "question": "भ्यागुतो' कुन वर्ग (Class) मा पर्दछ?",
-      "options": [
-        "उभयचर (Amphibia)",
-        "मत्स्य (Pisces)",
-        "सरिसृप (Reptilia)",
-        "पन्छी (Aves)"
-      ],
-      "option_a": "उभयचर (Amphibia)",
-      "option_b": "मत्स्य (Pisces)",
-      "option_c": "सरिसृप (Reptilia)",
-      "option_d": "पन्छी (Aves)",
-      "answer_index": 0,
-      "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार भ्यागुतो उभयचर (Amphibia) वर्गमा पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 26,
+      "qid": 1583776476,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -577,6 +442,7 @@
     },
     {
       "id": 27,
+      "qid": 4274616231,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -599,6 +465,7 @@
     },
     {
       "id": 28,
+      "qid": 3982039140,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -620,29 +487,8 @@
       "is_pro": false
     },
     {
-      "id": 29,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "स्यान्डवर्म' कुन फाइलम (Phylum) अन्तर्गत पर्दछ?",
-      "options": [
-        "एनेलिडा",
-        "मोलस्का",
-        "प्लाटीहेल्मिन्थेस",
-        "आर्थ्रोपोडा"
-      ],
-      "option_a": "एनेलिडा",
-      "option_b": "मोलस्का",
-      "option_c": "प्लाटीहेल्मिन्थेस",
-      "option_d": "आर्थ्रोपोडा",
-      "answer_index": 0,
-      "explanation": "स्यान्डवर्म एक ढाड नभएको जनावर हो जुन एनेलिडा फाइलम अन्तर्गत पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 30,
+      "qid": 2298608561,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -665,6 +511,7 @@
     },
     {
       "id": 31,
+      "qid": 3924583669,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -687,6 +534,7 @@
     },
     {
       "id": 32,
+      "qid": 2128944129,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -708,29 +556,8 @@
       "is_pro": false
     },
     {
-      "id": 33,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "जुका (Leech)' कुन फाइलम (Phylum) अन्तर्गत पर्दछ?",
-      "options": [
-        "एनेलिडा",
-        "नेमाथेल्मिन्थेस",
-        "प्लाटीहेल्मिन्थेस",
-        "प्रोटोजोवा"
-      ],
-      "option_a": "एनेलिडा",
-      "option_b": "नेमाथेल्मिन्थेस",
-      "option_c": "प्लाटीहेल्मिन्थेस",
-      "option_d": "प्रोटोजोवा",
-      "answer_index": 0,
-      "explanation": "जुका (Leech) एक ढाड नभएको जनावर हो जुन एनेलिडा फाइलम अन्तर्गत पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 34,
+      "qid": 1126412292,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -753,6 +580,7 @@
     },
     {
       "id": 35,
+      "qid": 829832842,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -775,6 +603,7 @@
     },
     {
       "id": 36,
+      "qid": 1450983127,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -796,29 +625,8 @@
       "is_pro": false
     },
     {
-      "id": 37,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Easy",
-      "question": "मानव शरीरमा जम्मा कति वटा हाडहरू हुन्छन्?",
-      "options": [
-        "२०६",
-        "२००",
-        "२०८",
-        "२१२"
-      ],
-      "option_a": "२०६",
-      "option_b": "२००",
-      "option_c": "२०८",
-      "option_d": "२१२",
-      "answer_index": 0,
-      "explanation": "एक वयस्क मानिसको शरीरमा २०६ वटा हाडहरू हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 38,
+      "qid": 3759970097,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -841,6 +649,7 @@
     },
     {
       "id": 39,
+      "qid": 1621888110,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -863,6 +672,7 @@
     },
     {
       "id": 40,
+      "qid": 3235159166,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -884,29 +694,8 @@
       "is_pro": false
     },
     {
-      "id": 41,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Easy",
-      "question": "बाघ' कुन वर्ग (Class) मा पर्दछ?",
-      "options": [
-        "स्तनधारी (Mammalia)",
-        "मत्स्य (Pisces)",
-        "पन्छी (Aves)",
-        "उभयचर (Amphibia)"
-      ],
-      "option_a": "स्तनधारी (Mammalia)",
-      "option_b": "मत्स्य (Pisces)",
-      "option_c": "पन्छी (Aves)",
-      "option_d": "उभयचर (Amphibia)",
-      "answer_index": 0,
-      "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार बाघ स्तनधारी (Mammalia) वर्गमा पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 42,
+      "qid": 3679021990,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -929,6 +718,7 @@
     },
     {
       "id": 43,
+      "qid": 1814192343,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -951,6 +741,7 @@
     },
     {
       "id": 44,
+      "qid": 2480633668,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -972,29 +763,8 @@
       "is_pro": false
     },
     {
-      "id": 45,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Hard",
-      "question": "बेरीबेरी' रोग कुन भिटामिनको कमीले गर्दा लाग्छ?",
-      "options": [
-        "भिटामिन बी",
-        "भिटामिन ए",
-        "भिटामिन सी",
-        "भिटामिन डी"
-      ],
-      "option_a": "भिटामिन बी",
-      "option_b": "भिटामिन ए",
-      "option_c": "भिटामिन सी",
-      "option_d": "भिटामिन डी",
-      "answer_index": 0,
-      "explanation": "शरीरमा भिटामिन बी को कमी हुँदा बेरीबेरी रोग लाग्ने गर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 46,
+      "qid": 300594813,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1017,6 +787,7 @@
     },
     {
       "id": 47,
+      "qid": 1939005684,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1039,6 +810,7 @@
     },
     {
       "id": 48,
+      "qid": 3680529691,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1060,29 +832,8 @@
       "is_pro": false
     },
     {
-      "id": 49,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "प्लाज्मोडियम' कुन फाइलम (Phylum) अन्तर्गत पर्दछ?",
-      "options": [
-        "प्रोटोजोवा",
-        "इकिनोडर्माटा",
-        "एनेलिडा",
-        "पोरिफेरा"
-      ],
-      "option_a": "प्रोटोजोवा",
-      "option_b": "इकिनोडर्माटा",
-      "option_c": "एनेलिडा",
-      "option_d": "पोरिफेरा",
-      "answer_index": 0,
-      "explanation": "प्लाज्मोडियम एक ढाड नभएको जनावर हो जुन प्रोटोजोवा फाइलम अन्तर्गत पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 50,
+      "qid": 3752108355,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1105,6 +856,7 @@
     },
     {
       "id": 51,
+      "qid": 3365755340,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1127,6 +879,7 @@
     },
     {
       "id": 52,
+      "qid": 3464102840,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1148,29 +901,8 @@
       "is_pro": false
     },
     {
-      "id": 53,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Hard",
-      "question": "कोष (Cell) को पत्ता लगाउने वैज्ञानिक को हुन्?",
-      "options": [
-        "रोबर्ट हुक",
-        "एन्टोन भान लिउवेनहुक",
-        "थियोडोर स्वान",
-        "रुडोल्फ भिरचोव"
-      ],
-      "option_a": "रोबर्ट हुक",
-      "option_b": "एन्टोन भान लिउवेनहुक",
-      "option_c": "थियोडोर स्वान",
-      "option_d": "रुडोल्फ भिरचोव",
-      "answer_index": 0,
-      "explanation": "सन् १६६५ मा रोबर्ट हुकले कर्कको टुक्रामा पहिलो पटक कोष पत्ता लगाएका थिए।",
-      "is_pro": false
-    },
-    {
       "id": 54,
+      "qid": 3673444221,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1193,6 +925,7 @@
     },
     {
       "id": 55,
+      "qid": 1386919937,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1215,6 +948,7 @@
     },
     {
       "id": 56,
+      "qid": 1814192343,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1236,29 +970,8 @@
       "is_pro": false
     },
     {
-      "id": 57,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Easy",
-      "question": "काग' कुन वर्ग (Class) मा पर्दछ?",
-      "options": [
-        "पन्छी (Aves)",
-        "सरिसृप (Reptilia)",
-        "स्तनधारी (Mammalia)",
-        "उभयचर (Amphibia)"
-      ],
-      "option_a": "पन्छी (Aves)",
-      "option_b": "सरिसृप (Reptilia)",
-      "option_c": "स्तनधारी (Mammalia)",
-      "option_d": "उभयचर (Amphibia)",
-      "answer_index": 0,
-      "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार काग पन्छी (Aves) वर्गमा पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 58,
+      "qid": 496590478,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1281,6 +994,7 @@
     },
     {
       "id": 59,
+      "qid": 1230304073,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1303,6 +1017,7 @@
     },
     {
       "id": 60,
+      "qid": 3227220951,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1324,29 +1039,8 @@
       "is_pro": false
     },
     {
-      "id": 61,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "बिरुवामा 'पात' को मुख्य कार्य के हो?",
-      "options": [
-        "प्रकाश संश्लेषणद्वारा खाना बनाउने",
-        "माटोबाट पानी र खनिज तत्व सोस्ने",
-        "बिरुवालाई ठाडो राख्ने र पानी ओसारपसार गर्ने",
-        "बीउलाई सुरक्षित राख्ने"
-      ],
-      "option_a": "प्रकाश संश्लेषणद्वारा खाना बनाउने",
-      "option_b": "माटोबाट पानी र खनिज तत्व सोस्ने",
-      "option_c": "बिरुवालाई ठाडो राख्ने र पानी ओसारपसार गर्ने",
-      "option_d": "बीउलाई सुरक्षित राख्ने",
-      "answer_index": 0,
-      "explanation": "बिरुवाको पात ले मुख्यतया प्रकाश संश्लेषणद्वारा खाना बनाउने कार्य गर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 62,
+      "qid": 3389320419,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1369,6 +1063,7 @@
     },
     {
       "id": 63,
+      "qid": 794384276,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1391,6 +1086,7 @@
     },
     {
       "id": 64,
+      "qid": 3913966795,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1412,29 +1108,8 @@
       "is_pro": false
     },
     {
-      "id": 65,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Easy",
-      "question": "मानव शरीरको 'मुटु' कुन प्रणाली अन्तर्गत पर्दछ?",
-      "options": [
-        "रक्तसञ्चार प्रणाली",
-        "उत्सर्जन प्रणाली",
-        "स्नायु प्रणाली",
-        "पाचन प्रणाली"
-      ],
-      "option_a": "रक्तसञ्चार प्रणाली",
-      "option_b": "उत्सर्जन प्रणाली",
-      "option_c": "स्नायु प्रणाली",
-      "option_d": "पाचन प्रणाली",
-      "answer_index": 0,
-      "explanation": "मुटु ले मानव शरीरको रक्तसञ्चार प्रणाली मा प्रमुख भूमिका खेल्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 66,
+      "qid": 3932501309,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1457,6 +1132,7 @@
     },
     {
       "id": 67,
+      "qid": 1819183447,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1479,6 +1155,7 @@
     },
     {
       "id": 68,
+      "qid": 1493330257,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1500,29 +1177,8 @@
       "is_pro": false
     },
     {
-      "id": 69,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Easy",
-      "question": "मानिस' कुन वर्ग (Class) मा पर्दछ?",
-      "options": [
-        "स्तनधारी (Mammalia)",
-        "उभयचर (Amphibia)",
-        "मत्स्य (Pisces)",
-        "पन्छी (Aves)"
-      ],
-      "option_a": "स्तनधारी (Mammalia)",
-      "option_b": "उभयचर (Amphibia)",
-      "option_c": "मत्स्य (Pisces)",
-      "option_d": "पन्छी (Aves)",
-      "answer_index": 0,
-      "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार मानिस स्तनधारी (Mammalia) वर्गमा पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 70,
+      "qid": 3195496900,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1545,6 +1201,7 @@
     },
     {
       "id": 71,
+      "qid": 3240184868,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1567,6 +1224,7 @@
     },
     {
       "id": 72,
+      "qid": 3535764818,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1588,29 +1246,8 @@
       "is_pro": false
     },
     {
-      "id": 73,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "कुन रक्तसमूहलाई 'विश्वव्यापी प्रापक' (Universal Recipient) भनिन्छ?",
-      "options": [
-        "AB (एबी)",
-        "A (ए)",
-        "B (बी)",
-        "O (ओ)"
-      ],
-      "option_a": "AB (एबी)",
-      "option_b": "A (ए)",
-      "option_c": "B (बी)",
-      "option_d": "O (ओ)",
-      "answer_index": 0,
-      "explanation": "रक्तसमूह 'AB' ले सबै समूहबाट रगत लिन सक्ने भएकाले यसलाई विश्वव्यापी प्रापक भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 74,
+      "qid": 845378099,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1633,6 +1270,7 @@
     },
     {
       "id": 75,
+      "qid": 2339317047,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1655,6 +1293,7 @@
     },
     {
       "id": 76,
+      "qid": 1131491009,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1676,29 +1315,8 @@
       "is_pro": false
     },
     {
-      "id": 77,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "गँड्यौला' कुन फाइलम (Phylum) अन्तर्गत पर्दछ?",
-      "options": [
-        "एनेलिडा",
-        "पोरिफेरा",
-        "प्लाटीहेल्मिन्थेस",
-        "आर्थ्रोपोडा"
-      ],
-      "option_a": "एनेलिडा",
-      "option_b": "पोरिफेरा",
-      "option_c": "प्लाटीहेल्मिन्थेस",
-      "option_d": "आर्थ्रोपोडा",
-      "answer_index": 0,
-      "explanation": "गँड्यौला एक ढाड नभएको जनावर हो जुन एनेलिडा फाइलम अन्तर्गत पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 78,
+      "qid": 413124693,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1721,6 +1339,7 @@
     },
     {
       "id": 79,
+      "qid": 1558566112,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1743,6 +1362,7 @@
     },
     {
       "id": 80,
+      "qid": 2375331491,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1764,29 +1384,8 @@
       "is_pro": false
     },
     {
-      "id": 81,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "जुका' कुन फाइलम (Phylum) अन्तर्गत पर्दछ?",
-      "options": [
-        "नेमाथेल्मिन्थेस",
-        "प्लाटीहेल्मिन्थेस",
-        "सिलेन्टेरेटा",
-        "इकिनोडर्माटा"
-      ],
-      "option_a": "नेमाथेल्मिन्थेस",
-      "option_b": "प्लाटीहेल्मिन्थेस",
-      "option_c": "सिलेन्टेरेटा",
-      "option_d": "इकिनोडर्माटा",
-      "answer_index": 0,
-      "explanation": "जुका एक ढाड नभएको जनावर हो जुन नेमाथेल्मिन्थेस फाइलम अन्तर्गत पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 82,
+      "qid": 2152507413,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1809,6 +1408,7 @@
     },
     {
       "id": 83,
+      "qid": 1526621983,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1831,6 +1431,7 @@
     },
     {
       "id": 84,
+      "qid": 3688650275,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1852,29 +1453,8 @@
       "is_pro": false
     },
     {
-      "id": 85,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "मानव शरीरको सबैभन्दा ठूलो ग्रन्थी कुन हो?",
-      "options": [
-        "कलेजो",
-        "प्यान्क्रियाज",
-        "थाइराइड",
-        "पिट्युटरी"
-      ],
-      "option_a": "कलेजो",
-      "option_b": "प्यान्क्रियाज",
-      "option_c": "थाइराइड",
-      "option_d": "पिट्युटरी",
-      "answer_index": 0,
-      "explanation": "मानव शरीरको सबैभन्दा ठूलो भित्री ग्रन्थी कलेजो (Liver) हो।",
-      "is_pro": false
-    },
-    {
       "id": 86,
+      "qid": 3913966795,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1897,6 +1477,7 @@
     },
     {
       "id": 87,
+      "qid": 1476235962,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1919,6 +1500,7 @@
     },
     {
       "id": 88,
+      "qid": 1476235962,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1940,29 +1522,8 @@
       "is_pro": false
     },
     {
-      "id": 89,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "मानव शरीरको सबैभन्दा ठूलो अंग कुन हो?",
-      "options": [
-        "छाला",
-        "कलेजो",
-        "मुटु",
-        "मस्तिष्क"
-      ],
-      "option_a": "छाला",
-      "option_b": "कलेजो",
-      "option_c": "मुटु",
-      "option_d": "मस्तिष्क",
-      "answer_index": 0,
-      "explanation": "मानव शरीरको बाहिरी आवरणको रूपमा रहेको छाला सबैभन्दा ठूलो अंग हो।",
-      "is_pro": false
-    },
-    {
       "id": 90,
+      "qid": 3792922474,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -1985,6 +1546,7 @@
     },
     {
       "id": 91,
+      "qid": 3757024408,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2007,6 +1569,7 @@
     },
     {
       "id": 92,
+      "qid": 2469004521,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2028,29 +1591,8 @@
       "is_pro": false
     },
     {
-      "id": 93,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "छेपारो' कुन वर्ग (Class) मा पर्दछ?",
-      "options": [
-        "सरिसृप (Reptilia)",
-        "स्तनधारी (Mammalia)",
-        "पन्छी (Aves)",
-        "मत्स्य (Pisces)"
-      ],
-      "option_a": "सरिसृप (Reptilia)",
-      "option_b": "स्तनधारी (Mammalia)",
-      "option_c": "पन्छी (Aves)",
-      "option_d": "मत्स्य (Pisces)",
-      "answer_index": 0,
-      "explanation": "ढाड भएका जनावरहरूको वर्गीकरण अनुसार छेपारो सरिसृप (Reptilia) वर्गमा पर्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 94,
+      "qid": 3564446946,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2073,6 +1615,7 @@
     },
     {
       "id": 95,
+      "qid": 2318053019,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2095,6 +1638,7 @@
     },
     {
       "id": 96,
+      "qid": 934904450,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2116,29 +1660,8 @@
       "is_pro": false
     },
     {
-      "id": 97,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "भिटामिन डी को कमीले कुन रोग लाग्छ?",
-      "options": [
-        "रिकेट्स",
-        "रतन्धो",
-        "बेरीबेरी",
-        "स्कर्भी"
-      ],
-      "option_a": "रिकेट्स",
-      "option_b": "रतन्धो",
-      "option_c": "बेरीबेरी",
-      "option_d": "स्कर्भी",
-      "answer_index": 0,
-      "explanation": "भिटामिन डी को कमीले मानिसमा रिकेट्स रोग लाग्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 98,
+      "qid": 3513010220,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2161,6 +1684,7 @@
     },
     {
       "id": 99,
+      "qid": 3490956835,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2183,6 +1707,7 @@
     },
     {
       "id": 100,
+      "qid": 511047983,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2205,6 +1730,7 @@
     },
     {
       "id": 101,
+      "qid": 3422281153,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2226,29 +1752,8 @@
       "is_pro": false
     },
     {
-      "id": 102,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "प्रोक्यारियोटिक कोषमा कुन अंगक हुँदैन?",
-      "options": [
-        "माइटोकन्ड्रिया",
-        "राइबोसोम",
-        "कोष झिल्ली",
-        "न्यूक्लियोइड"
-      ],
-      "option_a": "माइटोकन्ड्रिया",
-      "option_b": "राइबोसोम",
-      "option_c": "कोष झिल्ली",
-      "option_d": "न्यूक्लियोइड",
-      "answer_index": 0,
-      "explanation": "प्रोक्यारियोटिक कोषमा झिल्लीबद्ध अंगक जस्तै माइटोकन्ड्रिया हुँदैन।",
-      "is_pro": false
-    },
-    {
       "id": 103,
+      "qid": 1951008100,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2271,6 +1776,7 @@
     },
     {
       "id": 104,
+      "qid": 2745962814,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2293,6 +1799,7 @@
     },
     {
       "id": 105,
+      "qid": 3942292859,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2315,6 +1822,7 @@
     },
     {
       "id": 106,
+      "qid": 818750877,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2336,29 +1844,8 @@
       "is_pro": false
     },
     {
-      "id": 107,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "हाइड्रामा अलैंगिक प्रजनन कुन विधिले हुन्छ?",
-      "options": [
-        "बडिङ",
-        "बाइनरी फिजन",
-        "फ्र्याग्मेन्टेसन",
-        "स्पोरुलेसन"
-      ],
-      "option_a": "बडिङ",
-      "option_b": "बाइनरी फिजन",
-      "option_c": "फ्र्याग्मेन्टेसन",
-      "option_d": "स्पोरुलेसन",
-      "answer_index": 0,
-      "explanation": "हाइड्रामा कलिका (बड) बनेर छुट्टिने विधिले अलैंगिक प्रजनन गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 108,
+      "qid": 2494502391,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2380,29 +1867,8 @@
       "is_pro": false
     },
     {
-      "id": 109,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "प्रकाश संश्लेषणको अवस्था जसले प्रकाश ऊर्जालाई रासायनिक ऊर्जामा परिणत गर्छ?",
-      "options": [
-        "प्रकाश अवस्था",
-        "क्याल्भिन चक्र",
-        "ग्लाइकोलाइसिस",
-        "क्रेब्स चक्र"
-      ],
-      "option_a": "प्रकाश अवस्था",
-      "option_b": "क्याल्भिन चक्र",
-      "option_c": "ग्लाइकोलाइसिस",
-      "option_d": "क्रेब्स चक्र",
-      "answer_index": 0,
-      "explanation": "प्रकाश अवस्थामा क्लोरोफिलले प्रकाश ऊर्जा अवशोषण गरी ATP र NADPH उत्पादन गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 110,
+      "qid": 2333421303,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2425,6 +1891,7 @@
     },
     {
       "id": 111,
+      "qid": 3885263811,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2447,6 +1914,7 @@
     },
     {
       "id": 112,
+      "qid": 1910811522,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2469,6 +1937,7 @@
     },
     {
       "id": 113,
+      "qid": 3344075705,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2491,6 +1960,7 @@
     },
     {
       "id": 114,
+      "qid": 586628556,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2513,6 +1983,7 @@
     },
     {
       "id": 115,
+      "qid": 2093364649,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2534,29 +2005,8 @@
       "is_pro": false
     },
     {
-      "id": 116,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "कुन अंगकलाई कोषको 'आत्मघाती थैली' भनिन्छ?",
-      "options": [
-        "लाइसोसोम",
-        "माइटोकन्ड्रिया",
-        "राइबोसोम",
-        "गोल्जी बडी"
-      ],
-      "option_a": "लाइसोसोम",
-      "option_b": "माइटोकन्ड्रिया",
-      "option_c": "राइबोसोम",
-      "option_d": "गोल्जी बडी",
-      "answer_index": 0,
-      "explanation": "लाइसोसोममा लाइटिक इन्जाइम हुन्छन्; क्षति भएमा कोषलाई पचाउन सक्ने हुँदा यसलाई आत्मघाती थैली भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 117,
+      "qid": 853410388,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2579,6 +2029,7 @@
     },
     {
       "id": 118,
+      "qid": 1076733242,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2600,29 +2051,8 @@
       "is_pro": false
     },
     {
-      "id": 119,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "कुन हार्मोनले रक्तमा ग्लुकोजको मात्रा घटाउँछ?",
-      "options": [
-        "इन्सुलिन",
-        "ग्लुकागन",
-        "एड्रिनलिन",
-        "थाइरोक्सिन"
-      ],
-      "option_a": "इन्सुलिन",
-      "option_b": "ग्लुकागन",
-      "option_c": "एड्रिनलिन",
-      "option_d": "थाइरोक्सिन",
-      "answer_index": 0,
-      "explanation": "इन्सुलिनले कोषमा ग्लुकोज प्रवेश गराएर रक्त ग्लुकोज घटाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 120,
+      "qid": 445440453,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2645,6 +2075,7 @@
     },
     {
       "id": 121,
+      "qid": 1860833442,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2666,29 +2097,8 @@
       "is_pro": false
     },
     {
-      "id": 122,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Easy",
-      "question": "मेन्डेलको एकसंकर क्रसमा F2 पुस्तामा फिनोटाइपिक अनुपात कति हुन्छ?",
-      "options": [
-        "३:१",
-        "१:२:१",
-        "९:३:३:१",
-        "१:१"
-      ],
-      "option_a": "३:१",
-      "option_b": "१:२:१",
-      "option_c": "९:३:३:१",
-      "option_d": "१:१",
-      "answer_index": 0,
-      "explanation": "एकसंकर क्रसमा F2 पुस्तामा प्रभावी:अप्रभावी फिनोटाइपिक अनुपात ३:१ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 123,
+      "qid": 2737656074,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2711,6 +2121,7 @@
     },
     {
       "id": 124,
+      "qid": 3800394599,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2732,29 +2143,8 @@
       "is_pro": false
     },
     {
-      "id": 125,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "प्रकाश संश्लेषणमा कार्बन डाइअक्साइडको स्थिरीकरण कुन चक्रमा हुन्छ?",
-      "options": [
-        "क्याल्भिन चक्र",
-        "क्रेब्स चक्र",
-        "ग्लाइकोलाइसिस",
-        "इलेक्ट्रोन ट्रान्सपोर्ट चेन"
-      ],
-      "option_a": "क्याल्भिन चक्र",
-      "option_b": "क्रेब्स चक्र",
-      "option_c": "ग्लाइकोलाइसिस",
-      "option_d": "इलेक्ट्रोन ट्रान्सपोर्ट चेन",
-      "answer_index": 0,
-      "explanation": "क्याल्भिन चक्रमा CO₂ लाई कार्बोहाइड्रेटमा स्थिरीकरण गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 126,
+      "qid": 845160514,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2777,6 +2167,7 @@
     },
     {
       "id": 127,
+      "qid": 1363319275,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2799,6 +2190,7 @@
     },
     {
       "id": 128,
+      "qid": 1047771106,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2821,6 +2213,7 @@
     },
     {
       "id": 129,
+      "qid": 2838876916,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2843,6 +2236,7 @@
     },
     {
       "id": 130,
+      "qid": 3830934684,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2865,6 +2259,7 @@
     },
     {
       "id": 131,
+      "qid": 1874698153,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2886,29 +2281,8 @@
       "is_pro": false
     },
     {
-      "id": 132,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "कुन प्रक्रियाबाट वनस्पतिमा पानीको वाष्पीकरण हुन्छ?",
-      "options": [
-        "वाष्पोत्सर्जन",
-        "प्रकाश संश्लेषण",
-        "श्वसन",
-        "अवशोषण"
-      ],
-      "option_a": "वाष्पोत्सर्जन",
-      "option_b": "प्रकाश संश्लेषण",
-      "option_c": "श्वसन",
-      "option_d": "अवशोषण",
-      "answer_index": 0,
-      "explanation": "वाष्पोत्सर्जनमा पातको स्टोमाटाबाट पानी वाष्प बनेर निस्कन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 133,
+      "qid": 1296449501,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2930,29 +2304,8 @@
       "is_pro": false
     },
     {
-      "id": 134,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "कुन इन्जाइमले स्टार्चलाई माल्टोजमा परिणत गर्छ?",
-      "options": [
-        "एमाइलेज",
-        "पेप्सिन",
-        "लाइपेज",
-        "ट्रिप्सिन"
-      ],
-      "option_a": "एमाइलेज",
-      "option_b": "पेप्सिन",
-      "option_c": "लाइपेज",
-      "option_d": "ट्रिप्सिन",
-      "answer_index": 0,
-      "explanation": "एमाइलेजले स्टार्चलाई माल्टोजमा विघटन गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 135,
+      "qid": 2549691655,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2975,6 +2328,7 @@
     },
     {
       "id": 136,
+      "qid": 1558311746,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -2997,6 +2351,7 @@
     },
     {
       "id": 137,
+      "qid": 2178140197,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3019,6 +2374,7 @@
     },
     {
       "id": 138,
+      "qid": 2387333479,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3041,6 +2397,7 @@
     },
     {
       "id": 139,
+      "qid": 3030100079,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3062,51 +2419,8 @@
       "is_pro": false
     },
     {
-      "id": 140,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "कुन प्रक्रियाबाट वनस्पतिमा खनिज लवण अवशोषण हुन्छ?",
-      "options": [
-        "सक्रिय अवशोषण",
-        "विसरण",
-        "परासरण",
-        "वाष्पोत्सर्जन"
-      ],
-      "option_a": "सक्रिय अवशोषण",
-      "option_b": "विसरण",
-      "option_c": "परासरण",
-      "option_d": "वाष्पोत्सर्जन",
-      "answer_index": 0,
-      "explanation": "खनिज लवणहरू ATP ऊर्जा प्रयोग गरेर सक्रिय अवशोषणद्वारा अवशोषित हुन्छन्।",
-      "is_pro": false
-    },
-    {
-      "id": 141,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "कोष झिल्लीको मुख्य संरचना कुन हो?",
-      "options": [
-        "फस्फोलिपिड बाइलेयर",
-        "सेलुलोज",
-        "प्रोटिन मात्र",
-        "काइटिन"
-      ],
-      "option_a": "फस्फोलिपिड बाइलेयर",
-      "option_b": "सेलुलोज",
-      "option_c": "प्रोटिन मात्र",
-      "option_d": "काइटिन",
-      "answer_index": 0,
-      "explanation": "कोष झिल्ली फस्फोलिपिड बाइलेयरले बनेको हुन्छ जसमा प्रोटिनहरू इन्बेड हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 142,
+      "qid": 2342225276,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3129,6 +2443,7 @@
     },
     {
       "id": 143,
+      "qid": 3079579934,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3151,6 +2466,7 @@
     },
     {
       "id": 144,
+      "qid": 852215352,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3173,6 +2489,7 @@
     },
     {
       "id": 145,
+      "qid": 2764690274,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3195,6 +2512,7 @@
     },
     {
       "id": 146,
+      "qid": 85160611,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3216,29 +2534,8 @@
       "is_pro": false
     },
     {
-      "id": 147,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "मानवमा रक्त समूह O भएको व्यक्तिले कुन एन्टिजेन बोक्छ?",
-      "options": [
-        "कुनै पनि होइन",
-        "A एन्टिजेन",
-        "B एन्टिजेन",
-        "A र B दुवै"
-      ],
-      "option_a": "कुनै पनि होइन",
-      "option_b": "A एन्टिजेन",
-      "option_c": "B एन्टिजेन",
-      "option_d": "A र B दुवै",
-      "answer_index": 0,
-      "explanation": "रक्त समूह O मा A र B एन्टिजेन हुँदैनन्, तर एन्टि-A र एन्टि-B एन्टिबडी हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 148,
+      "qid": 1249847339,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3261,6 +2558,7 @@
     },
     {
       "id": 149,
+      "qid": 1851005456,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3283,6 +2581,7 @@
     },
     {
       "id": 150,
+      "qid": 1380422329,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3304,29 +2603,8 @@
       "is_pro": false
     },
     {
-      "id": 151,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "प्रकाश संश्लेषणका लागि कुन ग्यास आवश्यक छ?",
-      "options": [
-        "CO₂",
-        "O₂",
-        "N₂",
-        "H₂"
-      ],
-      "option_a": "CO₂",
-      "option_b": "O₂",
-      "option_c": "N₂",
-      "option_d": "H₂",
-      "answer_index": 0,
-      "explanation": "प्रकाश संश्लेषणमा CO₂ लाई कार्बोहाइड्रेटमा स्थिरीकरण गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 152,
+      "qid": 3759604860,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3349,6 +2627,7 @@
     },
     {
       "id": 153,
+      "qid": 990842114,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3370,29 +2649,8 @@
       "is_pro": false
     },
     {
-      "id": 154,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Easy",
-      "question": "मानवमा रक्तको pH नियन्त्रण गर्ने मुख्य बफर कुन हो?",
-      "options": [
-        "बाइकार्बोनेट बफर",
-        "फस्फेट बफर",
-        "प्रोटिन बफर",
-        "हिमोग्लोबिन बफर"
-      ],
-      "option_a": "बाइकार्बोनेट बफर",
-      "option_b": "फस्फेट बफर",
-      "option_c": "प्रोटिन बफर",
-      "option_d": "हिमोग्लोबिन बफर",
-      "answer_index": 0,
-      "explanation": "रक्तमा बाइकार्बोनेट बफर प्रणालीले pH नियन्त्रण गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 155,
+      "qid": 1159866225,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3415,6 +2673,7 @@
     },
     {
       "id": 156,
+      "qid": 1268864932,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3436,29 +2695,8 @@
       "is_pro": false
     },
     {
-      "id": 157,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "प्रकाश संश्लेषणमा प्रकाश ऊर्जा अवशोषण गर्ने वर्णक कुन हो?",
-      "options": [
-        "क्लोरोफिल",
-        "क्यारोटिन",
-        "जैन्थोफिल",
-        "फाइकोबिलिन"
-      ],
-      "option_a": "क्लोरोफिल",
-      "option_b": "क्यारोटिन",
-      "option_c": "जैन्थोफिल",
-      "option_d": "फाइकोबिलिन",
-      "answer_index": 0,
-      "explanation": "क्लोरोफिल प्रमुख प्रकाश संश्लेषी वर्णक हो जसले प्रकाश अवशोषण गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 158,
+      "qid": 2055803538,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3481,6 +2719,7 @@
     },
     {
       "id": 159,
+      "qid": 30942875,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3503,6 +2742,7 @@
     },
     {
       "id": 160,
+      "qid": 1848620714,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3525,6 +2765,7 @@
     },
     {
       "id": 161,
+      "qid": 1481689710,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3547,6 +2788,7 @@
     },
     {
       "id": 162,
+      "qid": 758981655,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3568,29 +2810,8 @@
       "is_pro": false
     },
     {
-      "id": 163,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "डीएनएको कुन बेसले RNA सँग जोडी बनाउँदा एडेनिनसँग जोडी बन्छ?",
-      "options": [
-        "युरासिल",
-        "थाइमिन",
-        "ग्वानिन",
-        "साइटोसिन"
-      ],
-      "option_a": "युरासिल",
-      "option_b": "थाइमिन",
-      "option_c": "ग्वानिन",
-      "option_d": "साइटोसिन",
-      "answer_index": 0,
-      "explanation": "RNA मा एडेनिनले युरासिलसँग जोडी बनाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 164,
+      "qid": 3534540425,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3613,6 +2834,7 @@
     },
     {
       "id": 165,
+      "qid": 1596158614,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3635,6 +2857,7 @@
     },
     {
       "id": 166,
+      "qid": 807549522,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3657,6 +2880,7 @@
     },
     {
       "id": 167,
+      "qid": 157540093,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3678,29 +2902,8 @@
       "is_pro": false
     },
     {
-      "id": 168,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "वनस्पतिमा फ्लोएमले के परिवहन गर्छ?",
-      "options": [
-        "खाद्य पदार्थ",
-        "पानी",
-        "खनिज",
-        "अक्सिजन"
-      ],
-      "option_a": "खाद्य पदार्थ",
-      "option_b": "पानी",
-      "option_c": "खनिज",
-      "option_d": "अक्सिजन",
-      "answer_index": 0,
-      "explanation": "फ्लोएमले पातमा बनेको खाद्य पदार्थ (सुक्रोज) वनस्पतिका अन्य भागमा पुर्याउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 169,
+      "qid": 294626265,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3723,6 +2926,7 @@
     },
     {
       "id": 170,
+      "qid": 3917601820,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3745,6 +2949,7 @@
     },
     {
       "id": 171,
+      "qid": 2172407593,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3766,51 +2971,8 @@
       "is_pro": false
     },
     {
-      "id": 172,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "मानवमा श्वासप्रश्वासको केन्द्र कहाँ हुन्छ?",
-      "options": [
-        "मेडुला ओब्लोङ्गाटा",
-        "सेरेब्रम",
-        "सेरेबेलम",
-        "पोन्स"
-      ],
-      "option_a": "मेडुला ओब्लोङ्गाटा",
-      "option_b": "सेरेब्रम",
-      "option_c": "सेरेबेलम",
-      "option_d": "पोन्स",
-      "answer_index": 0,
-      "explanation": "मेडुला ओब्लोङ्गाटामा श्वास केन्द्र हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 173,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "प्रकाश संश्लेषणमा ATP र NADPH कहाँ प्रयोग हुन्छन्?",
-      "options": [
-        "क्याल्भिन चक्रमा",
-        "प्रकाश अवस्थामा",
-        "ग्लाइकोलाइसिसमा",
-        "क्रेब्स चक्रमा"
-      ],
-      "option_a": "क्याल्भिन चक्रमा",
-      "option_b": "प्रकाश अवस्थामा",
-      "option_c": "ग्लाइकोलाइसिसमा",
-      "option_d": "क्रेब्स चक्रमा",
-      "answer_index": 0,
-      "explanation": "प्रकाश अवस्थामा बनेका ATP र NADPH क्याल्भिन चक्रमा CO₂ स्थिरीकरणमा प्रयोग हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 174,
+      "qid": 3316943583,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3833,6 +2995,7 @@
     },
     {
       "id": 175,
+      "qid": 522584157,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3855,6 +3018,7 @@
     },
     {
       "id": 176,
+      "qid": 1052817038,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3877,6 +3041,7 @@
     },
     {
       "id": 177,
+      "qid": 1275583633,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3898,29 +3063,8 @@
       "is_pro": false
     },
     {
-      "id": 178,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Easy",
-      "question": "कुन अंगले पित्त रस भण्डारण गर्छ?",
-      "options": [
-        "पित्तथैली",
-        "यकृत",
-        "प्यान्क्रियाज",
-        "पेट"
-      ],
-      "option_a": "पित्तथैली",
-      "option_b": "यकृत",
-      "option_c": "प्यान्क्रियाज",
-      "option_d": "पेट",
-      "answer_index": 0,
-      "explanation": "यकृतमा बनेको पित्त रस पित्तथैलीमा भण्डारण हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 179,
+      "qid": 2519563428,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3943,6 +3087,7 @@
     },
     {
       "id": 180,
+      "qid": 3956562554,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3965,6 +3110,7 @@
     },
     {
       "id": 181,
+      "qid": 2049892325,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -3987,6 +3133,7 @@
     },
     {
       "id": 182,
+      "qid": 2700145849,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -4009,6 +3156,7 @@
     },
     {
       "id": 183,
+      "qid": 1831416441,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -4030,29 +3178,8 @@
       "is_pro": false
     },
     {
-      "id": 184,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "मानवमा मस्तिष्कको सबैभन्दा ठूलो भाग कुन हो?",
-      "options": [
-        "सेरेब्रम",
-        "सेरेबेलम",
-        "मेडुला",
-        "पोन्स"
-      ],
-      "option_a": "सेरेब्रम",
-      "option_b": "सेरेबेलम",
-      "option_c": "मेडुला",
-      "option_d": "पोन्स",
-      "answer_index": 0,
-      "explanation": "सेरेब्रम मस्तिष्कको सबैभन्दा ठूलो भाग हो।",
-      "is_pro": false
-    },
-    {
       "id": 185,
+      "qid": 2947247457,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -4075,6 +3202,7 @@
     },
     {
       "id": 186,
+      "qid": 3241057468,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -4096,29 +3224,8 @@
       "is_pro": false
     },
     {
-      "id": 187,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "मानवमा रक्त समूह A भएको व्यक्तिले कुन एन्टिबडी बोक्छ?",
-      "options": [
-        "एन्टि-B",
-        "एन्टि-A",
-        "एन्टि-A र एन्टि-B",
-        "कुनै पनि होइन"
-      ],
-      "option_a": "एन्टि-B",
-      "option_b": "एन्टि-A",
-      "option_c": "एन्टि-A र एन्टि-B",
-      "option_d": "कुनै पनि होइन",
-      "answer_index": 0,
-      "explanation": "रक्त समूह A मा A एन्टिजेन र एन्टि-B एन्टिबडी हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 188,
+      "qid": 3734223979,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -4140,29 +3247,8 @@
       "is_pro": false
     },
     {
-      "id": 189,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "कोषको केन्द्रकमा कुन पदार्थ हुन्छ?",
-      "options": [
-        "डीएनए",
-        "प्रोटिन",
-        "लिपिड",
-        "कार्बोहाइड्रेट"
-      ],
-      "option_a": "डीएनए",
-      "option_b": "प्रोटिन",
-      "option_c": "लिपिड",
-      "option_d": "कार्बोहाइड्रेट",
-      "answer_index": 0,
-      "explanation": "केन्द्रकमा डीएनए मुख्य आनुवंशिक पदार्थको रूपमा हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 190,
+      "qid": 1911941914,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -4185,6 +3271,7 @@
     },
     {
       "id": 191,
+      "qid": 1353977660,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -4207,6 +3294,7 @@
     },
     {
       "id": 192,
+      "qid": 3553097819,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -4229,6 +3317,7 @@
     },
     {
       "id": 193,
+      "qid": 2927060820,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -4250,29 +3339,8 @@
       "is_pro": false
     },
     {
-      "id": 194,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Easy",
-      "question": "मेन्डेलको नियमअनुसार F1 पुस्तामा कस्तो फिनोटाइप देखिन्छ?",
-      "options": [
-        "सबै प्रभावी",
-        "३:१",
-        "१:२:१",
-        "सबै अप्रभावी"
-      ],
-      "option_a": "सबै प्रभावी",
-      "option_b": "३:१",
-      "option_c": "१:२:१",
-      "option_d": "सबै अप्रभावी",
-      "answer_index": 0,
-      "explanation": "एकसंकर क्रसमा F1 पुस्तामा सबै सन्तान प्रभावी फिनोटाइप देखिन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 195,
+      "qid": 1479235173,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -4295,6 +3363,7 @@
     },
     {
       "id": 196,
+      "qid": 4060356155,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -4317,6 +3386,7 @@
     },
     {
       "id": 197,
+      "qid": 4181373576,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -4339,6 +3409,7 @@
     },
     {
       "id": 198,
+      "qid": 357604978,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -4361,6 +3432,7 @@
     },
     {
       "id": 199,
+      "qid": 844499264,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "120",
@@ -4379,28 +3451,6 @@
       "option_d": "ग्रोथ हार्मोन",
       "answer_index": 0,
       "explanation": "थाइरोक्सिनले शरीरको चयापचय दर (BMR) नियन्त्रण गर्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 200,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "120",
-      "sub_cat_name": "Biology (Botany / Zoology)",
-      "level": "Medium",
-      "question": "वनस्पतिमा बीउ अंकुरण उत्तेजित गर्ने हार्मोन कुन हो?",
-      "options": [
-        "जिबरेलिन",
-        "अक्सिन",
-        "साइटोकाइनिन",
-        "एब्सिसिक एसिड"
-      ],
-      "option_a": "जिबरेलिन",
-      "option_b": "अक्सिन",
-      "option_c": "साइटोकाइनिन",
-      "option_d": "एब्सिसिक एसिड",
-      "answer_index": 0,
-      "explanation": "जिबरेलिनले बीउ अंकुरण उत्तेजित गर्छ।",
       "is_pro": false
     }
   ]
