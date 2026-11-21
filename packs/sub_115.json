@@ -1,10 +1,11 @@
 {
   "sub_cat_id": "115",
-  "data_version": 1794491195766,
-  "total_questions": 200,
+  "data_version": 1795279225068,
+  "total_questions": 152,
   "questions": [
     {
       "id": 1,
+      "qid": 1496120966,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -26,29 +27,8 @@
       "is_pro": false
     },
     {
-      "id": 2,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Choose the correct preposition: Our school starts ___ 10 o'clock in the morning.",
-      "options": [
-        "at",
-        "on",
-        "in",
-        "by"
-      ],
-      "option_a": "at",
-      "option_b": "on",
-      "option_c": "in",
-      "option_d": "by",
-      "answer_index": 0,
-      "explanation": "घडीको निश्चित समय (clock time) जनाउन अङ्ग्रेजी व्याकरणमा सधैँ 'at' नामयोगी (preposition) को प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 3,
+      "qid": 1489327696,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 1559448120,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -93,6 +74,7 @@
     },
     {
       "id": 5,
+      "qid": 1402356086,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -114,29 +96,8 @@
       "is_pro": false
     },
     {
-      "id": 6,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Choose the correct affirmative transformation of: 'She did not buy anything from the market.'",
-      "options": [
-        "She bought something from the market.",
-        "She bought nothing from the market.",
-        "She buys something from the market.",
-        "She has bought something from the market."
-      ],
-      "option_a": "She bought something from the market.",
-      "option_b": "She bought nothing from the market.",
-      "option_c": "She buys something from the market.",
-      "option_d": "She has bought something from the market.",
-      "answer_index": 0,
-      "explanation": "सामान्य भूतकाल (did not + V1) को अकरण वाक्यलाई करण (affirmative) मा बदल्दा क्रियाको दोस्रो रूप (V2: bought) प्रयोग गरिन्छ र 'anything' लाई 'something' मा परिवर्तन गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 7,
+      "qid": 289791582,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -159,6 +120,7 @@
     },
     {
       "id": 8,
+      "qid": 882881824,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -181,6 +143,7 @@
     },
     {
       "id": 9,
+      "qid": 3633648323,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -203,6 +166,7 @@
     },
     {
       "id": 10,
+      "qid": 1558007344,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -224,29 +188,8 @@
       "is_pro": false
     },
     {
-      "id": 11,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Choose the correct causative verb form: I made my brother ___ my shoes.",
-      "options": [
-        "clean",
-        "to clean",
-        "cleaned",
-        "cleaning"
-      ],
-      "option_a": "clean",
-      "option_b": "to clean",
-      "option_c": "cleaned",
-      "option_d": "cleaning",
-      "answer_index": 0,
-      "explanation": "प्रेरणादायक क्रिया (Causative verb) 'make' को पछाडि सजीव कारक (agent: my brother) आउँदा क्रियाको मूल रूप (bare infinitive / V1: clean) मात्र प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 12,
+      "qid": 3725366769,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -269,6 +212,7 @@
     },
     {
       "id": 13,
+      "qid": 3351004068,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -291,6 +235,7 @@
     },
     {
       "id": 14,
+      "qid": 2654993559,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -313,6 +258,7 @@
     },
     {
       "id": 15,
+      "qid": 2483560406,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -334,29 +280,8 @@
       "is_pro": false
     },
     {
-      "id": 16,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Choose the correct preposition: Sita has been living in Pokhara ___ 2018.",
-      "options": [
-        "for",
-        "since",
-        "from",
-        "in"
-      ],
-      "option_a": "for",
-      "option_b": "since",
-      "option_c": "from",
-      "option_d": "in",
-      "answer_index": 0,
-      "explanation": "पूर्ण अपूर्ण कालमा निश्चित सुरुवाती समय (point of time जस्तै सन् २०१८) जनाउन 'since' र समयको अवधि (period of time) जनाउन 'for' प्रयोग हुन्छ; तर प्रश्नमा उत्तर सन्तुलनका लागि: 'Sita has been living in Pokhara ___ five years' मान्दा समयको अवधिमा 'for' प्रयोग गरिन्छ (नोट: २००८ देखि २०१८ सम्मको कुल अवधि वा निश्चित वर्ष बाहेकको अवधिमा 'for' र निश्चित वर्षमा 'since' लाग्ने नियम अनुसार यहाँ अवधिको अर्थमा विकल्प A वा बिंदुको अर्थमा B हेर्दा: सही मिलानका लागि यदि खाली ठाउँ पछाडि अवधि छ भने 'for' नै सही हुन्छ)।",
-      "is_pro": false
-    },
-    {
       "id": 17,
+      "qid": 3532618013,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -379,6 +304,7 @@
     },
     {
       "id": 18,
+      "qid": 3533898040,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -401,6 +327,7 @@
     },
     {
       "id": 19,
+      "qid": 2542803861,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -422,29 +349,8 @@
       "is_pro": false
     },
     {
-      "id": 20,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Change into negative: 'He always comes here on time.'",
-      "options": [
-        "He never comes here on time.",
-        "He does not never come here on time.",
-        "He always does not come here on time.",
-        "He did not come here on time."
-      ],
-      "option_a": "He never comes here on time.",
-      "option_b": "He does not never come here on time.",
-      "option_c": "He always does not come here on time.",
-      "option_d": "He did not come here on time.",
-      "answer_index": 0,
-      "explanation": "करण वाक्यमा रहेको क्रियाविशेषण 'always' लाई अकरण (negative) मा बदल्दा सहायक क्रिया नराखी सिधै 'never' मा बदलिन्छ र मूल क्रियाको रूप (comes) यथावत् राखिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 21,
+      "qid": 964466485,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -467,6 +373,7 @@
     },
     {
       "id": 22,
+      "qid": 28706150,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -489,6 +396,7 @@
     },
     {
       "id": 23,
+      "qid": 3024749255,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -510,51 +418,8 @@
       "is_pro": false
     },
     {
-      "id": 24,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Choose the correct connective: She stayed at home ___ heavy rainfall.",
-      "options": [
-        "because of",
-        "because",
-        "although",
-        "so that"
-      ],
-      "option_a": "because of",
-      "option_b": "because",
-      "option_c": "although",
-      "option_d": "so that",
-      "answer_index": 0,
-      "explanation": "कारण जनाउने नाम पदावली (Noun phrase: heavy rainfall) को अगाडि संयोजकका रूपमा 'because of' वा 'due to' को प्रयोग गरिन्छ भने उपवाक्यको अगाडि मात्र 'because' लाग्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 25,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Supply the correct form of verb after causative: Gita got her hair ___ yesterday.",
-      "options": [
-        "cut",
-        "to cut",
-        "cutting",
-        "cuts"
-      ],
-      "option_a": "cut",
-      "option_b": "to cut",
-      "option_c": "cutting",
-      "option_d": "cuts",
-      "answer_index": 0,
-      "explanation": "प्रेरणादायक क्रिया 'get' पछाडि निर्जीव कर्म (object: her hair) आउँदा क्रियाको तेस्रो रूप (Past Participle / V3) प्रयोग हुन्छ र 'cut' को तेस्रो रूप पनि 'cut' नै हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 26,
+      "qid": 3362308779,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -577,6 +442,7 @@
     },
     {
       "id": 27,
+      "qid": 1650466315,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -599,6 +465,7 @@
     },
     {
       "id": 28,
+      "qid": 180221210,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -621,6 +488,7 @@
     },
     {
       "id": 29,
+      "qid": 3116502001,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -643,6 +511,7 @@
     },
     {
       "id": 30,
+      "qid": 4089270943,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -665,6 +534,7 @@
     },
     {
       "id": 31,
+      "qid": 2702893382,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -687,6 +557,7 @@
     },
     {
       "id": 32,
+      "qid": 2065582351,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -709,6 +580,7 @@
     },
     {
       "id": 33,
+      "qid": 1819542654,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -731,6 +603,7 @@
     },
     {
       "id": 34,
+      "qid": 3447449177,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -752,29 +625,8 @@
       "is_pro": false
     },
     {
-      "id": 35,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Medium",
-      "question": "Transform into indirect speech: The teacher said to me, \"Where do you live?\"",
-      "options": [
-        "The teacher asked me where I lived.",
-        "The teacher asked me where did I live.",
-        "The teacher told me where I lived.",
-        "The teacher asked me where do you live."
-      ],
-      "option_a": "The teacher asked me where I lived.",
-      "option_b": "The teacher asked me where did I live.",
-      "option_c": "The teacher told me where I lived.",
-      "option_d": "The teacher asked me where do you live.",
-      "answer_index": 0,
-      "explanation": "प्रश्नवाचक वाक्य (Wh-question) लाई अप्रत्यक्ष कथनमा लैजाँदा प्रश्नको संरचनालाई सामान्य विवरण (Subject + Verb: where I lived) मा बदलिन्छ र सहायक क्रिया 'do' हटेर मूल क्रिया V2 बन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 36,
+      "qid": 864543789,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -797,6 +649,7 @@
     },
     {
       "id": 37,
+      "qid": 2528596598,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -819,6 +672,7 @@
     },
     {
       "id": 38,
+      "qid": 1219039812,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -841,6 +695,7 @@
     },
     {
       "id": 39,
+      "qid": 3572108216,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -863,6 +718,7 @@
     },
     {
       "id": 40,
+      "qid": 491986220,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -885,6 +741,7 @@
     },
     {
       "id": 41,
+      "qid": 4190408415,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -907,6 +764,7 @@
     },
     {
       "id": 42,
+      "qid": 3182141368,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -928,29 +786,8 @@
       "is_pro": false
     },
     {
-      "id": 43,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Medium",
-      "question": "Choose the correct Wh-question for the statement: 'They went to Pokhara to spend their holidays.'",
-      "options": [
-        "Why did they go to Pokhara?",
-        "Where did they go for holidays?",
-        "How did they go to Pokhara?",
-        "When did they go to Pokhara?"
-      ],
-      "option_a": "Why did they go to Pokhara?",
-      "option_b": "Where did they go for holidays?",
-      "option_c": "How did they go to Pokhara?",
-      "option_d": "When did they go to Pokhara?",
-      "answer_index": 0,
-      "explanation": "वाक्यमा रहेको उद्देश्य सूचक पदावली 'to spend their holidays' (बिदा मनाउनका लागि) लाई हटाएर प्रश्न निर्माण गर्दा कारण वा उद्देश्य सोध्ने प्रश्नवाचक शब्द 'Why' र सामान्य भूतकालको 'did + V1' प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 44,
+      "qid": 3406734864,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -973,6 +810,7 @@
     },
     {
       "id": 45,
+      "qid": 120521685,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -995,6 +833,7 @@
     },
     {
       "id": 46,
+      "qid": 2080751978,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1017,6 +856,7 @@
     },
     {
       "id": 47,
+      "qid": 4182477561,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1038,29 +878,8 @@
       "is_pro": false
     },
     {
-      "id": 48,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Medium",
-      "question": "Choose the correct relative pronoun: This is the house ___ my grandfather built fifty years ago.",
-      "options": [
-        "that",
-        "whom",
-        "where",
-        "who"
-      ],
-      "option_a": "that",
-      "option_b": "whom",
-      "option_c": "where",
-      "option_d": "who",
-      "answer_index": 0,
-      "explanation": "स्थान जनाउने नाम 'the house' यहाँ अधिकरण (place where something happens) नभई क्रिया 'built' को प्रत्यक्ष कर्म (object) को रूपमा आएकाले 'where' नलागी 'that' वा 'which' को प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 49,
+      "qid": 1370982997,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1083,6 +902,7 @@
     },
     {
       "id": 50,
+      "qid": 139752390,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1105,6 +925,7 @@
     },
     {
       "id": 51,
+      "qid": 3564546285,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1126,29 +947,8 @@
       "is_pro": false
     },
     {
-      "id": 52,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Medium",
-      "question": "Add the correct question tag: Somebody has stolen my pen, ___?",
-      "options": [
-        "haven't they",
-        "hasn't he",
-        "didn't they",
-        "hasn't it"
-      ],
-      "option_a": "haven't they",
-      "option_b": "hasn't he",
-      "option_c": "didn't they",
-      "option_d": "hasn't it",
-      "answer_index": 0,
-      "explanation": "Somebody', 'Someone', 'Everybody', 'Nobody' जस्ता अनिश्चित सर्वनाम कर्ताको रूपमा आउँदा एकवचन क्रिया लागे तापनि प्रश्न ट्यागमा कर्ता 'they' र सोही अनुसार बहुवचन सहायक क्रिया 'haven't they' प्रयोग हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 53,
+      "qid": 1071216771,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1171,6 +971,7 @@
     },
     {
       "id": 54,
+      "qid": 2197393079,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1192,29 +993,8 @@
       "is_pro": false
     },
     {
-      "id": 55,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Medium",
-      "question": "Choose the correct negative transformation of: 'As soon as the teacher entered the class, the students stood up.'",
-      "options": [
-        "No sooner had the teacher entered the class than the students stood up.",
-        "No sooner the teacher entered the class when the students stood up.",
-        "Hardly had the teacher entered the class than the students stood up.",
-        "As soon as the teacher did not enter the class, the students stood up."
-      ],
-      "option_a": "No sooner had the teacher entered the class than the students stood up.",
-      "option_b": "No sooner the teacher entered the class when the students stood up.",
-      "option_c": "Hardly had the teacher entered the class than the students stood up.",
-      "option_d": "As soon as the teacher did not enter the class, the students stood up.",
-      "answer_index": 0,
-      "explanation": "As soon as' भएको भूतकालको वाक्यलाई अकरणमा बदल्दा 'No sooner had + Subject + V3 ... than + Subject + V2' को संरचना प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 56,
+      "qid": 2559201926,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1237,6 +1017,7 @@
     },
     {
       "id": 57,
+      "qid": 3688833723,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1259,6 +1040,7 @@
     },
     {
       "id": 58,
+      "qid": 2017187816,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1281,6 +1063,7 @@
     },
     {
       "id": 59,
+      "qid": 264516507,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1303,6 +1086,7 @@
     },
     {
       "id": 60,
+      "qid": 3901525234,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1325,6 +1109,7 @@
     },
     {
       "id": 61,
+      "qid": 3681845047,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1347,6 +1132,7 @@
     },
     {
       "id": 62,
+      "qid": 455813152,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1369,6 +1155,7 @@
     },
     {
       "id": 63,
+      "qid": 2921003538,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1390,29 +1177,8 @@
       "is_pro": false
     },
     {
-      "id": 64,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Medium",
-      "question": "Choose the correct verb form: It is high time we ___ working on our project.",
-      "options": [
-        "start",
-        "started",
-        "will start",
-        "have started"
-      ],
-      "option_a": "start",
-      "option_b": "started",
-      "option_c": "will start",
-      "option_d": "have started",
-      "answer_index": 0,
-      "explanation": "प्रश्नको उत्तर अनुक्रमणिका ० कायम गर्न: यदि वाक्य 'It is time to ___ working on our project' भएमा 'start' हुन्छ; तर 'It is high time + Subject' पछाडि व्याकरणतः V2 (started) लाग्ने नियम छ। (नोट: Index 0 मिलानका लागि यहाँ 'start' विकल्प A मा राखिएको र यदि संरचना 'Let us ___ working' मान्ने हो भने मूल क्रिया 'start' सही हुन्छ; मानक SEE नियममा 'It is high time + S + V2' नै स्मरण गर्नुपर्दछ)।",
-      "is_pro": false
-    },
-    {
       "id": 65,
+      "qid": 608257208,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1435,6 +1201,7 @@
     },
     {
       "id": 66,
+      "qid": 1896028424,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1456,29 +1223,8 @@
       "is_pro": false
     },
     {
-      "id": 67,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Medium",
-      "question": "Select the correct verb for concord: The police ___ arrested the bank robbers recently.",
-      "options": [
-        "have",
-        "has",
-        "is",
-        "was"
-      ],
-      "option_a": "have",
-      "option_b": "has",
-      "option_c": "is",
-      "option_d": "was",
-      "answer_index": 0,
-      "explanation": "Police', 'Cattle', 'People', 'Poultry' जस्ता नामहरू स्वरूपमा एकवचन देखिए तापनि अर्थ र प्रयोगमा सधैँ बहुवचन हुने भएकाले बहुवचन क्रिया 'have' लिन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 68,
+      "qid": 3602615219,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1501,6 +1247,7 @@
     },
     {
       "id": 69,
+      "qid": 471619815,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1523,6 +1270,7 @@
     },
     {
       "id": 70,
+      "qid": 3318751484,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1545,6 +1293,7 @@
     },
     {
       "id": 71,
+      "qid": 3752991267,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1566,29 +1315,8 @@
       "is_pro": false
     },
     {
-      "id": 72,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Choose the correct passive form: 'People don't like others laughing at them.'",
-      "options": [
-        "People don't like being laughed at.",
-        "People don't like to be laughed by others.",
-        "Others are not liked laughing at them.",
-        "People are not liked being laughed at."
-      ],
-      "option_a": "People don't like being laughed at.",
-      "option_b": "People don't like to be laughed by others.",
-      "option_c": "Others are not liked laughing at them.",
-      "option_d": "People are not liked being laughed at.",
-      "answer_index": 0,
-      "explanation": "कर्ता र कर्म एउटै व्यक्ति (People...them) भएको र क्रिया पछाडि जिरन्ड (laughing at) आएको वाक्यलाई कर्मवाच्यमा बदल्दा 'being + V3 + preposition' को नियम अनुसार 'People don't like being laughed at' हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 73,
+      "qid": 2545852249,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1611,6 +1339,7 @@
     },
     {
       "id": 74,
+      "qid": 3534013723,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1632,29 +1361,8 @@
       "is_pro": false
     },
     {
-      "id": 75,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Choose the correct inversion structure: Never before ___ such a terrifying earthquake in my life.",
-      "options": [
-        "have I experienced",
-        "I have experienced",
-        "had I experience",
-        "did I experienced"
-      ],
-      "option_a": "have I experienced",
-      "option_b": "I have experienced",
-      "option_c": "had I experience",
-      "option_d": "did I experienced",
-      "answer_index": 0,
-      "explanation": "वाक्यको सुरुमै नकारात्मक क्रियाविशेषण 'Never before', 'Rarely', 'Seldom' आउँदा वाक्यमा कर्ताभन्दा अगाडि सहायक क्रिया आउने नियम (Inversion: Auxiliary + Subject + Main Verb) अनुसार 'have I experienced' सही हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 76,
+      "qid": 3260568035,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1677,6 +1385,7 @@
     },
     {
       "id": 77,
+      "qid": 1096601413,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1699,6 +1408,7 @@
     },
     {
       "id": 78,
+      "qid": 2329375717,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1721,6 +1431,7 @@
     },
     {
       "id": 79,
+      "qid": 2974077606,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1742,29 +1453,8 @@
       "is_pro": false
     },
     {
-      "id": 80,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Identify the correct passive transformation of: 'The rose smells sweet.'",
-      "options": [
-        "The rose is sweet when it is smelt.",
-        "Sweet is smelt by the rose.",
-        "The rose is smelt sweet.",
-        "The rose is being smelt sweet."
-      ],
-      "option_a": "The rose is sweet when it is smelt.",
-      "option_b": "Sweet is smelt by the rose.",
-      "option_c": "The rose is smelt sweet.",
-      "option_d": "The rose is being smelt sweet.",
-      "answer_index": 0,
-      "explanation": "स्वाद, गन्ध वा स्पर्श जनाउने क्रिया (Quasi-passive verbs जस्तै smell, taste, feel) पछाडि विशेषण आउँदा कर्मवाच्यमा 'Subject + be-verb + adjective + when + pronoun + be-verb + V3' (The rose is sweet when it is smelt) बनाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 81,
+      "qid": 333152193,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1787,6 +1477,7 @@
     },
     {
       "id": 82,
+      "qid": 3179480801,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1809,6 +1500,7 @@
     },
     {
       "id": 83,
+      "qid": 3565216360,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1830,29 +1522,8 @@
       "is_pro": false
     },
     {
-      "id": 84,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Supply the correct causative/participle form: While walking through the dark alley, he had his wallet ___.",
-      "options": [
-        "stolen",
-        "steal",
-        "to steal",
-        "stealing"
-      ],
-      "option_a": "stolen",
-      "option_b": "steal",
-      "option_c": "to steal",
-      "option_d": "stealing",
-      "answer_index": 0,
-      "explanation": "have + object + V3' को संरचनाले कसैलाई काम लगाउनु मात्र नभई कर्ताले अनिच्छित रूपमा कुनै नराम्रो घटना वा क्षति भोग्नु (suffer an unpleasant experience: पकेट मारिनु) पनि जनाउँछ; तसर्थ 'stolen' सही हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 85,
+      "qid": 1907113031,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1875,6 +1546,7 @@
     },
     {
       "id": 86,
+      "qid": 3910433757,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1897,6 +1569,7 @@
     },
     {
       "id": 87,
+      "qid": 448266266,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1919,6 +1592,7 @@
     },
     {
       "id": 88,
+      "qid": 2476572492,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1940,29 +1614,8 @@
       "is_pro": false
     },
     {
-      "id": 89,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Choose the correct affirmative transformation of: 'There is no mother who does not love her child.'",
-      "options": [
-        "Every mother loves her child.",
-        "Some mothers love their children.",
-        "All mother loves her child.",
-        "Every mother love her child."
-      ],
-      "option_a": "Every mother loves her child.",
-      "option_b": "Some mothers love their children.",
-      "option_c": "All mother loves her child.",
-      "option_d": "Every mother love her child.",
-      "answer_index": 0,
-      "explanation": "दोहोरो अकरण (double negative: no mother... does not love) भएको वाक्यलाई अर्थ नबिगारी करण (affirmative) मा लैजाँदा सर्वव्यापी सकारात्मक संरचना 'Every mother loves her child' बनाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 90,
+      "qid": 3245977231,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -1985,6 +1638,7 @@
     },
     {
       "id": 91,
+      "qid": 3643648720,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2006,29 +1660,8 @@
       "is_pro": false
     },
     {
-      "id": 92,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Select the correct concord: Many a soldier ___ sacrificed his life for the sovereignty of the nation.",
-      "options": [
-        "has",
-        "have",
-        "were",
-        "are"
-      ],
-      "option_a": "has",
-      "option_b": "have",
-      "option_c": "were",
-      "option_d": "are",
-      "answer_index": 0,
-      "explanation": "Many a + एकवचन नाम (soldier)' ले अर्थमा धेरै सिपाहीहरू बुझाए तापनि यसको व्याकरणिक संरचना एकवचन हुने भएकाले एकवचन क्रिया 'has' कै प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 93,
+      "qid": 2964866637,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2051,6 +1684,7 @@
     },
     {
       "id": 94,
+      "qid": 1038195238,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2073,6 +1707,7 @@
     },
     {
       "id": 95,
+      "qid": 2434644195,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2094,29 +1729,8 @@
       "is_pro": false
     },
     {
-      "id": 96,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Choose the correct one-word substitution for: 'A remedy or medicine claimed to cure all diseases and difficulties'.",
-      "options": [
-        "Panacea",
-        "Antidote",
-        "Antibiotic",
-        "Placebo"
-      ],
-      "option_a": "Panacea",
-      "option_b": "Antidote",
-      "option_c": "Antibiotic",
-      "option_d": "Placebo",
-      "answer_index": 0,
-      "explanation": "सबै रोग वा समस्याहरूको अचूक औषधी (सर्वौषधि / रामबाण) लाई अङ्ग्रेजीमा एक शब्दमा 'Panacea' भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 97,
+      "qid": 131788584,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2138,29 +1752,8 @@
       "is_pro": false
     },
     {
-      "id": 98,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Transform into indirect speech: The hermit said to the travellers, \"May God bless you with peace!\"",
-      "options": [
-        "The hermit wished that God might bless them with peace.",
-        "The hermit asked if God might bless them with peace.",
-        "The hermit prayed that God may bless you with peace.",
-        "The hermit told the travellers that God might blessed them."
-      ],
-      "option_a": "The hermit wished that God might bless them with peace.",
-      "option_b": "The hermit asked if God might bless them with peace.",
-      "option_c": "The hermit prayed that God may bless you with peace.",
-      "option_d": "The hermit told the travellers that God might blessed them.",
-      "answer_index": 0,
-      "explanation": "आशीर्वाद वा कामना व्यक्त गरिएको इच्छावाचक वाक्य (Optative sentence starting with 'May') लाई अप्रत्यक्ष कथनमा बदल्दा 'wished/prayed that + Subject + might + V1' को संरचना प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 99,
+      "qid": 1438239302,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2183,6 +1776,7 @@
     },
     {
       "id": 100,
+      "qid": 2917660194,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2205,6 +1799,7 @@
     },
     {
       "id": 101,
+      "qid": 4186923907,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2226,29 +1821,8 @@
       "is_pro": false
     },
     {
-      "id": 102,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Fill in the blank with the appropriate article: \"My sister is studying at _____ university in Kathmandu.\"",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "option_a": "a",
-      "option_b": "an",
-      "option_c": "the",
-      "option_d": "no article",
-      "answer_index": 0,
-      "explanation": "University' शब्दको सुरुको अक्षर स्वर वर्ण (u) भए तापनि यसको उच्चारण व्यञ्जन ध्वनि 'यु' (/juː/) बाट सुरु हुने भएकाले 'a' को प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 103,
+      "qid": 526838359,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2271,6 +1845,7 @@
     },
     {
       "id": 104,
+      "qid": 2638094113,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2293,6 +1868,7 @@
     },
     {
       "id": 105,
+      "qid": 3174582937,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2315,6 +1891,7 @@
     },
     {
       "id": 106,
+      "qid": 2607689654,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2336,29 +1913,8 @@
       "is_pro": false
     },
     {
-      "id": 107,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Choose the correct preposition: \"Our school starts _____ 10 o'clock in the morning.\"",
-      "options": [
-        "at",
-        "on",
-        "in",
-        "by"
-      ],
-      "option_a": "at",
-      "option_b": "on",
-      "option_c": "in",
-      "option_d": "by",
-      "answer_index": 0,
-      "explanation": "घडीको निश्चित समय (exact clock time) जनाउन सधैँ 'at' नामयोगी (preposition) को प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 108,
+      "qid": 1352264155,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2381,6 +1937,7 @@
     },
     {
       "id": 109,
+      "qid": 1108258694,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2403,6 +1960,7 @@
     },
     {
       "id": 110,
+      "qid": 2562710963,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2424,29 +1982,8 @@
       "is_pro": false
     },
     {
-      "id": 111,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Medium",
-      "question": "Choose the appropriate preposition: \"My elder brother is very fond _____ classical music.\"",
-      "options": [
-        "of",
-        "in",
-        "at",
-        "with"
-      ],
-      "option_a": "of",
-      "option_b": "in",
-      "option_c": "at",
-      "option_d": "with",
-      "answer_index": 0,
-      "explanation": "विशेषण 'fond' पछि रुचि वा लगाव जनाउन सधैँ निश्चित नामयोगी (fixed preposition) 'of' लाग्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 112,
+      "qid": 3164355236,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2469,6 +2006,7 @@
     },
     {
       "id": 113,
+      "qid": 1278025107,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2491,6 +2029,7 @@
     },
     {
       "id": 114,
+      "qid": 3282966627,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2512,29 +2051,8 @@
       "is_pro": false
     },
     {
-      "id": 115,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Supply the correct question tag: \"She is a diligent student, _____?\"",
-      "options": [
-        "isn't she",
-        "is she",
-        "doesn't she",
-        "wasn't she"
-      ],
-      "option_a": "isn't she",
-      "option_b": "is she",
-      "option_c": "doesn't she",
-      "option_d": "wasn't she",
-      "answer_index": 0,
-      "explanation": "मूल वाक्य सकारात्मक (affirmative) र सहायक क्रिया 'is' भएकाले यसको question tag नकारात्मक 'isn't she' हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 116,
+      "qid": 4231522970,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2557,6 +2075,7 @@
     },
     {
       "id": 117,
+      "qid": 3692619343,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2579,6 +2098,7 @@
     },
     {
       "id": 118,
+      "qid": 802265244,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2600,29 +2120,8 @@
       "is_pro": false
     },
     {
-      "id": 119,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Medium",
-      "question": "Identify the correct question tag: \"Open the window immediately, _____?\"",
-      "options": [
-        "will you",
-        "shall we",
-        "do you",
-        "aren't you"
-      ],
-      "option_a": "will you",
-      "option_b": "shall we",
-      "option_c": "do you",
-      "option_d": "aren't you",
-      "answer_index": 0,
-      "explanation": "साधारण आज्ञार्थक वाक्य (Imperative sentence) को पछाडि थपिने question tag मा 'will you' प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 120,
+      "qid": 3289116811,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2645,6 +2144,7 @@
     },
     {
       "id": 121,
+      "qid": 2121511967,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2667,6 +2167,7 @@
     },
     {
       "id": 122,
+      "qid": 9627530,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2689,6 +2190,7 @@
     },
     {
       "id": 123,
+      "qid": 2850249480,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2710,29 +2212,8 @@
       "is_pro": false
     },
     {
-      "id": 124,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Select the correct verb for subject-verb agreement: \"Slow and steady _____ the race.\"",
-      "options": [
-        "wins",
-        "win",
-        "winning",
-        "have won"
-      ],
-      "option_a": "wins",
-      "option_b": "win",
-      "option_c": "winning",
-      "option_d": "have won",
-      "answer_index": 0,
-      "explanation": "दुई शब्दहरू 'and' ले जोडिएर एउटै भाव वा विचार (single idea) व्यक्त गर्दा एकवचन क्रिया 'wins' प्रयोग हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 125,
+      "qid": 3869143879,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2755,6 +2236,7 @@
     },
     {
       "id": 126,
+      "qid": 1248841878,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2777,6 +2259,7 @@
     },
     {
       "id": 127,
+      "qid": 3234574093,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2798,29 +2281,8 @@
       "is_pro": false
     },
     {
-      "id": 128,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Select the correct verb form: \"The captain, along with all his players, _____ practising on the ground.\"",
-      "options": [
-        "is",
-        "are",
-        "were",
-        "have been"
-      ],
-      "option_a": "is",
-      "option_b": "are",
-      "option_c": "were",
-      "option_d": "have been",
-      "answer_index": 0,
-      "explanation": "दुई कर्ताहरू 'along with', 'with' वा 'as well as' ले जोडिँदा पहिलो कर्ता ('The captain' - एकवचन) अनुसार एकवचन क्रिया 'is' प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 129,
+      "qid": 92981317,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2843,6 +2305,7 @@
     },
     {
       "id": 130,
+      "qid": 2628039828,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2865,6 +2328,7 @@
     },
     {
       "id": 131,
+      "qid": 2032064930,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2886,29 +2350,8 @@
       "is_pro": false
     },
     {
-      "id": 132,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Fill in the blank: \"Listen! Someone _____ at the door.\"",
-      "options": [
-        "is knocking",
-        "knocks",
-        "knocked",
-        "has knocked"
-      ],
-      "option_a": "is knocking",
-      "option_b": "knocks",
-      "option_c": "knocked",
-      "option_d": "has knocked",
-      "answer_index": 0,
-      "explanation": "वाक्यको सुरुमा 'Listen!', 'Look!' जस्ता सावधानी गराउने शब्द आउँदा सोही क्षण काम भइरहेको जनाउन Present Continuous ('is knocking') प्रयोग हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 133,
+      "qid": 357642836,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2931,6 +2374,7 @@
     },
     {
       "id": 134,
+      "qid": 4259793082,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2953,6 +2397,7 @@
     },
     {
       "id": 135,
+      "qid": 3561478701,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -2974,29 +2419,8 @@
       "is_pro": false
     },
     {
-      "id": 136,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Select the appropriate verb form: \"By the end of next year, the government _____ this bridge.\"",
-      "options": [
-        "will have constructed",
-        "will construct",
-        "constructed",
-        "is constructing"
-      ],
-      "option_a": "will have constructed",
-      "option_b": "will construct",
-      "option_c": "constructed",
-      "option_d": "is constructing",
-      "answer_index": 0,
-      "explanation": "भविष्यको निश्चित समयसम्ममा काम पूरा भइसक्ने जनाउन 'By + future time' सँग Future Perfect Tense ('will have + V3') प्रयोग हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 137,
+      "qid": 2327628159,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3019,6 +2443,7 @@
     },
     {
       "id": 138,
+      "qid": 612560303,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3041,6 +2466,7 @@
     },
     {
       "id": 139,
+      "qid": 2023894739,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3062,29 +2488,8 @@
       "is_pro": false
     },
     {
-      "id": 140,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Complete the conditional sentence: \"If she invites me, I _____ her birthday party.\"",
-      "options": [
-        "will attend",
-        "would attend",
-        "attended",
-        "would have attended"
-      ],
-      "option_a": "will attend",
-      "option_b": "would attend",
-      "option_c": "attended",
-      "option_d": "would have attended",
-      "answer_index": 0,
-      "explanation": "पहिलो प्रकारको शर्त (Type 1 Conditional) मा If-clause सामान्य वर्तमान काल (V1/V5) मा भए मुख्य वाक्यमा 'will/can/may + V1' प्रयोग हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 141,
+      "qid": 1703132187,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3107,6 +2512,7 @@
     },
     {
       "id": 142,
+      "qid": 2516183642,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3129,6 +2535,7 @@
     },
     {
       "id": 143,
+      "qid": 2296163914,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3150,29 +2557,8 @@
       "is_pro": false
     },
     {
-      "id": 144,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Complete the sentence: \"Had you studied carefully, you _____ the test easily.\"",
-      "options": [
-        "would have passed",
-        "would pass",
-        "will pass",
-        "passed"
-      ],
-      "option_a": "would have passed",
-      "option_b": "would pass",
-      "option_c": "will pass",
-      "option_d": "passed",
-      "answer_index": 0,
-      "explanation": "Had you studied' भन्नु नै 'If you had studied' (Type 3 Conditional को Inversion रूप) भएकाले पछाडिको खण्डमा 'would have + V3' लाग्छ।",
-      "is_pro": false
-    },
-    {
       "id": 145,
+      "qid": 548324488,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3195,6 +2581,7 @@
     },
     {
       "id": 146,
+      "qid": 2166542838,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3217,6 +2604,7 @@
     },
     {
       "id": 147,
+      "qid": 2596582960,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3238,29 +2626,8 @@
       "is_pro": false
     },
     {
-      "id": 148,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Medium",
-      "question": "Select the passive form of: \"Please help the needy people.\"",
-      "options": [
-        "You are requested to help the needy people.",
-        "Let the needy people be helped.",
-        "The needy people should be helped.",
-        "You are ordered to help the needy people."
-      ],
-      "option_a": "You are requested to help the needy people.",
-      "option_b": "Let the needy people be helped.",
-      "option_c": "The needy people should be helped.",
-      "option_d": "You are ordered to help the needy people.",
-      "answer_index": 0,
-      "explanation": "Please' वा 'Kindly' जस्ता अनुरोध बुझाउने आज्ञार्थक वाक्यलाई कर्मवाच्यमा लैजाँदा 'You are requested to + V1...' को संरचना प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 149,
+      "qid": 3349869644,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3282,29 +2649,8 @@
       "is_pro": false
     },
     {
-      "id": 150,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Identify the correct passive form: \"People believe that he is an honest officer.\"",
-      "options": [
-        "It is believed that he is an honest officer.",
-        "He is believed that he is an honest officer.",
-        "That he is an honest officer is believed by people.",
-        "He was believed to be an honest officer."
-      ],
-      "option_a": "It is believed that he is an honest officer.",
-      "option_b": "He is believed that he is an honest officer.",
-      "option_c": "That he is an honest officer is believed by people.",
-      "option_d": "He was believed to be an honest officer.",
-      "answer_index": 0,
-      "explanation": "People believe/say/think that...' जस्ता वाक्यको कर्मवाच्य बनाउँदा 'It is believed that...' वा 'He is believed to be...' रूप प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 151,
+      "qid": 892154634,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3327,6 +2673,7 @@
     },
     {
       "id": 152,
+      "qid": 2623437831,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3349,6 +2696,7 @@
     },
     {
       "id": 153,
+      "qid": 590217063,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3370,29 +2718,8 @@
       "is_pro": false
     },
     {
-      "id": 154,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Select the correct indirect speech: The teacher said, \"Honesty is the best policy.\"",
-      "options": [
-        "The teacher said that honesty is the best policy.",
-        "The teacher said that honesty was the best policy.",
-        "The teacher told that honesty is the best policy.",
-        "The teacher asked if honesty is the best policy."
-      ],
-      "option_a": "The teacher said that honesty is the best policy.",
-      "option_b": "The teacher said that honesty was the best policy.",
-      "option_c": "The teacher told that honesty is the best policy.",
-      "option_d": "The teacher asked if honesty is the best policy.",
-      "answer_index": 0,
-      "explanation": "उद्धरण चिन्हभित्र ध्रुवसत्य कुरा वा उखान (proverb/universal truth) रहेमा अप्रत्यक्ष कथनमा लैजाँदा काल (tense) परिवर्तन हुँदैन।",
-      "is_pro": false
-    },
-    {
       "id": 155,
+      "qid": 1142296956,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3415,6 +2742,7 @@
     },
     {
       "id": 156,
+      "qid": 1697767591,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3437,6 +2765,7 @@
     },
     {
       "id": 157,
+      "qid": 334373115,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3458,29 +2787,8 @@
       "is_pro": false
     },
     {
-      "id": 158,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Select the right indirect speech: The captain said, \"Hurrah! We have won the tournament.\"",
-      "options": [
-        "The captain exclaimed with joy that they had won the tournament.",
-        "The captain exclaimed with sorrow that they had won the tournament.",
-        "The captain said joyfully that we have won the tournament.",
-        "The captain wished that they had won the tournament."
-      ],
-      "option_a": "The captain exclaimed with joy that they had won the tournament.",
-      "option_b": "The captain exclaimed with sorrow that they had won the tournament.",
-      "option_c": "The captain said joyfully that we have won the tournament.",
-      "option_d": "The captain wished that they had won the tournament.",
-      "answer_index": 0,
-      "explanation": "हर्ष र खुसी व्यक्त गर्ने विस्मयादिबोधक शब्द 'Hurrah!' आउँदा 'exclaimed with joy that' राखी 'have won' लाई 'had won' मा परिवर्तन गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 159,
+      "qid": 889972365,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3503,6 +2811,7 @@
     },
     {
       "id": 160,
+      "qid": 2774288836,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3524,29 +2833,8 @@
       "is_pro": false
     },
     {
-      "id": 161,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Choose the correct causative verb form: \"I made my brother _____ my shoes.\"",
-      "options": [
-        "polish",
-        "to polish",
-        "polished",
-        "polishing"
-      ],
-      "option_a": "polish",
-      "option_b": "to polish",
-      "option_c": "polished",
-      "option_d": "polishing",
-      "answer_index": 0,
-      "explanation": "प्रेरणार्थक क्रिया (Causative verb) 'make' र 'let' पछि सजीव कर्म (agent) आउँदा सधैँ क्रियाको मूल रूप (bare infinitive - V1 'polish') प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 162,
+      "qid": 505290436,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3569,6 +2857,7 @@
     },
     {
       "id": 163,
+      "qid": 1253334084,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3590,29 +2879,8 @@
       "is_pro": false
     },
     {
-      "id": 164,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Complete the sentence using the correct causative structure: \"I need to get my hair _____ before the wedding ceremony.\"",
-      "options": [
-        "cut",
-        "to cut",
-        "cutting",
-        "cuts"
-      ],
-      "option_a": "cut",
-      "option_b": "to cut",
-      "option_c": "cutting",
-      "option_d": "cuts",
-      "answer_index": 0,
-      "explanation": "Get' वा 'Have' पछि काम गर्ने व्यक्ति नभई निर्जीव कर्म वा वस्तु ('my hair' - object) सिधै आएमा सधैँ क्रियाको तेस्रो रूप (V3 - 'cut') प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 165,
+      "qid": 2129490799,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3635,6 +2903,7 @@
     },
     {
       "id": 166,
+      "qid": 1277284528,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3657,6 +2926,7 @@
     },
     {
       "id": 167,
+      "qid": 1205507495,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3679,6 +2949,7 @@
     },
     {
       "id": 168,
+      "qid": 2544932104,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3700,29 +2971,8 @@
       "is_pro": false
     },
     {
-      "id": 169,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Medium",
-      "question": "Complete the sentence with the correct relative pronoun: \"The man _____ wallet was stolen yesterday lodged a complaint at the police station.\"",
-      "options": [
-        "whose",
-        "who",
-        "whom",
-        "which"
-      ],
-      "option_a": "whose",
-      "option_b": "who",
-      "option_c": "whom",
-      "option_d": "which",
-      "answer_index": 0,
-      "explanation": "खाली ठाउँअगाडि व्यक्ति ('The man') र पछाडि नाम ('wallet') रही स्वामित्व वा सम्बन्ध (possession) बुझाएकाले 'whose' सर्वनाम प्रयोग हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 170,
+      "qid": 2828658214,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3745,6 +2995,7 @@
     },
     {
       "id": 171,
+      "qid": 3861580676,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3767,6 +3018,7 @@
     },
     {
       "id": 172,
+      "qid": 2467132015,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3789,6 +3041,7 @@
     },
     {
       "id": 173,
+      "qid": 562613213,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3810,29 +3063,8 @@
       "is_pro": false
     },
     {
-      "id": 174,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "What is the affirmative form of: \"She did not buy anything from the market.\"",
-      "options": [
-        "She bought something from the market.",
-        "She bought anything from the market.",
-        "She buys something from the market.",
-        "She did buy nothing from the market."
-      ],
-      "option_a": "She bought something from the market.",
-      "option_b": "She bought anything from the market.",
-      "option_c": "She buys something from the market.",
-      "option_d": "She did buy nothing from the market.",
-      "answer_index": 0,
-      "explanation": "सामान्य भूतकालको नकारात्मक वाक्य ('did not buy') लाई सकारात्मक बनाउँदा क्रिया V2 ('bought') मा बदलिन्छ र 'anything' को सट्टा 'something' हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 175,
+      "qid": 3417833876,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3855,6 +3087,7 @@
     },
     {
       "id": 176,
+      "qid": 3164101546,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3877,6 +3110,7 @@
     },
     {
       "id": 177,
+      "qid": 4202929212,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3898,51 +3132,8 @@
       "is_pro": false
     },
     {
-      "id": 178,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Select the negative form without changing the meaning (or standard grammatical transformation) of: \"As soon as the bell rang, the students entered the class.\"",
-      "options": [
-        "No sooner had the bell rung than the students entered the class.",
-        "No sooner did the bell rang than the students entered the class.",
-        "Hardly had the bell rung than the students entered the class.",
-        "As soon as the bell did not ring, the students entered the class."
-      ],
-      "option_a": "No sooner had the bell rung than the students entered the class.",
-      "option_b": "No sooner did the bell rang than the students entered the class.",
-      "option_c": "Hardly had the bell rung than the students entered the class.",
-      "option_d": "As soon as the bell did not ring, the students entered the class.",
-      "answer_index": 0,
-      "explanation": "As soon as + Sub + V2...' वाक्यलाई नकारात्मक संरचनामा लैजाँदा 'No sooner had + Sub + V3 + than...' (वा 'No sooner did + Sub + V1 + than...') प्रयोग हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 179,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Choose the correct affirmative counterpart of: \"There is nobody who does not love his country.\"",
-      "options": [
-        "Everybody loves his country.",
-        "Somebody loves his country.",
-        "Anyone loves his country.",
-        "Everybody loved his country."
-      ],
-      "option_a": "Everybody loves his country.",
-      "option_b": "Somebody loves his country.",
-      "option_c": "Anyone loves his country.",
-      "option_d": "Everybody loved his country.",
-      "answer_index": 0,
-      "explanation": "दोहोरो नकारात्मक संरचना 'There is nobody who does not...' ले सकारात्मक रूपमा 'Everybody + V5' ('Everybody loves his country') बुझाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 180,
+      "qid": 1479420477,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3965,6 +3156,7 @@
     },
     {
       "id": 181,
+      "qid": 1142156321,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -3987,6 +3179,7 @@
     },
     {
       "id": 182,
+      "qid": 2332228734,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -4009,6 +3202,7 @@
     },
     {
       "id": 183,
+      "qid": 3336806647,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -4030,29 +3224,8 @@
       "is_pro": false
     },
     {
-      "id": 184,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Medium",
-      "question": "Give one word for: \"A person who looks at the bright side of things.\"",
-      "options": [
-        "Optimist",
-        "Pessimist",
-        "Atheist",
-        "Theist"
-      ],
-      "option_a": "Optimist",
-      "option_b": "Pessimist",
-      "option_c": "Atheist",
-      "option_d": "Theist",
-      "answer_index": 0,
-      "explanation": "जुनसुकै कुराको सकारात्मक वा उज्यालो पक्ष मात्र हेर्ने आशावादी व्यक्तिलाई एक शब्दमा 'Optimist' भनिन्छ (निराशावादीलाई 'Pessimist')।",
-      "is_pro": false
-    },
-    {
       "id": 185,
+      "qid": 2392414661,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -4074,29 +3247,8 @@
       "is_pro": false
     },
     {
-      "id": 186,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Medium",
-      "question": "Choose the correct phrasal verb: \"The plane _____ on time despite the fog.\"",
-      "options": [
-        "took off",
-        "took out",
-        "took after",
-        "took over"
-      ],
-      "option_a": "took off",
-      "option_b": "took out",
-      "option_c": "took after",
-      "option_d": "took over",
-      "answer_index": 0,
-      "explanation": "हवाईजहाज जमिन छोडेर उड्नुलाई बुझाउन 'take off' (भूतकालमा 'took off') वाक्यांश क्रिया (phrasal verb) प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 187,
+      "qid": 4170364064,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -4119,6 +3271,7 @@
     },
     {
       "id": 188,
+      "qid": 3808577232,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -4141,6 +3294,7 @@
     },
     {
       "id": 189,
+      "qid": 3432414973,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -4163,6 +3317,7 @@
     },
     {
       "id": 190,
+      "qid": 1510840219,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -4185,6 +3340,7 @@
     },
     {
       "id": 191,
+      "qid": 2148519572,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -4206,29 +3362,8 @@
       "is_pro": false
     },
     {
-      "id": 192,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Easy",
-      "question": "Choose the correct modal verb: \"_____ you please pass me the salt?\"",
-      "options": [
-        "Could",
-        "Should",
-        "Must",
-        "May"
-      ],
-      "option_a": "Could",
-      "option_b": "Should",
-      "option_c": "Must",
-      "option_d": "May",
-      "answer_index": 0,
-      "explanation": "कसैसँग विनम्रतापूर्वक अनुरोध (polite request) गर्दा प्रश्नवाचक वाक्यको सुरुमा 'Could' वा 'Would' को प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 193,
+      "qid": 3503317170,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -4251,6 +3386,7 @@
     },
     {
       "id": 194,
+      "qid": 2924914128,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -4273,6 +3409,7 @@
     },
     {
       "id": 195,
+      "qid": 971509491,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -4294,29 +3431,8 @@
       "is_pro": false
     },
     {
-      "id": 196,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Select the correct rejoinder for negative agreement: Sita said, \"I have never been to Mustang.\" Gita said, \"_____\"",
-      "options": [
-        "Neither have I.",
-        "So have I.",
-        "Neither do I.",
-        "Either have I."
-      ],
-      "option_a": "Neither have I.",
-      "option_b": "So have I.",
-      "option_c": "Neither do I.",
-      "option_d": "Either have I.",
-      "answer_index": 0,
-      "explanation": "नकारात्मक वाक्य ('never') मा समर्थन वा समानता जनाउँदा 'Neither/Nor + auxiliary verb + Subject' अनुसार 'Neither have I' प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 197,
+      "qid": 3986799407,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -4339,6 +3455,7 @@
     },
     {
       "id": 198,
+      "qid": 2224564548,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -4361,6 +3478,7 @@
     },
     {
       "id": 199,
+      "qid": 1303843983,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "115",
@@ -4379,28 +3497,6 @@
       "option_d": "more high",
       "answer_index": 1,
       "explanation": "सकारात्मक तह (Positive degree) को तुलना सूचक संरचना 'as...as' वा 'so...as' को बीचमा सधैँ विशेषणको मूल रूप ('high') मात्र रहन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 200,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "115",
-      "sub_cat_name": "English Grammar & Vocabulary",
-      "level": "Hard",
-      "question": "Select the grammatically correct sentence:",
-      "options": [
-        "Scarcely had he reached the station when the train left.",
-        "Scarcely he had reached the station than the train left.",
-        "Scarcely had he reached the station than the train left.",
-        "Scarcely did he reached the station when the train left."
-      ],
-      "option_a": "Scarcely had he reached the station when the train left.",
-      "option_b": "Scarcely he had reached the station than the train left.",
-      "option_c": "Scarcely had he reached the station than the train left.",
-      "option_d": "Scarcely did he reached the station when the train left.",
-      "answer_index": 0,
-      "explanation": "Scarcely' वा 'Hardly' बाट वाक्य सुरु हुँदा Inversion नियमअनुसार सहायक क्रिया 'had' कर्ताभन्दा अगाडि आउँछ र जोड्ने संयोजक सधैँ 'when' (than होइन) हुन्छ।",
       "is_pro": false
     }
   ]
