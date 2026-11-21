@@ -1,32 +1,11 @@
 {
   "sub_cat_id": "111",
-  "data_version": 1794491195766,
-  "total_questions": 300,
+  "data_version": 1795279225068,
+  "total_questions": 225,
   "questions": [
     {
-      "id": 1,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "कम्प्युटरका पिता (Father of Computer) भनेर कसलाई चिनिन्छ?",
-      "options": [
-        "चार्ल्स ब्याबेज",
-        "बिल गेट्स",
-        "स्टिभ जब्स",
-        "ब्लेज पास्कल"
-      ],
-      "option_a": "चार्ल्स ब्याबेज",
-      "option_b": "बिल गेट्स",
-      "option_c": "स्टिभ जब्स",
-      "option_d": "ब्लेज पास्कल",
-      "answer_index": 0,
-      "explanation": "चार्ल्स ब्याबेजले 'एनालाइटिकल इन्जिन' को डिजाइन गरेका हुनाले उनलाई कम्प्युटरका पिता भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 2,
+      "qid": 2657386015,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -49,6 +28,7 @@
     },
     {
       "id": 3,
+      "qid": 2690958701,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 2327254430,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -92,29 +73,8 @@
       "is_pro": false
     },
     {
-      "id": 5,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "एक बाइट (1 Byte) मा कति बिट्स (Bits) हुन्छन्?",
-      "options": [
-        "८ (Eight)",
-        "४ (Four)",
-        "१६ (Sixteen)",
-        "३२ (Thirty Two)"
-      ],
-      "option_a": "८ (Eight)",
-      "option_b": "४ (Four)",
-      "option_c": "१६ (Sixteen)",
-      "option_d": "३२ (Thirty Two)",
-      "answer_index": 0,
-      "explanation": "कम्प्युटरको मेमोरी नाप्ने आधारभूत नियमअनुसार १ बाइटमा ८ बिट्स हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 6,
+      "qid": 3554087079,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -137,6 +97,7 @@
     },
     {
       "id": 7,
+      "qid": 599318354,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -159,6 +120,7 @@
     },
     {
       "id": 8,
+      "qid": 468875661,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -180,29 +142,8 @@
       "is_pro": false
     },
     {
-      "id": 9,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "इन्टरनेटको माध्यमबाट विद्युतीय चिठीपत्र पठाउने विधिलाई के भनिन्छ?",
-      "options": [
-        "इमेल (E-mail)",
-        "इ-कमर्स",
-        "च्याटिङ",
-        "ब्राउजिङ"
-      ],
-      "option_a": "इमेल (E-mail)",
-      "option_b": "इ-कमर्स",
-      "option_c": "च्याटिङ",
-      "option_d": "ब्राउजिङ",
-      "answer_index": 0,
-      "explanation": "इन्टरनेट सञ्जालमार्फत डिजिटल सन्देश पठाउने र प्राप्त गर्ने प्रणालीलाई इमेल भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 10,
+      "qid": 3942395483,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -225,6 +166,7 @@
     },
     {
       "id": 11,
+      "qid": 199671135,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -247,6 +189,7 @@
     },
     {
       "id": 12,
+      "qid": 3691648512,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -268,29 +211,8 @@
       "is_pro": false
     },
     {
-      "id": 13,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "कम्प्युटरको किबोर्डमा कतिवटा फङ्सन कि (Function Keys) हुन्छन्?",
-      "options": [
-        "१२ वटा (F1-F12)",
-        "१० वटा (F1-F10)",
-        "१४ वटा (F1-F14)",
-        "८ वटा (F1-F8)"
-      ],
-      "option_a": "१२ वटा (F1-F12)",
-      "option_b": "१० वटा (F1-F10)",
-      "option_c": "१४ वटा (F1-F14)",
-      "option_d": "८ वटा (F1-F8)",
-      "answer_index": 0,
-      "explanation": "साधारण किबोर्डको सबैभन्दा माथिल्लो लाइनमा F1 देखि F12 सम्म १२ वटा फङ्सन किहरू हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 14,
+      "qid": 2240307036,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -313,6 +235,7 @@
     },
     {
       "id": 15,
+      "qid": 2281083078,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -335,6 +258,7 @@
     },
     {
       "id": 16,
+      "qid": 3220698743,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -356,29 +280,8 @@
       "is_pro": false
     },
     {
-      "id": 17,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "पेनड्राइभ (Pen drive) कस्तो प्रकारको डिभाइस हो?",
-      "options": [
-        "स्टोरेज (भण्डारण) डिभाइस",
-        "इनपुट डिभाइस",
-        "प्रोसेसिङ डिभाइस",
-        "आउटपुट डिभाइस"
-      ],
-      "option_a": "स्टोरेज (भण्डारण) डिभाइस",
-      "option_b": "इनपुट डिभाइस",
-      "option_c": "प्रोसेसिङ डिभाइस",
-      "option_d": "आउटपुट डिभाइस",
-      "answer_index": 0,
-      "explanation": "पेनड्राइभमा डेटा र फाइलहरू सुरक्षित राख्न सकिने भएकाले यो स्टोरेज (भण्डारण) डिभाइस हो।",
-      "is_pro": false
-    },
-    {
       "id": 18,
+      "qid": 2256669586,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -401,6 +304,7 @@
     },
     {
       "id": 19,
+      "qid": 4087617460,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -423,6 +327,7 @@
     },
     {
       "id": 20,
+      "qid": 1733913555,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -444,29 +349,8 @@
       "is_pro": false
     },
     {
-      "id": 21,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "प्रिन्टरबाट कागजमा छापिएर निकालिएको आउटपुटलाई के भनिन्छ?",
-      "options": [
-        "हार्ड कपी (Hard Copy)",
-        "सफ्ट कपी (Soft Copy)",
-        "भिडियो आउटपुट",
-        "अडियो आउटपुट"
-      ],
-      "option_a": "हार्ड कपी (Hard Copy)",
-      "option_b": "सफ्ट कपी (Soft Copy)",
-      "option_c": "भिडियो आउटपुट",
-      "option_d": "अडियो आउटपुट",
-      "answer_index": 0,
-      "explanation": "स्क्रिनमा देखिने सफ्ट कपी हो भने प्रिन्ट भएर हातमा आउने आउटपुटलाई हार्ड कपी भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 22,
+      "qid": 182948460,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -489,6 +373,7 @@
     },
     {
       "id": 23,
+      "qid": 3244121472,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -511,6 +396,7 @@
     },
     {
       "id": 24,
+      "qid": 142203064,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -532,29 +418,8 @@
       "is_pro": false
     },
     {
-      "id": 25,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "बाइनरी नम्बर सिस्टम (Binary Number System) मा कुन-कुन अङ्कहरू मात्र प्रयोग हुन्छन्?",
-      "options": [
-        "० र १",
-        "१ र २",
-        "० देखि ९",
-        "१ देखि १०"
-      ],
-      "option_a": "० र १",
-      "option_b": "१ र २",
-      "option_c": "० देखि ९",
-      "option_d": "१ देखि १०",
-      "answer_index": 0,
-      "explanation": "बाइनरी (आधार २) प्रणालीमा ० र १ गरी दुईवटा अङ्कहरू मात्र प्रयोग गरिन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 26,
+      "qid": 3911958607,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -577,6 +442,7 @@
     },
     {
       "id": 27,
+      "qid": 1158300424,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -599,6 +465,7 @@
     },
     {
       "id": 28,
+      "qid": 1365533852,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -620,29 +487,8 @@
       "is_pro": false
     },
     {
-      "id": 29,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "वेब पेज बनाउन प्रयोग हुने 'HTML' को पूरा रूप के हो?",
-      "options": [
-        "Hyper Text Markup Language",
-        "Hyper Tool Markup Language",
-        "Hyper Text Make Language",
-        "High Text Markup Language"
-      ],
-      "option_a": "Hyper Text Markup Language",
-      "option_b": "Hyper Tool Markup Language",
-      "option_c": "Hyper Text Make Language",
-      "option_d": "High Text Markup Language",
-      "answer_index": 0,
-      "explanation": "वेबसाइटको डिजाइन गर्न प्रयोग गरिने कोडिङ भाषा HTML को पूरा रूप Hyper Text Markup Language हो।",
-      "is_pro": false
-    },
-    {
       "id": 30,
+      "qid": 1499598877,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -665,6 +511,7 @@
     },
     {
       "id": 31,
+      "qid": 3671106745,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -687,6 +534,7 @@
     },
     {
       "id": 32,
+      "qid": 4287215610,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -708,29 +556,8 @@
       "is_pro": false
     },
     {
-      "id": 33,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "एमएस वर्डमा डकुमेन्टका सबै टेक्स्ट एकैपटक सेलेक्ट (Select All) गर्न कुन सर्टकट प्रयोग गरिन्छ?",
-      "options": [
-        "Ctrl + A",
-        "Ctrl + S",
-        "Ctrl + C",
-        "Ctrl + V"
-      ],
-      "option_a": "Ctrl + A",
-      "option_b": "Ctrl + S",
-      "option_c": "Ctrl + C",
-      "option_d": "Ctrl + V",
-      "answer_index": 0,
-      "explanation": "सम्पूर्ण डकुमेन्टलाई एकैचोटि छनोट गर्न किबोर्डमा 'Ctrl + A' (Select All) थिचिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 34,
+      "qid": 1396262086,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -753,6 +580,7 @@
     },
     {
       "id": 35,
+      "qid": 2130233599,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -775,6 +603,7 @@
     },
     {
       "id": 36,
+      "qid": 3953533716,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -796,29 +625,8 @@
       "is_pro": false
     },
     {
-      "id": 37,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "QBASIC मा स्क्रिनलाई सफा (Clear) गर्न कुन स्टेटमेन्टको प्रयोग गरिन्छ?",
-      "options": [
-        "CLS",
-        "CLEAR",
-        "ERASE",
-        "CLEAN"
-      ],
-      "option_a": "CLS",
-      "option_b": "CLEAR",
-      "option_c": "ERASE",
-      "option_d": "CLEAN",
-      "answer_index": 0,
-      "explanation": "पुरानो आउटपुटलाई हटाएर स्क्रिन खाली गर्न QBASIC मा CLS (Clear Screen) स्टेटमेन्ट लेखिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 38,
+      "qid": 3373427531,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -841,6 +649,7 @@
     },
     {
       "id": 39,
+      "qid": 3733886048,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -863,6 +672,7 @@
     },
     {
       "id": 40,
+      "qid": 3962449388,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -884,29 +694,8 @@
       "is_pro": false
     },
     {
-      "id": 41,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "अक्टल सङ्ख्या पद्धति (Octal Number System) को आधार (Base) कति हुन्छ?",
-      "options": [
-        "८",
-        "१०",
-        "२",
-        "१६"
-      ],
-      "option_a": "८",
-      "option_b": "१०",
-      "option_c": "२",
-      "option_d": "१६",
-      "answer_index": 0,
-      "explanation": "अक्टल नम्बर सिस्टममा ० देखि ७ सम्म जम्मा ८ वटा अङ्कहरू हुने भएकाले यसको आधार ८ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 42,
+      "qid": 3397587979,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -929,6 +718,7 @@
     },
     {
       "id": 43,
+      "qid": 2421820610,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -951,6 +741,7 @@
     },
     {
       "id": 44,
+      "qid": 3673347731,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -972,29 +763,8 @@
       "is_pro": false
     },
     {
-      "id": 45,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "कम्प्युटरलाई भाइरसबाट बचाउन इन्स्टल गरिने सफ्टवेयरलाई के भनिन्छ?",
-      "options": [
-        "एन्टिभाइरस (Antivirus)",
-        "फायरवाल",
-        "अपरेटिङ सिस्टम",
-        "वर्ड प्रोसेसर"
-      ],
-      "option_a": "एन्टिभाइरस (Antivirus)",
-      "option_b": "फायरवाल",
-      "option_c": "अपरेटिङ सिस्टम",
-      "option_d": "वर्ड प्रोसेसर",
-      "answer_index": 0,
-      "explanation": "कम्प्युटरमा भाइरस आउन नदिन र आएको भाइरस नष्ट गर्न एन्टिभाइरस सफ्टवेयरको प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 46,
+      "qid": 276440875,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1017,6 +787,7 @@
     },
     {
       "id": 47,
+      "qid": 971804123,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1039,6 +810,7 @@
     },
     {
       "id": 48,
+      "qid": 1133887227,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1060,29 +832,8 @@
       "is_pro": false
     },
     {
-      "id": 49,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "१ मेगाबाइट (1 MB)' बराबर कति किलोबाइट (KB) हुन्छ?",
-      "options": [
-        "१०२४ किलोबाइट",
-        "१००० किलोबाइट",
-        "१०२४ बाइट",
-        "१ गिगाबाइट"
-      ],
-      "option_a": "१०२४ किलोबाइट",
-      "option_b": "१००० किलोबाइट",
-      "option_c": "१०२४ बाइट",
-      "option_d": "१ गिगाबाइट",
-      "answer_index": 0,
-      "explanation": "कम्प्युटर मेमोरी मापनमा १ MB (मेगाबाइट) भित्र १०२४ KB (किलोबाइट) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 50,
+      "qid": 3103957008,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1105,6 +856,7 @@
     },
     {
       "id": 51,
+      "qid": 3307780364,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1127,6 +879,7 @@
     },
     {
       "id": 52,
+      "qid": 361989189,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1148,29 +901,8 @@
       "is_pro": false
     },
     {
-      "id": 53,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "हेक्जाडेसिमल नम्बर सिस्टम (Hexadecimal) मा 'A' अक्षरले कुन डेसिमल मानलाई जनाउँछ?",
-      "options": [
-        "१०",
-        "११",
-        "१२",
-        "१५"
-      ],
-      "option_a": "१०",
-      "option_b": "११",
-      "option_c": "१२",
-      "option_d": "१५",
-      "answer_index": 0,
-      "explanation": "हेक्जाडेसिमलमा ९ पछि आउने अङ्कहरूलाई अक्षरले जनाइन्छ, जसमा A=१०, B=११... हुँदै F=१५ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 54,
+      "qid": 4074969119,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1193,6 +925,7 @@
     },
     {
       "id": 55,
+      "qid": 3406781733,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1215,6 +948,7 @@
     },
     {
       "id": 56,
+      "qid": 3002284883,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1236,29 +970,8 @@
       "is_pro": false
     },
     {
-      "id": 57,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "QBASIC मा स्ट्रिङ रिएबल (अक्षर राख्ने रिएबल) को अन्त्यमा कुन चिह्न प्रयोग गरिन्छ?",
-      "options": [
-        "$ (डलर)",
-        "% (प्रतिशत)",
-        "# (ह्यास)",
-        "& (एम्पर्सेन्ड)"
-      ],
-      "option_a": "$ (डलर)",
-      "option_b": "% (प्रतिशत)",
-      "option_c": "# (ह्यास)",
-      "option_d": "& (एम्पर्सेन्ड)",
-      "answer_index": 0,
-      "explanation": "क्युबेसिकमा अक्षर (Text) भण्डारण गर्ने रिएबलको नामको पछाडि अनिवार्य रूपमा '$' चिह्न राखिन्छ (जस्तै: NAME$)।",
-      "is_pro": false
-    },
-    {
       "id": 58,
+      "qid": 722043442,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1281,6 +994,7 @@
     },
     {
       "id": 59,
+      "qid": 982504014,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1303,6 +1017,7 @@
     },
     {
       "id": 60,
+      "qid": 1090900808,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1324,29 +1039,8 @@
       "is_pro": false
     },
     {
-      "id": 61,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "वेब पेजहरू निर्माण गर्न मुख्यतया कुन भाषाको प्रयोग गरिन्छ?",
-      "options": [
-        "HTML",
-        "QBASIC",
-        "C",
-        "C++"
-      ],
-      "option_a": "HTML",
-      "option_b": "QBASIC",
-      "option_c": "C",
-      "option_d": "C++",
-      "answer_index": 0,
-      "explanation": "वेबसाइटका पानाहरू (Web Pages) बनाउन ब्राउजरले बुझ्ने भाषा HTML (Hyper Text Markup Language) को प्रयोग हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 62,
+      "qid": 1727038708,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1369,6 +1063,7 @@
     },
     {
       "id": 63,
+      "qid": 2791130695,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1391,6 +1086,7 @@
     },
     {
       "id": 64,
+      "qid": 1621319332,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1412,29 +1108,8 @@
       "is_pro": false
     },
     {
-      "id": 65,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "URL' को सुरुमा लेखिने 'HTTP' ले के जनाउँछ?",
-      "options": [
-        "प्रोटोकल (Protocol)",
-        "डोमेन नाम",
-        "फाइलको नाम",
-        "सर्भर"
-      ],
-      "option_a": "प्रोटोकल (Protocol)",
-      "option_b": "डोमेन नाम",
-      "option_c": "फाइलको नाम",
-      "option_d": "सर्भर",
-      "answer_index": 0,
-      "explanation": "HTTP (Hyper Text Transfer Protocol) ले इन्टरनेटमा डेटा कसरी आदानप्रदान गर्ने भन्ने नियम वा प्रोटोकललाई जनाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 66,
+      "qid": 2307193484,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1457,6 +1132,7 @@
     },
     {
       "id": 67,
+      "qid": 3014511790,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1479,6 +1155,7 @@
     },
     {
       "id": 68,
+      "qid": 1559094473,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1500,29 +1177,8 @@
       "is_pro": false
     },
     {
-      "id": 69,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "QBASIC मा स्क्रिनमा म्यासेज वा नतिजा देखाउन कुन स्टेटमेन्ट प्रयोग हुन्छ?",
-      "options": [
-        "PRINT",
-        "SHOW",
-        "DISPLAY",
-        "WRITE"
-      ],
-      "option_a": "PRINT",
-      "option_b": "SHOW",
-      "option_c": "DISPLAY",
-      "option_d": "WRITE",
-      "answer_index": 0,
-      "explanation": "युजरलाई आउटपुट स्क्रिनमा कुनै अक्षर वा हिसाबको नतिजा प्रिन्ट गर्न QBASIC मा PRINT कमान्ड लेखिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 70,
+      "qid": 3691619746,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1545,6 +1201,7 @@
     },
     {
       "id": 71,
+      "qid": 2621756937,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1567,6 +1224,7 @@
     },
     {
       "id": 72,
+      "qid": 1843432801,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1588,29 +1246,8 @@
       "is_pro": false
     },
     {
-      "id": 73,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "अक्टल नम्बर पद्धतिमा ७ (7) पछि आउने लगत्तैको सङ्ख्या कुन हो?",
-      "options": [
-        "१० (10)",
-        "८ (8)",
-        "९ (9)",
-        "११ (11)"
-      ],
-      "option_a": "१० (10)",
-      "option_b": "८ (8)",
-      "option_c": "९ (9)",
-      "option_d": "११ (11)",
-      "answer_index": 0,
-      "explanation": "अक्टल प्रणालीमा ० देखि ७ सम्म मात्र अङ्क हुने भएकाले ७ पछि सीधै १० (एक शून्य) आउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 74,
+      "qid": 3716806054,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1633,6 +1270,7 @@
     },
     {
       "id": 75,
+      "qid": 908249545,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1655,6 +1293,7 @@
     },
     {
       "id": 76,
+      "qid": 2566777889,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1676,29 +1315,8 @@
       "is_pro": false
     },
     {
-      "id": 77,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "हेक्जाडेसिमल नम्बर 'F' को डेसिमल मान कति हुन्छ?",
-      "options": [
-        "१५",
-        "१४",
-        "१६",
-        "१३"
-      ],
-      "option_a": "१५",
-      "option_b": "१४",
-      "option_c": "१६",
-      "option_d": "१३",
-      "answer_index": 0,
-      "explanation": "हेक्जाडेसिमलमा A=१०, B=११, C=१२, D=१३, E=१४ र अन्तिम अक्षर F को मान १५ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 78,
+      "qid": 1018851495,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1721,6 +1339,7 @@
     },
     {
       "id": 79,
+      "qid": 3847449883,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1743,6 +1362,7 @@
     },
     {
       "id": 80,
+      "qid": 1701319881,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1764,29 +1384,8 @@
       "is_pro": false
     },
     {
-      "id": 81,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "QBASIC मा लुप (Loop) का लागि प्रयोग हुने 'FOR' स्टेटमेन्टसँग कुन वर्ड अनिवार्य रूपमा प्रयोग हुन्छ?",
-      "options": [
-        "NEXT",
-        "LOOP",
-        "WEND",
-        "END"
-      ],
-      "option_a": "NEXT",
-      "option_b": "LOOP",
-      "option_c": "WEND",
-      "option_d": "END",
-      "answer_index": 0,
-      "explanation": "FOR लुप सुरु गरेपछि त्यसलाई बन्द गर्न वा अर्को चरणमा पठाउन NEXT कमान्ड लेख्नैपर्छ (FOR...NEXT)।",
-      "is_pro": false
-    },
-    {
       "id": 82,
+      "qid": 2888112224,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1809,6 +1408,7 @@
     },
     {
       "id": 83,
+      "qid": 3240429759,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1831,6 +1431,7 @@
     },
     {
       "id": 84,
+      "qid": 192118306,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1852,29 +1453,8 @@
       "is_pro": false
     },
     {
-      "id": 85,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "HTML डकुमेन्टको मुख्य भाग (जहाँ ब्राउजरमा देखिने कन्टेन्ट लेखिन्छ) कुन ट्यागभित्र हुन्छ?",
-      "options": [
-        "<body>",
-        "<head>",
-        "<title>",
-        "<html>"
-      ],
-      "option_a": "<body>",
-      "option_b": "<head>",
-      "option_c": "<title>",
-      "option_d": "<html>",
-      "answer_index": 0,
-      "explanation": "वेब पेजमा देखिने टेक्स्ट, चित्र र लिङ्कहरू सबै <body> र </body> ट्यागको बिचमा लेखिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 86,
+      "qid": 634902835,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1897,6 +1477,7 @@
     },
     {
       "id": 87,
+      "qid": 871981932,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1919,6 +1500,7 @@
     },
     {
       "id": 88,
+      "qid": 240895137,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1940,29 +1522,8 @@
       "is_pro": false
     },
     {
-      "id": 89,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "QBASIC मा लेखिएको प्रोग्रामको कार्यान्वयनलाई अन्त्य गर्न कुन स्टेटमेन्ट लेखिन्छ?",
-      "options": [
-        "END",
-        "STOP",
-        "CLOSE",
-        "EXIT"
-      ],
-      "option_a": "END",
-      "option_b": "STOP",
-      "option_c": "CLOSE",
-      "option_d": "EXIT",
-      "answer_index": 0,
-      "explanation": "क्युबेसिक प्रोग्रामको सबैभन्दा अन्तिम लाइनमा प्रोग्राम सकिएको जानकारी दिन END स्टेटमेन्ट लेखिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 90,
+      "qid": 3791825073,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -1985,6 +1546,7 @@
     },
     {
       "id": 91,
+      "qid": 562342019,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2007,6 +1569,7 @@
     },
     {
       "id": 92,
+      "qid": 3412775458,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2028,29 +1591,8 @@
       "is_pro": false
     },
     {
-      "id": 93,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "लिनक्स (Linux) अपरेटिङ सिस्टम कस्तो सफ्टवेयरको उदाहरण हो?",
-      "options": [
-        "ओपन सोर्स (Open Source)",
-        "क्लोज्ड सोर्स",
-        "मालवेयर",
-        "युटिलिटी"
-      ],
-      "option_a": "ओपन सोर्स (Open Source)",
-      "option_b": "क्लोज्ड सोर्स",
-      "option_c": "मालवेयर",
-      "option_d": "युटिलिटी",
-      "answer_index": 0,
-      "explanation": "लिनक्सको सोर्स कोड सबैका लागि निःशुल्क उपलब्ध हुने र परिमार्जन गर्न सकिने भएकाले यो ओपन सोर्स सफ्टवेयर हो।",
-      "is_pro": false
-    },
-    {
       "id": 94,
+      "qid": 3253881924,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2073,6 +1615,7 @@
     },
     {
       "id": 95,
+      "qid": 3326064319,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2095,6 +1638,7 @@
     },
     {
       "id": 96,
+      "qid": 3656173514,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2116,29 +1660,8 @@
       "is_pro": false
     },
     {
-      "id": 97,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "QBASIC मा LET स्टेटमेन्टको मुख्य काम के हो?",
-      "options": [
-        "रिएबलमा मान (Value) असाइन गर्न वा राख्न",
-        "स्क्रिन क्लियर गर्न",
-        "रिजल्ट देखाउन",
-        "युजरबाट डेटा लिन"
-      ],
-      "option_a": "रिएबलमा मान (Value) असाइन गर्न वा राख्न",
-      "option_b": "स्क्रिन क्लियर गर्न",
-      "option_c": "रिजल्ट देखाउन",
-      "option_d": "युजरबाट डेटा लिन",
-      "answer_index": 0,
-      "explanation": "कुनै रिएबलभित्र अङ्क वा अक्षर राख्न LET स्टेटमेन्टको प्रयोग गरिन्छ (जस्तै: LET A = 10)।",
-      "is_pro": false
-    },
-    {
       "id": 98,
+      "qid": 3028791763,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2161,6 +1684,7 @@
     },
     {
       "id": 99,
+      "qid": 1263012024,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2183,6 +1707,7 @@
     },
     {
       "id": 100,
+      "qid": 1907757985,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2204,29 +1729,8 @@
       "is_pro": false
     },
     {
-      "id": 101,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "कम्प्युटरले प्रशोधन (Process) गरेको नतिजा देखाउने डिभाइस कुन हो?",
-      "options": [
-        "आउटपुट डिभाइस (Output Device)",
-        "इनपुट डिभाइस",
-        "प्रोसेसिङ डिभाइस",
-        "स्टोरेज डिभाइस"
-      ],
-      "option_a": "आउटपुट डिभाइस (Output Device)",
-      "option_b": "इनपुट डिभाइस",
-      "option_c": "प्रोसेसिङ डिभाइस",
-      "option_d": "स्टोरेज डिभाइस",
-      "answer_index": 0,
-      "explanation": "मनिटर वा प्रिन्टर जस्ता डिभाइसले प्रोसेस भएको डेटा प्रयोगकर्तालाई देखाउने हुनाले यिनलाई आउटपुट डिभाइस भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 102,
+      "qid": 1040328971,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2249,6 +1753,7 @@
     },
     {
       "id": 103,
+      "qid": 4215683442,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2271,6 +1776,7 @@
     },
     {
       "id": 104,
+      "qid": 3186172162,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2292,29 +1798,8 @@
       "is_pro": false
     },
     {
-      "id": 105,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "किबोर्डमा रहेको सबैभन्दा लामो कि (Key) कुन हो?",
-      "options": [
-        "स्पेसबार (Spacebar)",
-        "इन्टर कि",
-        "सिफ्ट कि",
-        "ब्याकस्पेस"
-      ],
-      "option_a": "स्पेसबार (Spacebar)",
-      "option_b": "इन्टर कि",
-      "option_c": "सिफ्ट कि",
-      "option_d": "ब्याकस्पेस",
-      "answer_index": 0,
-      "explanation": "शब्दहरूबीच खाली ठाउँ (Space) छोड्न प्रयोग हुने स्पेसबार किबोर्डकै सबैभन्दा लामो कि हो।",
-      "is_pro": false
-    },
-    {
       "id": 106,
+      "qid": 188772922,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2337,6 +1822,7 @@
     },
     {
       "id": 107,
+      "qid": 2041678225,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2359,6 +1845,7 @@
     },
     {
       "id": 108,
+      "qid": 4072618718,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2380,29 +1867,8 @@
       "is_pro": false
     },
     {
-      "id": 109,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "कम्प्युटरले डेटालाई प्रशोधन गरेर निकालेको अर्थपूर्ण नतिजालाई के भनिन्छ?",
-      "options": [
-        "इन्फर्मेसन (Information)",
-        "डेटा",
-        "इनपुट",
-        "हार्डवेयर"
-      ],
-      "option_a": "इन्फर्मेसन (Information)",
-      "option_b": "डेटा",
-      "option_c": "इनपुट",
-      "option_d": "हार्डवेयर",
-      "answer_index": 0,
-      "explanation": "डेटालाई प्रोसेस गरेपछि बुझ्न सकिने र काम लाग्ने अर्थपूर्ण नतिजा इन्फर्मेसन (जानकारी) हो।",
-      "is_pro": false
-    },
-    {
       "id": 110,
+      "qid": 72690724,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2425,6 +1891,7 @@
     },
     {
       "id": 111,
+      "qid": 227139381,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2447,6 +1914,7 @@
     },
     {
       "id": 112,
+      "qid": 4292392565,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2468,29 +1936,8 @@
       "is_pro": false
     },
     {
-      "id": 113,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "विन्डोज जस्ता अपरेटिङ सिस्टममा प्रयोग हुने 'GUI' ले के जनाउँछ?",
-      "options": [
-        "Graphical User Interface",
-        "General User Info",
-        "Graphic Universal Interface",
-        "Guide User Interface"
-      ],
-      "option_a": "Graphical User Interface",
-      "option_b": "General User Info",
-      "option_c": "Graphic Universal Interface",
-      "option_d": "Guide User Interface",
-      "answer_index": 0,
-      "explanation": "चित्र, आइकन र मेनुको मद्दतले प्रयोगकर्तालाई कम्प्युटर चलाउन सजिलो बनाउने प्रविधि GUI हो।",
-      "is_pro": false
-    },
-    {
       "id": 114,
+      "qid": 3272525798,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2513,6 +1960,7 @@
     },
     {
       "id": 115,
+      "qid": 3138580296,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2535,6 +1983,7 @@
     },
     {
       "id": 116,
+      "qid": 2319756577,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2556,29 +2005,8 @@
       "is_pro": false
     },
     {
-      "id": 117,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "कम्प्युटरका ती भौतिक भागहरू जसलाई छुन र देख्न सकिन्छ, तिनलाई के भनिन्छ?",
-      "options": [
-        "हार्डवेयर (Hardware)",
-        "सफ्टवेयर",
-        "प्रोग्राम",
-        "डेटा"
-      ],
-      "option_a": "हार्डवेयर (Hardware)",
-      "option_b": "सफ्टवेयर",
-      "option_c": "प्रोग्राम",
-      "option_d": "डेटा",
-      "answer_index": 0,
-      "explanation": "मोनिटर, किबोर्ड, सिपियु जस्ता कम्प्युटरका सम्पूर्ण भौतिक उपकरणहरूलाई हार्डवेयर भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 118,
+      "qid": 378046605,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2601,6 +2029,7 @@
     },
     {
       "id": 119,
+      "qid": 5976167,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2623,6 +2052,7 @@
     },
     {
       "id": 120,
+      "qid": 2412693168,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2644,29 +2074,8 @@
       "is_pro": false
     },
     {
-      "id": 121,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "Cut' वा 'Copy' गरिएको टेक्स्टलाई अर्को ठाउँमा टाँस्न (Paste) कुन सर्टकट प्रयोग गरिन्छ?",
-      "options": [
-        "Ctrl + V",
-        "Ctrl + C",
-        "Ctrl + P",
-        "Ctrl + X"
-      ],
-      "option_a": "Ctrl + V",
-      "option_b": "Ctrl + C",
-      "option_c": "Ctrl + P",
-      "option_d": "Ctrl + X",
-      "answer_index": 0,
-      "explanation": "क्लिपबोर्डमा रहेको डेटालाई डकुमेन्टमा राख्न Ctrl सँग V (Paste) थिचिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 122,
+      "qid": 1447762930,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2689,6 +2098,7 @@
     },
     {
       "id": 123,
+      "qid": 121612496,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2711,6 +2121,7 @@
     },
     {
       "id": 124,
+      "qid": 1740733902,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2732,29 +2143,8 @@
       "is_pro": false
     },
     {
-      "id": 125,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "तलका मध्ये कुन अपरेटिङ सिस्टम (OS) को उदाहरण हो?",
-      "options": [
-        "विन्डोज १० (Windows 10)",
-        "एम.एस. वर्ड",
-        "क्युबेसिक",
-        "गुगल क्रोम"
-      ],
-      "option_a": "विन्डोज १० (Windows 10)",
-      "option_b": "एम.एस. वर्ड",
-      "option_c": "क्युबेसिक",
-      "option_d": "गुगल क्रोम",
-      "answer_index": 0,
-      "explanation": "कम्प्युटर सञ्चालन गर्न प्रयोग हुने सिस्टम सफ्टवेयर माइक्रोसफ्टको विन्डोज १० एउटा OS हो।",
-      "is_pro": false
-    },
-    {
       "id": 126,
+      "qid": 3009948083,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2777,6 +2167,7 @@
     },
     {
       "id": 127,
+      "qid": 1049947078,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2799,6 +2190,7 @@
     },
     {
       "id": 128,
+      "qid": 2224840352,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2820,29 +2212,8 @@
       "is_pro": false
     },
     {
-      "id": 129,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "इमेलमा आउने अनावश्यक, विज्ञापनमुखी वा शङ्कास्पद सन्देशहरूलाई के भनिन्छ?",
-      "options": [
-        "स्पाम (Spam)",
-        "भाइरस",
-        "इनबक्स",
-        "ड्राफ्ट"
-      ],
-      "option_a": "स्पाम (Spam)",
-      "option_b": "भाइरस",
-      "option_c": "इनबक्स",
-      "option_d": "ड्राफ्ट",
-      "answer_index": 0,
-      "explanation": "प्रयोगकर्ताले नमागेका र एकैपटक धेरैलाई पठाइने अनावश्यक इमेलहरूलाई स्पाम (Spam) वा जङ्क इमेल भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 130,
+      "qid": 1171143104,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2865,6 +2236,7 @@
     },
     {
       "id": 131,
+      "qid": 3994052575,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2887,6 +2259,7 @@
     },
     {
       "id": 132,
+      "qid": 2088589411,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2908,29 +2281,8 @@
       "is_pro": false
     },
     {
-      "id": 133,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "वेबसाइटको ठेगाना बुझाउने 'URL' को पूरा रूप के हो?",
-      "options": [
-        "Uniform Resource Locator",
-        "Universal Resource Locator",
-        "Uniform Research Link",
-        "Unified Resource Link"
-      ],
-      "option_a": "Uniform Resource Locator",
-      "option_b": "Universal Resource Locator",
-      "option_c": "Uniform Research Link",
-      "option_d": "Unified Resource Link",
-      "answer_index": 0,
-      "explanation": "इन्टरनेटमा कुनै पनि फाइल वा वेबसाइटको विशिष्ट ठेगानालाई Uniform Resource Locator (URL) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 134,
+      "qid": 3014156542,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2953,6 +2305,7 @@
     },
     {
       "id": 135,
+      "qid": 3350441801,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2975,6 +2328,7 @@
     },
     {
       "id": 136,
+      "qid": 1307389277,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -2996,29 +2350,8 @@
       "is_pro": false
     },
     {
-      "id": 137,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "एमएस वर्ड २००७ वा सोभन्दा नयाँ संस्करणमा बनेका डकुमेन्ट फाइलको एक्सटेन्सन (Extension) के हुन्छ?",
-      "options": [
-        "docx",
-        "doc",
-        "txt",
-        "pdf"
-      ],
-      "option_a": "docx",
-      "option_b": "doc",
-      "option_c": "txt",
-      "option_d": "pdf",
-      "answer_index": 0,
-      "explanation": "वर्ड २००७ देखि यताका फाइलहरू XML फर्म्याटमा सेभ हुने भएकाले यिनको एक्सटेन्सन .docx हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 138,
+      "qid": 339131618,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3041,6 +2374,7 @@
     },
     {
       "id": 139,
+      "qid": 4056044782,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3063,6 +2397,7 @@
     },
     {
       "id": 140,
+      "qid": 1144393926,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3084,29 +2419,8 @@
       "is_pro": false
     },
     {
-      "id": 141,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "स्टार टपोलोजीमा बीचमा राखिने केन्द्रीय डिभाइसलाई के भनिन्छ?",
-      "options": [
-        "हब वा स्विच (Hub/Switch)",
-        "राउटर",
-        "मोडेम",
-        "रिपिटर"
-      ],
-      "option_a": "हब वा स्विच (Hub/Switch)",
-      "option_b": "राउटर",
-      "option_c": "मोडेम",
-      "option_d": "रिपिटर",
-      "answer_index": 0,
-      "explanation": "स्टार टपोलोजीमा सबै नोड (कम्प्युटर) हरू तारमार्फत केन्द्रीय डिभाइस हब वा स्विचमा जोडिएका हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 142,
+      "qid": 110349503,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3129,6 +2443,7 @@
     },
     {
       "id": 143,
+      "qid": 3918590383,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3151,6 +2466,7 @@
     },
     {
       "id": 144,
+      "qid": 2156193447,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3172,29 +2488,8 @@
       "is_pro": false
     },
     {
-      "id": 145,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "डेसिमल नम्बर २ (2) लाई बाइनरीमा लेख्दा कसरी लेखिन्छ?",
-      "options": [
-        "१० (10)",
-        "११ (11)",
-        "०१ (01)",
-        "१०० (100)"
-      ],
-      "option_a": "१० (10)",
-      "option_b": "११ (11)",
-      "option_c": "०१ (01)",
-      "option_d": "१०० (100)",
-      "answer_index": 0,
-      "explanation": "२ लाई २ ले भाग गर्दा भागफल १ र शेष ० आउँछ, जसलाई तलबाट माथि लेख्दा 10 हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 146,
+      "qid": 1172283755,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3217,6 +2512,7 @@
     },
     {
       "id": 147,
+      "qid": 2201364815,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3239,6 +2535,7 @@
     },
     {
       "id": 148,
+      "qid": 3811271330,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3260,29 +2557,8 @@
       "is_pro": false
     },
     {
-      "id": 149,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "QBASIC मा PRINT स्टेटमेन्टको मुख्य काम के हो?",
-      "options": [
-        "स्क्रिनमा नतिजा (Output) देखाउने",
-        "स्क्रिन सफा गर्ने",
-        "नयाँ रिएबल बनाउने",
-        "प्रोग्राम बन्द गर्ने"
-      ],
-      "option_a": "स्क्रिनमा नतिजा (Output) देखाउने",
-      "option_b": "स्क्रिन सफा गर्ने",
-      "option_c": "नयाँ रिएबल बनाउने",
-      "option_d": "प्रोग्राम बन्द गर्ने",
-      "answer_index": 0,
-      "explanation": "प्रयोगकर्तालाई कुनै सन्देश वा हिसाबको नतिजा मनिटरमा देखाउन PRINT कमान्ड लेखिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 150,
+      "qid": 4224843453,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3305,6 +2581,7 @@
     },
     {
       "id": 151,
+      "qid": 2531025109,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3327,6 +2604,7 @@
     },
     {
       "id": 152,
+      "qid": 955035948,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3348,29 +2626,8 @@
       "is_pro": false
     },
     {
-      "id": 153,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "प्रयोगकर्ताको कम्प्युटरमा लुकेर जासुसी गर्ने र व्यक्तिगत जानकारी चोर्ने सफ्टवेयरलाई के भनिन्छ?",
-      "options": [
-        "स्पाईवेयर (Spyware)",
-        "एन्टिभाइरस",
-        "फर्मवेयर",
-        "ब्याकअप"
-      ],
-      "option_a": "स्पाईवेयर (Spyware)",
-      "option_b": "एन्टिभाइरस",
-      "option_c": "फर्मवेयर",
-      "option_d": "ब्याकअप",
-      "answer_index": 0,
-      "explanation": "इन्टरनेटबाट सुटुक्क कम्प्युटरमा छिरेर प्रयोगकर्ताका गतिविधि अनुगमन गर्ने मालवेयरलाई स्पाईवेयर भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 154,
+      "qid": 2984279383,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3393,6 +2650,7 @@
     },
     {
       "id": 155,
+      "qid": 3577299646,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3415,6 +2673,7 @@
     },
     {
       "id": 156,
+      "qid": 1211998020,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3436,29 +2695,8 @@
       "is_pro": false
     },
     {
-      "id": 157,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "कम्प्युटरले बुझ्ने बाइनरी नम्बर सिस्टमको आधार (Base) कति हुन्छ?",
-      "options": [
-        "२",
-        "१०",
-        "८",
-        "१६"
-      ],
-      "option_a": "२",
-      "option_b": "१०",
-      "option_c": "८",
-      "option_d": "१६",
-      "answer_index": 0,
-      "explanation": "बाइनरीमा ० र १ गरी जम्मा २ वटा मात्र अङ्क हुने भएकाले यसको आधार २ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 158,
+      "qid": 2197208006,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3481,6 +2719,7 @@
     },
     {
       "id": 159,
+      "qid": 2401348768,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3503,6 +2742,7 @@
     },
     {
       "id": 160,
+      "qid": 2123178712,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3524,29 +2764,8 @@
       "is_pro": false
     },
     {
-      "id": 161,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "कम्प्युटरमा अन्तिम पटक गरेको कामलाई रद्द (Undo) गर्न कुन सर्टकट प्रयोग गरिन्छ?",
-      "options": [
-        "Ctrl + Z",
-        "Ctrl + Y",
-        "Ctrl + C",
-        "Ctrl + U"
-      ],
-      "option_a": "Ctrl + Z",
-      "option_b": "Ctrl + Y",
-      "option_c": "Ctrl + C",
-      "option_d": "Ctrl + U",
-      "answer_index": 0,
-      "explanation": "टाइप गर्दा वा फाइल डिलिट हुँदा त्यसलाई तुरुन्तै पूर्ववत अवस्थामा फर्काउन Ctrl + Z (Undo) गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 162,
+      "qid": 737517325,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3569,6 +2788,7 @@
     },
     {
       "id": 163,
+      "qid": 4066507319,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3591,6 +2811,7 @@
     },
     {
       "id": 164,
+      "qid": 3845792823,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3612,29 +2833,8 @@
       "is_pro": false
     },
     {
-      "id": 165,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "डकुमेन्टहरू सजिलै सटही गर्न मिल्ने 'PDF' को पूरा रूप के हो?",
-      "options": [
-        "Portable Document Format",
-        "Printed Document File",
-        "Public Data Format",
-        "Private Document Format"
-      ],
-      "option_a": "Portable Document Format",
-      "option_b": "Printed Document File",
-      "option_c": "Public Data Format",
-      "option_d": "Private Document Format",
-      "answer_index": 0,
-      "explanation": "सबै डिभाइसमा एउटै डिजाइन देखिने एडोबले विकास गरेको फर्म्याटलाई Portable Document Format (PDF) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 166,
+      "qid": 4285282429,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3657,6 +2857,7 @@
     },
     {
       "id": 167,
+      "qid": 1201057407,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3679,6 +2880,7 @@
     },
     {
       "id": 168,
+      "qid": 199009105,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3700,29 +2902,8 @@
       "is_pro": false
     },
     {
-      "id": 169,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "सम्पूर्ण प्रोग्रामलाई एकैपटक पढेर मेसिन भाषामा अनुवाद गर्ने ट्रान्सलेटर कुन हो?",
-      "options": [
-        "कम्पाइलर (Compiler)",
-        "इन्टरप्रेटर",
-        "एसेम्बलर",
-        "डिबगर"
-      ],
-      "option_a": "कम्पाइलर (Compiler)",
-      "option_b": "इन्टरप्रेटर",
-      "option_c": "एसेम्बलर",
-      "option_d": "डिबगर",
-      "answer_index": 0,
-      "explanation": "C, C++ जस्ता भाषाहरूमा लेखिएको पूरै सोर्स कोडलाई एकैचोटि अब्जेक्ट कोडमा बदल्ने काम कम्पाइलरले गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 170,
+      "qid": 2859110494,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3745,6 +2926,7 @@
     },
     {
       "id": 171,
+      "qid": 3115739793,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3767,6 +2949,7 @@
     },
     {
       "id": 172,
+      "qid": 4247054236,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3788,29 +2971,8 @@
       "is_pro": false
     },
     {
-      "id": 173,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "बाइनरी नम्बर १००१ (1001) लाई डेसिमल नम्बरमा रूपान्तरण गर्दा कति हुन्छ?",
-      "options": [
-        "९ (9)",
-        "७ (7)",
-        "११ (11)",
-        "१३ (13)"
-      ],
-      "option_a": "९ (9)",
-      "option_b": "७ (7)",
-      "option_c": "११ (11)",
-      "option_d": "१३ (13)",
-      "answer_index": 0,
-      "explanation": "(1×2³) + (0×2²) + (0×2¹) + (1×2⁰) = 8 + 0 + 0 + 1 = 9 हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 174,
+      "qid": 3887185224,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3833,6 +2995,7 @@
     },
     {
       "id": 175,
+      "qid": 1610304815,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3855,6 +3018,7 @@
     },
     {
       "id": 176,
+      "qid": 2959510273,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3876,29 +3040,8 @@
       "is_pro": false
     },
     {
-      "id": 177,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "कम्प्युटर सञ्जालमा प्रयोग हुने 'OSI Model' मा जम्मा कतिवटा लेयर (Layers) हुन्छन्?",
-      "options": [
-        "७ वटा (Seven)",
-        "५ वटा",
-        "४ वटा",
-        "९ वटा"
-      ],
-      "option_a": "७ वटा (Seven)",
-      "option_b": "५ वटा",
-      "option_c": "४ वटा",
-      "option_d": "९ वटा",
-      "answer_index": 0,
-      "explanation": "OSI (Open Systems Interconnection) मोडलमा Physical, Data Link, Network, Transport, Session, Presentation र Application गरी ७ वटा लेयर हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 178,
+      "qid": 1814452407,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3921,6 +3064,7 @@
     },
     {
       "id": 179,
+      "qid": 3767873568,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3943,6 +3087,7 @@
     },
     {
       "id": 180,
+      "qid": 3651120115,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -3964,29 +3109,8 @@
       "is_pro": false
     },
     {
-      "id": 181,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "<img> ट्यागभित्र तस्बिरको स्रोत वा ठेगाना (Path) खुलाउन कुन एट्रिब्युट (Attribute) प्रयोग गरिन्छ?",
-      "options": [
-        "src",
-        "href",
-        "link",
-        "path"
-      ],
-      "option_a": "src",
-      "option_b": "href",
-      "option_c": "link",
-      "option_d": "path",
-      "answer_index": 0,
-      "explanation": "तस्बिर कहाँ छ भनेर देखाउन Source को छोटो रूप 'src' एट्रिब्युट (जस्तै: <img src=\\photo.jpg\\\">) प्रयोग गरिन्छ।\"",
-      "is_pro": false
-    },
-    {
       "id": 182,
+      "qid": 3184184126,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4009,6 +3133,7 @@
     },
     {
       "id": 183,
+      "qid": 2467021821,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4031,6 +3156,7 @@
     },
     {
       "id": 184,
+      "qid": 3854768253,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4052,29 +3178,8 @@
       "is_pro": false
     },
     {
-      "id": 185,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "नेपालमा साइबर अपराधलाई कानुनी दायरामा ल्याउन 'विद्युतीय कारोबार ऐन' (Electronic Transactions Act) कहिले जारी भयो?",
-      "options": [
-        "वि.सं. २०६३",
-        "वि.सं. २०५३",
-        "वि.सं. २०७३",
-        "वि.सं. २०४०"
-      ],
-      "option_a": "वि.सं. २०६३",
-      "option_b": "वि.सं. २०५३",
-      "option_c": "वि.सं. २०७३",
-      "option_d": "वि.सं. २०४०",
-      "answer_index": 0,
-      "explanation": "कम्प्युटर र इन्टरनेटको माध्यमबाट हुने अपराध रोक्न र विद्युतीय रेकर्डलाई मान्यता दिन वि.सं. २०६३ मा यो ऐन ल्याइएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 186,
+      "qid": 4090227754,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4097,6 +3202,7 @@
     },
     {
       "id": 187,
+      "qid": 1152509660,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4119,6 +3225,7 @@
     },
     {
       "id": 188,
+      "qid": 2162269525,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4140,29 +3247,8 @@
       "is_pro": false
     },
     {
-      "id": 189,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "HTML मा H2O लेख्दा '2' लाई तलतिर (Subscript) झार्न कुन ट्याग प्रयोग गरिन्छ?",
-      "options": [
-        "<sub>",
-        "<sup>",
-        "<down>",
-        "<lower>"
-      ],
-      "option_a": "<sub>",
-      "option_b": "<sup>",
-      "option_c": "<down>",
-      "option_d": "<lower>",
-      "answer_index": 0,
-      "explanation": "अक्षरलाई साधारण लाइनभन्दा अलिकति तल लेख्न Subscript को रूपमा <sub> ट्याग प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 190,
+      "qid": 199792306,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4185,6 +3271,7 @@
     },
     {
       "id": 191,
+      "qid": 41641614,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4207,6 +3294,7 @@
     },
     {
       "id": 192,
+      "qid": 1250466618,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4228,29 +3316,8 @@
       "is_pro": false
     },
     {
-      "id": 193,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "एम.एस. एक्सेलमा सेलको ठेगानालाई कपि गर्दा नबदलिने (Absolute Reference) बनाउन रो र कोलमको अगाडि कुन चिह्न राखिन्छ?",
-      "options": [
-        "$ (डलर)",
-        "#",
-        "@",
-        "%"
-      ],
-      "option_a": "$ (डलर)",
-      "option_b": "#",
-      "option_c": "@",
-      "option_d": "%",
-      "answer_index": 0,
-      "explanation": "सुत्र कपि गर्दा सेल रिफरेन्स स्थिर राख्न $ चिह्न (जस्तै: $A$1) प्रयोग गरिन्छ, जसलाई एब्सोल्युट रिफरेन्स भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 194,
+      "qid": 1022073191,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4273,6 +3340,7 @@
     },
     {
       "id": 195,
+      "qid": 32729207,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4295,6 +3363,7 @@
     },
     {
       "id": 196,
+      "qid": 119930718,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4316,29 +3385,8 @@
       "is_pro": false
     },
     {
-      "id": 197,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "कम्प्युटर स्विच अन गरेपछि हार्ड डिस्कमा भएको अपरेटिङ सिस्टम RAM मा लोड हुने प्रक्रियालाई के भनिन्छ?",
-      "options": [
-        "बुटिङ (Booting)",
-        "कम्पाइलिङ",
-        "स्क्यानिङ",
-        "फर्म्याटिङ"
-      ],
-      "option_a": "बुटिङ (Booting)",
-      "option_b": "कम्पाइलिङ",
-      "option_c": "स्क्यानिङ",
-      "option_d": "फर्म्याटिङ",
-      "answer_index": 0,
-      "explanation": "कम्प्युटर अन गर्दा OS का कोर फाइलहरू मेमोरीमा लोड भई प्रयोगका लागि तयार हुने प्रक्रिया बुटिङ हो।",
-      "is_pro": false
-    },
-    {
       "id": 198,
+      "qid": 3159449231,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4361,6 +3409,7 @@
     },
     {
       "id": 199,
+      "qid": 439183071,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4383,6 +3432,7 @@
     },
     {
       "id": 200,
+      "qid": 1438578847,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4404,29 +3454,8 @@
       "is_pro": false
     },
     {
-      "id": 201,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "नेपालमा इन्टरनेट सेवा कहिलेबाट सुरु भएको मानिन्छ?",
-      "options": [
-        "सन् १९९४",
-        "सन् १९९०",
-        "सन् २०००",
-        "सन् १९९८"
-      ],
-      "option_a": "सन् १९९४",
-      "option_b": "सन् १९९०",
-      "option_c": "सन् २०००",
-      "option_d": "सन् १९९८",
-      "answer_index": 0,
-      "explanation": "नेपालमा सन् १९९४ (वि.सं. २०५१) मा मर्केन्टाइल कम्युनिकेसनले पहिलोपटक व्यावसायिक इन्टरनेट सेवा सुरु गरेको हो।",
-      "is_pro": false
-    },
-    {
       "id": 202,
+      "qid": 4090822804,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4449,6 +3478,7 @@
     },
     {
       "id": 203,
+      "qid": 2036365101,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4471,6 +3501,7 @@
     },
     {
       "id": 204,
+      "qid": 421505487,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4492,29 +3523,8 @@
       "is_pro": false
     },
     {
-      "id": 205,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "कम्प्युटरको कुन भागलाई 'हार्ड डिस्क' (Hard Disk) भनिन्छ?",
-      "options": [
-        "स्टोरेज डिभाइस",
-        "इनपुट डिभाइस",
-        "आउटपुट डिभाइस",
-        "सिस्टम सफ्टवेयर"
-      ],
-      "option_a": "स्टोरेज डिभाइस",
-      "option_b": "इनपुट डिभाइस",
-      "option_c": "आउटपुट डिभाइस",
-      "option_d": "सिस्टम सफ्टवेयर",
-      "answer_index": 0,
-      "explanation": "कम्प्युटरमा स्थायी रूपमा डेटा भण्डारण गर्ने मुख्य उपकरण हार्ड डिस्क भएकाले यो स्टोरेज डिभाइस हो।",
-      "is_pro": false
-    },
-    {
       "id": 206,
+      "qid": 3950336391,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4537,6 +3547,7 @@
     },
     {
       "id": 207,
+      "qid": 915194908,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4559,6 +3570,7 @@
     },
     {
       "id": 208,
+      "qid": 1621920754,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4580,29 +3592,8 @@
       "is_pro": false
     },
     {
-      "id": 209,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "नेपाली टाइप गर्न प्रयोग गरिने प्रख्यात फन्ट कुन हो?",
-      "options": [
-        "प्रीति (Preeti)",
-        "एरियल (Arial)",
-        "टाइम्स न्यु रोमन",
-        "क्यालिब्री (Calibri)"
-      ],
-      "option_a": "प्रीति (Preeti)",
-      "option_b": "एरियल (Arial)",
-      "option_c": "टाइम्स न्यु रोमन",
-      "option_d": "क्यालिब्री (Calibri)",
-      "answer_index": 0,
-      "explanation": "कम्प्युटरमा परम्परागत रूपमा नेपाली अक्षर टाइप गर्न 'प्रीति' फन्टको व्यापक प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 210,
+      "qid": 2958190575,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4625,6 +3616,7 @@
     },
     {
       "id": 211,
+      "qid": 513670106,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4647,6 +3639,7 @@
     },
     {
       "id": 212,
+      "qid": 2767115211,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4668,29 +3661,8 @@
       "is_pro": false
     },
     {
-      "id": 213,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "जुम (Zoom) सफ्टवेयर मुख्यतया कुन कार्यको लागि प्रयोग गरिन्छ?",
-      "options": [
-        "भिडियो कन्फ्रेन्सिङ (अनलाइन मिटिङ)",
-        "गीत डाउनलोड गर्न",
-        "वेबसाइट बनाउन",
-        "डकुमेन्ट टाइप गर्न"
-      ],
-      "option_a": "भिडियो कन्फ्रेन्सिङ (अनलाइन मिटिङ)",
-      "option_b": "गीत डाउनलोड गर्न",
-      "option_c": "वेबसाइट बनाउन",
-      "option_d": "डकुमेन्ट टाइप गर्न",
-      "answer_index": 0,
-      "explanation": "इन्टरनेटको माध्यमबाट धेरै मानिसहरू एकैपटक भिडियो कुराकानी र मिटिङ गर्न जुम एपको प्रयोग गर्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 214,
+      "qid": 3524859810,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4713,6 +3685,7 @@
     },
     {
       "id": 215,
+      "qid": 1586627936,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4735,6 +3708,7 @@
     },
     {
       "id": 216,
+      "qid": 359002253,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4756,29 +3730,8 @@
       "is_pro": false
     },
     {
-      "id": 217,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "मोबाइल फोनमा प्रयोग हुने 'SIM' कार्डको पूरा रूप के हो?",
-      "options": [
-        "Subscriber Identity Module",
-        "System Information Mode",
-        "Secure Identity Module",
-        "Subscriber Internet Module"
-      ],
-      "option_a": "Subscriber Identity Module",
-      "option_b": "System Information Mode",
-      "option_c": "Secure Identity Module",
-      "option_d": "Subscriber Internet Module",
-      "answer_index": 0,
-      "explanation": "प्रयोगकर्ताको पहिचान सुनिश्चित गर्ने सानो चिपलाई Subscriber Identity Module (SIM) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 218,
+      "qid": 2779260147,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4801,6 +3754,7 @@
     },
     {
       "id": 219,
+      "qid": 1956487064,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4823,6 +3777,7 @@
     },
     {
       "id": 220,
+      "qid": 3492069195,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4844,29 +3799,8 @@
       "is_pro": false
     },
     {
-      "id": 221,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "साइबर क्याफे (Cyber Cafe) मा मुख्य रूपमा कुन सुविधा प्रदान गरिन्छ?",
-      "options": [
-        "इन्टरनेट र कम्प्युटर सेवा",
-        "खाना खाने सुविधा",
-        "लुगा धुने सुविधा",
-        "खेल खेल्ने मैदान"
-      ],
-      "option_a": "इन्टरनेट र कम्प्युटर सेवा",
-      "option_b": "खाना खाने सुविधा",
-      "option_c": "लुगा धुने सुविधा",
-      "option_d": "खेल खेल्ने मैदान",
-      "answer_index": 0,
-      "explanation": "पैसा तिरेर सर्वसाधारणले इन्टरनेट र कम्प्युटर प्रयोग गर्न पाउने व्यावसायिक ठाउँलाई साइबर क्याफे भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 222,
+      "qid": 3794485323,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4889,6 +3823,7 @@
     },
     {
       "id": 223,
+      "qid": 1090382460,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4911,6 +3846,7 @@
     },
     {
       "id": 224,
+      "qid": 2995517312,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4932,29 +3868,8 @@
       "is_pro": false
     },
     {
-      "id": 225,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "कम्प्युटर र अनलाइन खातामा 'पासवर्ड' (Password) किन प्रयोग गरिन्छ?",
-      "options": [
-        "सुरक्षा (Security) का लागि",
-        "टाइप गर्न सजिलो हुन",
-        "कम्प्युटर छिटो चल्न",
-        "फाइलको साइज घटाउन"
-      ],
-      "option_a": "सुरक्षा (Security) का लागि",
-      "option_b": "टाइप गर्न सजिलो हुन",
-      "option_c": "कम्प्युटर छिटो चल्न",
-      "option_d": "फाइलको साइज घटाउन",
-      "answer_index": 0,
-      "explanation": "आफ्नो खाता वा कम्प्युटरमा अनधिकृत व्यक्तिलाई प्रवेश गर्न नदिन सुरक्षाकवचको रूपमा पासवर्ड प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 226,
+      "qid": 4142736091,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4977,6 +3892,7 @@
     },
     {
       "id": 227,
+      "qid": 3214824591,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -4999,6 +3915,7 @@
     },
     {
       "id": 228,
+      "qid": 2695099358,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5020,29 +3937,8 @@
       "is_pro": false
     },
     {
-      "id": 229,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Easy",
-      "question": "विन्डोज कम्प्युटरमा घडी र मिति (Date and Time) सामान्यतया कहाँ देखिन्छ?",
-      "options": [
-        "टास्कबारको दायाँ कुनामा (System Tray)",
-        "डेस्कटपको बिचमा",
-        "माई कम्प्युटर भित्र",
-        "स्टार्ट मेनुको माथि"
-      ],
-      "option_a": "टास्कबारको दायाँ कुनामा (System Tray)",
-      "option_b": "डेस्कटपको बिचमा",
-      "option_c": "माई कम्प्युटर भित्र",
-      "option_d": "स्टार्ट मेनुको माथि",
-      "answer_index": 0,
-      "explanation": "विन्डोजको सबैभन्दा तल रहने टास्कबारको दायाँपट्टिको भाग (सिस्टम ट्रे) मा मिति र समय देखिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 230,
+      "qid": 2158309563,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5065,6 +3961,7 @@
     },
     {
       "id": 231,
+      "qid": 3712346478,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5087,6 +3984,7 @@
     },
     {
       "id": 232,
+      "qid": 1403094734,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5108,29 +4006,8 @@
       "is_pro": false
     },
     {
-      "id": 233,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "एप्पल (Apple) कम्पनीले बनाएको कम्प्युटर र ल्यापटपलाई सामान्यतया कुन नामले चिनिन्छ?",
-      "options": [
-        "म्याक (Mac / Macintosh)",
-        "विन्डोज पिसी",
-        "लिनक्स मेसिन",
-        "सुपर कम्प्युटर"
-      ],
-      "option_a": "म्याक (Mac / Macintosh)",
-      "option_b": "विन्डोज पिसी",
-      "option_c": "लिनक्स मेसिन",
-      "option_d": "सुपर कम्प्युटर",
-      "answer_index": 0,
-      "explanation": "एप्पल कम्पनीले उत्पादन गर्ने कम्प्युटर शृङ्खलालाई म्याकिन्टोस (Macintosh) वा छोटकरीमा 'Mac' भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 234,
+      "qid": 1374690649,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5153,6 +4030,7 @@
     },
     {
       "id": 235,
+      "qid": 3610541997,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5175,6 +4053,7 @@
     },
     {
       "id": 236,
+      "qid": 1547444783,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5196,29 +4075,8 @@
       "is_pro": false
     },
     {
-      "id": 237,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "प्रिन्ट गर्नुअघि कागजमा कस्तो देखिन्छ भनेर कम्प्युटरमै हेर्ने सुविधालाई के भनिन्छ?",
-      "options": [
-        "Print Preview (प्रिन्ट प्रिभ्यु)",
-        "Page Setup",
-        "Print Layout",
-        "Page Design"
-      ],
-      "option_a": "Print Preview (प्रिन्ट प्रिभ्यु)",
-      "option_b": "Page Setup",
-      "option_c": "Print Layout",
-      "option_d": "Page Design",
-      "answer_index": 0,
-      "explanation": "प्रिन्ट गर्दा पाना नमिल्ने समस्याबाट बच्न प्रिन्ट गर्नुअघि हेरिने नमुनालाई प्रिन्ट प्रिभ्यु भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 238,
+      "qid": 1989775880,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5241,6 +4099,7 @@
     },
     {
       "id": 239,
+      "qid": 4261538512,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5263,6 +4122,7 @@
     },
     {
       "id": 240,
+      "qid": 3163443236,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5284,29 +4144,8 @@
       "is_pro": false
     },
     {
-      "id": 241,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "ROM भित्र निर्माणकै बेला राखिएको र परिवर्तन गर्न नमिल्ने सफ्टवेयर/प्रोग्रामलाई के भनिन्छ?",
-      "options": [
-        "फर्मवेयर (Firmware)",
-        "मालवेयर",
-        "हार्डवेयर",
-        "सेयरवेयर"
-      ],
-      "option_a": "फर्मवेयर (Firmware)",
-      "option_b": "मालवेयर",
-      "option_c": "हार्डवेयर",
-      "option_d": "सेयरवेयर",
-      "answer_index": 0,
-      "explanation": "हार्डवेयरलाई कसरी चलाउने भनेर उत्पादकले नै ROM भित्र राखेर पठाएको प्रोग्रामलाई फर्मवेयर भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 242,
+      "qid": 1743453253,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5329,6 +4168,7 @@
     },
     {
       "id": 243,
+      "qid": 1214877899,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5351,6 +4191,7 @@
     },
     {
       "id": 244,
+      "qid": 371354236,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5372,29 +4213,8 @@
       "is_pro": false
     },
     {
-      "id": 245,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "QBASIC मा स्क्रिनको ब्याकग्राउन्ड र टेक्स्टको रङ (Color) फेर्न कुन स्टेटमेन्ट प्रयोग गरिन्छ?",
-      "options": [
-        "COLOR",
-        "PAINT",
-        "FILL",
-        "BACKGROUND"
-      ],
-      "option_a": "COLOR",
-      "option_b": "PAINT",
-      "option_c": "FILL",
-      "option_d": "BACKGROUND",
-      "answer_index": 0,
-      "explanation": "क्युबेसिकमा आउटपुट स्क्रिनको रङ परिवर्तन गर्न COLOR स्टेटमेन्ट (जस्तै COLOR 4, 1) लेखिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 246,
+      "qid": 2573798112,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5417,6 +4237,7 @@
     },
     {
       "id": 247,
+      "qid": 2776506873,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5439,6 +4260,7 @@
     },
     {
       "id": 248,
+      "qid": 1128174669,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5460,29 +4282,8 @@
       "is_pro": false
     },
     {
-      "id": 249,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "एमएस वर्डमा वाक्यको तल हरियो रङको धर्का (Green wavy line) ले के जनाउँछ?",
-      "options": [
-        "व्याकरण (Grammar) गल्ती",
-        "स्पेलिङ गल्ती",
-        "शब्द दोहोरिएको",
-        "सहि वाक्य"
-      ],
-      "option_a": "व्याकरण (Grammar) गल्ती",
-      "option_b": "स्पेलिङ गल्ती",
-      "option_c": "शब्द दोहोरिएको",
-      "option_d": "सहि वाक्य",
-      "answer_index": 0,
-      "explanation": "वर्डमा वाक्य संरचना वा व्याकरण (Grammar) नमिलेको अवस्थामा हरियो धर्का देखा पर्छ (नयाँ संस्करणमा निलो पनि हुन्छ)।",
-      "is_pro": false
-    },
-    {
       "id": 250,
+      "qid": 1787446955,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5505,6 +4306,7 @@
     },
     {
       "id": 251,
+      "qid": 2441123901,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5527,6 +4329,7 @@
     },
     {
       "id": 252,
+      "qid": 2205867659,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5548,29 +4351,8 @@
       "is_pro": false
     },
     {
-      "id": 253,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "कम्प्युटरको सबैभन्दा ठूलो र मुख्य सर्किट बोर्ड 'मदरबोर्ड' (Motherboard) लाई अर्को कुन नामले चिनिन्छ?",
-      "options": [
-        "मेनबोर्ड (Mainboard)",
-        "सिपियु बोर्ड",
-        "पावर बोर्ड",
-        "सिस्टम युनिट"
-      ],
-      "option_a": "मेनबोर्ड (Mainboard)",
-      "option_b": "सिपियु बोर्ड",
-      "option_c": "पावर बोर्ड",
-      "option_d": "सिस्टम युनिट",
-      "answer_index": 0,
-      "explanation": "कम्प्युटरका सम्पूर्ण भित्री पार्टपुर्जाहरू जोडिने मुख्य सर्किट बोर्डलाई मेनबोर्ड वा मदरबोर्ड भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 254,
+      "qid": 3629856053,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5593,6 +4375,7 @@
     },
     {
       "id": 255,
+      "qid": 2795217565,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5615,6 +4398,7 @@
     },
     {
       "id": 256,
+      "qid": 180171464,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5636,29 +4420,8 @@
       "is_pro": false
     },
     {
-      "id": 257,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "पेनड्राइभ जोड्ने 'USB' पोर्टमा USB को पूरा रूप के हो?",
-      "options": [
-        "Universal Serial Bus",
-        "Uniform Serial Bus",
-        "Universal System Bus",
-        "United Serial Bus"
-      ],
-      "option_a": "Universal Serial Bus",
-      "option_b": "Uniform Serial Bus",
-      "option_c": "Universal System Bus",
-      "option_d": "United Serial Bus",
-      "answer_index": 0,
-      "explanation": "विभिन्न बाह्य उपकरणहरू (माउस, किबोर्ड, पेनड्राइभ) जोड्ने साझा पोर्टलाई Universal Serial Bus (USB) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 258,
+      "qid": 66039733,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5681,6 +4444,7 @@
     },
     {
       "id": 259,
+      "qid": 1024414771,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5703,6 +4467,7 @@
     },
     {
       "id": 260,
+      "qid": 4178885170,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5724,29 +4489,8 @@
       "is_pro": false
     },
     {
-      "id": 261,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "कम्प्युटर नेटवर्कमा डेटा पठाइने भौतिक बाटो वा माध्यम (जस्तै तार) लाई के भनिन्छ?",
-      "options": [
-        "च्यानल वा मिडिया (Channel/Media)",
-        "प्रोटोकल",
-        "सर्भर",
-        "क्लाइन्ट"
-      ],
-      "option_a": "च्यानल वा मिडिया (Channel/Media)",
-      "option_b": "प्रोटोकल",
-      "option_c": "सर्भर",
-      "option_d": "क्लाइन्ट",
-      "answer_index": 0,
-      "explanation": "सञ्चार प्रणालीमा दुई डिभाइसबीच डेटा हिँड्ने बाटो (तार वा तारविहीन) लाई कम्युनिकेसन च्यानल भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 262,
+      "qid": 3281132738,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5769,6 +4513,7 @@
     },
     {
       "id": 263,
+      "qid": 3323194011,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5791,6 +4536,7 @@
     },
     {
       "id": 264,
+      "qid": 3411838633,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5812,29 +4558,8 @@
       "is_pro": false
     },
     {
-      "id": 265,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "इमेल पठाउँदा गोप्य रूपमा अरूलाई पनि पठाउन प्रयोग गरिने 'BCC' को पूरा रूप के हो?",
-      "options": [
-        "Blind Carbon Copy",
-        "Blank Carbon Copy",
-        "Basic Carbon Copy",
-        "Backup Carbon Copy"
-      ],
-      "option_a": "Blind Carbon Copy",
-      "option_b": "Blank Carbon Copy",
-      "option_c": "Basic Carbon Copy",
-      "option_d": "Backup Carbon Copy",
-      "answer_index": 0,
-      "explanation": "इमेल पाउने अरू व्यक्तिहरूलाई एकअर्काको इमेल ठेगाना नदेखियोस् भन्नका लागि Blind Carbon Copy (BCC) प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 266,
+      "qid": 4262522798,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5857,6 +4582,7 @@
     },
     {
       "id": 267,
+      "qid": 3179476089,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5879,6 +4605,7 @@
     },
     {
       "id": 268,
+      "qid": 2828487453,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5900,29 +4627,8 @@
       "is_pro": false
     },
     {
-      "id": 269,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Medium",
-      "question": "व्यापार वा व्यवसाय (Business) गर्ने नाफामूलक कम्पनीहरूले सामान्यतया कुन डोमेन प्रयोग गर्छन्?",
-      "options": [
-        ".com",
-        ".net",
-        ".mil",
-        ".gov"
-      ],
-      "option_a": ".com",
-      "option_b": ".net",
-      "option_c": ".mil",
-      "option_d": ".gov",
-      "answer_index": 0,
-      "explanation": "Commercial (व्यापारिक) उद्देश्यले खोलिएका वेबसाइटहरूले विश्वव्यापी रूपमा .com डोमेन प्रयोग गर्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 270,
+      "qid": 4161231639,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5945,6 +4651,7 @@
     },
     {
       "id": 271,
+      "qid": 3815597025,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5967,6 +4674,7 @@
     },
     {
       "id": 272,
+      "qid": 1663996995,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -5988,29 +4696,8 @@
       "is_pro": false
     },
     {
-      "id": 273,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "HTML मा सम्पूर्ण वेबपेजको पृष्ठभूमि (Background) को रङ पहेँलो (Yellow) बनाउन कुन ट्याग लेखिन्छ?",
-      "options": [
-        "<body bgcolor=\\yellow\\\">\"",
-        "<background color=\\yellow\\\">\"",
-        "<bg color=\\yellow\\\">\"",
-        "<body color=\\yellow\\\">\""
-      ],
-      "option_a": "<body bgcolor=\\yellow\\\">\"",
-      "option_b": "<background color=\\yellow\\\">\"",
-      "option_c": "<bg color=\\yellow\\\">\"",
-      "option_d": "<body color=\\yellow\\\">\"",
-      "answer_index": 0,
-      "explanation": "बडी ट्यागभित्र ब्याकग्राउन्ड कलर एट्रिब्युट प्रयोग गरेर <body bgcolor=\\yellow\\\"> लेख्दा पेज पहेँलो हुन्छ।\"",
-      "is_pro": false
-    },
-    {
       "id": 274,
+      "qid": 231698743,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6033,6 +4720,7 @@
     },
     {
       "id": 275,
+      "qid": 1609233545,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6055,6 +4743,7 @@
     },
     {
       "id": 276,
+      "qid": 2517709037,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6076,29 +4765,8 @@
       "is_pro": false
     },
     {
-      "id": 277,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "कम्प्युटर भाइरस 'ट्रोजन हर्स' (Trojan Horse) को मुख्य विशेषता के हो?",
-      "options": [
-        "उपयोगी सफ्टवेयर जस्तो देखिने तर भित्रभित्रै हानि गर्ने",
-        "आफूलाई धेरै कपी गरेर मेमोरी भर्ने",
-        "कम्प्युटरको स्क्रिन फुटाइदिने",
-        "फाइलहरू मात्र डिलिट गर्ने"
-      ],
-      "option_a": "उपयोगी सफ्टवेयर जस्तो देखिने तर भित्रभित्रै हानि गर्ने",
-      "option_b": "आफूलाई धेरै कपी गरेर मेमोरी भर्ने",
-      "option_c": "कम्प्युटरको स्क्रिन फुटाइदिने",
-      "option_d": "फाइलहरू मात्र डिलिट गर्ने",
-      "answer_index": 0,
-      "explanation": "ट्रोजन हर्सले आफूलाई सुरक्षित र काम लाग्ने प्रोग्राम (जस्तै गेम) को रूपमा प्रस्तुत गर्छ तर इन्स्टल गरेपछि सिस्टम ह्याक गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 278,
+      "qid": 1972570944,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6121,6 +4789,7 @@
     },
     {
       "id": 279,
+      "qid": 2326290805,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6143,6 +4812,7 @@
     },
     {
       "id": 280,
+      "qid": 2189340308,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6164,29 +4834,8 @@
       "is_pro": false
     },
     {
-      "id": 281,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "OSI मोडलको सबैभन्दा माथिल्लो (सातौँ) लेयर, जसले प्रयोगकर्तासँग प्रत्यक्ष अन्तरक्रिया गर्छ, त्यसलाई के भनिन्छ?",
-      "options": [
-        "एप्लिकेसन लेयर (Application Layer)",
-        "प्रेजेन्टेसन लेयर (Presentation Layer)",
-        "सेसन लेयर (Session Layer)",
-        "ट्रान्सपोर्ट लेयर (Transport Layer)"
-      ],
-      "option_a": "एप्लिकेसन लेयर (Application Layer)",
-      "option_b": "प्रेजेन्टेसन लेयर (Presentation Layer)",
-      "option_c": "सेसन लेयर (Session Layer)",
-      "option_d": "ट्रान्सपोर्ट लेयर (Transport Layer)",
-      "answer_index": 0,
-      "explanation": "वेब ब्राउजर, इमेल जस्ता सफ्टवेयरले काम गर्ने र प्रयोगकर्तासँग जोडिने लेयर (Layer 7) एप्लिकेसन लेयर हो।",
-      "is_pro": false
-    },
-    {
       "id": 282,
+      "qid": 700625683,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6209,6 +4858,7 @@
     },
     {
       "id": 283,
+      "qid": 131884653,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6231,6 +4881,7 @@
     },
     {
       "id": 284,
+      "qid": 3773778296,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6252,29 +4903,8 @@
       "is_pro": false
     },
     {
-      "id": 285,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "बाइनरी नम्बर १०१० (1010) र ०१०१ (0101) बीच बिटवाइज 'AND' अपरेसन गर्दा नतिजा कति हुन्छ?",
-      "options": [
-        "०००० (0000)",
-        "११११ (1111)",
-        "१०११ (1011)",
-        "०१०१ (0101)"
-      ],
-      "option_a": "०००० (0000)",
-      "option_b": "११११ (1111)",
-      "option_c": "१०११ (1011)",
-      "option_d": "०१०१ (0101)",
-      "answer_index": 0,
-      "explanation": "AND अपरेसनमा दुवै बिट १ भए मात्र १ हुन्छ। यहाँ (1 AND 0 = 0), (0 AND 1 = 0) हुँदा सबै 0000 हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 286,
+      "qid": 1576694313,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6297,6 +4927,7 @@
     },
     {
       "id": 287,
+      "qid": 3637259857,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6319,6 +4950,7 @@
     },
     {
       "id": 288,
+      "qid": 350613082,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6340,29 +4972,8 @@
       "is_pro": false
     },
     {
-      "id": 289,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "डेसिमल नम्बर २५५ (255) लाई हेक्जाडेसिमलमा बदल्दा कुन अक्षरहरू आउँछन्?",
-      "options": [
-        "FF",
-        "EE",
-        "A1",
-        "100"
-      ],
-      "option_a": "FF",
-      "option_b": "EE",
-      "option_c": "A1",
-      "option_d": "100",
-      "answer_index": 0,
-      "explanation": "२५५ लाई १६ ले भाग गर्दा भागफल १५ र शेष १५ आउँछ। हेक्जाडेसिमलमा १५ लाई F लेखिन्छ, तसर्थ FF हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 290,
+      "qid": 630305273,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6385,6 +4996,7 @@
     },
     {
       "id": 291,
+      "qid": 1434258100,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6407,6 +5019,7 @@
     },
     {
       "id": 292,
+      "qid": 2655121253,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6428,29 +5041,8 @@
       "is_pro": false
     },
     {
-      "id": 293,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "QBASIC मा एउटा सर्त जाँच्न र त्यो सही भए एउटा काम र गलत भए अर्को काम गर्न कुन स्टेटमेन्ट प्रयोग गरिन्छ?",
-      "options": [
-        "IF ... THEN ... ELSE",
-        "SELECT CASE",
-        "FOR ... NEXT",
-        "WHILE ... WEND"
-      ],
-      "option_a": "IF ... THEN ... ELSE",
-      "option_b": "SELECT CASE",
-      "option_c": "FOR ... NEXT",
-      "option_d": "WHILE ... WEND",
-      "answer_index": 0,
-      "explanation": "सर्त पुग्यो भने THEN पछिको काम गर्ने र पुगेन भने ELSE पछिको काम गराउन यो स्टेटमेन्ट प्रयोग गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 294,
+      "qid": 3498069365,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6473,6 +5065,7 @@
     },
     {
       "id": 295,
+      "qid": 1899518026,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6495,6 +5088,7 @@
     },
     {
       "id": 296,
+      "qid": 2567124462,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6516,29 +5110,8 @@
       "is_pro": false
     },
     {
-      "id": 297,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "111",
-      "sub_cat_name": "Computer Studies",
-      "level": "Hard",
-      "question": "इन्टरनेटमा सुरक्षित वेबसाइटको ठेगानामा हुने 'HTTPS' मा 'S' ले के जनाउँछ?",
-      "options": [
-        "Secure (सुरक्षित)",
-        "System (सिस्टम)",
-        "Server (सर्भर)",
-        "Site (साइट)"
-      ],
-      "option_a": "Secure (सुरक्षित)",
-      "option_b": "System (सिस्टम)",
-      "option_c": "Server (सर्भर)",
-      "option_d": "Site (साइट)",
-      "answer_index": 0,
-      "explanation": "वेबसाइट र ब्राउजरबीचको डेटा ट्रान्सफर इन्क्रिप्टेड र सुरक्षित छ भन्नका लागि HTTP को पछाडि Secure (S) थपिएको हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 298,
+      "qid": 3412754884,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6561,6 +5134,7 @@
     },
     {
       "id": 299,
+      "qid": 1623827636,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
@@ -6583,6 +5157,7 @@
     },
     {
       "id": 300,
+      "qid": 2267506442,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "111",
