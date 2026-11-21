@@ -1,32 +1,11 @@
 {
   "sub_cat_id": "102",
-  "data_version": 1794491195766,
-  "total_questions": 97,
+  "data_version": 1795279225068,
+  "total_questions": 73,
   "questions": [
     {
-      "id": 1,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Easy",
-      "question": "दुई वा दुईभन्दा बढी शब्द वा वाक्यलाई जोड्ने शब्दलाई के भनिन्छ?",
-      "options": [
-        "संयोजक",
-        "निपात",
-        "नामयोगी",
-        "विस्मयादिबोधक"
-      ],
-      "option_a": "संयोजक",
-      "option_b": "निपात",
-      "option_c": "नामयोगी",
-      "option_d": "विस्मयादिबोधक",
-      "answer_index": 0,
-      "explanation": "र, तर, किनभने' जस्ता जोड्ने शब्दलाई संयोजक भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 2,
+      "qid": 3578706176,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -49,6 +28,7 @@
     },
     {
       "id": 3,
+      "qid": 15300392,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 1362491915,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -92,29 +73,8 @@
       "is_pro": false
     },
     {
-      "id": 5,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Easy",
-      "question": "वन' को पर्यायवाची शब्द कुन हो?",
-      "options": [
-        "जंगल",
-        "पहाड",
-        "तराई",
-        "हिमाल"
-      ],
-      "option_a": "जंगल",
-      "option_b": "पहाड",
-      "option_c": "तराई",
-      "option_d": "हिमाल",
-      "answer_index": 0,
-      "explanation": "वन र जंगल एउटै अर्थ बुझाउने शब्द हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 6,
+      "qid": 2289087198,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -137,6 +97,7 @@
     },
     {
       "id": 7,
+      "qid": 2966075012,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -159,6 +120,7 @@
     },
     {
       "id": 8,
+      "qid": 416902575,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -180,29 +142,8 @@
       "is_pro": false
     },
     {
-      "id": 9,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Medium",
-      "question": "तिमी त बाठो छौ नि।' यस वाक्यमा निपात कुन हो?",
-      "options": [
-        "त र नि",
-        "तिमी",
-        "बाठो",
-        "छौ"
-      ],
-      "option_a": "त र नि",
-      "option_b": "तिमी",
-      "option_c": "बाठो",
-      "option_d": "छौ",
-      "answer_index": 0,
-      "explanation": "त' र 'नि' ले वाक्यमा मिठास मात्र थपेका छन्, यिनको आफ्नै स्वतन्त्र अर्थ छैन।",
-      "is_pro": false
-    },
-    {
       "id": 10,
+      "qid": 2943369473,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -225,6 +166,7 @@
     },
     {
       "id": 11,
+      "qid": 3797224343,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -246,29 +188,8 @@
       "is_pro": false
     },
     {
-      "id": 12,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Easy",
-      "question": "उज्यालो' को विपरीतार्थी शब्द कुन हो?",
-      "options": [
-        "अँध्यारो",
-        "घाम",
-        "दिन",
-        "चन्द्रमा"
-      ],
-      "option_a": "अँध्यारो",
-      "option_b": "घाम",
-      "option_c": "दिन",
-      "option_d": "चन्द्रमा",
-      "answer_index": 0,
-      "explanation": "उज्यालो' (Light) को उल्टो अर्थ 'अँध्यारो' (Dark) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 13,
+      "qid": 433261326,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -291,6 +212,7 @@
     },
     {
       "id": 14,
+      "qid": 1555858955,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -313,6 +235,7 @@
     },
     {
       "id": 15,
+      "qid": 3128575115,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -334,29 +257,8 @@
       "is_pro": false
     },
     {
-      "id": 16,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Medium",
-      "question": "म भात खान्छु।' यस वाक्यमा कर्ता कुन हो?",
-      "options": [
-        "म",
-        "भात",
-        "खान्छु",
-        "वाक्य"
-      ],
-      "option_a": "म",
-      "option_b": "भात",
-      "option_c": "खान्छु",
-      "option_d": "वाक्य",
-      "answer_index": 0,
-      "explanation": "काम गर्ने व्यक्तिलाई कर्ता भनिन्छ, यहाँ 'म' ले खाने काम गरेको छ।",
-      "is_pro": false
-    },
-    {
       "id": 17,
+      "qid": 1106136500,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -379,6 +281,7 @@
     },
     {
       "id": 18,
+      "qid": 3166554990,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -401,6 +304,7 @@
     },
     {
       "id": 19,
+      "qid": 1347113894,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -422,29 +326,8 @@
       "is_pro": false
     },
     {
-      "id": 20,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Hard",
-      "question": "आकाशको फल.......' उखान पूरा गर्नुहोस्।",
-      "options": [
-        "आँखा तरी मर",
-        "हातमा पर",
-        "भुइँमा झर",
-        "मुखमा पर"
-      ],
-      "option_a": "आँखा तरी मर",
-      "option_b": "हातमा पर",
-      "option_c": "भुइँमा झर",
-      "option_d": "मुखमा पर",
-      "answer_index": 0,
-      "explanation": "प्राप्त गर्न असम्भव कुराको आश गर्नु बेकार छ भन्ने अर्थमा यो उखान प्रयोग हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 21,
+      "qid": 829325405,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -467,6 +350,7 @@
     },
     {
       "id": 22,
+      "qid": 2841451831,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -489,6 +373,7 @@
     },
     {
       "id": 23,
+      "qid": 1160466146,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -510,29 +395,8 @@
       "is_pro": false
     },
     {
-      "id": 24,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Medium",
-      "question": "आकाश' को विपरीतार्थी शब्द कुन हो?",
-      "options": [
-        "पाताल",
-        "गगन",
-        "बादल",
-        "तारा"
-      ],
-      "option_a": "पाताल",
-      "option_b": "गगन",
-      "option_c": "बादल",
-      "option_d": "तारा",
-      "answer_index": 0,
-      "explanation": "आकाश (माथि) को ठीक उल्टो अर्थ पाताल (तल) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 25,
+      "qid": 3738536983,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -555,6 +419,7 @@
     },
     {
       "id": 26,
+      "qid": 3076180931,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -577,6 +442,7 @@
     },
     {
       "id": 27,
+      "qid": 211692195,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -598,29 +464,8 @@
       "is_pro": false
     },
     {
-      "id": 28,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Medium",
-      "question": "म घर जान्छु।' यस वाक्यमा सर्वनाम कुन हो?",
-      "options": [
-        "म",
-        "घर",
-        "जान्छु",
-        "माथिका कुनै पनि होइनन्"
-      ],
-      "option_a": "म",
-      "option_b": "घर",
-      "option_c": "जान्छु",
-      "option_d": "माथिका कुनै पनि होइनन्",
-      "answer_index": 0,
-      "explanation": "म' शब्दले बोल्ने व्यक्तिको नामको सट्टामा काम गरेकोले यो सर्वनाम हो।",
-      "is_pro": false
-    },
-    {
       "id": 29,
+      "qid": 3569605502,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -643,6 +488,7 @@
     },
     {
       "id": 30,
+      "qid": 2043397436,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -665,6 +511,7 @@
     },
     {
       "id": 31,
+      "qid": 2160689241,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -686,29 +533,8 @@
       "is_pro": false
     },
     {
-      "id": 32,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Medium",
-      "question": "कालो अक्षर.......' उखान पूरा गर्नुहोस्।",
-      "options": [
-        "भैँसी बराबर",
-        "गाई बराबर",
-        "गोरु बराबर",
-        "बाख्रा बराबर"
-      ],
-      "option_a": "भैँसी बराबर",
-      "option_b": "गाई बराबर",
-      "option_c": "गोरु बराबर",
-      "option_d": "बाख्रा बराबर",
-      "answer_index": 0,
-      "explanation": "निरक्षर वा पढ्न नजान्ने व्यक्तिलाई व्यङ्ग्य गर्न 'कालो अक्षर भैँसी बराबर' भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 33,
+      "qid": 3742052880,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -731,6 +557,7 @@
     },
     {
       "id": 34,
+      "qid": 293699634,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -753,6 +580,7 @@
     },
     {
       "id": 35,
+      "qid": 643653888,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -774,29 +602,8 @@
       "is_pro": false
     },
     {
-      "id": 36,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Hard",
-      "question": "आफ्नो अर्थ नहुने तर वाक्यमा मिठास थप्ने शब्दलाई के भनिन्छ?",
-      "options": [
-        "निपात",
-        "संयोजक",
-        "नामयोगी",
-        "विशेषण"
-      ],
-      "option_a": "निपात",
-      "option_b": "संयोजक",
-      "option_c": "नामयोगी",
-      "option_d": "विशेषण",
-      "answer_index": 0,
-      "explanation": "त, नि, पो, रे' जस्ता वाक्यलाई रसिलो बनाउने शब्द निपात हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 37,
+      "qid": 3344744028,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -819,6 +626,7 @@
     },
     {
       "id": 38,
+      "qid": 3234030261,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -841,6 +649,7 @@
     },
     {
       "id": 39,
+      "qid": 3133807142,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -862,29 +671,8 @@
       "is_pro": false
     },
     {
-      "id": 40,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Easy",
-      "question": "हाँसो' को विपरीतार्थी शब्द कुन हो?",
-      "options": [
-        "रुवाइ",
-        "खुसी",
-        "रमाइलो",
-        "सुख"
-      ],
-      "option_a": "रुवाइ",
-      "option_b": "खुसी",
-      "option_c": "रमाइलो",
-      "option_d": "सुख",
-      "answer_index": 0,
-      "explanation": "हाँसो (Laughter) को उल्टो अर्थ रुवाइ (Crying) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 41,
+      "qid": 3275398940,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -907,6 +695,7 @@
     },
     {
       "id": 42,
+      "qid": 1152594155,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -929,6 +718,7 @@
     },
     {
       "id": 43,
+      "qid": 3469985659,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -950,29 +740,8 @@
       "is_pro": false
     },
     {
-      "id": 44,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Medium",
-      "question": "सकारात्मक अर्थ दिने वाक्यलाई के भनिन्छ?",
-      "options": [
-        "करण वाक्य",
-        "अकरण वाक्य",
-        "प्रश्नवाचक वाक्य",
-        "विस्मयादिबोधक वाक्य"
-      ],
-      "option_a": "करण वाक्य",
-      "option_b": "अकरण वाक्य",
-      "option_c": "प्रश्नवाचक वाक्य",
-      "option_d": "विस्मयादिबोधक वाक्य",
-      "answer_index": 0,
-      "explanation": "हो, छ, गर्छ जस्ता सकारात्मक अर्थ दिने वाक्य करण (Positive) वाक्य हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 45,
+      "qid": 3639772689,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -995,6 +764,7 @@
     },
     {
       "id": 46,
+      "qid": 113628,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1017,6 +787,7 @@
     },
     {
       "id": 47,
+      "qid": 2829136645,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1038,29 +809,8 @@
       "is_pro": false
     },
     {
-      "id": 48,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Hard",
-      "question": "पृथ्वी' को पर्यायवाची शब्द कुन होइन?",
-      "options": [
-        "गगन",
-        "धर्ती",
-        "वसुन्धरा",
-        "जमिन"
-      ],
-      "option_a": "गगन",
-      "option_b": "धर्ती",
-      "option_c": "वसुन्धरा",
-      "option_d": "जमिन",
-      "answer_index": 0,
-      "explanation": "गगन' भनेको आकाश हो, त्यसैले यो पृथ्वीको पर्यायवाची होइन।",
-      "is_pro": false
-    },
-    {
       "id": 49,
+      "qid": 588550306,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1083,6 +833,7 @@
     },
     {
       "id": 50,
+      "qid": 3138354323,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1105,6 +856,7 @@
     },
     {
       "id": 51,
+      "qid": 1090132296,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1126,29 +878,8 @@
       "is_pro": false
     },
     {
-      "id": 52,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Medium",
-      "question": "शिक्षक' को स्त्रीलिङ्गी रूप कुन हो?",
-      "options": [
-        "शिक्षिका",
-        "शिक्षकनी",
-        "शिक्षण",
-        "शिक्षकहरू"
-      ],
-      "option_a": "शिक्षिका",
-      "option_b": "शिक्षकनी",
-      "option_c": "शिक्षण",
-      "option_d": "शिक्षकहरू",
-      "answer_index": 0,
-      "explanation": "शिक्षक' पुल्लिङ्गी शब्द हो र यसको स्त्रीलिङ्गी रूप 'शिक्षिका' हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 53,
+      "qid": 1577040442,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1171,6 +902,7 @@
     },
     {
       "id": 54,
+      "qid": 2738221724,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1193,6 +925,7 @@
     },
     {
       "id": 55,
+      "qid": 655156610,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1215,6 +948,7 @@
     },
     {
       "id": 56,
+      "qid": 1143868717,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1237,6 +971,7 @@
     },
     {
       "id": 57,
+      "qid": 4039309493,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1259,6 +994,7 @@
     },
     {
       "id": 58,
+      "qid": 148788087,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1280,29 +1016,8 @@
       "is_pro": false
     },
     {
-      "id": 59,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Easy",
-      "question": "काम बुझाउने शब्दलाई के भनिन्छ?",
-      "options": [
-        "क्रियापद",
-        "नाम",
-        "विशेषण",
-        "सर्वनाम"
-      ],
-      "option_a": "क्रियापद",
-      "option_b": "नाम",
-      "option_c": "विशेषण",
-      "option_d": "सर्वनाम",
-      "answer_index": 0,
-      "explanation": "कुनै काम भएको वा गरेको बुझाउने शब्दलाई क्रियापद भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 60,
+      "qid": 4120117735,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1325,6 +1040,7 @@
     },
     {
       "id": 61,
+      "qid": 3659398683,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1347,6 +1063,7 @@
     },
     {
       "id": 62,
+      "qid": 3940539017,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1368,29 +1085,8 @@
       "is_pro": false
     },
     {
-      "id": 63,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Hard",
-      "question": "धातुमा के जोडेर क्रियापद बन्छ?",
-      "options": [
-        "प्रत्यय",
-        "उपसर्ग",
-        "नाम",
-        "विशेषण"
-      ],
-      "option_a": "प्रत्यय",
-      "option_b": "उपसर्ग",
-      "option_c": "नाम",
-      "option_d": "विशेषण",
-      "answer_index": 0,
-      "explanation": "क्रियाको मूल रूप धातु हो र यसमा प्रत्यय जोडेर क्रियापद बन्छ (जस्तै: खा + न्छ = खान्छ)।",
-      "is_pro": false
-    },
-    {
       "id": 64,
+      "qid": 4272879781,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1413,6 +1109,7 @@
     },
     {
       "id": 65,
+      "qid": 4117559532,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1435,6 +1132,7 @@
     },
     {
       "id": 66,
+      "qid": 474260157,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1456,29 +1154,8 @@
       "is_pro": false
     },
     {
-      "id": 67,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Easy",
-      "question": "उल्टो अर्थ दिने शब्दलाई के भनिन्छ?",
-      "options": [
-        "विपरीतार्थी शब्द",
-        "पर्यायवाची शब्द",
-        "अनेकार्थी शब्द",
-        "समानार्थी शब्द"
-      ],
-      "option_a": "विपरीतार्थी शब्द",
-      "option_b": "पर्यायवाची शब्द",
-      "option_c": "अनेकार्थी शब्द",
-      "option_d": "समानार्थी शब्द",
-      "answer_index": 0,
-      "explanation": "ठीक उल्टो अर्थ बुझाउने शब्दहरूलाई विपरीतार्थी शब्द भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 68,
+      "qid": 3239506192,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1501,6 +1178,7 @@
     },
     {
       "id": 69,
+      "qid": 4065954970,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1523,6 +1201,7 @@
     },
     {
       "id": 70,
+      "qid": 1626113121,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1544,29 +1223,8 @@
       "is_pro": false
     },
     {
-      "id": 71,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Hard",
-      "question": "पुरुषवाचक सर्वनाम कति प्रकारका हुन्छन्?",
-      "options": [
-        "३",
-        "२",
-        "४",
-        "५"
-      ],
-      "option_a": "३",
-      "option_b": "२",
-      "option_c": "४",
-      "option_d": "५",
-      "answer_index": 0,
-      "explanation": "पुरुषवाचक सर्वनाम ३ प्रकारका हुन्छन्: प्रथम पुरुष (म, हामी), द्वितीय पुरुष (तँ, तिमी, तपाईँ), र तृतीय पुरुष (ऊ, उनी, उहाँ)।",
-      "is_pro": false
-    },
-    {
       "id": 72,
+      "qid": 3212104469,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1589,6 +1247,7 @@
     },
     {
       "id": 73,
+      "qid": 2424557279,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1611,6 +1270,7 @@
     },
     {
       "id": 74,
+      "qid": 4031023274,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1632,29 +1292,8 @@
       "is_pro": false
     },
     {
-      "id": 75,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Medium",
-      "question": "आदरार्थी सर्वनाम कुन हो?",
-      "options": [
-        "तपाईँ",
-        "तँ",
-        "तिमी",
-        "म"
-      ],
-      "option_a": "तपाईँ",
-      "option_b": "तँ",
-      "option_c": "तिमी",
-      "option_d": "म",
-      "answer_index": 0,
-      "explanation": "सम्मान वा आदर प्रकट गर्न प्रयोग गरिने सर्वनाम आदरार्थी सर्वनाम हो, जस्तै: तपाईँ।",
-      "is_pro": false
-    },
-    {
       "id": 76,
+      "qid": 79465557,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1677,6 +1316,7 @@
     },
     {
       "id": 77,
+      "qid": 1196949324,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1699,6 +1339,7 @@
     },
     {
       "id": 78,
+      "qid": 2016367679,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1720,29 +1361,8 @@
       "is_pro": false
     },
     {
-      "id": 79,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Hard",
-      "question": "अमृत' को विपरीतार्थी शब्द कुन हो?",
-      "options": [
-        "विष",
-        "पानी",
-        "जल",
-        "रस"
-      ],
-      "option_a": "विष",
-      "option_b": "पानी",
-      "option_c": "जल",
-      "option_d": "रस",
-      "answer_index": 0,
-      "explanation": "अमृत (Nectar) को उल्टो अर्थ विष (Poison) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 80,
+      "qid": 3539544833,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1765,6 +1385,7 @@
     },
     {
       "id": 81,
+      "qid": 1358296123,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1787,6 +1408,7 @@
     },
     {
       "id": 82,
+      "qid": 1289445343,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1808,29 +1430,8 @@
       "is_pro": false
     },
     {
-      "id": 83,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Medium",
-      "question": "आँखाको नानी' हुनुको अर्थ के हो?",
-      "options": [
-        "धेरै प्यारो हुनु",
-        "अन्धो हुनु",
-        "आँखा दुख्नु",
-        "रिस उठ्नु"
-      ],
-      "option_a": "धेरै प्यारो हुनु",
-      "option_b": "अन्धो हुनु",
-      "option_c": "आँखा दुख्नु",
-      "option_d": "रिस उठ्नु",
-      "answer_index": 0,
-      "explanation": "कसैको अति प्यारो वा नजिकको मान्छे हुनुलाई 'आँखाको नानी' भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 84,
+      "qid": 1900011357,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1853,6 +1454,7 @@
     },
     {
       "id": 85,
+      "qid": 331968998,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1875,6 +1477,7 @@
     },
     {
       "id": 86,
+      "qid": 4101087896,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1896,29 +1499,8 @@
       "is_pro": false
     },
     {
-      "id": 87,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Hard",
-      "question": "जता मल्खु उता.......' उखान पूरा गर्नुहोस्।",
-      "options": [
-        "ढल्कु",
-        "मल्खु",
-        "सल्कु",
-        "टल्कु"
-      ],
-      "option_a": "ढल्कु",
-      "option_b": "मल्खु",
-      "option_c": "सल्कु",
-      "option_d": "टल्कु",
-      "answer_index": 0,
-      "explanation": "यो उखानको अर्थ जता फाइदा हुन्छ त्यतै लाग्ने भन्ने हो (जता मल्खु उता ढल्कु)।",
-      "is_pro": false
-    },
-    {
       "id": 88,
+      "qid": 676987235,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1941,6 +1523,7 @@
     },
     {
       "id": 89,
+      "qid": 3612897175,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1963,6 +1546,7 @@
     },
     {
       "id": 90,
+      "qid": 4222349344,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -1984,29 +1568,8 @@
       "is_pro": false
     },
     {
-      "id": 91,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Easy",
-      "question": "एक वा एकभन्दा बढी संख्या बुझाउने व्याकरणिक कोटिलाई के भनिन्छ?",
-      "options": [
-        "वचन",
-        "लिङ्ग",
-        "काल",
-        "पुरुष"
-      ],
-      "option_a": "वचन",
-      "option_b": "लिङ्ग",
-      "option_c": "काल",
-      "option_d": "पुरुष",
-      "answer_index": 0,
-      "explanation": "नाम वा सर्वनामको संख्या बुझाउने रूपलाई वचन भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 92,
+      "qid": 3194644050,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -2029,6 +1592,7 @@
     },
     {
       "id": 93,
+      "qid": 3890876781,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -2051,6 +1615,7 @@
     },
     {
       "id": 94,
+      "qid": 3212104469,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -2072,29 +1637,8 @@
       "is_pro": false
     },
     {
-      "id": 95,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "102",
-      "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-      "level": "Medium",
-      "question": "तलका मध्ये 'नाम' शब्द कुन हो?",
-      "options": [
-        "हिमाल",
-        "राम्रो",
-        "खायो",
-        "उनी"
-      ],
-      "option_a": "हिमाल",
-      "option_b": "राम्रो",
-      "option_c": "खायो",
-      "option_d": "उनी",
-      "answer_index": 0,
-      "explanation": "हिमाल' एउटा ठाउँ वा वस्तुको नाम भएकोले यो नाम हो।",
-      "is_pro": false
-    },
-    {
       "id": 96,
+      "qid": 106149981,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
@@ -2117,6 +1661,7 @@
     },
     {
       "id": 97,
+      "qid": 1422279711,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "102",
