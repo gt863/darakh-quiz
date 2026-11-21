@@ -1,10 +1,11 @@
 {
   "sub_cat_id": "122",
-  "data_version": 1794491195766,
-  "total_questions": 100,
+  "data_version": 1795279225068,
+  "total_questions": 75,
   "questions": [
     {
       "id": 1,
+      "qid": 2891423710,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -26,29 +27,8 @@
       "is_pro": false
     },
     {
-      "id": 2,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 11",
-      "question": "दोहोरो लेखा प्रणालीको जनक कसलाई मानिन्छ?",
-      "options": [
-        "लुका पासिओली",
-        "जे.आर. बाटलीबोई",
-        "एडम स्मिथ",
-        "हेनरी फे"
-      ],
-      "option_a": "लुका पासिओली",
-      "option_b": "जे.आर. बाटलीबोई",
-      "option_c": "एडम स्मिथ",
-      "option_d": "हेनरी फे",
-      "answer_index": 0,
-      "explanation": "सन् १४९४ मा इटालियन गणितज्ञ लुका पासिओलीले दोहोरो लेखा प्रणालीको सिद्धान्त प्रस्तुत गरेका थिए।",
-      "is_pro": false
-    },
-    {
       "id": 3,
+      "qid": 2279570896,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 1916364947,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -93,6 +74,7 @@
     },
     {
       "id": 5,
+      "qid": 2178898635,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -115,6 +97,7 @@
     },
     {
       "id": 6,
+      "qid": 1991839757,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -136,29 +119,8 @@
       "is_pro": false
     },
     {
-      "id": 7,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 11",
-      "question": "व्यवसायले तेस्रो पक्षलाई गर्नुपर्ने भुक्तानीलाई के भनिन्छ?",
-      "options": [
-        "दायित्व",
-        "सम्पत्ति",
-        "पूँजी",
-        "आय"
-      ],
-      "option_a": "दायित्व",
-      "option_b": "सम्पत्ति",
-      "option_c": "पूँजी",
-      "option_d": "आय",
-      "answer_index": 0,
-      "explanation": "तेस्रो पक्षलाई गर्नुपर्ने भुक्तानी दायित्व (Liability) हो, जुन ब्यालेन्स सिटको दायित्व पक्षमा देखाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 8,
+      "qid": 1281670430,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -180,29 +142,8 @@
       "is_pro": false
     },
     {
-      "id": 9,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 11",
-      "question": "व्यवसायमा हुने प्रत्येक कारोबारलाई क्रमबद्ध रूपमा अभिलेख गर्ने बहीलाई के भनिन्छ?",
-      "options": [
-        "जर्नल",
-        "खाता बही",
-        "ट्रायल ब्यालेन्स",
-        "ब्यालेन्स सिट"
-      ],
-      "option_a": "जर्नल",
-      "option_b": "खाता बही",
-      "option_c": "ट्रायल ब्यालेन्स",
-      "option_d": "ब्यालेन्स सिट",
-      "answer_index": 0,
-      "explanation": "जर्नल (Journal) मा कारोबारहरूलाई मितिको क्रमअनुसार डेबिट-क्रेडिट सहित अभिलेख गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 10,
+      "qid": 3058426046,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -225,6 +166,7 @@
     },
     {
       "id": 11,
+      "qid": 2134865069,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -247,6 +189,7 @@
     },
     {
       "id": 12,
+      "qid": 677062533,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -269,6 +212,7 @@
     },
     {
       "id": 13,
+      "qid": 2382564110,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -291,6 +235,7 @@
     },
     {
       "id": 14,
+      "qid": 4046776291,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -313,6 +258,7 @@
     },
     {
       "id": 15,
+      "qid": 2940895044,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -334,29 +280,8 @@
       "is_pro": false
     },
     {
-      "id": 16,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 11",
-      "question": "सकल नाफा = ?",
-      "options": [
-        "विक्री - बिक्रीको लागत",
-        "विक्री + बिक्रीको लागत",
-        "खुद नाफा + खर्च",
-        "कुल आय - कुल खर्च"
-      ],
-      "option_a": "विक्री - बिक्रीको लागत",
-      "option_b": "विक्री + बिक्रीको लागत",
-      "option_c": "खुद नाफा + खर्च",
-      "option_d": "कुल आय - कुल खर्च",
-      "answer_index": 0,
-      "explanation": "सकल नाफा = शुद्ध विक्री - बिक्रीको लागत (Cost of Goods Sold) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 17,
+      "qid": 3723843391,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -379,6 +304,7 @@
     },
     {
       "id": 18,
+      "qid": 3276620609,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -400,29 +326,8 @@
       "is_pro": false
     },
     {
-      "id": 19,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 11",
-      "question": "सिधा रेखा विधिअनुसार मूल्य ह्रासको सूत्र कुन हो?",
-      "options": [
-        "(लागत - अवशिष्ट मूल्य)/उपयोगी जीवन",
-        "(लागत + अवशिष्ट मूल्य)/उपयोगी जीवन",
-        "लागत/उपयोगी जीवन",
-        "(लागत - अवशिष्ट मूल्य)×उपयोगी जीवन"
-      ],
-      "option_a": "(लागत - अवशिष्ट मूल्य)/उपयोगी जीवन",
-      "option_b": "(लागत + अवशिष्ट मूल्य)/उपयोगी जीवन",
-      "option_c": "लागत/उपयोगी जीवन",
-      "option_d": "(लागत - अवशिष्ट मूल्य)×उपयोगी जीवन",
-      "answer_index": 0,
-      "explanation": "सिधा रेखा विधिमा प्रत्येक वर्ष बराबर मूल्य ह्रास = (लागत - अवशिष्ट मूल्य)/उपयोगी जीवन हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 20,
+      "qid": 2948740610,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -445,6 +350,7 @@
     },
     {
       "id": 21,
+      "qid": 1164442580,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -466,29 +372,8 @@
       "is_pro": false
     },
     {
-      "id": 22,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 11",
-      "question": "बैंक मिलान विवरण सामान्यतः कसले तयार गर्छ?",
-      "options": [
-        "व्यवसायीले",
-        "बैंकले",
-        "लेखापरीक्षकले",
-        "कर कार्यालयले"
-      ],
-      "option_a": "व्यवसायीले",
-      "option_b": "बैंकले",
-      "option_c": "लेखापरीक्षकले",
-      "option_d": "कर कार्यालयले",
-      "answer_index": 0,
-      "explanation": "बैंक मिलान विवरण व्यवसायी (ग्राहक) ले आफ्नो रोकड बही र बैंक मसुदा मिलान गर्न तयार गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 23,
+      "qid": 860850683,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -511,6 +396,7 @@
     },
     {
       "id": 24,
+      "qid": 418463450,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -532,29 +418,8 @@
       "is_pro": false
     },
     {
-      "id": 25,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 11",
-      "question": "बिल अफ एक्सचेन्जका महत्वपूर्ण पक्ष कुन हुन्?",
-      "options": [
-        "तान्ने, स्वीकार गर्ने र भुक्तानी पाउने पक्ष",
-        "केवल तान्ने पक्ष",
-        "केवल बैंक",
-        "केवल सरकार"
-      ],
-      "option_a": "तान्ने, स्वीकार गर्ने र भुक्तानी पाउने पक्ष",
-      "option_b": "केवल तान्ने पक्ष",
-      "option_c": "केवल बैंक",
-      "option_d": "केवल सरकार",
-      "answer_index": 0,
-      "explanation": "बिल अफ एक्सचेन्जमा Drawer (तान्ने), Drawee (स्वीकार गर्ने) र Payee (भुक्तानी पाउने) गरी तीन पक्ष हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 26,
+      "qid": 573979197,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -577,6 +442,7 @@
     },
     {
       "id": 27,
+      "qid": 3004173280,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -599,6 +465,7 @@
     },
     {
       "id": 28,
+      "qid": 195469678,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -621,6 +488,7 @@
     },
     {
       "id": 29,
+      "qid": 2382389321,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -643,6 +511,7 @@
     },
     {
       "id": 30,
+      "qid": 985976923,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -664,29 +533,8 @@
       "is_pro": false
     },
     {
-      "id": 31,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 12",
-      "question": "शेयरधनीले कम्पनीबाट पाउने लाभांशलाई के भनिन्छ?",
-      "options": [
-        "लाभांश (Dividend)",
-        "ब्याज",
-        "कमिसन",
-        "छुट"
-      ],
-      "option_a": "लाभांश (Dividend)",
-      "option_b": "ब्याज",
-      "option_c": "कमिसन",
-      "option_d": "छुट",
-      "answer_index": 0,
-      "explanation": "कम्पनीले शेयरधनीहरूलाई नाफाबाट वितरण गर्ने रकमलाई लाभांश (Dividend) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 32,
+      "qid": 3099874526,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -709,6 +557,7 @@
     },
     {
       "id": 33,
+      "qid": 627860848,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -731,6 +580,7 @@
     },
     {
       "id": 34,
+      "qid": 4219532578,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -753,6 +603,7 @@
     },
     {
       "id": 35,
+      "qid": 3998278828,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -774,29 +625,8 @@
       "is_pro": false
     },
     {
-      "id": 36,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 12",
-      "question": "शेयर प्रिमियम भन्नाले के बुझिन्छ?",
-      "options": [
-        "अंकित मूल्यभन्दा बढी मूल्यमा शेयर जारी गर्दा प्राप्त रकम",
-        "अंकित मूल्यभन्दा कम मूल्यमा जारी गर्दा प्राप्त रकम",
-        "शेयरको अंकित मूल्य",
-        "लाभांश"
-      ],
-      "option_a": "अंकित मूल्यभन्दा बढी मूल्यमा शेयर जारी गर्दा प्राप्त रकम",
-      "option_b": "अंकित मूल्यभन्दा कम मूल्यमा जारी गर्दा प्राप्त रकम",
-      "option_c": "शेयरको अंकित मूल्य",
-      "option_d": "लाभांश",
-      "answer_index": 0,
-      "explanation": "शेयर प्रिमियम अंकित मूल्यभन्दा बढी मूल्यमा शेयर जारी गर्दा प्राप्त हुने अतिरिक्त रकम हो।",
-      "is_pro": false
-    },
-    {
       "id": 37,
+      "qid": 1944628415,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -818,29 +648,8 @@
       "is_pro": false
     },
     {
-      "id": 38,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 11",
-      "question": "\"व्यवसायको सम्पत्ति र दायित्वलाई व्यक्तिगत सम्पत्तिबाट अलग राख्नुपर्छ\" भन्ने मान्यता कुन हो?",
-      "options": [
-        "पृथक इकाईको मान्यता",
-        "चालु गइरहेको मान्यता",
-        "लेखांकन अवधिको मान्यता",
-        "मुद्रा मापनको मान्यता"
-      ],
-      "option_a": "पृथक इकाईको मान्यता",
-      "option_b": "चालु गइरहेको मान्यता",
-      "option_c": "लेखांकन अवधिको मान्यता",
-      "option_d": "मुद्रा मापनको मान्यता",
-      "answer_index": 0,
-      "explanation": "पृथक इकाईको मान्यताले व्यवसायलाई मालिकबाट अलग इकाई मानी लेखांकन गर्नुपर्छ भन्ने बताउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 39,
+      "qid": 1661278978,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -863,6 +672,7 @@
     },
     {
       "id": 40,
+      "qid": 681096877,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -884,29 +694,8 @@
       "is_pro": false
     },
     {
-      "id": 41,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 12",
-      "question": "वित्तीय विवरणको विश्लेषणमा प्रयोग हुने अनुपात (Ratio) को मुख्य उद्देश्य के हो?",
-      "options": [
-        "वित्तीय अवस्थाको मूल्याङ्कन",
-        "कर गणना",
-        "मूल्य ह्रास गणना",
-        "बजेट तयारी"
-      ],
-      "option_a": "वित्तीय अवस्थाको मूल्याङ्कन",
-      "option_b": "कर गणना",
-      "option_c": "मूल्य ह्रास गणना",
-      "option_d": "बजेट तयारी",
-      "answer_index": 0,
-      "explanation": "अनुपात विश्लेषणले वित्तीय विवरणका विभिन्न मदबीचको सम्बन्ध देखाई वित्तीय अवस्थाको मूल्याङ्कन गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 42,
+      "qid": 2797244980,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -929,6 +718,7 @@
     },
     {
       "id": 43,
+      "qid": 1210158075,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -951,6 +741,7 @@
     },
     {
       "id": 44,
+      "qid": 4135055438,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -973,6 +764,7 @@
     },
     {
       "id": 45,
+      "qid": 584320466,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -995,6 +787,7 @@
     },
     {
       "id": 46,
+      "qid": 2128420582,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1017,6 +810,7 @@
     },
     {
       "id": 47,
+      "qid": 2345994982,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1038,29 +832,8 @@
       "is_pro": false
     },
     {
-      "id": 48,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 12",
-      "question": "पूँजी प्रतिफल अनुपात (Return on Capital Employed) = ?",
-      "options": [
-        "खुद नाफा/प्रयुक्त पूँजी×१००",
-        "खुद नाफा/विक्री×१००",
-        "सकल नाफा/विक्री×१००",
-        "विक्री/सम्पत्ति"
-      ],
-      "option_a": "खुद नाफा/प्रयुक्त पूँजी×१००",
-      "option_b": "खुद नाफा/विक्री×१००",
-      "option_c": "सकल नाफा/विक्री×१००",
-      "option_d": "विक्री/सम्पत्ति",
-      "answer_index": 0,
-      "explanation": "पूँजी प्रतिफल अनुपात = खुद नाफा/प्रयुक्त पूँजी×१०० हुन्छ, जसले लगानीमा प्रतिफल देखाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 49,
+      "qid": 1380395319,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1082,29 +855,8 @@
       "is_pro": false
     },
     {
-      "id": 50,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 12",
-      "question": "प्रत्यक्ष लागत (Direct Cost) को उदाहरण कुन हो?",
-      "options": [
-        "कच्चा पदार्थ",
-        "कार्यालय भाडा",
-        "प्रबन्धक तलब",
-        "विज्ञापन खर्च"
-      ],
-      "option_a": "कच्चा पदार्थ",
-      "option_b": "कार्यालय भाडा",
-      "option_c": "प्रबन्धक तलब",
-      "option_d": "विज्ञापन खर्च",
-      "answer_index": 0,
-      "explanation": "कच्चा पदार्थ प्रत्यक्ष लागत हो किनभने यो उत्पादनसँग सिधै सम्बन्धित हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 51,
+      "qid": 402404555,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1127,6 +879,7 @@
     },
     {
       "id": 52,
+      "qid": 3881041692,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1149,6 +902,7 @@
     },
     {
       "id": 53,
+      "qid": 3160927279,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1171,6 +925,7 @@
     },
     {
       "id": 54,
+      "qid": 970864088,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1193,6 +948,7 @@
     },
     {
       "id": 55,
+      "qid": 1784051478,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1214,51 +970,8 @@
       "is_pro": false
     },
     {
-      "id": 56,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 12",
-      "question": "योगदान (Contribution) = ?",
-      "options": [
-        "विक्री - परिवर्तनशील लागत",
-        "विक्री - स्थिर लागत",
-        "कुल लागत - विक्री",
-        "स्थिर लागत + नाफा"
-      ],
-      "option_a": "विक्री - परिवर्तनशील लागत",
-      "option_b": "विक्री - स्थिर लागत",
-      "option_c": "कुल लागत - विक्री",
-      "option_d": "स्थिर लागत + नाफा",
-      "answer_index": 0,
-      "explanation": "योगदान = विक्री - परिवर्तनशील लागत हुन्छ, जसले स्थिर लागत र नाफा पूर्ति गर्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 57,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 12",
-      "question": "ब्रेक-इभन बिन्दु (Break-even Point) भन्नाले के बुझिन्छ?",
-      "options": [
-        "कुल आय = कुल लागत हुने बिन्दु",
-        "कुल आय शून्य हुने बिन्दु",
-        "कुल लागत शून्य हुने बिन्दु",
-        "नाफा अधिकतम हुने बिन्दु"
-      ],
-      "option_a": "कुल आय = कुल लागत हुने बिन्दु",
-      "option_b": "कुल आय शून्य हुने बिन्दु",
-      "option_c": "कुल लागत शून्य हुने बिन्दु",
-      "option_d": "नाफा अधिकतम हुने बिन्दु",
-      "answer_index": 0,
-      "explanation": "ब्रेक-इभन बिन्दुमा कुल आय र कुल लागत बराबर हुन्छन्, अर्थात् नाफा वा नोक्सान हुँदैन।",
-      "is_pro": false
-    },
-    {
       "id": 58,
+      "qid": 2756206733,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1281,6 +994,7 @@
     },
     {
       "id": 59,
+      "qid": 3260383181,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1303,6 +1017,7 @@
     },
     {
       "id": 60,
+      "qid": 2512614768,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1325,6 +1040,7 @@
     },
     {
       "id": 61,
+      "qid": 1359013281,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1346,29 +1062,8 @@
       "is_pro": false
     },
     {
-      "id": 62,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 12",
-      "question": "व्यवस्थापन लेखांकन (Management Accounting) को मुख्य प्रयोग कसले गर्छ?",
-      "options": [
-        "आन्तरिक व्यवस्थापन",
-        "बाह्य लगानीकर्ता",
-        "सरकार",
-        "ऋणदाता"
-      ],
-      "option_a": "आन्तरिक व्यवस्थापन",
-      "option_b": "बाह्य लगानीकर्ता",
-      "option_c": "सरकार",
-      "option_d": "ऋणदाता",
-      "answer_index": 0,
-      "explanation": "व्यवस्थापन लेखांकनको मुख्य प्रयोग आन्तरिक व्यवस्थापनले निर्णय लिन गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 63,
+      "qid": 4178481537,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1391,6 +1086,7 @@
     },
     {
       "id": 64,
+      "qid": 1306447370,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1413,6 +1109,7 @@
     },
     {
       "id": 65,
+      "qid": 348118923,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1435,6 +1132,7 @@
     },
     {
       "id": 66,
+      "qid": 2654438037,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1457,6 +1155,7 @@
     },
     {
       "id": 67,
+      "qid": 2062798002,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1478,29 +1177,8 @@
       "is_pro": false
     },
     {
-      "id": 68,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 12",
-      "question": "नेपालमा लेखा मानक जारी गर्ने निकाय कुन हो?",
-      "options": [
-        "नेपाल लेखा मानक बोर्ड (ASB)",
-        "नेपाल राष्ट्र बैंक",
-        "कर कार्यालय",
-        "अर्थ मन्त्रालय"
-      ],
-      "option_a": "नेपाल लेखा मानक बोर्ड (ASB)",
-      "option_b": "नेपाल राष्ट्र बैंक",
-      "option_c": "कर कार्यालय",
-      "option_d": "अर्थ मन्त्रालय",
-      "answer_index": 0,
-      "explanation": "नेपालमा लेखा मानक जारी गर्ने निकाय नेपाल लेखा मानक बोर्ड (Accounting Standards Board Nepal) हो।",
-      "is_pro": false
-    },
-    {
       "id": 69,
+      "qid": 3124320386,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1523,6 +1201,7 @@
     },
     {
       "id": 70,
+      "qid": 1797518833,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1544,29 +1223,8 @@
       "is_pro": false
     },
     {
-      "id": 71,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 12",
-      "question": "अन्तिम स्टक (Closing Stock) लाई कहाँ देखाइन्छ?",
-      "options": [
-        "ब्यालेन्स सिटको सम्पत्ति पक्ष र व्यापारिक खाताको क्रेडिट पक्ष",
-        "केवल व्यापारिक खाताको डेबिट पक्ष",
-        "केवल नाफा नोक्सान खाता",
-        "केवल ब्यालेन्स सिटको दायित्व पक्ष"
-      ],
-      "option_a": "ब्यालेन्स सिटको सम्पत्ति पक्ष र व्यापारिक खाताको क्रेडिट पक्ष",
-      "option_b": "केवल व्यापारिक खाताको डेबिट पक्ष",
-      "option_c": "केवल नाफा नोक्सान खाता",
-      "option_d": "केवल ब्यालेन्स सिटको दायित्व पक्ष",
-      "answer_index": 0,
-      "explanation": "अन्तिम स्टक व्यापारिक खाताको क्रेडिट पक्षमा र ब्यालेन्स सिटको सम्पत्ति पक्षमा देखाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 72,
+      "qid": 838520064,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1588,29 +1246,8 @@
       "is_pro": false
     },
     {
-      "id": 73,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 12",
-      "question": "उपार्जित आय (Accrued Income) लाई ब्यालेन्स सिटमा कहाँ देखाइन्छ?",
-      "options": [
-        "सम्पत्ति पक्षमा",
-        "दायित्व पक्षमा",
-        "पूँजीमा",
-        "आयमा"
-      ],
-      "option_a": "सम्पत्ति पक्षमा",
-      "option_b": "दायित्व पक्षमा",
-      "option_c": "पूँजीमा",
-      "option_d": "आयमा",
-      "answer_index": 0,
-      "explanation": "उपार्जित आय प्राप्त गर्न बाँकी भएकाले यसलाई सम्पत्ति पक्षमा देखाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 74,
+      "qid": 1198611409,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1633,6 +1270,7 @@
     },
     {
       "id": 75,
+      "qid": 4203802187,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1655,6 +1293,7 @@
     },
     {
       "id": 76,
+      "qid": 1484813088,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1677,6 +1316,7 @@
     },
     {
       "id": 77,
+      "qid": 2077770408,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1699,6 +1339,7 @@
     },
     {
       "id": 78,
+      "qid": 1034895931,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1720,29 +1361,8 @@
       "is_pro": false
     },
     {
-      "id": 79,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 11",
-      "question": "\"सबै खर्च र नोक्सानलाई डेबिट र सबै आय र नाफालाई क्रेडिट गर्नुपर्छ\" भन्ने नियम कुन खातामा लागू हुन्छ?",
-      "options": [
-        "नाममात्र खाता",
-        "वास्तविक खाता",
-        "व्यक्तिगत खाता",
-        "सम्पत्ति खाता"
-      ],
-      "option_a": "नाममात्र खाता",
-      "option_b": "वास्तविक खाता",
-      "option_c": "व्यक्तिगत खाता",
-      "option_d": "सम्पत्ति खाता",
-      "answer_index": 0,
-      "explanation": "नाममात्र खाताको नियमअनुसार खर्च/नोक्सान डेबिट र आय/नाफा क्रेडिट गरिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 80,
+      "qid": 4152398960,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1765,6 +1385,7 @@
     },
     {
       "id": 81,
+      "qid": 4272211341,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1786,29 +1407,8 @@
       "is_pro": false
     },
     {
-      "id": 82,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 11",
-      "question": "जर्नल प्रविष्टिका लागि आवश्यक तत्व कुन हुन्?",
-      "options": [
-        "मिति, खाता, डेबिट, क्रेडिट र विवरण",
-        "केवल रकम",
-        "केवल मिति",
-        "केवल खाता"
-      ],
-      "option_a": "मिति, खाता, डेबिट, क्रेडिट र विवरण",
-      "option_b": "केवल रकम",
-      "option_c": "केवल मिति",
-      "option_d": "केवल खाता",
-      "answer_index": 0,
-      "explanation": "जर्नल प्रविष्टिमा मिति, डेबिट खाता, क्रेडिट खाता, रकम र विवरण अनिवार्य हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 83,
+      "qid": 2008098228,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1831,6 +1431,7 @@
     },
     {
       "id": 84,
+      "qid": 1287378110,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1853,6 +1454,7 @@
     },
     {
       "id": 85,
+      "qid": 3341287819,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1875,6 +1477,7 @@
     },
     {
       "id": 86,
+      "qid": 2802645570,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1896,29 +1499,8 @@
       "is_pro": false
     },
     {
-      "id": 87,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 11",
-      "question": "वित्तीय विवरण तयार गर्ने क्रम कुन हो?",
-      "options": [
-        "ट्रायल ब्यालेन्स → समायोजन → व्यापारिक खाता → नाफा नोक्सान → ब्यालेन्स सिट",
-        "ब्यालेन्स सिट → ट्रायल ब्यालेन्स → नाफा नोक्सान",
-        "जर्नल → ब्यालेन्स सिट → ट्रायल ब्यालेन्स",
-        "खाता बही → ब्यालेन्स सिट → जर्नल"
-      ],
-      "option_a": "ट्रायल ब्यालेन्स → समायोजन → व्यापारिक खाता → नाफा नोक्सान → ब्यालेन्स सिट",
-      "option_b": "ब्यालेन्स सिट → ट्रायल ब्यालेन्स → नाफा नोक्सान",
-      "option_c": "जर्नल → ब्यालेन्स सिट → ट्रायल ब्यालेन्स",
-      "option_d": "खाता बही → ब्यालेन्स सिट → जर्नल",
-      "answer_index": 0,
-      "explanation": "वित्तीय विवरण तयार गर्ने क्रम: ट्रायल ब्यालेन्स → समायोजन → व्यापारिक खाता → नाफा नोक्सान खाता → ब्यालेन्स सिट हो।",
-      "is_pro": false
-    },
-    {
       "id": 88,
+      "qid": 379740920,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1940,29 +1522,8 @@
       "is_pro": false
     },
     {
-      "id": 89,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 11",
-      "question": "ब्यालेन्स सिटको मुख्य उद्देश्य के हो?",
-      "options": [
-        "एक निश्चित मितिमा वित्तीय अवस्था देखाउन",
-        "नाफा देखाउन",
-        "रोकड प्रवाह देखाउन",
-        "कर देखाउन"
-      ],
-      "option_a": "एक निश्चित मितिमा वित्तीय अवस्था देखाउन",
-      "option_b": "नाफा देखाउन",
-      "option_c": "रोकड प्रवाह देखाउन",
-      "option_d": "कर देखाउन",
-      "answer_index": 0,
-      "explanation": "ब्यालेन्स सिटले एक निश्चित मितिमा व्यवसायको सम्पत्ति, दायित्व र पूँजीको वित्तीय अवस्था देखाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 90,
+      "qid": 2870130596,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -1985,6 +1546,7 @@
     },
     {
       "id": 91,
+      "qid": 1660160607,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -2007,6 +1569,7 @@
     },
     {
       "id": 92,
+      "qid": 1587337008,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -2029,6 +1592,7 @@
     },
     {
       "id": 93,
+      "qid": 1442184042,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -2051,6 +1615,7 @@
     },
     {
       "id": 94,
+      "qid": 3729897319,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -2073,6 +1638,7 @@
     },
     {
       "id": 95,
+      "qid": 72559540,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -2094,29 +1660,8 @@
       "is_pro": false
     },
     {
-      "id": 96,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 11",
-      "question": "पूँजी (Capital) = ?",
-      "options": [
-        "सम्पत्ति - दायित्व",
-        "सम्पत्ति + दायित्व",
-        "दायित्व - सम्पत्ति",
-        "कुल आय - कुल खर्च"
-      ],
-      "option_a": "सम्पत्ति - दायित्व",
-      "option_b": "सम्पत्ति + दायित्व",
-      "option_c": "दायित्व - सम्पत्ति",
-      "option_d": "कुल आय - कुल खर्च",
-      "answer_index": 0,
-      "explanation": "लेखांकन समीकरणबाट पूँजी = सम्पत्ति - दायित्व हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 97,
+      "qid": 19463075,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -2139,6 +1684,7 @@
     },
     {
       "id": 98,
+      "qid": 725753781,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
@@ -2160,29 +1706,8 @@
       "is_pro": false
     },
     {
-      "id": 99,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "122",
-      "sub_cat_name": "Principles of Accounting",
-      "level": "Class 11",
-      "question": "व्यवसायमा लगानी गरिएको रकमलाई के भनिन्छ?",
-      "options": [
-        "पूँजी",
-        "आहरण",
-        "खर्च",
-        "आय"
-      ],
-      "option_a": "पूँजी",
-      "option_b": "आहरण",
-      "option_c": "खर्च",
-      "option_d": "आय",
-      "answer_index": 0,
-      "explanation": "मालिकले व्यवसायमा लगानी गरेको रकमलाई पूँजी (Capital) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 100,
+      "qid": 332065541,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "122",
