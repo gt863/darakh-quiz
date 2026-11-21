@@ -1,10 +1,11 @@
 {
   "sub_cat_id": "113",
-  "data_version": 1794491195766,
-  "total_questions": 200,
+  "data_version": 1795279225068,
+  "total_questions": 148,
   "questions": [
     {
       "id": 1,
+      "qid": 4273247641,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -26,29 +27,8 @@
       "is_pro": false
     },
     {
-      "id": 2,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Easy",
-      "question": "एकैचाहिँ आधारबिन्दु (vertex) (०, ०) भएको परवलय (parabola) y = ax² को सममितिको अक्ष (axis of symmetry) कुन हो?",
-      "options": [
-        "y-अक्ष",
-        "x-अक्ष",
-        "रेखा y = x",
-        "रेखा x = a"
-      ],
-      "option_a": "y-अक्ष",
-      "option_b": "x-अक्ष",
-      "option_c": "रेखा y = x",
-      "option_d": "रेखा x = a",
-      "answer_index": 0,
-      "explanation": "परवलय y = ax² को लेखाचित्र y-अक्षको सापेक्षमा सममित (symmetric) हुने भएकाले यसको सममितिको अक्ष y-अक्ष (अर्थात् x = ०) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 3,
+      "qid": 703938651,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 1351909888,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -93,6 +74,7 @@
     },
     {
       "id": 5,
+      "qid": 1342797623,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -115,6 +97,7 @@
     },
     {
       "id": 6,
+      "qid": 2736495757,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -137,6 +120,7 @@
     },
     {
       "id": 7,
+      "qid": 2830466522,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -158,29 +142,8 @@
       "is_pro": false
     },
     {
-      "id": 8,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Easy",
-      "question": "समान्तर रेखाहरू y = m₁x + c₁ र y = m₂x + c₂ बिचको सम्बन्ध कुन चाहिँ सही हो?",
-      "options": [
-        "m₁ = m₂",
-        "m₁ . m₂ = -१",
-        "m₁ + m₂ = ०",
-        "m₁ . m₂ = १"
-      ],
-      "option_a": "m₁ = m₂",
-      "option_b": "m₁ . m₂ = -१",
-      "option_c": "m₁ + m₂ = ०",
-      "option_d": "m₁ . m₂ = १",
-      "answer_index": 0,
-      "explanation": "दुई सरल रेखाहरू आपसमा समानान्तर (parallel) हुनका लागि तिनीहरूको झुकाव (slopes) बराबर हुनुपर्छ, अर्थात् m₁ = m₂ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 9,
+      "qid": 2390924285,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -202,29 +165,8 @@
       "is_pro": false
     },
     {
-      "id": 10,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Easy",
-      "question": "त्रिकोणमितिमा sin(२A) को सही सूत्र तलका मध्ये कुन हो?",
-      "options": [
-        "२sinA.cosA",
-        "cos²A - sin²A",
-        "२sinA",
-        "१ - २sin²A"
-      ],
-      "option_a": "२sinA.cosA",
-      "option_b": "cos²A - sin²A",
-      "option_c": "२sinA",
-      "option_d": "१ - २sin²A",
-      "answer_index": 0,
-      "explanation": "द्विगुण कोणको सूत्र (Double angle formula) अनुसार sin(२A) = २sinA.cosA हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 11,
+      "qid": 3808577631,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -247,6 +189,7 @@
     },
     {
       "id": 12,
+      "qid": 1732626192,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -268,29 +211,8 @@
       "is_pro": false
     },
     {
-      "id": 13,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Easy",
-      "question": "बिन्दु P(x, y) लाई x-अक्षमा परावर्तन (reflection in x-axis) गर्दा बन्ने प्रतिबिम्ब कुन हो?",
-      "options": [
-        "P'(x, -y)",
-        "P'(-x, y)",
-        "P'(-x, -y)",
-        "P'(y, x)"
-      ],
-      "option_a": "P'(x, -y)",
-      "option_b": "P'(-x, y)",
-      "option_c": "P'(-x, -y)",
-      "option_d": "P'(y, x)",
-      "answer_index": 0,
-      "explanation": "x-अक्षमा परावर्तन गर्दा x-निर्देशाङ्क यथावत् रहन्छ र y-निर्देशाङ्कको चिन्ह परिवर्तन भई (x, -y) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 14,
+      "qid": 2849977459,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -312,29 +234,8 @@
       "is_pro": false
     },
     {
-      "id": 15,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Easy",
-      "question": "अविच्छिन्न श्रेणीमा मध्यिका (Median) बाट लगिएको मध्यक भिन्नता (Mean Deviation from Median) को सूत्र कुन हो?",
-      "options": [
-        "∑f|x - Md| / N",
-        "∑|x - Md|",
-        "∑f(x - Md) / N",
-        "N / ∑f|x - Md|"
-      ],
-      "option_a": "∑f|x - Md| / N",
-      "option_b": "∑|x - Md|",
-      "option_c": "∑f(x - Md) / N",
-      "option_d": "N / ∑f|x - Md|",
-      "answer_index": 0,
-      "explanation": "बारम्बारता वितरणमा मध्यिका (Md) बाट मध्यक भिन्नता निकाल्ने सूत्र MD = ∑f|x - Md| / N हो, जहाँ N कुल बारम्बारता हो।",
-      "is_pro": false
-    },
-    {
       "id": 16,
+      "qid": 1339814961,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -357,6 +258,7 @@
     },
     {
       "id": 17,
+      "qid": 2302630014,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -379,6 +281,7 @@
     },
     {
       "id": 18,
+      "qid": 471386463,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -401,6 +304,7 @@
     },
     {
       "id": 19,
+      "qid": 141949914,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -423,6 +327,7 @@
     },
     {
       "id": 20,
+      "qid": 2794418291,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -444,29 +349,8 @@
       "is_pro": false
     },
     {
-      "id": 21,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Easy",
-      "question": "रैखिक प्रोग्रामिङ (Linear Programming) मा अधिकतम वा न्यूनतम मान पत्ता लगाइने फलनलाई के भनिन्छ?",
-      "options": [
-        "उद्देश्यमूलक फलन (Objective Function)",
-        "सीमाबद्धता (Constraints)",
-        "सम्भाव्य क्षेत्र (Feasible Region)",
-        "शीर्षबिन्दु (Vertices)"
-      ],
-      "option_a": "उद्देश्यमूलक फलन (Objective Function)",
-      "option_b": "सीमाबद्धता (Constraints)",
-      "option_c": "सम्भाव्य क्षेत्र (Feasible Region)",
-      "option_d": "शीर्षबिन्दु (Vertices)",
-      "answer_index": 0,
-      "explanation": "जसको अधिकतम वा न्यूनतम मान निकाल्नुपर्ने हुन्छ (जस्तै F = ax + by), त्यसलाई उद्देश्यमूलक फलन (Objective Function) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 22,
+      "qid": 2158984876,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -489,6 +373,7 @@
     },
     {
       "id": 23,
+      "qid": 661286081,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -511,6 +396,7 @@
     },
     {
       "id": 24,
+      "qid": 399992984,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -532,51 +418,8 @@
       "is_pro": false
     },
     {
-      "id": 25,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Easy",
-      "question": "दुई एकै ठाउँबाट सुरु भएका सरल रेखाहरूको संयुक्त समीकरण ax² + २hxy + by² = ० ले कुन अवस्थामा एकआपसमा लम्ब (perpendicular) भएका रेखाहरू जनाउँछ?",
-      "options": [
-        "a + b = ०",
-        "a = b",
-        "h² = ab",
-        "h = ०"
-      ],
-      "option_a": "a + b = ०",
-      "option_b": "a = b",
-      "option_c": "h² = ab",
-      "option_d": "h = ०",
-      "answer_index": 0,
-      "explanation": "उद्गमबिन्दु भएर जाने दुई रेखाहरू लम्ब हुनका लागि cosθ = ० अर्थात् x² को गुणक (a) + y² को गुणक (b) = ० हुनुपर्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 26,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Easy",
-      "question": "sin(३A) को विस्तारित सूत्र कुन हो?",
-      "options": [
-        "३sinA - ४sin³A",
-        "४sin³A - ३sinA",
-        "३sinA + ४sin³A",
-        "३cosA - ४cos³A"
-      ],
-      "option_a": "३sinA - ४sin³A",
-      "option_b": "४sin³A - ३sinA",
-      "option_c": "३sinA + ४sin³A",
-      "option_d": "३cosA - ४cos³A",
-      "answer_index": 0,
-      "explanation": "बहुल कोणको सूत्र अनुसार sin(३A) = ३sinA - ४sin³A हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 27,
+      "qid": 1103146645,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -599,6 +442,7 @@
     },
     {
       "id": 28,
+      "qid": 2814823695,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -621,6 +465,7 @@
     },
     {
       "id": 29,
+      "qid": 1708408226,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -643,6 +488,7 @@
     },
     {
       "id": 30,
+      "qid": 2699928751,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -665,6 +511,7 @@
     },
     {
       "id": 31,
+      "qid": 3823782122,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -686,29 +533,8 @@
       "is_pro": false
     },
     {
-      "id": 32,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "यदि बहुपद २x³ + ३x² - kx + ५ लाई (x - २) ले भाग गर्दा शेष ७ आउँछ भने k को मान कति हुन्छ?",
-      "options": [
-        "१३",
-        "११",
-        "१५",
-        "९"
-      ],
-      "option_a": "१३",
-      "option_b": "११",
-      "option_c": "१५",
-      "option_d": "९",
-      "answer_index": 0,
-      "explanation": "p(x) = २x³ + ३x² - kx + ५ मा शेष साध्य लगाउँदा p(२) = ७ हुन्छ। अर्थात् २(२)³ + ३(२)² - k(२) + ५ = ७ => १६ + १२ - २k + ५ = ७ => ३३ - २k = ७ => २k = २६ => k = १३ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 33,
+      "qid": 1243651082,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -731,6 +557,7 @@
     },
     {
       "id": 34,
+      "qid": 1163247508,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -753,6 +580,7 @@
     },
     {
       "id": 35,
+      "qid": 489663463,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -774,29 +602,8 @@
       "is_pro": false
     },
     {
-      "id": 36,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "यदि मेट्रिक्स A = [[x, ४], [३, ६]] एउटा अव्युत्क्रमणीय (Singular) मेट्रिक्स हो भने x को मान कति हुन्छ?",
-      "options": [
-        "२",
-        "३",
-        "-२",
-        "४"
-      ],
-      "option_a": "२",
-      "option_b": "३",
-      "option_c": "-२",
-      "option_d": "४",
-      "answer_index": 0,
-      "explanation": "सिंगुलर मेट्रिक्सको सारणिक शून्य हुन्छ। त्यसैले |A| = ० => ६x - १२ = ० => ६x = १२ => x = २ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 37,
+      "qid": 473267234,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -819,6 +626,7 @@
     },
     {
       "id": 38,
+      "qid": 1108368886,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -841,6 +649,7 @@
     },
     {
       "id": 39,
+      "qid": 1714958899,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -862,29 +671,8 @@
       "is_pro": false
     },
     {
-      "id": 40,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "एकरूप समीकरण (Homogeneous equation) x² - ५xy + ६y² = ० ले प्रतिनिधित्व गर्ने दुई छुट्टाछुट्टै सरल रेखाहरू कुन-कुन हुन्?",
-      "options": [
-        "x - २y = ० र x - ३y = ०",
-        "x + २y = ० र x + ३y = ०",
-        "x - ६y = ० र x + y = ०",
-        "२x - y = ० र ३x - y = ०"
-      ],
-      "option_a": "x - २y = ० र x - ३y = ०",
-      "option_b": "x + २y = ० र x + ३y = ०",
-      "option_c": "x - ६y = ० र x + y = ०",
-      "option_d": "२x - y = ० र ३x - y = ०",
-      "answer_index": 0,
-      "explanation": "x² - ५xy + ६y² = ० लाई खण्डीकरण गर्दा x² - २xy - ३xy + ६y² = ० => x(x - २y) - ३y(x - २y) = ० => (x - २y)(x - ३y) = ०। तसर्थ रेखाहरू x - २y = ० र x - ३y = ० हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 41,
+      "qid": 233863539,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -907,6 +695,7 @@
     },
     {
       "id": 42,
+      "qid": 2652460647,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -929,6 +718,7 @@
     },
     {
       "id": 43,
+      "qid": 203400238,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -950,29 +740,8 @@
       "is_pro": false
     },
     {
-      "id": 44,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "sin७५° + sin१५° को मान कति हुन्छ?",
-      "options": [
-        "√(३/२)",
-        "√३ / २",
-        "१ / √२",
-        "√२"
-      ],
-      "option_a": "√(३/२)",
-      "option_b": "√३ / २",
-      "option_c": "१ / √२",
-      "option_d": "√२",
-      "answer_index": 0,
-      "explanation": "sinC + sinD = २sin((C+D)/२)cos((C-D)/२) लगाउँदा २sin४५°.cos३०° = २ × (१/√२) × (√३/२) = √३/√२ = √(३/२) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 45,
+      "qid": 4064445296,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -995,6 +764,7 @@
     },
     {
       "id": 46,
+      "qid": 393328371,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1017,6 +787,7 @@
     },
     {
       "id": 47,
+      "qid": 2587955447,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1038,29 +809,8 @@
       "is_pro": false
     },
     {
-      "id": 48,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "बिन्दुहरू A(२, ४) र B(६, ८) लाई जोड्ने रेखाखण्डको मध्यबिन्दु M को स्थिति भेक्टर (position vector) कति हुन्छ?",
-      "options": [
-        "४i⃗ + ६j⃗",
-        "८i⃗ + १२j⃗",
-        "२i⃗ + २j⃗",
-        "३i⃗ + ५j⃗"
-      ],
-      "option_a": "४i⃗ + ६j⃗",
-      "option_b": "८i⃗ + १२j⃗",
-      "option_c": "२i⃗ + २j⃗",
-      "option_d": "३i⃗ + ५j⃗",
-      "answer_index": 0,
-      "explanation": "मध्यबिन्दु सूत्र अनुसार OM⃗ = (OA⃗ + OB⃗)/२ = ((२+६)/२)i⃗ + ((४+८)/२)j⃗ = ४i⃗ + ६j⃗ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 49,
+      "qid": 3915340601,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1083,6 +833,7 @@
     },
     {
       "id": 50,
+      "qid": 467915465,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1104,29 +855,8 @@
       "is_pro": false
     },
     {
-      "id": 51,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "कुनै तथ्याङ्कको प्रथम चतुर्थांशक (Q₁) = २५ र तृतीय चतुर्थांशक (Q₃) = ७५ भए चतुर्थांशक भिन्नताको गुणक (Coefficient of Quartile Deviation) कति हुन्छ?",
-      "options": [
-        "०.५",
-        "२५",
-        "०.२५",
-        "०.७५"
-      ],
-      "option_a": "०.५",
-      "option_b": "२५",
-      "option_c": "०.२५",
-      "option_d": "०.७५",
-      "answer_index": 0,
-      "explanation": "चतुर्थांशक भिन्नताको गुणक = (Q₃ - Q₁) / (Q₃ + Q₁) = (७५ - २५) / (७५ + २५) = ५० / १०० = ०.५ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 52,
+      "qid": 146047706,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1149,6 +879,7 @@
     },
     {
       "id": 53,
+      "qid": 3071644289,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1171,6 +902,7 @@
     },
     {
       "id": 54,
+      "qid": 854898801,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1193,6 +925,7 @@
     },
     {
       "id": 55,
+      "qid": 2090691028,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1214,29 +947,8 @@
       "is_pro": false
     },
     {
-      "id": 56,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "एउटा वृत्तको व्यासका छोरका बिन्दुहरू (२, ३) र (६, ७) छन् भने सो वृत्तको समीकरण कुन हो?",
-      "options": [
-        "x² + y² - ८x - १०y + ३३ = ०",
-        "x² + y² + ८x + १०y + ३३ = ०",
-        "x² + y² - ८x + १०y - ३३ = ०",
-        "x² + y² - ४x - ५y + ३३ = ०"
-      ],
-      "option_a": "x² + y² - ८x - १०y + ३३ = ०",
-      "option_b": "x² + y² + ८x + १०y + ३३ = ०",
-      "option_c": "x² + y² - ८x + १०y - ३३ = ०",
-      "option_d": "x² + y² - ४x - ५y + ३३ = ०",
-      "answer_index": 0,
-      "explanation": "व्यासका छोरहरू (x₁, y₁) र (x₂, y₂) हुँदा वृत्तको समीकरण (x - x₁)(x - x₂) + (y - y₁)(y - y₂) = ० हुन्छ। मान राख्दा (x - २)(x - ६) + (y - ३)(y - ७) = ० => x² - ८x + १२ + y² - १०y + २१ = ० => x² + y² - ८x - १०y + ३३ = ०।",
-      "is_pro": false
-    },
-    {
       "id": 57,
+      "qid": 4032758267,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1259,6 +971,7 @@
     },
     {
       "id": 58,
+      "qid": 3091964513,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1281,6 +994,7 @@
     },
     {
       "id": 59,
+      "qid": 986655403,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1302,29 +1016,8 @@
       "is_pro": false
     },
     {
-      "id": 60,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "५ ओटा अवलोकनहरूको समूहमा ∑x = ५० र ∑x² = ५८० छ भने सो तथ्याङ्कको स्तरीय भिन्नता (Standard Deviation) कति हुन्छ?",
-      "options": [
-        "४",
-        "१६",
-        "८",
-        "२"
-      ],
-      "option_a": "४",
-      "option_b": "१६",
-      "option_c": "८",
-      "option_d": "२",
-      "answer_index": 0,
-      "explanation": "यहाँ N = ५। सूत्र अनुसार σ = √[ (∑x² / N) - (∑x / N)² ] = √[ (५८० / ५) - (५० / ५)² ] = √[ ११६ - १०² ] = √[ ११६ - १०० ] = √१६ = ४ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 61,
+      "qid": 588186401,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1347,6 +1040,7 @@
     },
     {
       "id": 62,
+      "qid": 5076519,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1368,29 +1062,8 @@
       "is_pro": false
     },
     {
-      "id": 63,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "समीकरण २x² + ५xy + २y² = ० ले जनाउने दुई सरल रेखाहरू बिचको न्यून कोण (acute angle) कति हुन्छ?",
-      "options": [
-        "tan⁻¹(३/४)",
-        "४५°",
-        "६०°",
-        "३०°"
-      ],
-      "option_a": "tan⁻¹(३/४)",
-      "option_b": "४५°",
-      "option_c": "६०°",
-      "option_d": "३०°",
-      "answer_index": 0,
-      "explanation": "तुलना गर्दा a = २, h = ५/२, b = २। सूत्र tanθ = ± २√(h² - ab)/(a + b) = २√(२५/४ - ४)/(२ + २) = २(३/२)/४ = ३/४। तसर्थ θ = tan⁻¹(३/४) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 64,
+      "qid": 229848257,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1413,6 +1086,7 @@
     },
     {
       "id": 65,
+      "qid": 2272074420,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1435,6 +1109,7 @@
     },
     {
       "id": 66,
+      "qid": 1662833018,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1456,29 +1131,8 @@
       "is_pro": false
     },
     {
-      "id": 67,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "बिन्दु (१, २) भएर जाने र रेखा २x + ३y + ५ = ० सँग लम्ब हुने सरल रेखाको समीकरण कुन हो?",
-      "options": [
-        "३x - २y + १ = ०",
-        "३x + २y - ७ = ०",
-        "२x - ३y + ४ = ०",
-        "३x - २y - १ = ०"
-      ],
-      "option_a": "३x - २y + १ = ०",
-      "option_b": "३x + २y - ७ = ०",
-      "option_c": "२x - ३y + ४ = ०",
-      "option_d": "३x - २y - १ = ०",
-      "answer_index": 0,
-      "explanation": "२x + ३y + ५ = ० सँग लम्ब हुने रेखा ३x - २y + k = ० हो। यो (१, २) भएर जाने हुँदा ३(१) - २(२) + k = ० => ३ - ४ + k = ० => k = १। तसर्थ समीकरण ३x - २y + १ = ० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 68,
+      "qid": 2147371533,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1501,6 +1155,7 @@
     },
     {
       "id": 69,
+      "qid": 2312571784,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1523,6 +1178,7 @@
     },
     {
       "id": 70,
+      "qid": 2777216916,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1545,6 +1201,7 @@
     },
     {
       "id": 71,
+      "qid": 890672829,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1566,29 +1223,8 @@
       "is_pro": false
     },
     {
-      "id": 72,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "यदि बहुपद २x³ + ax² + bx - २ ले (२x - ३) बाट भाग गर्दा शेष ७ र (x + २) बाट भाग गर्दा शेष ० दिन्छ भने a र b को मान कति हुन्छ?",
-      "options": [
-        "a = ३, b = -३",
-        "a = -३, b = ३",
-        "a = ३, b = ३",
-        "a = २, b = -५"
-      ],
-      "option_a": "a = ३, b = -३",
-      "option_b": "a = -३, b = ३",
-      "option_c": "a = ३, b = ३",
-      "option_d": "a = २, b = -५",
-      "answer_index": 0,
-      "explanation": "पहिलो सर्त: x = ३/२ हुँदा २(२७/८) + a(९/४) + b(३/२) - २ = ७ => २७ + ९a + ६b - ८ = २८ => ९a + ६b = ९ => ३a + २b = ३ ...(i)। दोस्रो सर्त: x = -२ हुँदा २(-८) + a(४) + b(-२) - २ = ० => ४a - २b = १८ => २a - b = ९ ...(ii)। हल गर्दा ७a = २१ => a = ३ र b = २(३) - ९ = -३ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 73,
+      "qid": 1744971224,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1611,6 +1247,7 @@
     },
     {
       "id": 74,
+      "qid": 4281486599,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1633,6 +1270,7 @@
     },
     {
       "id": 75,
+      "qid": 2684408716,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1655,6 +1293,7 @@
     },
     {
       "id": 76,
+      "qid": 4037643868,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1676,29 +1315,8 @@
       "is_pro": false
     },
     {
-      "id": 77,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "यदि समीकरण kx² - १२xy + ९y² = ० ले दुईओटा समानान्तर (वा सम्पाती/coincident) रेखाहरू जनाउँछ भने k को मान कति हुन्छ?",
-      "options": [
-        "४",
-        "-४",
-        "६",
-        "१६"
-      ],
-      "option_a": "४",
-      "option_b": "-४",
-      "option_c": "६",
-      "option_d": "१६",
-      "answer_index": 0,
-      "explanation": "रेखाहरू समानान्तर वा सम्पाती हुनका लागि θ = ०° अर्थात् h² - ab = ० हुनुपर्छ। यहाँ h = -६, a = k, b = ९ छ। तसर्थ (-६)² - k(९) = ० => ३६ = ९k => k = ४ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 78,
+      "qid": 2226588950,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1721,6 +1339,7 @@
     },
     {
       "id": 79,
+      "qid": 163727237,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1742,29 +1361,8 @@
       "is_pro": false
     },
     {
-      "id": 80,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "यदि A + B + C = १८०° भए sin२A + sin२B + sin२C को मान तलका मध्ये कुनसँग बराबर हुन्छ?",
-      "options": [
-        "४sinA.sinB.sinC",
-        "४cosA.cosB.cosC",
-        "२sinA.sinB.sinC",
-        "१ + ४cosA.cosB.sinC"
-      ],
-      "option_a": "४sinA.sinB.sinC",
-      "option_b": "४cosA.cosB.cosC",
-      "option_c": "२sinA.sinB.sinC",
-      "option_d": "१ + ४cosA.cosB.sinC",
-      "answer_index": 0,
-      "explanation": "sin२A + sin२B + sin२C = २sin(A+B)cos(A-B) + २sinC.cosC = २sinC.cos(A-B) + २sinC(-cos(A+B)) = २sinC[cos(A-B) - cos(A+B)] = २sinC[२sinA.sinB] = ४sinA.sinB.sinC हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 81,
+      "qid": 2397861672,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1787,6 +1385,7 @@
     },
     {
       "id": 82,
+      "qid": 2435832517,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1808,51 +1407,8 @@
       "is_pro": false
     },
     {
-      "id": 83,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "६० मिटर चौडा सडकको दुवै किनारमा आमनेसामने रहेका दुईवटा समान उचाइका खम्बाहरूको टुप्पोबाट सडकको बीचको कुनै बिन्दुमा उन्नति कोणहरू क्रमशः ३०° र ६०° बन्छन् भने प्रत्येक खम्बाको उचाइ कति होला?",
-      "options": [
-        "१५√३ मि.",
-        "२०√३ मि.",
-        "१५ मि.",
-        "३०√३ मि."
-      ],
-      "option_a": "१५√३ मि.",
-      "option_b": "२०√३ मि.",
-      "option_c": "१५ मि.",
-      "option_d": "३०√३ मि.",
-      "answer_index": 0,
-      "explanation": "मानौँ उचाइ h र बिन्दुको दुरी x र (६०-x) छ। tan६०° = h/x => x = h/√३ र tan३०° = h/(६०-x) => ६०-x = h√३। जोड्दा ६० = h(√३ + १/√३) = ४h/√३ => h = १५√३ मिटर हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 84,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "त्रिभुज ABC मा भित्री कोण A को अर्धक (angle bisector) ले भुजा BC लाई बिन्दु D मा १:२ को अनुपातमा विभाजन गर्छ। यदि AB⃗ = c⃗ र AC⃗ = b⃗ भए AD⃗ को स्थिति भेक्टर कति हुन्छ?",
-      "options": [
-        "(b⃗ + २c⃗)/३",
-        "(२b⃗ + c⃗)/३",
-        "(b⃗ + c⃗)/२",
-        "(b⃗ - २c⃗)/३"
-      ],
-      "option_a": "(b⃗ + २c⃗)/३",
-      "option_b": "(२b⃗ + c⃗)/३",
-      "option_c": "(b⃗ + c⃗)/२",
-      "option_d": "(b⃗ - २c⃗)/३",
-      "answer_index": 0,
-      "explanation": "खण्ड सूत्र (Section Formula) अनुसार D ले BC लाई १:२ (m₁:m₂) मा भित्री विभाजन गर्दा AD⃗ = (m₁AC⃗ + m₂AB⃗)/(m₁ + m₂) = (१.b⃗ + २.c⃗)/(१ + २) = (b⃗ + २c⃗)/३ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 85,
+      "qid": 3121299207,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1875,6 +1431,7 @@
     },
     {
       "id": 86,
+      "qid": 3727092303,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1897,6 +1454,7 @@
     },
     {
       "id": 87,
+      "qid": 3340190184,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1918,29 +1476,8 @@
       "is_pro": false
     },
     {
-      "id": 88,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "रेखा x = ३ मा परावर्तन र त्यसपछि रेखा x = ७ मा पुनः परावर्तन गर्दा हुने संयुक्त रूपान्तरण (Combined transformation) तलका मध्ये कुन एकल रूपान्तरणसँग बराबर हुन्छ?",
-      "options": [
-        "विस्थापन भेक्टर (८, ०) द्वारा स्थानान्तरण",
-        "विस्थापन भेक्टर (१०, ०) द्वारा स्थानान्तरण",
-        "विस्थापन भेक्टर (-८, ०) द्वारा स्थानान्तरण",
-        "बिन्दु (५, ०) मा १८०° परिक्रमण"
-      ],
-      "option_a": "विस्थापन भेक्टर (८, ०) द्वारा स्थानान्तरण",
-      "option_b": "विस्थापन भेक्टर (१०, ०) द्वारा स्थानान्तरण",
-      "option_c": "विस्थापन भेक्टर (-८, ०) द्वारा स्थानान्तरण",
-      "option_d": "बिन्दु (५, ०) मा १८०° परिक्रमण",
-      "answer_index": 0,
-      "explanation": "दुई समानान्तर रेखाहरू x = a र x = b मा क्रमिक परावर्तन हुँदा २(b - a) दुरीले स्थानान्तरण हुन्छ। पहिले x = ३ मा परावर्तन गर्दा (६ - x, y) र पछि x = ७ मा गर्दा (१४ - (६ - x), y) = (x + ८, y) हुन्छ, जुन भेक्टर (८, ०) द्वारा स्थानान्तरण हो।",
-      "is_pro": false
-    },
-    {
       "id": 89,
+      "qid": 4221627947,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1963,6 +1500,7 @@
     },
     {
       "id": 90,
+      "qid": 1255734724,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -1984,29 +1522,8 @@
       "is_pro": false
     },
     {
-      "id": 91,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "एकजना विद्यार्थीले परवलय y = x² - २x - ८ र सरल रेखा y = x + २ को लेखाचित्र कोरेर तिनीहरूको प्रतिच्छेदन बिन्दु (intersection points) मार्फत कुन द्विघात समीकरण हल गर्न खोजिरहेको छ?",
-      "options": [
-        "x² - ३x - १० = ०",
-        "x² - x - ६ = ०",
-        "x² + ३x - १० = ०",
-        "x² - ३x - ६ = ०"
-      ],
-      "option_a": "x² - ३x - १० = ०",
-      "option_b": "x² - x - ६ = ०",
-      "option_c": "x² + ३x - १० = ०",
-      "option_d": "x² - ३x - ६ = ०",
-      "answer_index": 0,
-      "explanation": "दुवै समीकरणबाट y बराबर गर्दा x² - २x - ८ = x + २ => x² - २x - x - ८ - २ = ० => x² - ३x - १० = ० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 92,
+      "qid": 1581205051,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2029,6 +1546,7 @@
     },
     {
       "id": 93,
+      "qid": 3159241259,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2050,29 +1568,8 @@
       "is_pro": false
     },
     {
-      "id": 94,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "यदि sinA + sinB = a र cosA + cosB = b भए cos(A - B) को मान कति हुन्छ?",
-      "options": [
-        "(a² + b² - २)/२",
-        "(a² + b²)/२",
-        "(a² - b² - २)/२",
-        "(२ - a² - b²)/२"
-      ],
-      "option_a": "(a² + b² - २)/२",
-      "option_b": "(a² + b²)/२",
-      "option_c": "(a² - b² - २)/२",
-      "option_d": "(२ - a² - b²)/२",
-      "answer_index": 0,
-      "explanation": "दुवै समीकरणलाई वर्ग गरी जोड्दा (sinA + sinB)² + (cosA + cosB)² = a² + b² => (sin²A + cos²A) + (sin²B + cos²B) + २(sinA.sinB + cosA.cosB) = a² + b² => १ + १ + २cos(A - B) = a² + b² => cos(A - B) = (a² + b² - २)/२ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 95,
+      "qid": 3302863697,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2095,6 +1592,7 @@
     },
     {
       "id": 96,
+      "qid": 3510503526,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2117,6 +1615,7 @@
     },
     {
       "id": 97,
+      "qid": 2056937220,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2139,6 +1638,7 @@
     },
     {
       "id": 98,
+      "qid": 657913371,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2160,29 +1660,8 @@
       "is_pro": false
     },
     {
-      "id": 99,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "६० मिटर अग्लो टावरको टुप्पोबाट एउटा घरको छत र फेदमा हेर्दा क्रमशः ३०° र ६०° को अवनति कोण बन्छ भने सो घरको उचाइ कति होला?",
-      "options": [
-        "४० मि.",
-        "३० मि.",
-        "२० मि.",
-        "२०√३ मि."
-      ],
-      "option_a": "४० मि.",
-      "option_b": "३० मि.",
-      "option_c": "२० मि.",
-      "option_d": "२०√३ मि.",
-      "answer_index": 0,
-      "explanation": "टावरको उचाइ H = ६० मि.। घर र टावरबिचको दुरी x = ६० / tan६०° = ६०/√३ = २०√३ मि.। टावरको माथिल्लो भाग (घरको छतभन्दा माथि) h' = x.tan३०° = २०√३ × (१/√३) = २० मि.। तसर्थ घरको उचाइ = ६० - २० = ४० मिटर हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 100,
+      "qid": 338555148,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2205,6 +1684,7 @@
     },
     {
       "id": 101,
+      "qid": 2259347931,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2226,29 +1706,8 @@
       "is_pro": false
     },
     {
-      "id": 102,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Easy",
-      "question": "एकैचासो फलन (Identity function) को समीकरण तलका मध्ये कुन हो?",
-      "options": [
-        "f(x) = x",
-        "f(x) = c",
-        "f(x) = x²",
-        "f(x) = २x + १"
-      ],
-      "option_a": "f(x) = x",
-      "option_b": "f(x) = c",
-      "option_c": "f(x) = x²",
-      "option_d": "f(x) = २x + १",
-      "answer_index": 0,
-      "explanation": "जुन फलनमा प्रत्येक अवयवको प्रतिबिम्ब सोही अवयव नै हुन्छ अर्थात् f(x) = x हुन्छ, त्यस्तो फलनलाई एकैचासो फलन (Identity function) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 103,
+      "qid": 4026958632,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2271,6 +1730,7 @@
     },
     {
       "id": 104,
+      "qid": 3569425707,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2293,6 +1753,7 @@
     },
     {
       "id": 105,
+      "qid": 614851587,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2315,6 +1776,7 @@
     },
     {
       "id": 106,
+      "qid": 3524362668,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2336,29 +1798,8 @@
       "is_pro": false
     },
     {
-      "id": 107,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "वर्ग समीकरण y = x² - ४x + ५ को शीर्षबिन्दु (Vertex) कति हुन्छ?",
-      "options": [
-        "(२, १)",
-        "(-२, १)",
-        "(२, -१)",
-        "(४, ५)"
-      ],
-      "option_a": "(२, १)",
-      "option_b": "(-२, १)",
-      "option_c": "(२, -१)",
-      "option_d": "(४, ५)",
-      "answer_index": 0,
-      "explanation": "परवलय y = ax² + bx + c मा a = १, b = -४ र c = ५ छन्। शीर्षबिन्दुको x-निर्देशांक = -b/(२a) = -(-४)/(२×१) = २ र y-निर्देशांक = (२)² - ४(२) + ५ = १ हुने हुँदा शीर्षबिन्दु (२, १) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 108,
+      "qid": 391319084,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2381,6 +1822,7 @@
     },
     {
       "id": 109,
+      "qid": 2136828494,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2403,6 +1845,7 @@
     },
     {
       "id": 110,
+      "qid": 957928124,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2424,29 +1867,8 @@
       "is_pro": false
     },
     {
-      "id": 111,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "गुणोत्तर श्रेणी ३, ६, १२, २४, ... को छैटौँ पद (t₆) कति हुन्छ?",
-      "options": [
-        "९६",
-        "४८",
-        "१९२",
-        "६४"
-      ],
-      "option_a": "९६",
-      "option_b": "४८",
-      "option_c": "१९२",
-      "option_d": "६४",
-      "answer_index": 0,
-      "explanation": "यहाँ पहिलो पद (a) = ३ र समान अनुपात (r) = ६/३ = २ छ। सूत्र tn = ar^(n-१) अनुसार t₆ = ३ × २^(६-१) = ३ × ३२ = ९६ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 112,
+      "qid": 1755529185,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2469,6 +1891,7 @@
     },
     {
       "id": 113,
+      "qid": 1585765576,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2490,29 +1913,8 @@
       "is_pro": false
     },
     {
-      "id": 114,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Easy",
-      "question": "रेखीय प्रोग्रामिङ (Linear Programming) मा अधिकतम वा न्यूनतम मान पत्ता लगाइने फलनलाई के भनिन्छ?",
-      "options": [
-        "उद्देश्यमूलक फलन (Objective function)",
-        "सीमाबद्धता (Constraints)",
-        "सम्भाव्य क्षेत्र (Feasible region)",
-        "शीर्षबिन्दु (Vertices)"
-      ],
-      "option_a": "उद्देश्यमूलक फलन (Objective function)",
-      "option_b": "सीमाबद्धता (Constraints)",
-      "option_c": "सम्भाव्य क्षेत्र (Feasible region)",
-      "option_d": "शीर्षबिन्दु (Vertices)",
-      "answer_index": 0,
-      "explanation": "रेखीय प्रोग्रामिङमा निश्चित शर्तहरूको अधीनमा रही जुन रेखीय फलनको अधिकतम वा न्यूनतम मान निकालिन्छ, त्यसलाई उद्देश्यमूलक फलन (Objective function) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 115,
+      "qid": 1236895860,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2535,6 +1937,7 @@
     },
     {
       "id": 116,
+      "qid": 1370734252,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2557,6 +1960,7 @@
     },
     {
       "id": 117,
+      "qid": 3003749946,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2579,6 +1983,7 @@
     },
     {
       "id": 118,
+      "qid": 4117179769,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2600,29 +2005,8 @@
       "is_pro": false
     },
     {
-      "id": 119,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "फलन f(x) = (x² - ९) / (x - ३) बिन्दु x = ३ मा असन्तत (Discontinuous) छ। यसलाई x = ३ मा निरन्तर बनाउन f(३) को मान कति परिभाषित गर्नुपर्छ?",
-      "options": [
-        "६",
-        "०",
-        "३",
-        "९"
-      ],
-      "option_a": "६",
-      "option_b": "०",
-      "option_c": "३",
-      "option_d": "९",
-      "answer_index": 0,
-      "explanation": "x → ३ हुँदा lim (x→३) (x² - ९)/(x - ३) = lim (x→३) (x + ३) = ३ + ३ = ६ हुन्छ। तसर्थ निरन्तर हुन f(३) = ६ हुनुपर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 120,
+      "qid": 1402776192,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2645,6 +2029,7 @@
     },
     {
       "id": 121,
+      "qid": 2945189679,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2666,29 +2051,8 @@
       "is_pro": false
     },
     {
-      "id": 122,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "यदि म्याट्रिक्स A = [[४, २], [५, ३]] भए यसको डिटरमिन्यान्ट |A| को मान कति हुन्छ?",
-      "options": [
-        "२",
-        "२२",
-        "-२",
-        "१०"
-      ],
-      "option_a": "२",
-      "option_b": "२२",
-      "option_c": "-२",
-      "option_d": "१०",
-      "answer_index": 0,
-      "explanation": "२ × २ म्याट्रिक्स [[a, b], [c, d]] को डिटरमिन्यान्ट ad - bc हुन्छ। यहाँ |A| = (४ × ३) - (२ × ५) = १२ - १० = २ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 123,
+      "qid": 287691095,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2711,6 +2075,7 @@
     },
     {
       "id": 124,
+      "qid": 1294468824,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2733,6 +2098,7 @@
     },
     {
       "id": 125,
+      "qid": 99119832,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2755,6 +2121,7 @@
     },
     {
       "id": 126,
+      "qid": 1439787881,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2776,29 +2143,8 @@
       "is_pro": false
     },
     {
-      "id": 127,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "यदि |A| = ५ र Adj(A) = [[३, -१], [-२, २]] भए A⁻¹ को मान कति हुन्छ?",
-      "options": [
-        "(१/५) [[३, -१], [-२, २]]",
-        "५ [[३, -१], [-२, २]]",
-        "(१/५) [[२, १], [२, ३]]",
-        "[[१५, -५], [-१०, १०]]"
-      ],
-      "option_a": "(१/५) [[३, -१], [-२, २]]",
-      "option_b": "५ [[३, -१], [-२, २]]",
-      "option_c": "(१/५) [[२, १], [२, ३]]",
-      "option_d": "[[१५, -५], [-१०, १०]]",
-      "answer_index": 0,
-      "explanation": "विपरीत म्याट्रिक्सको सूत्र A⁻¹ = (१/|A|) × Adj(A) हुन्छ। यहाँ |A| = ५ भएकाले A⁻¹ = (१/५) [[३, -१], [-२, २]] हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 128,
+      "qid": 2727037050,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2821,6 +2167,7 @@
     },
     {
       "id": 129,
+      "qid": 4198252772,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2842,29 +2189,8 @@
       "is_pro": false
     },
     {
-      "id": 130,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "दुई सरल रेखाहरू y = √३x + ५ र y = (१/√३)x - २ बीचको न्यून कोण कति हुन्छ?",
-      "options": [
-        "३०°",
-        "४५°",
-        "६०°",
-        "९०°"
-      ],
-      "option_a": "३०°",
-      "option_b": "४५°",
-      "option_c": "६०°",
-      "option_d": "९०°",
-      "answer_index": 0,
-      "explanation": "यहाँ m₁ = √३ = tan ६०° र m₂ = १/√३ = tan ३०° छ। रेखाहरूले x-अक्षसँग बनाउने कोणहरू ६०° र ३०° भएकाले तिनका बीचको कोण ६०° - ३०° = ३०° हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 131,
+      "qid": 4177741542,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2887,6 +2213,7 @@
     },
     {
       "id": 132,
+      "qid": 1418385083,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2909,6 +2236,7 @@
     },
     {
       "id": 133,
+      "qid": 3408433426,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2931,6 +2259,7 @@
     },
     {
       "id": 134,
+      "qid": 72434166,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2952,29 +2281,8 @@
       "is_pro": false
     },
     {
-      "id": 135,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Easy",
-      "question": "केन्द्रबिन्दु (०, ०) र अर्धव्यास r भएको वृत्तको समीकरण कुन हो?",
-      "options": [
-        "x² + y² = r²",
-        "(x - h)² + (y - k)² = r",
-        "x² - y² = r²",
-        "x² + y² + २gx + २fy + c = ०"
-      ],
-      "option_a": "x² + y² = r²",
-      "option_b": "(x - h)² + (y - k)² = r",
-      "option_c": "x² - y² = r²",
-      "option_d": "x² + y² + २gx + २fy + c = ०",
-      "answer_index": 0,
-      "explanation": "मूलबिन्दु (०, ०) मा केन्द्र र r अर्धव्यास भएको वृत्तको प्रामाणिक समीकरण (Standard Equation) x² + y² = r² हो।",
-      "is_pro": false
-    },
-    {
       "id": 136,
+      "qid": 4123298086,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -2997,6 +2305,7 @@
     },
     {
       "id": 137,
+      "qid": 823777702,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3019,6 +2328,7 @@
     },
     {
       "id": 138,
+      "qid": 4156055950,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3041,6 +2351,7 @@
     },
     {
       "id": 139,
+      "qid": 916101076,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3062,51 +2373,8 @@
       "is_pro": false
     },
     {
-      "id": 140,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "शंकु (Cone) लाई समतलले यसको आधारसँग समानान्तर हुने गरी काट्दा बन्ने शंकुको छेद (Conic section) कुन हो?",
-      "options": [
-        "वृत्त (Circle)",
-        "परवलय (Parabola)",
-        "दीर्घवृत्त (Ellipse)",
-        "अतिपरवलय (Hyperbola)"
-      ],
-      "option_a": "वृत्त (Circle)",
-      "option_b": "परवलय (Parabola)",
-      "option_c": "दीर्घवृत्त (Ellipse)",
-      "option_d": "अतिपरवलय (Hyperbola)",
-      "answer_index": 0,
-      "explanation": "सोझो वृत्ताकार शंकुलाई समतलले आधारसँग समानान्तर (अक्षसँग ९०° को कोणमा) काट्दा बन्ने आकृति वृत्त (Circle) हो।",
-      "is_pro": false
-    },
-    {
-      "id": 141,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Easy",
-      "question": "त्रिकोणमितीय सूत्र अनुसार sin २A को मान तलका मध्ये कुन हो?",
-      "options": [
-        "२ sin A cos A",
-        "cos²A - sin²A",
-        "२ sin A",
-        "१ - २ sin²A"
-      ],
-      "option_a": "२ sin A cos A",
-      "option_b": "cos²A - sin²A",
-      "option_c": "२ sin A",
-      "option_d": "१ - २ sin²A",
-      "answer_index": 0,
-      "explanation": "द्विगुणित कोण (Double angle) को त्रिकोणमितीय सर्वसमिका अनुसार sin २A = २ sin A cos A हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 142,
+      "qid": 3082759926,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3129,6 +2397,7 @@
     },
     {
       "id": 143,
+      "qid": 2828954149,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3151,6 +2420,7 @@
     },
     {
       "id": 144,
+      "qid": 3629688824,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3172,29 +2442,8 @@
       "is_pro": false
     },
     {
-      "id": 145,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "यदि sin θ = १/२ भए sin ३θ को मान कति हुन्छ?",
-      "options": [
-        "१",
-        "१/२",
-        "√३/२",
-        "०"
-      ],
-      "option_a": "१",
-      "option_b": "१/२",
-      "option_c": "√३/२",
-      "option_d": "०",
-      "answer_index": 0,
-      "explanation": "सूत्र sin ३θ = ३ sin θ - ४ sin³θ मा sin θ = १/२ राख्दा ३(१/२) - ४(१/८) = ३/२ - १/२ = २/२ = १ हुन्छ। (वा θ = ३०° हुँदा sin ९०° = १)।",
-      "is_pro": false
-    },
-    {
       "id": 146,
+      "qid": 2267810081,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3217,6 +2466,7 @@
     },
     {
       "id": 147,
+      "qid": 910397214,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3239,6 +2489,7 @@
     },
     {
       "id": 148,
+      "qid": 1187101861,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3260,29 +2511,8 @@
       "is_pro": false
     },
     {
-      "id": 149,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "यदि A + B + C = १८०° भए sin(A + B) बराबर कति हुन्छ?",
-      "options": [
-        "sin C",
-        "-sin C",
-        "cos C",
-        "-cos C"
-      ],
-      "option_a": "sin C",
-      "option_b": "-sin C",
-      "option_c": "cos C",
-      "option_d": "-cos C",
-      "answer_index": 0,
-      "explanation": "A + B + C = १८०° हुँदा A + B = १८०° - C हुन्छ। दुवैतिर sin लिँदा sin(A + B) = sin(१८०° - C) = sin C हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 150,
+      "qid": 2958764606,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3305,6 +2535,7 @@
     },
     {
       "id": 151,
+      "qid": 1405293693,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3327,6 +2558,7 @@
     },
     {
       "id": 152,
+      "qid": 1144346418,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3349,6 +2581,7 @@
     },
     {
       "id": 153,
+      "qid": 3208008945,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3371,6 +2604,7 @@
     },
     {
       "id": 154,
+      "qid": 605883069,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3392,29 +2626,8 @@
       "is_pro": false
     },
     {
-      "id": 155,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "यदि A + B + C = π भए tan A + tan B + tan C बराबर कति हुन्छ?",
-      "options": [
-        "tan A ⋅ tan B ⋅ tan C",
-        "१",
-        "०",
-        "- tan A ⋅ tan B ⋅ tan C"
-      ],
-      "option_a": "tan A ⋅ tan B ⋅ tan C",
-      "option_b": "१",
-      "option_c": "०",
-      "option_d": "- tan A ⋅ tan B ⋅ tan C",
-      "answer_index": 0,
-      "explanation": "A + B = π - C हुँदा tan(A + B) = tan(π - C) = -tan C हुन्छ। सूत्र (tan A + tan B)/(१ - tan A tan B) = -tan C हल गर्दा tan A + tan B + tan C = tan A ⋅ tan B ⋅ tan C आउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 156,
+      "qid": 2470422121,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3437,6 +2650,7 @@
     },
     {
       "id": 157,
+      "qid": 3117371126,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3459,6 +2673,7 @@
     },
     {
       "id": 158,
+      "qid": 3932978265,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3480,29 +2695,8 @@
       "is_pro": false
     },
     {
-      "id": 159,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Easy",
-      "question": "दुई भेक्टरहरू a⃗ र b⃗ बीचको कोण θ भए तिनको स्केलर गुणनफल (Dot Product) a⃗ ⋅ b⃗ को सूत्र कुन हो?",
-      "options": [
-        "|a⃗| |b⃗| cos θ",
-        "|a⃗| |b⃗| sin θ",
-        "ab tan θ",
-        "|a⃗| + |b⃗| cos θ"
-      ],
-      "option_a": "|a⃗| |b⃗| cos θ",
-      "option_b": "|a⃗| |b⃗| sin θ",
-      "option_c": "ab tan θ",
-      "option_d": "|a⃗| + |b⃗| cos θ",
-      "answer_index": 0,
-      "explanation": "दुई भेक्टरहरू a⃗ र b⃗ को स्केलर वा डट गुणनफल भन्नाले तिनका परिमाण र बीचको कोणको cosine को गुणनफल |a⃗| |b⃗| cos θ बुझिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 160,
+      "qid": 439741931,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3525,6 +2719,7 @@
     },
     {
       "id": 161,
+      "qid": 1071356336,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3547,6 +2742,7 @@
     },
     {
       "id": 162,
+      "qid": 2525987956,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3569,6 +2765,7 @@
     },
     {
       "id": 163,
+      "qid": 3310895759,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3590,29 +2787,8 @@
       "is_pro": false
     },
     {
-      "id": 164,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "यदि |a⃗| = ४, |b⃗| = ५ र a⃗ ⋅ b⃗ = १०√३ भए भेक्टर a⃗ र b⃗ बीचको कोण कति हुन्छ?",
-      "options": [
-        "३०°",
-        "६०°",
-        "४५°",
-        "९०°"
-      ],
-      "option_a": "३०°",
-      "option_b": "६०°",
-      "option_c": "४५°",
-      "option_d": "९०°",
-      "answer_index": 0,
-      "explanation": "सूत्र cos θ = (a⃗ ⋅ b⃗) / (|a⃗| |b⃗|) अनुसार cos θ = १०√३ / (४ × ५) = १०√३ / २० = √३ / २ हुन्छ, जसबाट θ = ३०° प्राप्त हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 165,
+      "qid": 1573915544,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3635,6 +2811,7 @@
     },
     {
       "id": 166,
+      "qid": 4060707265,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3657,6 +2834,7 @@
     },
     {
       "id": 167,
+      "qid": 1131759253,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3678,29 +2856,8 @@
       "is_pro": false
     },
     {
-      "id": 168,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Easy",
-      "question": "मूलबिन्दुको वरिपरि +९०° (घडीको विपरीत दिशामा) परिक्रमण (Rotation) गराउने २×२ रूपान्तरण म्याट्रिक्स कुन हो?",
-      "options": [
-        "[[०, -१], [१, ०]]",
-        "[[०, १], [-१, ०]]",
-        "[[-१, ०], [०, -१]]",
-        "[[१, ०], [०, -१]]"
-      ],
-      "option_a": "[[०, -१], [१, ०]]",
-      "option_b": "[[०, १], [-१, ०]]",
-      "option_c": "[[-१, ०], [०, -१]]",
-      "option_d": "[[१, ०], [०, -१]]",
-      "answer_index": 0,
-      "explanation": "मूलबिन्दुको वरिपरि +९०° मा परिक्रमण गर्दा P(x, y) → P'(-y, x) हुन्छ, जसको रूपान्तरण म्याट्रिक्स [[०, -१], [१, ०]] हो।",
-      "is_pro": false
-    },
-    {
       "id": 169,
+      "qid": 4062781580,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3723,6 +2880,7 @@
     },
     {
       "id": 170,
+      "qid": 1017612795,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3745,6 +2903,7 @@
     },
     {
       "id": 171,
+      "qid": 3522803686,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3767,6 +2926,7 @@
     },
     {
       "id": 172,
+      "qid": 2641268401,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3788,29 +2948,8 @@
       "is_pro": false
     },
     {
-      "id": 173,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "रूपान्तरण म्याट्रिक्स [[२, १], [०, ३]] द्वारा एकाइ वर्ग (Unit square) लाई रूपान्तरण गर्दा बन्ने समानान्तर चतुर्भुजको क्षेत्रफल कति हुन्छ?",
-      "options": [
-        "६ वर्ग एकाइ",
-        "५ वर्ग एकाइ",
-        "१ वर्ग एकाइ",
-        "७ वर्ग एकाइ"
-      ],
-      "option_a": "६ वर्ग एकाइ",
-      "option_b": "५ वर्ग एकाइ",
-      "option_c": "१ वर्ग एकाइ",
-      "option_d": "७ वर्ग एकाइ",
-      "answer_index": 0,
-      "explanation": "नयाँ आकृतिको क्षेत्रफल = |म्याट्रिक्सको डिटरमिन्यान्ट| × एकाइ वर्गको क्षेत्रफल। यहाँ |A| = (२×३) - (१×०) = ६ भएकाले क्षेत्रफल = ६ × १ = ६ वर्ग एकाइ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 174,
+      "qid": 2040125124,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3833,6 +2972,7 @@
     },
     {
       "id": 175,
+      "qid": 1934809791,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3854,29 +2994,8 @@
       "is_pro": false
     },
     {
-      "id": 176,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "यदि कुनै तथ्याङ्कमा Q₁ = २० र Q₃ = ४० भए चतुर्थांशक भिन्नता (QD) र यसको गुणांक कति हुन्छ?",
-      "options": [
-        "QD = १०, गुणांक = १/३",
-        "QD = २०, गुणांक = १/३",
-        "QD = १०, गुणांक = १/२",
-        "QD = ३०, गुणांक = २/३"
-      ],
-      "option_a": "QD = १०, गुणांक = १/३",
-      "option_b": "QD = २०, गुणांक = १/३",
-      "option_c": "QD = १०, गुणांक = १/२",
-      "option_d": "QD = ३०, गुणांक = २/३",
-      "answer_index": 0,
-      "explanation": "QD = (४० - २०)/२ = १० हुन्छ र गुणांक = (४० - २०)/(४० + २०) = २०/६० = १/३ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 177,
+      "qid": 2372292004,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3899,6 +3018,7 @@
     },
     {
       "id": 178,
+      "qid": 1884810238,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3921,6 +3041,7 @@
     },
     {
       "id": 179,
+      "qid": 2870507519,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3942,29 +3063,8 @@
       "is_pro": false
     },
     {
-      "id": 180,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "प्रथम ५ वटा प्राकृतिक संख्याहरू १, २, ३, ४, ५ को स्तरीय भिन्नता (Standard Deviation) कति हुन्छ?",
-      "options": [
-        "√२",
-        "२",
-        "१.५",
-        "√३"
-      ],
-      "option_a": "√२",
-      "option_b": "२",
-      "option_c": "१.५",
-      "option_d": "√३",
-      "answer_index": 0,
-      "explanation": "n प्राकृतिक संख्याहरूको स्तरीय भिन्नता σ = √[(n² - १)/१२] हुन्छ। यहाँ n = ५ राख्दा σ = √[(२५ - १)/१२] = √(२४/१२) = √२ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 181,
+      "qid": 41195892,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -3987,6 +3087,7 @@
     },
     {
       "id": 182,
+      "qid": 2850804379,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -4008,29 +3109,8 @@
       "is_pro": false
     },
     {
-      "id": 183,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Easy",
-      "question": "cos(A - B) को विस्तारित सूत्र कुन हो?",
-      "options": [
-        "cos A cos B + sin A sin B",
-        "cos A cos B - sin A sin B",
-        "sin A cos B - cos A sin B",
-        "sin A cos B + cos A sin B"
-      ],
-      "option_a": "cos A cos B + sin A sin B",
-      "option_b": "cos A cos B - sin A sin B",
-      "option_c": "sin A cos B - cos A sin B",
-      "option_d": "sin A cos B + cos A sin B",
-      "answer_index": 0,
-      "explanation": "संयुक्त कोण (Compound angle) को सूत्र अनुसार cos(A - B) = cos A cos B + sin A sin B हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 184,
+      "qid": 2848582392,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -4052,29 +3132,8 @@
       "is_pro": false
     },
     {
-      "id": 185,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Hard",
-      "question": "रेखा x = ३ मा बिन्दु P(-१, ४) लाई परावर्तन गर्दा बन्ने प्रतिबिम्ब बिन्दु P' को निर्देशांक कति हुन्छ?",
-      "options": [
-        "(७, ४)",
-        "(-७, ४)",
-        "(-१, २)",
-        "(५, ४)"
-      ],
-      "option_a": "(७, ४)",
-      "option_b": "(-७, ४)",
-      "option_c": "(-१, २)",
-      "option_d": "(५, ४)",
-      "answer_index": 0,
-      "explanation": "रेखा x = a मा बिन्दु (x, y) को परावर्तन गर्दा प्रतिबिम्ब (२a - x, y) हुन्छ। यहाँ a = ३, x = -१ र y = ४ राख्दा (२×३ - (-१), ४) = (७, ४) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 186,
+      "qid": 1546013264,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -4097,6 +3156,7 @@
     },
     {
       "id": 187,
+      "qid": 2695547308,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -4119,6 +3179,7 @@
     },
     {
       "id": 188,
+      "qid": 3327401158,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -4141,6 +3202,7 @@
     },
     {
       "id": 189,
+      "qid": 755386529,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -4162,29 +3224,8 @@
       "is_pro": false
     },
     {
-      "id": 190,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "२ sin²(π/४) + cos(π/३) को मान कति हुन्छ?",
-      "options": [
-        "३/२",
-        "१",
-        "२",
-        "१/२"
-      ],
-      "option_a": "३/२",
-      "option_b": "१",
-      "option_c": "२",
-      "option_d": "१/२",
-      "answer_index": 0,
-      "explanation": "यहाँ π/४ = ४५° र π/३ = ६०° हो। मान राख्दा २(१/√२)² + १/२ = २(१/२) + १/२ = १ + १/२ = ३/२ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 191,
+      "qid": 310018860,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -4207,6 +3248,7 @@
     },
     {
       "id": 192,
+      "qid": 2894982768,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -4229,6 +3271,7 @@
     },
     {
       "id": 193,
+      "qid": 1130449533,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -4250,29 +3293,8 @@
       "is_pro": false
     },
     {
-      "id": 194,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "तथ्याङ्क १०, १५, २०, २५, ३० को विस्तार (Range) र विस्तारको गुणांक (Coefficient of Range) कति हुन्छ?",
-      "options": [
-        "विस्तार = २०, गुणांक = ०.५",
-        "विस्तार = १५, गुणांक = ०.५",
-        "विस्तार = २०, गुणांक = ०.२५",
-        "विस्तार = ४०, गुणांक = ०.५"
-      ],
-      "option_a": "विस्तार = २०, गुणांक = ०.५",
-      "option_b": "विस्तार = १५, गुणांक = ०.५",
-      "option_c": "विस्तार = २०, गुणांक = ०.२५",
-      "option_d": "विस्तार = ४०, गुणांक = ०.५",
-      "answer_index": 0,
-      "explanation": "यहाँ अधिकतम मान (L) = ३० र न्यूनतम मान (S) = १० छ। विस्तार = L - S = २० र गुणांक = (L - S)/(L + S) = २०/४० = ०.५ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 195,
+      "qid": 1901444805,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -4295,6 +3317,7 @@
     },
     {
       "id": 196,
+      "qid": 184860514,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -4316,29 +3339,8 @@
       "is_pro": false
     },
     {
-      "id": 197,
-      "main_cat_id": 3,
-      "main_cat_name": "Secondary Level SEE - Prep",
-      "sub_cat_id": "113",
-      "sub_cat_name": "Optional Mathematics",
-      "level": "Medium",
-      "question": "अविच्छिन्न श्रेणीमा स्तरीय भिन्नता (Standard Deviation) निकाल्ने प्रत्यक्ष सूत्र कुन हो?",
-      "options": [
-        "√[∑f(m - X̄)² / N]",
-        "∑f|m - X̄| / N",
-        "√[∑(m - X̄) / N]",
-        "∑f(m - X̄)² / N"
-      ],
-      "option_a": "√[∑f(m - X̄)² / N]",
-      "option_b": "∑f|m - X̄| / N",
-      "option_c": "√[∑(m - X̄) / N]",
-      "option_d": "∑f(m - X̄)² / N",
-      "answer_index": 0,
-      "explanation": "अविच्छिन्न श्रेणीमा वर्गान्तरको मध्यमान m, बारम्बारता f र कुल संख्या N हुँदा स्तरीय भिन्नता σ = √[∑f(m - X̄)² / N] हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 198,
+      "qid": 2636950507,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -4361,6 +3363,7 @@
     },
     {
       "id": 199,
+      "qid": 1685348957,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
@@ -4383,6 +3386,7 @@
     },
     {
       "id": 200,
+      "qid": 683750706,
       "main_cat_id": 3,
       "main_cat_name": "Secondary Level SEE - Prep",
       "sub_cat_id": "113",
