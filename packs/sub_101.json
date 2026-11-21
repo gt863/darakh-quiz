@@ -1,32 +1,11 @@
 {
   "sub_cat_id": "101",
-  "data_version": 1794491195766,
-  "total_questions": 215,
+  "data_version": 1795279225068,
+  "total_questions": 161,
   "questions": [
     {
-      "id": 1,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "नेपालको राष्ट्रिय रङ कुन हो?",
-      "options": [
-        "सिम्रिक",
-        "रातो",
-        "नीलो",
-        "सेतो"
-      ],
-      "option_a": "सिम्रिक",
-      "option_b": "रातो",
-      "option_c": "नीलो",
-      "option_d": "सेतो",
-      "answer_index": 0,
-      "explanation": "नेपालको राष्ट्रिय रङ सिम्रिक हो।",
-      "is_pro": false
-    },
-    {
       "id": 2,
+      "qid": 1370046441,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -49,6 +28,7 @@
     },
     {
       "id": 3,
+      "qid": 1438587582,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 3269561442,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -92,29 +73,8 @@
       "is_pro": false
     },
     {
-      "id": 5,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "नेपालको राष्ट्रिय झण्डामा कतिवटा कुनाहरू (त्रिभुज) छन्?",
-      "options": [
-        "२ (दुई)",
-        "३ (तीन)",
-        "४ (चार)",
-        "५ (पाँच)"
-      ],
-      "option_a": "२ (दुई)",
-      "option_b": "३ (तीन)",
-      "option_c": "४ (चार)",
-      "option_d": "५ (पाँच)",
-      "answer_index": 0,
-      "explanation": "नेपालको झण्डा विश्वमै फरक दुईवटा त्रिभुज मिलेर बनेको छ।",
-      "is_pro": false
-    },
-    {
       "id": 6,
+      "qid": 3647578365,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -137,6 +97,7 @@
     },
     {
       "id": 7,
+      "qid": 3805410741,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -159,6 +120,7 @@
     },
     {
       "id": 8,
+      "qid": 4057504194,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -180,29 +142,8 @@
       "is_pro": false
     },
     {
-      "id": 9,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "नेपालको राष्ट्रिय हतियार कुन हो?",
-      "options": [
-        "खुकुरी",
-        "तरबार",
-        "भाला",
-        "धनुष"
-      ],
-      "option_a": "खुकुरी",
-      "option_b": "तरबार",
-      "option_c": "भाला",
-      "option_d": "धनुष",
-      "answer_index": 0,
-      "explanation": "नेपालीहरूको वीरताको प्रतीक खुकुरीलाई राष्ट्रिय हतियार मानिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 10,
+      "qid": 628908558,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -225,6 +166,7 @@
     },
     {
       "id": 11,
+      "qid": 4118906220,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -247,6 +189,7 @@
     },
     {
       "id": 12,
+      "qid": 3864826866,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -268,29 +211,8 @@
       "is_pro": false
     },
     {
-      "id": 13,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "नेपालको सबैभन्दा लामो नदी कुन हो?",
-      "options": [
-        "कर्णाली",
-        "कोशी",
-        "गण्डकी",
-        "बागमती"
-      ],
-      "option_a": "कर्णाली",
-      "option_b": "कोशी",
-      "option_c": "गण्डकी",
-      "option_d": "बागमती",
-      "answer_index": 0,
-      "explanation": "कर्णाली नदी नेपालको सबैभन्दा लामो नदी हो।",
-      "is_pro": false
-    },
-    {
       "id": 14,
+      "qid": 2905929935,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -313,6 +235,7 @@
     },
     {
       "id": 15,
+      "qid": 1668803019,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -335,6 +258,7 @@
     },
     {
       "id": 16,
+      "qid": 2943009183,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -356,29 +280,8 @@
       "is_pro": false
     },
     {
-      "id": 17,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "नेपालको राजधानी सहर कुन हो?",
-      "options": [
-        "काठमाडौँ",
-        "पोखरा",
-        "विराटनगर",
-        "भरतपुर"
-      ],
-      "option_a": "काठमाडौँ",
-      "option_b": "पोखरा",
-      "option_c": "विराटनगर",
-      "option_d": "भरतपुर",
-      "answer_index": 0,
-      "explanation": "नेपालको प्रशासनिक तथा मुख्य सहर (राजधानी) काठमाडौँ हो।",
-      "is_pro": false
-    },
-    {
       "id": 18,
+      "qid": 2822304505,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -401,6 +304,7 @@
     },
     {
       "id": 19,
+      "qid": 1030282467,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -423,6 +327,7 @@
     },
     {
       "id": 20,
+      "qid": 304451145,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -444,29 +349,8 @@
       "is_pro": false
     },
     {
-      "id": 21,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "संसारको सबैभन्दा ठूलो महादेश कुन हो?",
-      "options": [
-        "एसिया",
-        "अफ्रिका",
-        "युरोप",
-        "अष्ट्रेलिया"
-      ],
-      "option_a": "एसिया",
-      "option_b": "अफ्रिका",
-      "option_c": "युरोप",
-      "option_d": "अष्ट्रेलिया",
-      "answer_index": 0,
-      "explanation": "क्षेत्रफल र जनसङ्ख्या दुवै हिसाबले एसिया संसारको सबैभन्दा ठूलो महादेश हो।",
-      "is_pro": false
-    },
-    {
       "id": 22,
+      "qid": 2059275129,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -489,6 +373,7 @@
     },
     {
       "id": 23,
+      "qid": 685711864,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -511,6 +396,7 @@
     },
     {
       "id": 24,
+      "qid": 1222846554,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -532,29 +418,8 @@
       "is_pro": false
     },
     {
-      "id": 25,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "सूर्य कुन दिशाबाट उदाउँछ?",
-      "options": [
-        "पूर्व",
-        "पश्चिम",
-        "उत्तर",
-        "दक्षिण"
-      ],
-      "option_a": "पूर्व",
-      "option_b": "पश्चिम",
-      "option_c": "उत्तर",
-      "option_d": "दक्षिण",
-      "answer_index": 0,
-      "explanation": "पृथ्वीले आफ्नो अक्षमा पश्चिमबाट पूर्वतिर घुम्ने हुनाले सूर्य पूर्वबाट उदाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 26,
+      "qid": 4244787914,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -577,6 +442,7 @@
     },
     {
       "id": 27,
+      "qid": 121600496,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -599,6 +465,7 @@
     },
     {
       "id": 28,
+      "qid": 2634242409,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -620,29 +487,8 @@
       "is_pro": false
     },
     {
-      "id": 29,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "१ वर्षमा कति महिना हुन्छन्?",
-      "options": [
-        "१२ (बाह्र)",
-        "१० (दश)",
-        "१५ (पन्ध्र)",
-        "२४ (चौबीस)"
-      ],
-      "option_a": "१२ (बाह्र)",
-      "option_b": "१० (दश)",
-      "option_c": "१५ (पन्ध्र)",
-      "option_d": "२४ (चौबीस)",
-      "answer_index": 0,
-      "explanation": "एक वर्षमा जम्मा १२ महिनाहरू हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 30,
+      "qid": 3815190698,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -665,6 +511,7 @@
     },
     {
       "id": 31,
+      "qid": 1035106651,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -687,6 +534,7 @@
     },
     {
       "id": 32,
+      "qid": 1912160558,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -708,29 +556,8 @@
       "is_pro": false
     },
     {
-      "id": 33,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "मानिसको शरीरमा रगत पम्प गर्ने अङ्ग कुन हो?",
-      "options": [
-        "मुटु",
-        "फोक्सो",
-        "कलेजो",
-        "मस्तिष्क"
-      ],
-      "option_a": "मुटु",
-      "option_b": "फोक्सो",
-      "option_c": "कलेजो",
-      "option_d": "मस्तिष्क",
-      "answer_index": 0,
-      "explanation": "मुटुले शरीरभरि रगत पठाउने (पम्प गर्ने) काम गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 34,
+      "qid": 2657712077,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -753,6 +580,7 @@
     },
     {
       "id": 35,
+      "qid": 1774890459,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -775,6 +603,7 @@
     },
     {
       "id": 36,
+      "qid": 3712599216,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -797,6 +626,7 @@
     },
     {
       "id": 37,
+      "qid": 3311703686,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -819,6 +649,7 @@
     },
     {
       "id": 38,
+      "qid": 1864423262,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -841,6 +672,7 @@
     },
     {
       "id": 39,
+      "qid": 3625260568,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -863,6 +695,7 @@
     },
     {
       "id": 40,
+      "qid": 3450693884,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -884,29 +717,8 @@
       "is_pro": false
     },
     {
-      "id": 41,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "हामीले सास फेर्दा कुन ग्यास बाहिर फाल्छौँ?",
-      "options": [
-        "कार्बन डाइअक्साइड",
-        "अक्सिजन",
-        "नाइट्रोजन",
-        "हेलियम"
-      ],
-      "option_a": "कार्बन डाइअक्साइड",
-      "option_b": "अक्सिजन",
-      "option_c": "नाइट्रोजन",
-      "option_d": "हेलियम",
-      "answer_index": 0,
-      "explanation": "हाम्रो शरीरले प्रयोग गरिसकेको हावा कार्बन डाइअक्साइडको रूपमा बाहिर फाल्छौँ।",
-      "is_pro": false
-    },
-    {
       "id": 42,
+      "qid": 3090002847,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -929,6 +741,7 @@
     },
     {
       "id": 43,
+      "qid": 1205593359,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -951,6 +764,7 @@
     },
     {
       "id": 44,
+      "qid": 208359388,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -972,29 +786,8 @@
       "is_pro": false
     },
     {
-      "id": 45,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "संसारको सबैभन्दा ठूलो जलचर प्राणी (पानीमा बस्ने) कुन हो?",
-      "options": [
-        "नीलो ह्वेल (Blue Whale)",
-        "सार्क",
-        "डल्फिन",
-        "गोही"
-      ],
-      "option_a": "नीलो ह्वेल (Blue Whale)",
-      "option_b": "सार्क",
-      "option_c": "डल्फिन",
-      "option_d": "गोही",
-      "answer_index": 0,
-      "explanation": "नीलो ह्वेल संसारकै सबैभन्दा ठूलो प्राणी हो।",
-      "is_pro": false
-    },
-    {
       "id": 46,
+      "qid": 41469125,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1017,6 +810,7 @@
     },
     {
       "id": 47,
+      "qid": 442972905,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1039,6 +833,7 @@
     },
     {
       "id": 48,
+      "qid": 1099491648,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1060,29 +855,8 @@
       "is_pro": false
     },
     {
-      "id": 49,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Hard",
-      "question": "एकीकृत नेपालका पहिलो राजा को हुन्?",
-      "options": [
-        "पृथ्वीनारायण शाह",
-        "ज्ञानेन्द्र शाह",
-        "त्रिभुवन शाह",
-        "महेन्द्र शाह"
-      ],
-      "option_a": "पृथ्वीनारायण शाह",
-      "option_b": "ज्ञानेन्द्र शाह",
-      "option_c": "त्रिभुवन शाह",
-      "option_d": "महेन्द्र शाह",
-      "answer_index": 0,
-      "explanation": "बाइसे-चौबीसे राज्यलाई एकीकरण गरी नेपाल बनाउने पहिलो राजा पृथ्वीनारायण शाह हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 50,
+      "qid": 3282671823,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1105,6 +879,7 @@
     },
     {
       "id": 51,
+      "qid": 3366356112,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1127,6 +902,7 @@
     },
     {
       "id": 52,
+      "qid": 1034320677,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1148,29 +924,8 @@
       "is_pro": false
     },
     {
-      "id": 53,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "हिन्दू नेपालीहरूको सबैभन्दा ठूलो चाड कुन हो?",
-      "options": [
-        "दसैँ",
-        "तिहार",
-        "तीज",
-        "छठ"
-      ],
-      "option_a": "दसैँ",
-      "option_b": "तिहार",
-      "option_c": "तीज",
-      "option_d": "छठ",
-      "answer_index": 0,
-      "explanation": "दुर्गा भवानीको पूजा गरी मान्यजनबाट टीका थाप्ने दसैँ सबैभन्दा ठूलो चाड हो।",
-      "is_pro": false
-    },
-    {
       "id": 54,
+      "qid": 3502360423,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1193,6 +948,7 @@
     },
     {
       "id": 55,
+      "qid": 2697762166,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1215,6 +971,7 @@
     },
     {
       "id": 56,
+      "qid": 2344537248,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1236,29 +993,8 @@
       "is_pro": false
     },
     {
-      "id": 57,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "इसाई (क्रिश्चियन) धर्मको पवित्र ग्रन्थ कुन हो?",
-      "options": [
-        "बाइबल",
-        "कुरान",
-        "त्रिपिटक",
-        "गीता"
-      ],
-      "option_a": "बाइबल",
-      "option_b": "कुरान",
-      "option_c": "त्रिपिटक",
-      "option_d": "गीता",
-      "answer_index": 0,
-      "explanation": "इसाई धर्मावलम्बीहरूको पवित्र ग्रन्थ बाइबल हो।",
-      "is_pro": false
-    },
-    {
       "id": 58,
+      "qid": 1369633539,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1281,6 +1017,7 @@
     },
     {
       "id": 59,
+      "qid": 3947298206,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1303,6 +1040,7 @@
     },
     {
       "id": 60,
+      "qid": 2536564742,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1324,29 +1062,8 @@
       "is_pro": false
     },
     {
-      "id": 61,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Hard",
-      "question": "अधिक वर्ष (Leap year) मा कति दिन हुन्छन्?",
-      "options": [
-        "३६६ दिन",
-        "३६५ दिन",
-        "३६० दिन",
-        "३६४ दिन"
-      ],
-      "option_a": "३६६ दिन",
-      "option_b": "३६५ दिन",
-      "option_c": "३६० दिन",
-      "option_d": "३६४ दिन",
-      "answer_index": 0,
-      "explanation": "हरेक ४ वर्षमा आउने लिप इयरमा ३६६ दिन हुन्छन् (फेब्रुअरी २९ दिनको हुन्छ)।",
-      "is_pro": false
-    },
-    {
       "id": 62,
+      "qid": 4058133750,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1369,6 +1086,7 @@
     },
     {
       "id": 63,
+      "qid": 3965275357,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1390,29 +1108,8 @@
       "is_pro": false
     },
     {
-      "id": 64,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "३ वटा पाङ्ग्रा हुने सवारी साधन कुन हो?",
-      "options": [
-        "टेम्पो (अटो)",
-        "साइकल",
-        "कार",
-        "मोटरसाइकल"
-      ],
-      "option_a": "टेम्पो (अटो)",
-      "option_b": "साइकल",
-      "option_c": "कार",
-      "option_d": "मोटरसाइकल",
-      "answer_index": 0,
-      "explanation": "टेम्पो वा अटो रिक्साको ३ वटा पाङ्ग्रा हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 65,
+      "qid": 3720550703,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1435,6 +1132,7 @@
     },
     {
       "id": 66,
+      "qid": 3046117033,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1457,6 +1155,7 @@
     },
     {
       "id": 67,
+      "qid": 3037822995,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1478,29 +1177,8 @@
       "is_pro": false
     },
     {
-      "id": 68,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "विद्यालयमा विद्यार्थीलाई पढाउने व्यक्तिलाई के भनिन्छ?",
-      "options": [
-        "शिक्षक / शिक्षिका",
-        "डाक्टर",
-        "किसान",
-        "ड्राइभर"
-      ],
-      "option_a": "शिक्षक / शिक्षिका",
-      "option_b": "डाक्टर",
-      "option_c": "किसान",
-      "option_d": "ड्राइभर",
-      "answer_index": 0,
-      "explanation": "विद्यालयमा ज्ञान दिने व्यक्ति शिक्षक हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 69,
+      "qid": 2142210407,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1523,6 +1201,7 @@
     },
     {
       "id": 70,
+      "qid": 98445348,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1545,6 +1224,7 @@
     },
     {
       "id": 71,
+      "qid": 2518538550,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1566,29 +1246,8 @@
       "is_pro": false
     },
     {
-      "id": 72,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "छिमेकी देश चीनको राजधानी कुन हो?",
-      "options": [
-        "बेइजिङ",
-        "साङ्घाई",
-        "हङकङ",
-        "ल्हासा"
-      ],
-      "option_a": "बेइजिङ",
-      "option_b": "साङ्घाई",
-      "option_c": "हङकङ",
-      "option_d": "ल्हासा",
-      "answer_index": 0,
-      "explanation": "चीनको राजधानी सहर बेइजिङ हो।",
-      "is_pro": false
-    },
-    {
       "id": 73,
+      "qid": 3427857124,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1611,6 +1270,7 @@
     },
     {
       "id": 74,
+      "qid": 3832691852,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1633,6 +1293,7 @@
     },
     {
       "id": 75,
+      "qid": 589072568,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1654,29 +1315,8 @@
       "is_pro": false
     },
     {
-      "id": 76,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "मौरीले हामीलाई के दिन्छ?",
-      "options": [
-        "मह",
-        "दूध",
-        "अण्डा",
-        "मासु"
-      ],
-      "option_a": "मह",
-      "option_b": "दूध",
-      "option_c": "अण्डा",
-      "option_d": "मासु",
-      "answer_index": 0,
-      "explanation": "मौरीले फूलको रस चुसेर मह बनाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 77,
+      "qid": 1168316902,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1699,6 +1339,7 @@
     },
     {
       "id": 78,
+      "qid": 2084817129,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1720,29 +1361,8 @@
       "is_pro": false
     },
     {
-      "id": 79,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Hard",
-      "question": "नेपालको झण्डाको नीलो किनाराले के कुराको सङ्केत गर्छ?",
-      "options": [
-        "शान्ति",
-        "क्रान्ति",
-        "वीरता",
-        "रगत"
-      ],
-      "option_a": "शान्ति",
-      "option_b": "क्रान्ति",
-      "option_c": "वीरता",
-      "option_d": "रगत",
-      "answer_index": 0,
-      "explanation": "नीलो रङले नेपाल र नेपालीको शान्तिको कामना गर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 80,
+      "qid": 1357200416,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1764,29 +1384,8 @@
       "is_pro": false
     },
     {
-      "id": 81,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "नेपालको उत्तरतर्फ कुन देश पर्दछ?",
-      "options": [
-        "चीन",
-        "भारत",
-        "पाकिस्तान",
-        "बङ्गलादेश"
-      ],
-      "option_a": "चीन",
-      "option_b": "भारत",
-      "option_c": "पाकिस्तान",
-      "option_d": "बङ्गलादेश",
-      "answer_index": 0,
-      "explanation": "नेपालको उत्तरी सिमाना चीन (तिब्बत) सँग जोडिएको छ।",
-      "is_pro": false
-    },
-    {
       "id": 82,
+      "qid": 2091969618,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1809,6 +1408,7 @@
     },
     {
       "id": 83,
+      "qid": 1891285166,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1831,6 +1431,7 @@
     },
     {
       "id": 84,
+      "qid": 3503695372,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1852,29 +1453,8 @@
       "is_pro": false
     },
     {
-      "id": 85,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "भुक्ने जनावर कुन हो?",
-      "options": [
-        "कुकुर",
-        "बिरालो",
-        "बाघ",
-        "स्याल"
-      ],
-      "option_a": "कुकुर",
-      "option_b": "बिरालो",
-      "option_c": "बाघ",
-      "option_d": "स्याल",
-      "answer_index": 0,
-      "explanation": "कुकुरले भुकेर (Barking) आवाज निकाल्छ।",
-      "is_pro": false
-    },
-    {
       "id": 86,
+      "qid": 1772616187,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1897,6 +1477,7 @@
     },
     {
       "id": 87,
+      "qid": 3974241977,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1918,29 +1499,8 @@
       "is_pro": false
     },
     {
-      "id": 88,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "गाईको बच्चालाई के भनिन्छ?",
-      "options": [
-        "बाच्छा वा बाच्छी",
-        "छाउरो",
-        "पाडो",
-        "पाठो"
-      ],
-      "option_a": "बाच्छा वा बाच्छी",
-      "option_b": "छाउरो",
-      "option_c": "पाडो",
-      "option_d": "पाठो",
-      "answer_index": 0,
-      "explanation": "गाईको बच्चालाई बाच्छा (भाले) वा बाच्छी (पोथी) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 89,
+      "qid": 2602491654,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1963,6 +1523,7 @@
     },
     {
       "id": 90,
+      "qid": 1266256682,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -1985,6 +1546,7 @@
     },
     {
       "id": 91,
+      "qid": 1473688281,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2006,29 +1568,8 @@
       "is_pro": false
     },
     {
-      "id": 92,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "नेपालको कुल क्षेत्रफल कति रहेको छ ?",
-      "options": [
-        "१४७,१८१ वर्ग कि.मी.",
-        "१४७,११८ वर्ग कि.मी.",
-        "१४७,५१६ वर्ग कि.मी.",
-        "१४७,१८८ वर्ग कि.मी."
-      ],
-      "option_a": "१४७,१८१ वर्ग कि.मी.",
-      "option_b": "१४७,११८ वर्ग कि.मी.",
-      "option_c": "१४७,५१६ वर्ग कि.मी.",
-      "option_d": "१४७,१८८ वर्ग कि.मी.",
-      "answer_index": 0,
-      "explanation": "नेपालको आधिकारिक कुल क्षेत्रफल १ लाख ४७ हजार १८१ वर्ग किलोमिटर रहेको छ।",
-      "is_pro": false
-    },
-    {
       "id": 93,
+      "qid": 4272788825,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2051,6 +1592,7 @@
     },
     {
       "id": 94,
+      "qid": 2974077615,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2073,6 +1615,7 @@
     },
     {
       "id": 95,
+      "qid": 2530418231,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2094,29 +1637,8 @@
       "is_pro": false
     },
     {
-      "id": 96,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "नेपालको राष्ट्रिय फूल कुन हो ?",
-      "options": [
-        "लालीगुराँस",
-        "सयपत्री",
-        "कमल",
-        "मखमली"
-      ],
-      "option_a": "लालीगुराँस",
-      "option_b": "सयपत्री",
-      "option_c": "कमल",
-      "option_d": "मखमली",
-      "answer_index": 0,
-      "explanation": "नेपालको पहाडी र हिमाली भेगमा फुल्ने लालीगुराँस (Rhododendron) राष्ट्रिय फूल हो।",
-      "is_pro": false
-    },
-    {
       "id": 97,
+      "qid": 94559798,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2139,6 +1661,7 @@
     },
     {
       "id": 98,
+      "qid": 2336129135,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2161,6 +1684,7 @@
     },
     {
       "id": 99,
+      "qid": 2950635386,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2182,29 +1706,8 @@
       "is_pro": false
     },
     {
-      "id": 100,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "नेपालको सबैभन्दा ठूलो नदी कुन हो ?",
-      "options": [
-        "कोसी",
-        "गण्डकी",
-        "कर्णाली",
-        "बागमती"
-      ],
-      "option_a": "कोसी",
-      "option_b": "गण्डकी",
-      "option_c": "कर्णाली",
-      "option_d": "बागमती",
-      "answer_index": 0,
-      "explanation": "पानीको बहाव र जलस्रोतको क्षमताका आधारमा कोसी नदी नेपालको सबैभन्दा ठूलो नदी हो।",
-      "is_pro": false
-    },
-    {
       "id": 101,
+      "qid": 3139064211,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2227,6 +1730,7 @@
     },
     {
       "id": 102,
+      "qid": 3503554083,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2249,6 +1753,7 @@
     },
     {
       "id": 103,
+      "qid": 3156795375,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2270,29 +1775,8 @@
       "is_pro": false
     },
     {
-      "id": 104,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "नेपालको सबैभन्दा गहिरो ताल कुन हो ?",
-      "options": [
-        "शे-फोक्सुण्डो ताल",
-        "रारा ताल",
-        "फेवा ताल",
-        "बेगनास ताल"
-      ],
-      "option_a": "शे-फोक्सुण्डो ताल",
-      "option_b": "रारा ताल",
-      "option_c": "फेवा ताल",
-      "option_d": "बेगनास ताल",
-      "answer_index": 0,
-      "explanation": "डोल्पा जिल्लामा अवस्थित शे-फोक्सुण्डो ताल (६५० मिटर गहिरो) नेपालको सबैभन्दा गहिरो ताल हो।",
-      "is_pro": false
-    },
-    {
       "id": 105,
+      "qid": 353297181,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2315,6 +1799,7 @@
     },
     {
       "id": 106,
+      "qid": 1697532687,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2337,6 +1822,7 @@
     },
     {
       "id": 107,
+      "qid": 82794279,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2358,29 +1844,8 @@
       "is_pro": false
     },
     {
-      "id": 108,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "नेपालमा जम्मा कतिवटा स्थानीय तहहरू रहेका छन् ?",
-      "options": [
-        "७५३",
-        "७४४",
-        "७६१",
-        "७७७"
-      ],
-      "option_a": "७५३",
-      "option_b": "७४४",
-      "option_c": "७६१",
-      "option_d": "७७७",
-      "answer_index": 0,
-      "explanation": "नेपालमा गाउँपालिका, नगरपालिका, उपमहानगर र महानगर गरी जम्मा ७५३ स्थानीय तह छन्।",
-      "is_pro": false
-    },
-    {
       "id": 109,
+      "qid": 3382566871,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2403,6 +1868,7 @@
     },
     {
       "id": 110,
+      "qid": 3707909416,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2425,6 +1891,7 @@
     },
     {
       "id": 111,
+      "qid": 782523395,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2446,29 +1913,8 @@
       "is_pro": false
     },
     {
-      "id": 112,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "नेपालमा १०४ वर्षे राणा शासनको अन्त्य भई प्रजातन्त्रको स्थापना कहिले भएको थियो ?",
-      "options": [
-        "वि.सं. २००७",
-        "वि.सं. २०४६",
-        "वि.सं. २०६२",
-        "वि.सं. २०१५"
-      ],
-      "option_a": "वि.सं. २००७",
-      "option_b": "वि.सं. २०४६",
-      "option_c": "वि.सं. २०६२",
-      "option_d": "वि.सं. २०१५",
-      "answer_index": 0,
-      "explanation": "राजा त्रिभुवन र नेपाली जनताको सङ्घर्षबाट वि.सं. २००७ साल फागुन ७ गते प्रजातन्त्र स्थापना भएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 113,
+      "qid": 942484592,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2491,6 +1937,7 @@
     },
     {
       "id": 114,
+      "qid": 4012749434,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2513,6 +1960,7 @@
     },
     {
       "id": 115,
+      "qid": 3940842920,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2534,29 +1982,8 @@
       "is_pro": false
     },
     {
-      "id": 116,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "नेपालको पहिलो प्रधानमन्त्री (मुख्तियार) कसलाई मानिन्छ ?",
-      "options": [
-        "भीमसेन थापा",
-        "जङ्गबहादुर राणा",
-        "माथवरसिंह थापा",
-        "बी.पी. कोइराला"
-      ],
-      "option_a": "भीमसेन थापा",
-      "option_b": "जङ्गबहादुर राणा",
-      "option_c": "माथवरसिंह थापा",
-      "option_d": "बी.पी. कोइराला",
-      "answer_index": 0,
-      "explanation": "इतिहासकारहरूका अनुसार लामो समय मुख्तियार भई शासन चलाएका भीमसेन थापालाई नेपालको पहिलो प्रधानमन्त्री मानिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 117,
+      "qid": 3302343799,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2579,6 +2006,7 @@
     },
     {
       "id": 118,
+      "qid": 3261755258,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2601,6 +2029,7 @@
     },
     {
       "id": 119,
+      "qid": 1633914166,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2622,29 +2051,8 @@
       "is_pro": false
     },
     {
-      "id": 120,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "नेपालको वर्तमान राष्ट्रिय गान 'सयौँ थुँगा फूलका हामी' का शब्द रचनाकार को हुन् ?",
-      "options": [
-        "प्रदीपकुमार राई (व्याकुल माइला)",
-        "अम्बर गुरुङ",
-        "माधवप्रसाद घिमिरे",
-        "चक्रपाणि चालिसे"
-      ],
-      "option_a": "प्रदीपकुमार राई (व्याकुल माइला)",
-      "option_b": "अम्बर गुरुङ",
-      "option_c": "माधवप्रसाद घिमिरे",
-      "option_d": "चक्रपाणि चालिसे",
-      "answer_index": 0,
-      "explanation": "कवि प्रदीपकुमार राई (व्याकुल माइला) ले नेपालको वर्तमान राष्ट्रिय गानको शब्द रचना गरेका हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 121,
+      "qid": 2458276874,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2667,6 +2075,7 @@
     },
     {
       "id": 122,
+      "qid": 2258569408,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2689,6 +2098,7 @@
     },
     {
       "id": 123,
+      "qid": 3387477796,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2710,29 +2120,8 @@
       "is_pro": false
     },
     {
-      "id": 124,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "नेपालले संयुक्त राष्ट्रसङ्घ (UNO) को सदस्यता कहिले प्राप्त गरेको हो ?",
-      "options": [
-        "१४ डिसेम्बर १९५५",
-        "२४ अक्टोबर १९४५",
-        "१४ डिसेम्बर १९६०",
-        "१ जनवरी १९५०"
-      ],
-      "option_a": "१४ डिसेम्बर १९५५",
-      "option_b": "२४ अक्टोबर १९४५",
-      "option_c": "१४ डिसेम्बर १९६०",
-      "option_d": "१ जनवरी १९५०",
-      "answer_index": 0,
-      "explanation": "नेपालले प्याकेज डिलअन्तर्गत सन् १९५५ डिसेम्बर १४ मा संयुक्त राष्ट्रसङ्घको सदस्यता प्राप्त गरेको हो।",
-      "is_pro": false
-    },
-    {
       "id": 125,
+      "qid": 3773263881,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2755,6 +2144,7 @@
     },
     {
       "id": 126,
+      "qid": 3542927652,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2777,6 +2167,7 @@
     },
     {
       "id": 127,
+      "qid": 938947124,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2798,29 +2189,8 @@
       "is_pro": false
     },
     {
-      "id": 128,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "विश्वको सबैभन्दा लामो नदी कुन हो ?",
-      "options": [
-        "नाइल नदी",
-        "अमेजन नदी",
-        "याङ्जे नदी",
-        "मिसिसिपी नदी"
-      ],
-      "option_a": "नाइल नदी",
-      "option_b": "अमेजन नदी",
-      "option_c": "याङ्जे नदी",
-      "option_d": "मिसिसिपी नदी",
-      "answer_index": 0,
-      "explanation": "अफ्रिका महादेशमा बग्ने नाइल नदी (Nile River) विश्वकै सबैभन्दा लामो (६६५० कि.मी.) नदी हो।",
-      "is_pro": false
-    },
-    {
       "id": 129,
+      "qid": 561122122,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2843,6 +2213,7 @@
     },
     {
       "id": 130,
+      "qid": 4101154576,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2865,6 +2236,7 @@
     },
     {
       "id": 131,
+      "qid": 1964436861,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2886,29 +2258,8 @@
       "is_pro": false
     },
     {
-      "id": 132,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "सगरमाथाको पछिल्लो आधिकारिक उचाइ कति कायम गरिएको छ ?",
-      "options": [
-        "८८४८.८६ मिटर",
-        "८८४८ मिटर",
-        "८८५० मिटर",
-        "८८४४ मिटर"
-      ],
-      "option_a": "८८४८.८६ मिटर",
-      "option_b": "८८४८ मिटर",
-      "option_c": "८८५० मिटर",
-      "option_d": "८८४४ मिटर",
-      "answer_index": 0,
-      "explanation": "नेपाल र चीनले संयुक्त रूपमा मापन गरी २०७७ सालमा सगरमाथाको उचाइ ८८४८.८६ मिटर भएको घोषणा गरेका हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 133,
+      "qid": 106861689,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2931,6 +2282,7 @@
     },
     {
       "id": 134,
+      "qid": 1649294093,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2953,6 +2305,7 @@
     },
     {
       "id": 135,
+      "qid": 820300973,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -2974,29 +2327,8 @@
       "is_pro": false
     },
     {
-      "id": 136,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "काठमाडौँको प्रसिद्ध पशुपतिनाथ मन्दिर कुन नदीको किनारमा अवस्थित छ ?",
-      "options": [
-        "बागमती",
-        "विष्णुमती",
-        "मनोहरा",
-        "हनुमन्ते"
-      ],
-      "option_a": "बागमती",
-      "option_b": "विष्णुमती",
-      "option_c": "मनोहरा",
-      "option_d": "हनुमन्ते",
-      "answer_index": 0,
-      "explanation": "हिन्दुहरूको पवित्र तीर्थस्थल पशुपतिनाथ मन्दिर बागमती नदीको किनारमा रहेको छ।",
-      "is_pro": false
-    },
-    {
       "id": 137,
+      "qid": 2034826766,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3019,6 +2351,7 @@
     },
     {
       "id": 138,
+      "qid": 3827114034,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3041,6 +2374,7 @@
     },
     {
       "id": 139,
+      "qid": 3655016216,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3062,29 +2396,8 @@
       "is_pro": false
     },
     {
-      "id": 140,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "चितवन राष्ट्रिय निकुञ्जको स्थापना कहिले भएको थियो ?",
-      "options": [
-        "वि.सं. २०३०",
-        "वि.सं. २०३५",
-        "वि.सं. २०४०",
-        "वि.सं. २०३२"
-      ],
-      "option_a": "वि.सं. २०३०",
-      "option_b": "वि.सं. २०३५",
-      "option_c": "वि.सं. २०४०",
-      "option_d": "वि.सं. २०३२",
-      "answer_index": 0,
-      "explanation": "नेपालमा वन्यजन्तु संरक्षणको विधिवत सुरुवात गर्दै वि.सं. २०३० सालमा चितवन राष्ट्रिय निकुञ्ज स्थापना गरिएको हो।",
-      "is_pro": false
-    },
-    {
       "id": 141,
+      "qid": 2077512918,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3107,6 +2420,7 @@
     },
     {
       "id": 142,
+      "qid": 1082603300,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3129,6 +2443,7 @@
     },
     {
       "id": 143,
+      "qid": 1877931353,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3150,29 +2465,8 @@
       "is_pro": false
     },
     {
-      "id": 144,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "क्षेत्रफलका आधारमा नेपालको सबैभन्दा ठूलो प्रदेश कुन हो ?",
-      "options": [
-        "कर्णाली प्रदेश",
-        "कोसी प्रदेश",
-        "सुदूरपश्चिम प्रदेश",
-        "गण्डकी प्रदेश"
-      ],
-      "option_a": "कर्णाली प्रदेश",
-      "option_b": "कोसी प्रदेश",
-      "option_c": "सुदूरपश्चिम प्रदेश",
-      "option_d": "गण्डकी प्रदेश",
-      "answer_index": 0,
-      "explanation": "नेपालको कुल क्षेत्रफलमध्ये २७,९८४ वर्ग कि.मी. ओगटेको कर्णाली प्रदेश सबैभन्दा ठूलो प्रदेश हो।",
-      "is_pro": false
-    },
-    {
       "id": 145,
+      "qid": 1496921209,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3195,6 +2489,7 @@
     },
     {
       "id": 146,
+      "qid": 181735603,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3217,6 +2512,7 @@
     },
     {
       "id": 147,
+      "qid": 1290658781,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3238,29 +2534,8 @@
       "is_pro": false
     },
     {
-      "id": 148,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "हिन्दुहरूको महान् चाड 'महाशिवरात्रि' कुन तिथिमा पर्दछ ?",
-      "options": [
-        "फागुन कृष्ण चतुर्दशी",
-        "माघ शुक्ल पञ्चमी",
-        "चैत्र शुक्ल पूर्णिमा",
-        "साउन शुक्ल पूर्णिमा"
-      ],
-      "option_a": "फागुन कृष्ण चतुर्दशी",
-      "option_b": "माघ शुक्ल पञ्चमी",
-      "option_c": "चैत्र शुक्ल पूर्णिमा",
-      "option_d": "साउन शुक्ल पूर्णिमा",
-      "answer_index": 0,
-      "explanation": "भगवान् शिवको उत्पत्ति भएको विश्वास गरिने महाशिवरात्रि पर्व फागुन महिनाको कृष्ण चतुर्दशीमा मनाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 149,
+      "qid": 311448444,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3283,6 +2558,7 @@
     },
     {
       "id": 150,
+      "qid": 44732539,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3305,6 +2581,7 @@
     },
     {
       "id": 151,
+      "qid": 3778804244,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3326,29 +2603,8 @@
       "is_pro": false
     },
     {
-      "id": 152,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "आफ्नो छोराको मृत्युको शोकमा डुबेकी रानीलाई सान्त्वना दिन 'गाईजात्रा' निकाल्ने चलन कुन मल्ल राजाले चलाएका हुन् ?",
-      "options": [
-        "प्रताप मल्ल",
-        "जयप्रकाश मल्ल",
-        "भूपतीन्द्र मल्ल",
-        "सिद्धिनरसिंह मल्ल"
-      ],
-      "option_a": "प्रताप मल्ल",
-      "option_b": "जयप्रकाश मल्ल",
-      "option_c": "भूपतीन्द्र मल्ल",
-      "option_d": "सिद्धिनरसिंह मल्ल",
-      "answer_index": 0,
-      "explanation": "कान्तिपुरका राजा प्रताप मल्लले रानीलाई संसारमा सबैका आफन्त मर्छन् भनी बुझाउन गाईजात्रा पर्व सुरु गराएका हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 153,
+      "qid": 1665506949,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3371,6 +2627,7 @@
     },
     {
       "id": 154,
+      "qid": 1771973902,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3393,6 +2650,7 @@
     },
     {
       "id": 155,
+      "qid": 879436707,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3414,29 +2672,8 @@
       "is_pro": false
     },
     {
-      "id": 156,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "सीताको जन्मस्थल मानिने प्रसिद्ध 'जानकी मन्दिर' कुन सहरमा अवस्थित छ ?",
-      "options": [
-        "जनकपुर",
-        "लुम्बिनी",
-        "वीरगन्ज",
-        "सिमरा"
-      ],
-      "option_a": "जनकपुर",
-      "option_b": "लुम्बिनी",
-      "option_c": "वीरगन्ज",
-      "option_d": "सिमरा",
-      "answer_index": 0,
-      "explanation": "प्राचीन मिथिला राज्यको राजधानी मानिने धनुषा जिल्लाको जनकपुरमा कलात्मक जानकी (नौलाखा) मन्दिर रहेको छ।",
-      "is_pro": false
-    },
-    {
       "id": 157,
+      "qid": 281893448,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3459,6 +2696,7 @@
     },
     {
       "id": 158,
+      "qid": 1508171213,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3481,6 +2719,7 @@
     },
     {
       "id": 159,
+      "qid": 3296801286,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3502,29 +2741,8 @@
       "is_pro": false
     },
     {
-      "id": 160,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "नेपालको राष्ट्रिय सभा (माथिल्लो सदन) मा जम्मा कति जना सदस्यहरू रहने व्यवस्था छ ?",
-      "options": [
-        "५९ जना",
-        "६० जना",
-        "६१ जना",
-        "२७५ जना"
-      ],
-      "option_a": "५९ जना",
-      "option_b": "६० जना",
-      "option_c": "६१ जना",
-      "option_d": "२७५ जना",
-      "answer_index": 0,
-      "explanation": "प्रदेशबाट निर्वाचित ५६ जना र राष्ट्रपतिबाट मनोनीत ३ जना गरी राष्ट्रिय सभामा ५९ जना सदस्यहरू रहन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 161,
+      "qid": 3985327746,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3547,6 +2765,7 @@
     },
     {
       "id": 162,
+      "qid": 3368422688,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3569,6 +2788,7 @@
     },
     {
       "id": 163,
+      "qid": 137805388,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3590,29 +2810,8 @@
       "is_pro": false
     },
     {
-      "id": 164,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Hard",
-      "question": "नेपालको संविधानमा सङ्घ, प्रदेश र स्थानीय तहको अधिकार सूची तथा अन्य विषय खुलाउन कतिवटा अनुसूचीहरू (Schedules) छन् ?",
-      "options": [
-        "९ वटा",
-        "७ वटा",
-        "८ वटा",
-        "५ वटा"
-      ],
-      "option_a": "९ वटा",
-      "option_b": "७ वटा",
-      "option_c": "८ वटा",
-      "option_d": "५ वटा",
-      "answer_index": 0,
-      "explanation": "संविधानको अन्त्यमा राष्ट्रिय झन्डाको आकारदेखि साझा अधिकारका सूचीहरूसम्म समेटिएका ९ वटा अनुसूचीहरू छन्।",
-      "is_pro": false
-    },
-    {
       "id": 165,
+      "qid": 1051109398,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3635,6 +2834,7 @@
     },
     {
       "id": 166,
+      "qid": 3108143571,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3657,6 +2857,7 @@
     },
     {
       "id": 167,
+      "qid": 1594118378,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3678,29 +2879,8 @@
       "is_pro": false
     },
     {
-      "id": 168,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Hard",
-      "question": "क्षेत्रफलका आधारमा विश्वको सबैभन्दा ठूलो देश कुन हो ?",
-      "options": [
-        "रुस (Russia)",
-        "क्यानडा",
-        "चीन",
-        "संयुक्त राज्य अमेरिका"
-      ],
-      "option_a": "रुस (Russia)",
-      "option_b": "क्यानडा",
-      "option_c": "चीन",
-      "option_d": "संयुक्त राज्य अमेरिका",
-      "answer_index": 0,
-      "explanation": "युरोप र एसिया दुवै महादेशमा फैलिएको रुस विश्वको सबैभन्दा धेरै भूभाग ओगट्ने देश हो।",
-      "is_pro": false
-    },
-    {
       "id": 169,
+      "qid": 941749945,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3723,6 +2903,7 @@
     },
     {
       "id": 170,
+      "qid": 429231291,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3745,6 +2926,7 @@
     },
     {
       "id": 171,
+      "qid": 3456646834,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3766,29 +2948,8 @@
       "is_pro": false
     },
     {
-      "id": 172,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Hard",
-      "question": "मजदुरहरूको अधिकार प्राप्तिको आन्दोलनको सम्झनामा 'अन्तर्राष्ट्रिय मजदुर दिवस' कहिले मनाइन्छ ?",
-      "options": [
-        "१ मे (May 1)",
-        "८ मार्च",
-        "५ जुन",
-        "१ डिसेम्बर"
-      ],
-      "option_a": "१ मे (May 1)",
-      "option_b": "८ मार्च",
-      "option_c": "५ जुन",
-      "option_d": "१ डिसेम्बर",
-      "answer_index": 0,
-      "explanation": "आठ घण्टा काम, आठ घण्टा आराम र आठ घण्टा मनोरञ्जनको माग गर्दै भएको आन्दोलनको सम्झनामा मे १ मा यो दिवस मनाइन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 173,
+      "qid": 78946205,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3811,6 +2972,7 @@
     },
     {
       "id": 174,
+      "qid": 2167486719,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3833,6 +2995,7 @@
     },
     {
       "id": 175,
+      "qid": 2592862962,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3854,29 +3017,8 @@
       "is_pro": false
     },
     {
-      "id": 176,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Hard",
-      "question": "सुगौली सन्धि विधिवत रूपमा कहिलेदेखि लागू भएको मानिन्छ ?",
-      "options": [
-        "४ मार्च १८१६",
-        "३ मार्च १८१५",
-        "४ अप्रिल १८१६",
-        "३ मे १८१६"
-      ],
-      "option_a": "४ मार्च १८१६",
-      "option_b": "३ मार्च १८१५",
-      "option_c": "४ अप्रिल १८१६",
-      "option_d": "३ मे १८१६",
-      "answer_index": 0,
-      "explanation": "नेपालका प्रतिनिधिले हस्ताक्षर गरेर बुझाएपछि ४ मार्च १८१६ (वि.सं. १८७२ फागुन २२) देखि यो सन्धि लागू भएको थियो।",
-      "is_pro": false
-    },
-    {
       "id": 177,
+      "qid": 4217704601,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3899,6 +3041,7 @@
     },
     {
       "id": 178,
+      "qid": 2571351572,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3921,6 +3064,7 @@
     },
     {
       "id": 179,
+      "qid": 4176865165,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3942,29 +3086,8 @@
       "is_pro": false
     },
     {
-      "id": 180,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Hard",
-      "question": "नेपाली भाषाको पहिलो पाठ्यपुस्तक मानिने 'अक्षराङ्क शिक्षा' का लेखक को हुन् ?",
-      "options": [
-        "जयपृथ्वीबहादुर सिंह",
-        "भानुभक्त आचार्य",
-        "मोतीराम भट्ट",
-        "लक्ष्मीप्रसाद देवकोटा"
-      ],
-      "option_a": "जयपृथ्वीबहादुर सिंह",
-      "option_b": "भानुभक्त आचार्य",
-      "option_c": "मोतीराम भट्ट",
-      "option_d": "लक्ष्मीप्रसाद देवकोटा",
-      "answer_index": 0,
-      "explanation": "बझाङका राजा जयपृथ्वीबहादुर सिंहले लेखेको 'अक्षराङ्क शिक्षा' नेपालको शैक्षिक इतिहासको महत्त्वपूर्ण पुस्तक हो।",
-      "is_pro": false
-    },
-    {
       "id": 181,
+      "qid": 1029137437,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -3987,6 +3110,7 @@
     },
     {
       "id": 182,
+      "qid": 2293922327,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4009,6 +3133,7 @@
     },
     {
       "id": 183,
+      "qid": 2716984377,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4030,29 +3155,8 @@
       "is_pro": false
     },
     {
-      "id": 184,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Hard",
-      "question": "पृथ्वीनारायण शाहले इन्द्रजात्राको दिन कान्तिपुर (काठमाडौँ) माथि कहिले विजय प्राप्त गरेका थिए ?",
-      "options": [
-        "वि.सं. १८२५",
-        "वि.सं. १८२६",
-        "वि.सं. १८२७",
-        "वि.सं. १८२४"
-      ],
-      "option_a": "वि.सं. १८२५",
-      "option_b": "वि.सं. १८२६",
-      "option_c": "वि.सं. १८२७",
-      "option_d": "वि.सं. १८२४",
-      "answer_index": 0,
-      "explanation": "वि.सं. १८२५ असोज १३ गते इन्द्रजात्राको उल्लासमा रहेका बेला गोर्खाली सेनाले कान्तिपुर विजय गरेको थियो।",
-      "is_pro": false
-    },
-    {
       "id": 185,
+      "qid": 755564445,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4075,6 +3179,7 @@
     },
     {
       "id": 186,
+      "qid": 514806657,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4097,6 +3202,7 @@
     },
     {
       "id": 187,
+      "qid": 1555185089,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4118,29 +3224,8 @@
       "is_pro": false
     },
     {
-      "id": 188,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Hard",
-      "question": "नेपालको प्रामाणिक समय कुन हिमाललाई आधार मानेर निर्धारण गरिएको छ ?",
-      "options": [
-        "गौरीशङ्कर हिमाल",
-        "सगरमाथा",
-        "मकालु",
-        "धवलागिरि"
-      ],
-      "option_a": "गौरीशङ्कर हिमाल",
-      "option_b": "सगरमाथा",
-      "option_c": "मकालु",
-      "option_d": "धवलागिरि",
-      "answer_index": 0,
-      "explanation": "दोलखा जिल्लामा पर्ने गौरीशङ्कर हिमाललाई काटेर जाने ८६°१५' पूर्वी देशान्तरलाई आधार मानेर नेपालको समय तय गरिएको छ।",
-      "is_pro": false
-    },
-    {
       "id": 189,
+      "qid": 3347582522,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4163,6 +3248,7 @@
     },
     {
       "id": 190,
+      "qid": 2147506465,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4185,6 +3271,7 @@
     },
     {
       "id": 191,
+      "qid": 4044429510,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4206,29 +3293,8 @@
       "is_pro": false
     },
     {
-      "id": 192,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "नेपालको राष्ट्रिय झन्डामा कुन-कुन रङहरू प्रयोग भएका छन् ?",
-      "options": [
-        "रातो, नीलो र सेतो",
-        "रातो र हरियो",
-        "पहेँलो र कालो",
-        "गाढा नीलो र पहेँलो"
-      ],
-      "option_a": "रातो, नीलो र सेतो",
-      "option_b": "रातो र हरियो",
-      "option_c": "पहेँलो र कालो",
-      "option_d": "गाढा नीलो र पहेँलो",
-      "answer_index": 0,
-      "explanation": "नेपालको राष्ट्रिय झन्डामा सिम्रिक (रातो) र गाढा नीलो रङ प्रयोग भएको छ भने चन्द्र-सूर्यको रङ सेतो छ।",
-      "is_pro": false
-    },
-    {
       "id": 193,
+      "qid": 807825771,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4251,6 +3317,7 @@
     },
     {
       "id": 194,
+      "qid": 1974525093,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4273,6 +3340,7 @@
     },
     {
       "id": 195,
+      "qid": 3081600124,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4294,29 +3362,8 @@
       "is_pro": false
     },
     {
-      "id": 196,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "नेपालको सबैभन्दा पूर्वी जिल्ला कुन हो ?",
-      "options": [
-        "ताप्लेजुङ",
-        "इलाम",
-        "झापा",
-        "पाँचथर"
-      ],
-      "option_a": "ताप्लेजुङ",
-      "option_b": "इलाम",
-      "option_c": "झापा",
-      "option_d": "पाँचथर",
-      "answer_index": 0,
-      "explanation": "नेपालको सबैभन्दा पूर्वी सीमा ओगटेको जिल्ला ताप्लेजुङ हो।",
-      "is_pro": false
-    },
-    {
       "id": 197,
+      "qid": 2724897506,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4339,6 +3386,7 @@
     },
     {
       "id": 198,
+      "qid": 3868562231,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4361,6 +3409,7 @@
     },
     {
       "id": 199,
+      "qid": 2997432845,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4382,29 +3431,8 @@
       "is_pro": false
     },
     {
-      "id": 200,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Easy",
-      "question": "संसारमा क्षेत्रफलको हिसाबले सबैभन्दा ठूलो देश कुन हो ?",
-      "options": [
-        "रुस (Russia)",
-        "क्यानडा",
-        "चीन",
-        "संयुक्त राज्य अमेरिका"
-      ],
-      "option_a": "रुस (Russia)",
-      "option_b": "क्यानडा",
-      "option_c": "चीन",
-      "option_d": "संयुक्त राज्य अमेरिका",
-      "answer_index": 0,
-      "explanation": "रुस युरोप र एसिया दुवै महादेशमा फैलिएको विश्वकै सबैभन्दा ठूलो भूभाग भएको देश हो।",
-      "is_pro": false
-    },
-    {
       "id": 201,
+      "qid": 2403161787,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4427,6 +3455,7 @@
     },
     {
       "id": 202,
+      "qid": 94208125,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4449,6 +3478,7 @@
     },
     {
       "id": 203,
+      "qid": 1095217219,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4470,29 +3500,8 @@
       "is_pro": false
     },
     {
-      "id": 204,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "नेपालको पहिलो राष्ट्रिय निकुञ्ज 'चितवन राष्ट्रिय निकुञ्ज' को क्षेत्रफल कति छ ?",
-      "options": [
-        "९५२ वर्ग कि.मी.",
-        "११४८ वर्ग कि.मी.",
-        "३५५५ वर्ग कि.मी.",
-        "४०० वर्ग कि.मी."
-      ],
-      "option_a": "९५२ वर्ग कि.मी.",
-      "option_b": "११४८ वर्ग कि.मी.",
-      "option_c": "३५५५ वर्ग कि.मी.",
-      "option_d": "४०० वर्ग कि.मी.",
-      "answer_index": 0,
-      "explanation": "चितवन राष्ट्रिय निकुञ्जको कुल क्षेत्रफल ९५२ वर्ग किलोमिटर रहेको छ।",
-      "is_pro": false
-    },
-    {
       "id": 205,
+      "qid": 2426093012,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4515,6 +3524,7 @@
     },
     {
       "id": 206,
+      "qid": 3285563816,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4537,6 +3547,7 @@
     },
     {
       "id": 207,
+      "qid": 2177630159,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4558,29 +3569,8 @@
       "is_pro": false
     },
     {
-      "id": 208,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Medium",
-      "question": "नेपालमा पहिलोपटक विद्युत् उत्पादन (फर्पिङ जलविद्युत् गृह) कहिले सुरु भएको थियो ?",
-      "options": [
-        "वि.सं. १९६८ जेठ ९",
-        "वि.सं. १९७०",
-        "वि.सं. २००७",
-        "वि.सं. १९५८"
-      ],
-      "option_a": "वि.सं. १९६८ जेठ ९",
-      "option_b": "वि.सं. १९७०",
-      "option_c": "वि.सं. २००७",
-      "option_d": "वि.सं. १९५८",
-      "answer_index": 0,
-      "explanation": "नेपालका तत्कालीन राजा पृथ्वीवीरविक्रम शाहको पालामा वि.सं. १९६८ जेठ ९ गते फर्पिङ जलविद्युत् आयोजना उद्घाटन गरिएको थियो।",
-      "is_pro": false
-    },
-    {
       "id": 209,
+      "qid": 327961817,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4603,6 +3593,7 @@
     },
     {
       "id": 210,
+      "qid": 2081261464,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4625,6 +3616,7 @@
     },
     {
       "id": 211,
+      "qid": 24555183,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4646,29 +3638,8 @@
       "is_pro": false
     },
     {
-      "id": 212,
-      "main_cat_id": 1,
-      "main_cat_name": "Primary & Basic Level",
-      "sub_cat_id": "101",
-      "sub_cat_name": "Junior GK",
-      "level": "Hard",
-      "question": "सगरमाथाको सफल आरोहण गर्ने पहिलो नेपाली महिला को हुन् ?",
-      "options": [
-        "पासाङ ल्हामु शेर्पा",
-        "छिरिंग शेर्पा",
-        "जुडो शेर्पा",
-        "माया गुरुङ"
-      ],
-      "option_a": "पासाङ ल्हामु शेर्पा",
-      "option_b": "छिरिंग शेर्पा",
-      "option_c": "जुडो शेर्पा",
-      "option_d": "माया गुरुङ",
-      "answer_index": 0,
-      "explanation": "वि.सं. २०५० वैशाख १० गते सगरमाथाको सफल आरोहण गर्ने पहिलो नेपाली महिला पासाङ ल्हामु शेर्पा हुन्।",
-      "is_pro": false
-    },
-    {
       "id": 213,
+      "qid": 3904999403,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4691,6 +3662,7 @@
     },
     {
       "id": 214,
+      "qid": 2604384586,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
@@ -4713,6 +3685,7 @@
     },
     {
       "id": 215,
+      "qid": 1310610062,
       "main_cat_id": 1,
       "main_cat_name": "Primary & Basic Level",
       "sub_cat_id": "101",
