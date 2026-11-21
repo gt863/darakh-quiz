@@ -1,32 +1,11 @@
 {
   "sub_cat_id": "121",
-  "data_version": 1794491195766,
-  "total_questions": 100,
+  "data_version": 1795279225068,
+  "total_questions": 75,
   "questions": [
     {
-      "id": 1,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "यदि A = {१,२,३} र B = {३,४,५} भए A ∩ B = ?",
-      "options": [
-        "{३}",
-        "{१,२}",
-        "{४,५}",
-        "{१,२,३,४,५}"
-      ],
-      "option_a": "{३}",
-      "option_b": "{१,२}",
-      "option_c": "{४,५}",
-      "option_d": "{१,२,३,४,५}",
-      "answer_index": 0,
-      "explanation": "A ∩ B भन्नाले A र B दुवैमा भएका साझा तत्वहरूको समूह हो। यहाँ साझा तत्व {३} मात्र छ।",
-      "is_pro": false
-    },
-    {
       "id": 2,
+      "qid": 114555117,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -49,6 +28,7 @@
     },
     {
       "id": 3,
+      "qid": 2678394446,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 743961286,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -93,6 +74,7 @@
     },
     {
       "id": 5,
+      "qid": 3421963208,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -115,6 +97,7 @@
     },
     {
       "id": 6,
+      "qid": 3898180401,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -137,6 +120,7 @@
     },
     {
       "id": 7,
+      "qid": 3643455313,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -158,29 +142,8 @@
       "is_pro": false
     },
     {
-      "id": 8,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "रेखा y = २x + ३ को भुज (slope) कति हुन्छ?",
-      "options": [
-        "२",
-        "३",
-        "१/२",
-        "-२"
-      ],
-      "option_a": "२",
-      "option_b": "३",
-      "option_c": "१/२",
-      "option_d": "-२",
-      "answer_index": 0,
-      "explanation": "रेखाको समीकरण y = mx + c मा m भुज हुन्छ। यहाँ m = २ छ।",
-      "is_pro": false
-    },
-    {
       "id": 9,
+      "qid": 537090634,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -203,6 +166,7 @@
     },
     {
       "id": 10,
+      "qid": 720285745,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -224,29 +188,8 @@
       "is_pro": false
     },
     {
-      "id": 11,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "यदि A एउटा २×२ म्याट्रिक्स हो भने A को order के हुन्छ?",
-      "options": [
-        "२×२",
-        "२×३",
-        "३×२",
-        "३×३"
-      ],
-      "option_a": "२×२",
-      "option_b": "२×३",
-      "option_c": "३×२",
-      "option_d": "३×३",
-      "answer_index": 0,
-      "explanation": "म्याट्रिक्सको order भन्नाले पङ्क्ति × स्तम्भको संख्या हो। २×२ म्याट्रिक्सको order २×२ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 12,
+      "qid": 297005054,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -269,6 +212,7 @@
     },
     {
       "id": 13,
+      "qid": 2584245542,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -290,29 +234,8 @@
       "is_pro": false
     },
     {
-      "id": 14,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "∫ x dx = ?",
-      "options": [
-        "x²/२ + C",
-        "x² + C",
-        "२x + C",
-        "x + C"
-      ],
-      "option_a": "x²/२ + C",
-      "option_b": "x² + C",
-      "option_c": "२x + C",
-      "option_d": "x + C",
-      "answer_index": 0,
-      "explanation": "समाकलनको शक्ति नियमअनुसार ∫ x dx = x²/२ + C हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 15,
+      "qid": 4213080058,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -335,6 +258,7 @@
     },
     {
       "id": 16,
+      "qid": 3657506791,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -356,29 +280,8 @@
       "is_pro": false
     },
     {
-      "id": 17,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "यदि A={१,२}, B={२,३} भए A∪B = ?",
-      "options": [
-        "{१,२,३}",
-        "{२}",
-        "{१,३}",
-        "{१,२,२,३}"
-      ],
-      "option_a": "{१,२,३}",
-      "option_b": "{२}",
-      "option_c": "{१,३}",
-      "option_d": "{१,२,२,३}",
-      "answer_index": 0,
-      "explanation": "A∪B भन्नाले A र B का सबै तत्वहरू समावेश भएको समूह हो। यहाँ A∪B = {१,२,३} हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 18,
+      "qid": 2308722790,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -401,6 +304,7 @@
     },
     {
       "id": 19,
+      "qid": 2344229181,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -423,6 +327,7 @@
     },
     {
       "id": 20,
+      "qid": 2176717996,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -445,6 +350,7 @@
     },
     {
       "id": 21,
+      "qid": 4115644653,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -467,6 +373,7 @@
     },
     {
       "id": 22,
+      "qid": 3637832322,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -488,29 +395,8 @@
       "is_pro": false
     },
     {
-      "id": 23,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "पहिलो n प्राकृतिक संख्याहरूको योग कति हुन्छ?",
-      "options": [
-        "n(n+१)/२",
-        "n(n-१)/२",
-        "n²",
-        "n(n+१)"
-      ],
-      "option_a": "n(n+१)/२",
-      "option_b": "n(n-१)/२",
-      "option_c": "n²",
-      "option_d": "n(n+१)",
-      "answer_index": 0,
-      "explanation": "प्राकृतिक संख्याको योग सूत्र १+२+...+n = n(n+१)/२ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 24,
+      "qid": 2187617396,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -533,6 +419,7 @@
     },
     {
       "id": 25,
+      "qid": 1146756742,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -554,29 +441,8 @@
       "is_pro": false
     },
     {
-      "id": 26,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "असम्भव घटनाको सम्भाव्यता कति हुन्छ?",
-      "options": [
-        "०",
-        "१",
-        "१/२",
-        "-१"
-      ],
-      "option_a": "०",
-      "option_b": "१",
-      "option_c": "१/२",
-      "option_d": "-१",
-      "answer_index": 0,
-      "explanation": "असम्भव घटना कहिल्यै नहुने भएकाले यसको सम्भाव्यता ० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 27,
+      "qid": 2419084943,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -599,6 +465,7 @@
     },
     {
       "id": 28,
+      "qid": 540962672,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -620,29 +487,8 @@
       "is_pro": false
     },
     {
-      "id": 29,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "sin x को अवकलज कति हुन्छ?",
-      "options": [
-        "cos x",
-        "-cos x",
-        "sin x",
-        "-sin x"
-      ],
-      "option_a": "cos x",
-      "option_b": "-cos x",
-      "option_c": "sin x",
-      "option_d": "-sin x",
-      "answer_index": 0,
-      "explanation": "अवकलनको नियमअनुसार d/dx(sin x) = cos x हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 30,
+      "qid": 620898247,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -665,6 +511,7 @@
     },
     {
       "id": 31,
+      "qid": 4283625425,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -687,6 +534,7 @@
     },
     {
       "id": 32,
+      "qid": 179590556,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -709,6 +557,7 @@
     },
     {
       "id": 33,
+      "qid": 2132309373,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -731,6 +580,7 @@
     },
     {
       "id": 34,
+      "qid": 3867203380,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -753,6 +603,7 @@
     },
     {
       "id": 35,
+      "qid": 945840625,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -774,29 +625,8 @@
       "is_pro": false
     },
     {
-      "id": 36,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "(a+b)^n को सामान्य पद (general term) कुन हो?",
-      "options": [
-        "nCr a^{n-r} b^r",
-        "nCr a^r b^{n-r}",
-        "nCr a^n b^r",
-        "nCr a^r b^r"
-      ],
-      "option_a": "nCr a^{n-r} b^r",
-      "option_b": "nCr a^r b^{n-r}",
-      "option_c": "nCr a^n b^r",
-      "option_d": "nCr a^r b^r",
-      "answer_index": 0,
-      "explanation": "(a+b)^n को विस्तारमा (r+१)औँ पद T_{r+१} = nCr a^{n-r} b^r हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 37,
+      "qid": 3702434978,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -819,6 +649,7 @@
     },
     {
       "id": 38,
+      "qid": 3134094034,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -840,29 +671,8 @@
       "is_pro": false
     },
     {
-      "id": 39,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "परवलय (parabola) को उत्केन्द्रता (eccentricity) कति हुन्छ?",
-      "options": [
-        "१",
-        "०",
-        "<१",
-        ">१"
-      ],
-      "option_a": "१",
-      "option_b": "०",
-      "option_c": "<१",
-      "option_d": ">१",
-      "answer_index": 0,
-      "explanation": "परवलयको परिभाषाअनुसार यसको उत्केन्द्रता e = १ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 40,
+      "qid": 2580229172,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -885,6 +695,7 @@
     },
     {
       "id": 41,
+      "qid": 894503812,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -906,29 +717,8 @@
       "is_pro": false
     },
     {
-      "id": 42,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 12",
-      "question": "∫ १/x dx = ?",
-      "options": [
-        "ln|x| + C",
-        "१/x + C",
-        "x + C",
-        "e^x + C"
-      ],
-      "option_a": "ln|x| + C",
-      "option_b": "१/x + C",
-      "option_c": "x + C",
-      "option_d": "e^x + C",
-      "answer_index": 0,
-      "explanation": "समाकलनको नियमअनुसार ∫ १/x dx = ln|x| + C हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 43,
+      "qid": 3253578688,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -951,6 +741,7 @@
     },
     {
       "id": 44,
+      "qid": 4294888437,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -972,29 +763,8 @@
       "is_pro": false
     },
     {
-      "id": 45,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 12",
-      "question": "यदि a·b = ० भए भेक्टरहरू a र b कस्ता हुन्छन्?",
-      "options": [
-        "लम्बवत्",
-        "समानान्तर",
-        "बराबर",
-        "विपरीत"
-      ],
-      "option_a": "लम्बवत्",
-      "option_b": "समानान्तर",
-      "option_c": "बराबर",
-      "option_d": "विपरीत",
-      "answer_index": 0,
-      "explanation": "डट गुणनफल a·b = |a||b|cosθ हुन्छ। यदि a·b = ० भए cosθ = ० ⇒ θ = ९०° हुन्छ, अर्थात् भेक्टरहरू लम्बवत् हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 46,
+      "qid": 2940012783,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1017,6 +787,7 @@
     },
     {
       "id": 47,
+      "qid": 1830873653,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1039,6 +810,7 @@
     },
     {
       "id": 48,
+      "qid": 1592221760,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1061,6 +833,7 @@
     },
     {
       "id": 49,
+      "qid": 3743638442,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1083,6 +856,7 @@
     },
     {
       "id": 50,
+      "qid": 4090004572,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1105,6 +879,7 @@
     },
     {
       "id": 51,
+      "qid": 1764747748,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1126,29 +901,8 @@
       "is_pro": false
     },
     {
-      "id": 52,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "i³ को मान कति हुन्छ?",
-      "options": [
-        "-i",
-        "i",
-        "-१",
-        "१"
-      ],
-      "option_a": "-i",
-      "option_b": "i",
-      "option_c": "-१",
-      "option_d": "१",
-      "answer_index": 0,
-      "explanation": "i² = -१ हुँदा i³ = i²·i = (-१)·i = -i हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 53,
+      "qid": 743387667,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1171,6 +925,7 @@
     },
     {
       "id": 54,
+      "qid": 650246518,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1192,29 +947,8 @@
       "is_pro": false
     },
     {
-      "id": 55,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "यदि a, b, c समानान्तर श्रेणीमा छन् भने २b = ?",
-      "options": [
-        "a+c",
-        "a-c",
-        "ac",
-        "a/c"
-      ],
-      "option_a": "a+c",
-      "option_b": "a-c",
-      "option_c": "ac",
-      "option_d": "a/c",
-      "answer_index": 0,
-      "explanation": "समानान्तर श्रेणीमा b - a = c - b ⇒ २b = a+c हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 56,
+      "qid": 426323190,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1237,6 +971,7 @@
     },
     {
       "id": 57,
+      "qid": 1554217073,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1258,29 +993,8 @@
       "is_pro": false
     },
     {
-      "id": 58,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "lim_{x→∞} (१+१/x)^x = ?",
-      "options": [
-        "e",
-        "१",
-        "∞",
-        "०"
-      ],
-      "option_a": "e",
-      "option_b": "१",
-      "option_c": "∞",
-      "option_d": "०",
-      "answer_index": 0,
-      "explanation": "चरघातांकीय सीमाको मानक परिणामअनुसार lim_{x→∞} (१+१/x)^x = e हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 59,
+      "qid": 1127033959,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1303,6 +1017,7 @@
     },
     {
       "id": 60,
+      "qid": 1292102139,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1324,29 +1039,8 @@
       "is_pro": false
     },
     {
-      "id": 61,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 12",
-      "question": "यदि A र B परस्पर अपवर्जी (mutually exclusive) छन् भने P(A∪B) = ?",
-      "options": [
-        "P(A)+P(B)",
-        "P(A)P(B)",
-        "P(A)-P(B)",
-        "P(A)/P(B)"
-      ],
-      "option_a": "P(A)+P(B)",
-      "option_b": "P(A)P(B)",
-      "option_c": "P(A)-P(B)",
-      "option_d": "P(A)/P(B)",
-      "answer_index": 0,
-      "explanation": "परस्पर अपवर्जी घटनाहरूको लागि P(A∩B)=० हुन्छ। त्यसैले P(A∪B) = P(A)+P(B) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 62,
+      "qid": 4186806091,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1369,6 +1063,7 @@
     },
     {
       "id": 63,
+      "qid": 1244666000,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1391,6 +1086,7 @@
     },
     {
       "id": 64,
+      "qid": 3095862712,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1413,6 +1109,7 @@
     },
     {
       "id": 65,
+      "qid": 3479366583,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1435,6 +1132,7 @@
     },
     {
       "id": 66,
+      "qid": 4005325876,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1457,6 +1155,7 @@
     },
     {
       "id": 67,
+      "qid": 3028324996,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1478,29 +1177,8 @@
       "is_pro": false
     },
     {
-      "id": 68,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "sin²θ + cos²θ = ?",
-      "options": [
-        "१",
-        "०",
-        "२",
-        "sin२θ"
-      ],
-      "option_a": "१",
-      "option_b": "०",
-      "option_c": "२",
-      "option_d": "sin२θ",
-      "answer_index": 0,
-      "explanation": "त्रिकोणमितीय पाइथागोरस identity अनुसार sin²θ + cos²θ = १ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 69,
+      "qid": 471565271,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1523,6 +1201,7 @@
     },
     {
       "id": 70,
+      "qid": 1345998770,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1544,29 +1223,8 @@
       "is_pro": false
     },
     {
-      "id": 71,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 12",
-      "question": "समूह A मा सम्बन्ध R लाई तुल्य सम्बन्ध (equivalence relation) हुन के के गुण हुनुपर्छ?",
-      "options": [
-        "reflexive, symmetric, transitive",
-        "reflexive, symmetric",
-        "symmetric, transitive",
-        "reflexive, transitive"
-      ],
-      "option_a": "reflexive, symmetric, transitive",
-      "option_b": "reflexive, symmetric",
-      "option_c": "symmetric, transitive",
-      "option_d": "reflexive, transitive",
-      "answer_index": 0,
-      "explanation": "तुल्य सम्बन्ध हुन रिफ्लेक्सिभ, सिमेट्रिक र ट्रान्जिटिभ तीनवटै गुण हुनुपर्छ।",
-      "is_pro": false
-    },
-    {
       "id": 72,
+      "qid": 3622468479,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1589,6 +1247,7 @@
     },
     {
       "id": 73,
+      "qid": 2052958824,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1610,29 +1269,8 @@
       "is_pro": false
     },
     {
-      "id": 74,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "एकताका घनमूल (cube roots of unity) कुन हुन्?",
-      "options": [
-        "१, ω, ω²",
-        "१, -१, i",
-        "१, i, -i",
-        "१, २, ३"
-      ],
-      "option_a": "१, ω, ω²",
-      "option_b": "१, -१, i",
-      "option_c": "१, i, -i",
-      "option_d": "१, २, ३",
-      "answer_index": 0,
-      "explanation": "एकताका घनमूलहरू १, ω र ω² हुन्छन्, जहाँ ω = (-१+√३ i)/२ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 75,
+      "qid": 3277255559,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1655,6 +1293,7 @@
     },
     {
       "id": 76,
+      "qid": 469589845,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1676,29 +1315,8 @@
       "is_pro": false
     },
     {
-      "id": 77,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "१²+२²+...+n² को योग कुन सूत्रले दिन्छ?",
-      "options": [
-        "n(n+१)(२n+१)/६",
-        "n(n+१)/२",
-        "n²(n+१)²/४",
-        "n(n+१)(n+२)/६"
-      ],
-      "option_a": "n(n+१)(२n+१)/६",
-      "option_b": "n(n+१)/२",
-      "option_c": "n²(n+१)²/४",
-      "option_d": "n(n+१)(n+२)/६",
-      "answer_index": 0,
-      "explanation": "वर्ग संख्याको योग सूत्र Σn² = n(n+१)(२n+१)/६ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 78,
+      "qid": 172372051,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1721,6 +1339,7 @@
     },
     {
       "id": 79,
+      "qid": 3401252027,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1743,6 +1362,7 @@
     },
     {
       "id": 80,
+      "qid": 1506934903,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1765,6 +1385,7 @@
     },
     {
       "id": 81,
+      "qid": 309537226,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1787,6 +1408,7 @@
     },
     {
       "id": 82,
+      "qid": 4178426238,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1809,6 +1431,7 @@
     },
     {
       "id": 83,
+      "qid": 2086681000,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1830,29 +1453,8 @@
       "is_pro": false
     },
     {
-      "id": 84,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 12",
-      "question": "यदि A र B वर्ग म्याट्रिक्स भए (AB)^T = ?",
-      "options": [
-        "B^T A^T",
-        "A^T B^T",
-        "AB",
-        "BA"
-      ],
-      "option_a": "B^T A^T",
-      "option_b": "A^T B^T",
-      "option_c": "AB",
-      "option_d": "BA",
-      "answer_index": 0,
-      "explanation": "म्याट्रिक्स गुणनको transpose नियमअनुसार (AB)^T = B^T A^T हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 85,
+      "qid": 1826299310,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1875,6 +1477,7 @@
     },
     {
       "id": 86,
+      "qid": 1773756603,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1896,29 +1499,8 @@
       "is_pro": false
     },
     {
-      "id": 87,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "यदि प्रत्येक अवलोकनलाई २ ले गुणन गरियो भने भेरियन्स कति हुन्छ?",
-      "options": [
-        "४ गुणा",
-        "२ गुणा",
-        "उही रहन्छ",
-        "आधा हुन्छ"
-      ],
-      "option_a": "४ गुणा",
-      "option_b": "२ गुणा",
-      "option_c": "उही रहन्छ",
-      "option_d": "आधा हुन्छ",
-      "answer_index": 0,
-      "explanation": "यदि प्रत्येक अवलोकनलाई k ले गुणन गरियो भने भेरियन्स k² गुणा हुन्छ। यहाँ k=२ हुँदा भेरियन्स ४ गुणा हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 88,
+      "qid": 3784870511,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1941,6 +1523,7 @@
     },
     {
       "id": 89,
+      "qid": 1497154467,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -1962,29 +1545,8 @@
       "is_pro": false
     },
     {
-      "id": 90,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "यदि A+B+C=π भए sin२A+sin२B+sin२C = ?",
-      "options": [
-        "४ sinA sinB sinC",
-        "४ cosA cosB cosC",
-        "२ sinA sinB sinC",
-        "sinA sinB sinC"
-      ],
-      "option_a": "४ sinA sinB sinC",
-      "option_b": "४ cosA cosB cosC",
-      "option_c": "२ sinA sinB sinC",
-      "option_d": "sinA sinB sinC",
-      "answer_index": 0,
-      "explanation": "त्रिकोणमितीय सूत्रअनुसार A+B+C=π हुँदा sin२A+sin२B+sin२C = ४ sinA sinB sinC हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 91,
+      "qid": 2013153762,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -2007,6 +1569,7 @@
     },
     {
       "id": 92,
+      "qid": 4257787130,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -2028,29 +1591,8 @@
       "is_pro": false
     },
     {
-      "id": 93,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 11",
-      "question": "शब्द MATHEMATICS का अक्षरहरूलाई यसरी मिलाउँदा स्वरहरू सँगै आउने तरिकाको संख्या कति हुन्छ?",
-      "options": [
-        "१२०९६०",
-        "१००८०",
-        "२४१९२०",
-        "६०४८०"
-      ],
-      "option_a": "१२०९६०",
-      "option_b": "१००८०",
-      "option_c": "२४१९२०",
-      "option_d": "६०४८०",
-      "answer_index": 0,
-      "explanation": "MATHEMATICS मा ११ अक्षर छन्: M(२), A(२), T(२), H, E, I, C, S। स्वर A,E,A,I लाई एउटा ब्लक मान्दा ८ वस्तु हुन्छन्। तिनको व्यवस्था ८!/(२!२!) = १००८०। स्वर ब्लकभित्र ४!/२! = १२। कुल = १००८०×१२ = १२०९६०।",
-      "is_pro": false
-    },
-    {
       "id": 94,
+      "qid": 2208422636,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -2073,6 +1615,7 @@
     },
     {
       "id": 95,
+      "qid": 1094601616,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -2095,6 +1638,7 @@
     },
     {
       "id": 96,
+      "qid": 394775484,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -2117,6 +1661,7 @@
     },
     {
       "id": 97,
+      "qid": 139313856,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -2139,6 +1684,7 @@
     },
     {
       "id": 98,
+      "qid": 4097525376,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -2161,6 +1707,7 @@
     },
     {
       "id": 99,
+      "qid": 473236861,
       "main_cat_id": 4,
       "main_cat_name": "Higher Secondary",
       "sub_cat_id": "121",
@@ -2179,28 +1726,6 @@
       "option_d": "१/√(१-x²)",
       "answer_index": 2,
       "explanation": "व्युत्क्रम त्रिकोणमितीय फलनको अवकलजअनुसार d/dx(sin^{-१}x) = १/√(१-x²) हुन्छ।",
-      "is_pro": false
-    },
-    {
-      "id": 100,
-      "main_cat_id": 4,
-      "main_cat_name": "Higher Secondary",
-      "sub_cat_id": "121",
-      "sub_cat_name": "Pro Mathematics",
-      "level": "Class 12",
-      "question": "∫ dx/(१+x²) = ?",
-      "options": [
-        "tan^{-१}x + C",
-        "sin^{-१}x + C",
-        "ln(१+x²) + C",
-        "sec^{-१}x + C"
-      ],
-      "option_a": "tan^{-१}x + C",
-      "option_b": "sin^{-१}x + C",
-      "option_c": "ln(१+x²) + C",
-      "option_d": "sec^{-१}x + C",
-      "answer_index": 0,
-      "explanation": "मानक समाकलन सूत्रअनुसार ∫ dx/(१+x²) = tan^{-१}x + C हुन्छ।",
       "is_pro": false
     }
   ]
