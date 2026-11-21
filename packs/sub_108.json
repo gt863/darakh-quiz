@@ -1,32 +1,11 @@
 {
   "sub_cat_id": "108",
-  "data_version": 1794491195766,
-  "total_questions": 250,
+  "data_version": 1795279225068,
+  "total_questions": 187,
   "questions": [
     {
-      "id": 1,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "कुनै पनि त्रिभुजका तीनवटै भित्री कोणहरूको योगफल कति हुन्छ ?",
-      "options": [
-        "१८०°",
-        "९०°",
-        "३६०°",
-        "२७०°"
-      ],
-      "option_a": "१८०°",
-      "option_b": "९०°",
-      "option_c": "३६०°",
-      "option_d": "२७०°",
-      "answer_index": 0,
-      "explanation": "त्रिभुजका तीन भित्री कोणहरूको योगफल सधैँ १८० डिग्री (180°) हुन्छ, यो ज्यामितिको आधारभूत साध्य हो।",
-      "is_pro": false
-    },
-    {
       "id": 2,
+      "qid": 2246034532,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -49,6 +28,7 @@
     },
     {
       "id": 3,
+      "qid": 4246389293,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -71,6 +51,7 @@
     },
     {
       "id": 4,
+      "qid": 3155817146,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -92,29 +73,8 @@
       "is_pro": false
     },
     {
-      "id": 5,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "आयत (Rectangle) को क्षेत्रफल निकाल्ने सही सूत्र कुन हो ?",
-      "options": [
-        "लम्बाइ × चौडाइ (l × b)",
-        "२(लम्बाइ + चौडाइ)",
-        "लम्बाइ + चौडाइ (l + b)",
-        "४ × लम्बाइ (4l)"
-      ],
-      "option_a": "लम्बाइ × चौडाइ (l × b)",
-      "option_b": "२(लम्बाइ + चौडाइ)",
-      "option_c": "लम्बाइ + चौडाइ (l + b)",
-      "option_d": "४ × लम्बाइ (4l)",
-      "answer_index": 0,
-      "explanation": "आयतको क्षेत्रफल (Area) निकाल्न यसको लम्बाइ (l) र चौडाइ (b) लाई गुणन गरिन्छ (A = l × b)।",
-      "is_pro": false
-    },
-    {
       "id": 6,
+      "qid": 3544051046,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -137,6 +97,7 @@
     },
     {
       "id": 7,
+      "qid": 3884435223,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -159,6 +120,7 @@
     },
     {
       "id": 8,
+      "qid": 2253055116,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -180,29 +142,8 @@
       "is_pro": false
     },
     {
-      "id": 9,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "ऐकिक नियम अनुसार एक दर्जनमा कति वटा वस्तुहरू हुन्छन् ?",
-      "options": [
-        "१२ वटा",
-        "१० वटा",
-        "१४ वटा",
-        "२० वटा"
-      ],
-      "option_a": "१२ वटा",
-      "option_b": "१० वटा",
-      "option_c": "१४ वटा",
-      "option_d": "२० वटा",
-      "answer_index": 0,
-      "explanation": "मापनको मानक इकाइअनुसार एक दर्जन (One Dozen) भन्नाले जम्मा १२ वटा वस्तुहरूको समूहलाई बुझाउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 10,
+      "qid": 4059714656,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -225,6 +166,7 @@
     },
     {
       "id": 11,
+      "qid": 742849664,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -247,6 +189,7 @@
     },
     {
       "id": 12,
+      "qid": 1450519289,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -268,29 +211,8 @@
       "is_pro": false
     },
     {
-      "id": 13,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "नाफा (Profit) निकाल्ने सही सूत्र कुन हो ?",
-      "options": [
-        "विक्रय मूल्य - क्रय मूल्य",
-        "क्रय मूल्य - विक्रय मूल्य",
-        "क्रय मूल्य + विक्रय मूल्य",
-        "विक्रय मूल्य ÷ क्रय मूल्य"
-      ],
-      "option_a": "विक्रय मूल्य - क्रय मूल्य",
-      "option_b": "क्रय मूल्य - विक्रय मूल्य",
-      "option_c": "क्रय मूल्य + विक्रय मूल्य",
-      "option_d": "विक्रय मूल्य ÷ क्रय मूल्य",
-      "answer_index": 0,
-      "explanation": "कुनै सामान किनेको भन्दा बढी मूल्यमा बेच्दा नाफा हुन्छ, त्यसैले नाफा = विक्रय मूल्य (SP) - क्रय मूल्य (CP) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 14,
+      "qid": 2296859515,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -313,6 +235,7 @@
     },
     {
       "id": 15,
+      "qid": 3787981762,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -335,6 +258,7 @@
     },
     {
       "id": 16,
+      "qid": 3555895495,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -356,29 +280,8 @@
       "is_pro": false
     },
     {
-      "id": 17,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "भिन्नको जोड नियमअनुसार १/२ र १/४ जोड्दा (१/२ + १/४) कति हुन्छ ?",
-      "options": [
-        "३/४",
-        "२/६",
-        "१/६",
-        "४/६"
-      ],
-      "option_a": "३/४",
-      "option_b": "२/६",
-      "option_c": "१/६",
-      "option_d": "४/६",
-      "answer_index": 0,
-      "explanation": "हरहरू २ र ४ को ल.स. ४ हुन्छ। त्यसैले (२+१)/४ = ३/४ सही उत्तर हो।",
-      "is_pro": false
-    },
-    {
       "id": 18,
+      "qid": 3155081574,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -401,6 +304,7 @@
     },
     {
       "id": 19,
+      "qid": 3562026389,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -423,6 +327,7 @@
     },
     {
       "id": 20,
+      "qid": 370043576,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -444,29 +349,8 @@
       "is_pro": false
     },
     {
-      "id": 21,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "रु. २० र रु. ५० को अनुपात (Ratio) कति हुन्छ ?",
-      "options": [
-        "२:५",
-        "५:२",
-        "१:३",
-        "३:५"
-      ],
-      "option_a": "२:५",
-      "option_b": "५:२",
-      "option_c": "१:३",
-      "option_d": "३:५",
-      "answer_index": 0,
-      "explanation": "अनुपात निकाल्दा दुवैलाई एउटै एकाइमा राखी सबैभन्दा सानो रूपमा काटिन्छ; २०/५० = २/५ अर्थात् २:५ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 22,
+      "qid": 1054295636,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -489,6 +373,7 @@
     },
     {
       "id": 23,
+      "qid": 3220504100,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -511,6 +396,7 @@
     },
     {
       "id": 24,
+      "qid": 2251645276,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -532,29 +418,8 @@
       "is_pro": false
     },
     {
-      "id": 25,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "समद्विबाहु त्रिभुज (Isosceles Triangle) मा बराबर भुजाहरूका विपरीत कोणहरू कस्ता हुन्छन् ?",
-      "options": [
-        "आपसमा बराबर हुन्छन्",
-        "आपसमा फरक हुन्छन्",
-        "एउटा ९० डिग्रीको हुन्छ",
-        "योगफल १८० डिग्री हुन्छ"
-      ],
-      "option_a": "आपसमा बराबर हुन्छन्",
-      "option_b": "आपसमा फरक हुन्छन्",
-      "option_c": "एउटा ९० डिग्रीको हुन्छ",
-      "option_d": "योगफल १८० डिग्री हुन्छ",
-      "answer_index": 0,
-      "explanation": "ज्यामितिको साध्यअनुसार समद्विबाहु त्रिभुजका बराबर भुजाहरूका सम्मुख कोणहरू सधैँ आपसमा बराबर हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 26,
+      "qid": 2831370237,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -577,6 +442,7 @@
     },
     {
       "id": 27,
+      "qid": 3657897567,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -599,6 +465,7 @@
     },
     {
       "id": 28,
+      "qid": 584978502,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -620,29 +487,8 @@
       "is_pro": false
     },
     {
-      "id": 29,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "आधार ६ से.मी. र लम्ब उचाइ ८ से.मी. भएको समकोण त्रिभुजको क्षेत्रफल कति हुन्छ ?",
-      "options": [
-        "२४ वर्ग से.मी.",
-        "४८ वर्ग से.मी.",
-        "१४ वर्ग से.मी.",
-        "२८ वर्ग से.मी."
-      ],
-      "option_a": "२४ वर्ग से.मी.",
-      "option_b": "४८ वर्ग से.मी.",
-      "option_c": "१४ वर्ग से.मी.",
-      "option_d": "२८ वर्ग से.मी.",
-      "answer_index": 0,
-      "explanation": "त्रिभुजको क्षेत्रफल = १/२ × आधार × उचाइ = १/२ × ६ × ८ = २४ वर्ग से.मी. हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 30,
+      "qid": 1712692203,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -665,6 +511,7 @@
     },
     {
       "id": 31,
+      "qid": 313713690,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -687,6 +534,7 @@
     },
     {
       "id": 32,
+      "qid": 2650777087,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -708,29 +556,8 @@
       "is_pro": false
     },
     {
-      "id": 33,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "४ र ६ को लघुत्तम समापवर्त्य (ल.स. वा LCM) कति हुन्छ ?",
-      "options": [
-        "१२",
-        "२४",
-        "२",
-        "१०"
-      ],
-      "option_a": "१२",
-      "option_b": "२४",
-      "option_c": "२",
-      "option_d": "१०",
-      "answer_index": 0,
-      "explanation": "४ र ६ दुवैले निशेष भाग जाने सबैभन्दा सानो सङ्ख्या १२ हो (४×३=१२ र ६×२=१२)।",
-      "is_pro": false
-    },
-    {
       "id": 34,
+      "qid": 3057735154,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -753,6 +580,7 @@
     },
     {
       "id": 35,
+      "qid": 2305451780,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -775,6 +603,7 @@
     },
     {
       "id": 36,
+      "qid": 386267310,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -796,29 +625,8 @@
       "is_pro": false
     },
     {
-      "id": 37,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "रु. २००० को सावाँ १०% वार्षिक साधारण ब्याजदरले कति वर्षमा दोब्बर (मिश्रधन रु. ४०००) हुन्छ ?",
-      "options": [
-        "१० वर्ष",
-        "५ वर्ष",
-        "२० वर्ष",
-        "८ वर्ष"
-      ],
-      "option_a": "१० वर्ष",
-      "option_b": "५ वर्ष",
-      "option_c": "२० वर्ष",
-      "option_d": "८ वर्ष",
-      "answer_index": 0,
-      "explanation": "सावाँ दोब्बर हुन ब्याज सावाँ बराबर हुनुपर्छ (I=२०००)। समय T = (I × १००)/(P × R) = (२००० × १००)/(२००० × १०) = १० वर्ष।",
-      "is_pro": false
-    },
-    {
       "id": 38,
+      "qid": 2169589110,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -841,6 +649,7 @@
     },
     {
       "id": 39,
+      "qid": 3036123777,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -863,6 +672,7 @@
     },
     {
       "id": 40,
+      "qid": 993658165,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -884,29 +694,8 @@
       "is_pro": false
     },
     {
-      "id": 41,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "४० जना विद्यार्थीको कक्षामा २५ जनाले फुटबल र २० जनाले भलिबल खेल्छन्। यदि ५ जनाले दुवै खेल्दैनन् भने दुवै खेल खेल्ने विद्यार्थी कति होलान् ?",
-      "options": [
-        "१० जना",
-        "५ जना",
-        "१५ जना",
-        "२० जना"
-      ],
-      "option_a": "१० जना",
-      "option_b": "५ जना",
-      "option_c": "१५ जना",
-      "option_d": "२० जना",
-      "answer_index": 0,
-      "explanation": "कम्तीमा एक खेल खेल्ने = ४० - ५ = ३५। दुवै खेल्ने = n(F) + n(V) - n(F ∪ V) = २५ + २० - ३५ = १० जना।",
-      "is_pro": false
-    },
-    {
       "id": 42,
+      "qid": 4039500758,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -929,6 +718,7 @@
     },
     {
       "id": 43,
+      "qid": 521922675,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -951,6 +741,7 @@
     },
     {
       "id": 44,
+      "qid": 2092518287,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -972,29 +763,8 @@
       "is_pro": false
     },
     {
-      "id": 45,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "अनुपात समीकरण x : ४ = ९ : १२ भए x को मान कति होला ?",
-      "options": [
-        "३",
-        "६",
-        "८",
-        "१२"
-      ],
-      "option_a": "३",
-      "option_b": "६",
-      "option_c": "८",
-      "option_d": "१२",
-      "answer_index": 0,
-      "explanation": "x/४ = ९/१२ => x = (९ × ४)/१२ => x = ३६/१२ => x = ३ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 46,
+      "qid": 1793041956,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1017,6 +787,7 @@
     },
     {
       "id": 47,
+      "qid": 313040412,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1039,6 +810,7 @@
     },
     {
       "id": 48,
+      "qid": 4247737131,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1060,29 +832,8 @@
       "is_pro": false
     },
     {
-      "id": 49,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "आधारको अर्धव्यास ७ से.मी. र उचाइ १० से.मी. भएको बेलना (Cylinder) को आयतन कति हुन्छ ? (π = २२/७)",
-      "options": [
-        "१५४० घन से.मी.",
-        "१५४ घन से.मी.",
-        "४४० घन से.मी.",
-        "२२०० घन से.मी."
-      ],
-      "option_a": "१५४० घन से.मी.",
-      "option_b": "१५४ घन से.मी.",
-      "option_c": "४४० घन से.मी.",
-      "option_d": "२२०० घन से.मी.",
-      "answer_index": 0,
-      "explanation": "बेलनाको आयतन V = πr^२h = (२२/७) × ७^२ × १० = २२ × ७ × १० = १५४० घन से.मी. हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 50,
+      "qid": 3589808644,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1104,29 +855,8 @@
       "is_pro": false
     },
     {
-      "id": 51,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "५/१०० लाई दशमलव (Decimal) मा रूपान्तरण गर्दा कति हुन्छ ?",
-      "options": [
-        "०.०५",
-        "०.५",
-        "०.००५",
-        "५.०"
-      ],
-      "option_a": "०.०५",
-      "option_b": "०.५",
-      "option_c": "०.००५",
-      "option_d": "५.०",
-      "answer_index": 0,
-      "explanation": "५ लाई १०० ले भाग गर्दा दुई स्थान पछाडि दशमलव सर्छ, त्यसैले ५/१०० = ०.०५ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 52,
+      "qid": 1175958985,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1149,6 +879,7 @@
     },
     {
       "id": 53,
+      "qid": 4181644666,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1171,6 +902,7 @@
     },
     {
       "id": 54,
+      "qid": 818482798,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1193,6 +925,7 @@
     },
     {
       "id": 55,
+      "qid": 2901216541,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1215,6 +948,7 @@
     },
     {
       "id": 56,
+      "qid": 1567409173,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1237,6 +971,7 @@
     },
     {
       "id": 57,
+      "qid": 1545988459,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1258,29 +993,8 @@
       "is_pro": false
     },
     {
-      "id": 58,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "९०° भन्दा सानो कोणलाई के भनिन्छ ?",
-      "options": [
-        "न्यूनकोण (Acute Angle)",
-        "समकोण (Right Angle)",
-        "अधिककोण (Obtuse Angle)",
-        "सरलकोण (Straight Angle)"
-      ],
-      "option_a": "न्यूनकोण (Acute Angle)",
-      "option_b": "समकोण (Right Angle)",
-      "option_c": "अधिककोण (Obtuse Angle)",
-      "option_d": "सरलकोण (Straight Angle)",
-      "answer_index": 0,
-      "explanation": "०° भन्दा ठूलो र ९०° भन्दा सानो कोणलाई ज्यामितिमा न्यूनकोण (Acute Angle) भनिन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 59,
+      "qid": 2483593496,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1303,6 +1017,7 @@
     },
     {
       "id": 60,
+      "qid": 2868361576,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1324,29 +1039,8 @@
       "is_pro": false
     },
     {
-      "id": 61,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "वर्ग (Square) को क्षेत्रफल निकाल्ने सूत्र कुन हो ? (जहाँ l = भुजाको लम्बाइ)",
-      "options": [
-        "l^२ (l square)",
-        "४l",
-        "२l",
-        "l^३"
-      ],
-      "option_a": "l^२ (l square)",
-      "option_b": "४l",
-      "option_c": "२l",
-      "option_d": "l^३",
-      "answer_index": 0,
-      "explanation": "वर्गका सबै भुजाहरू बराबर हुने भएकाले यसको क्षेत्रफल लम्बाइ × लम्बाइ अर्थात् l^२ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 62,
+      "qid": 2220775864,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1369,6 +1063,7 @@
     },
     {
       "id": 63,
+      "qid": 4153367376,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1390,29 +1085,8 @@
       "is_pro": false
     },
     {
-      "id": 64,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "१०० को १०% कति हुन्छ ?",
-      "options": [
-        "१०",
-        "१००",
-        "१",
-        "०.१"
-      ],
-      "option_a": "१०",
-      "option_b": "१००",
-      "option_c": "१",
-      "option_d": "०.१",
-      "answer_index": 0,
-      "explanation": "कुनै पनि सङ्ख्याको प्रतिशत निकाल्न (१०० × १०/१००) गरिन्छ, जसको मान १० नै हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 65,
+      "qid": 1624749218,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1435,6 +1109,7 @@
     },
     {
       "id": 66,
+      "qid": 586945082,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1456,29 +1131,8 @@
       "is_pro": false
     },
     {
-      "id": 67,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "०.१ लाई १० ले गुणन गर्दा कति हुन्छ ?",
-      "options": [
-        "१",
-        "१०",
-        "०.०१",
-        "१००"
-      ],
-      "option_a": "१",
-      "option_b": "१०",
-      "option_c": "०.०१",
-      "option_d": "१००",
-      "answer_index": 0,
-      "explanation": "कुनै पनि दशमलव सङ्ख्यालाई १० ले गुणन गर्दा दशमलव बिन्दु एक स्थान दायाँ सर्छ, त्यसैले १ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 68,
+      "qid": 2515813141,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1501,6 +1155,7 @@
     },
     {
       "id": 69,
+      "qid": 795954110,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1523,6 +1178,7 @@
     },
     {
       "id": 70,
+      "qid": 3112144678,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1545,6 +1201,7 @@
     },
     {
       "id": 71,
+      "qid": 1336361031,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1567,6 +1224,7 @@
     },
     {
       "id": 72,
+      "qid": 3099764992,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1589,6 +1247,7 @@
     },
     {
       "id": 73,
+      "qid": 3970834598,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1610,29 +1269,8 @@
       "is_pro": false
     },
     {
-      "id": 74,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "भिन्न १/२ लाई प्रतिशतमा रूपान्तरण गर्दा कति हुन्छ ?",
-      "options": [
-        "५०%",
-        "२०%",
-        "१००%",
-        "२५%"
-      ],
-      "option_a": "५०%",
-      "option_b": "२०%",
-      "option_c": "१००%",
-      "option_d": "२५%",
-      "answer_index": 0,
-      "explanation": "कुनै भिन्नलाई प्रतिशतमा लैजान १००% ले गुणन गरिन्छ; १/२ × १००% = ५०% हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 75,
+      "qid": 3825895706,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1655,6 +1293,7 @@
     },
     {
       "id": 76,
+      "qid": 738758411,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1676,29 +1315,8 @@
       "is_pro": false
     },
     {
-      "id": 77,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "१ मिटरमा कति सेन्टिमिटर (cm) हुन्छ ?",
-      "options": [
-        "१०० से.मी.",
-        "१० से.मी.",
-        "१००० से.मी.",
-        "१०००० से.मी."
-      ],
-      "option_a": "१०० से.मी.",
-      "option_b": "१० से.मी.",
-      "option_c": "१००० से.मी.",
-      "option_d": "१०००० से.मी.",
-      "answer_index": 0,
-      "explanation": "लम्बाइको नाप प्रणाली अनुसार १ मिटर बराबर सधैँ १०० सेन्टिमिटर (cm) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 78,
+      "qid": 2750178860,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1721,6 +1339,7 @@
     },
     {
       "id": 79,
+      "qid": 3366991973,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1742,29 +1361,8 @@
       "is_pro": false
     },
     {
-      "id": 80,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "अनुक्रम २, ४, ६, ... को अर्को पद कुन होला ?",
-      "options": [
-        "८",
-        "१०",
-        "१२",
-        "७"
-      ],
-      "option_a": "८",
-      "option_b": "१०",
-      "option_c": "१२",
-      "option_d": "७",
-      "answer_index": 0,
-      "explanation": "यो जोर प्राकृतिक सङ्ख्याहरूको अनुक्रम हो जहाँ प्रत्येक पदमा २ थपिएको छ, त्यसैले ६ + २ = ८ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 81,
+      "qid": 3548873278,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1787,6 +1385,7 @@
     },
     {
       "id": 82,
+      "qid": 4113752127,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1809,6 +1408,7 @@
     },
     {
       "id": 83,
+      "qid": 1761218351,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1830,29 +1430,8 @@
       "is_pro": false
     },
     {
-      "id": 84,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "२०० को १५% कति हुन्छ ?",
-      "options": [
-        "३०",
-        "१५",
-        "२०",
-        "४५"
-      ],
-      "option_a": "३०",
-      "option_b": "१५",
-      "option_c": "२०",
-      "option_d": "४५",
-      "answer_index": 0,
-      "explanation": "२०० को १५% = २०० × (१५/१००) = २ × १५ = ३० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 85,
+      "qid": 2052863359,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1875,6 +1454,7 @@
     },
     {
       "id": 86,
+      "qid": 2512806819,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1896,29 +1476,8 @@
       "is_pro": false
     },
     {
-      "id": 87,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "रु. १००० को १०% वार्षिक दरले २ वर्षमा हुने साधारण ब्याज कति हुन्छ ?",
-      "options": [
-        "रु. २००",
-        "रु. १००",
-        "रु. ४००",
-        "रु. १५०"
-      ],
-      "option_a": "रु. २००",
-      "option_b": "रु. १००",
-      "option_c": "रु. ४००",
-      "option_d": "रु. १५०",
-      "answer_index": 0,
-      "explanation": "I = (P×T×R) ÷ १०० = (१००० × २ × १०) ÷ १०० = २०० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 88,
+      "qid": 648896189,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1941,6 +1500,7 @@
     },
     {
       "id": 89,
+      "qid": 794453894,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -1962,29 +1522,8 @@
       "is_pro": false
     },
     {
-      "id": 90,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "८ र १२ को लघुत्तम समापवर्त्य (ल.स.) कति हुन्छ ?",
-      "options": [
-        "२४",
-        "१६",
-        "४८",
-        "९६"
-      ],
-      "option_a": "२४",
-      "option_b": "१६",
-      "option_c": "४८",
-      "option_d": "९६",
-      "answer_index": 0,
-      "explanation": "८ र १२ दुवैले निशेष भाग जाने सबैभन्दा सानो सङ्ख्या २४ हो (८×३=२४, १२×२=२४)।",
-      "is_pro": false
-    },
-    {
       "id": 91,
+      "qid": 133388654,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2007,6 +1546,7 @@
     },
     {
       "id": 92,
+      "qid": 4119484423,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2028,29 +1568,8 @@
       "is_pro": false
     },
     {
-      "id": 93,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "आधार १० से.मी. र उचाइ ६ से.मी. भएको त्रिभुजको क्षेत्रफल कति हुन्छ ?",
-      "options": [
-        "३० वर्ग से.मी.",
-        "६० वर्ग से.मी.",
-        "१५ वर्ग से.मी.",
-        "४५ वर्ग से.मी."
-      ],
-      "option_a": "३० वर्ग से.मी.",
-      "option_b": "६० वर्ग से.मी.",
-      "option_c": "१५ वर्ग से.मी.",
-      "option_d": "४५ वर्ग से.मी.",
-      "answer_index": 0,
-      "explanation": "त्रिभुजको क्षेत्रफल = १/२ × आधार × उचाइ = १/२ × १० × ६ = ३० वर्ग से.मी. हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 94,
+      "qid": 1094148246,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2073,6 +1592,7 @@
     },
     {
       "id": 95,
+      "qid": 4084855878,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2095,6 +1615,7 @@
     },
     {
       "id": 96,
+      "qid": 2429222016,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2117,6 +1638,7 @@
     },
     {
       "id": 97,
+      "qid": 1583166031,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2139,6 +1661,7 @@
     },
     {
       "id": 98,
+      "qid": 2230464725,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2161,6 +1684,7 @@
     },
     {
       "id": 99,
+      "qid": 3076881155,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2182,29 +1706,8 @@
       "is_pro": false
     },
     {
-      "id": 100,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "२२५ को वर्गमूल (Square Root) कति हुन्छ ?",
-      "options": [
-        "१५",
-        "२५",
-        "३५",
-        "१२"
-      ],
-      "option_a": "१५",
-      "option_b": "२५",
-      "option_c": "३५",
-      "option_d": "१२",
-      "answer_index": 0,
-      "explanation": "१५ × १५ = २२५ हुने भएकाले २२५ को वर्गमूल १५ हो।",
-      "is_pro": false
-    },
-    {
       "id": 101,
+      "qid": 910230068,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2227,6 +1730,7 @@
     },
     {
       "id": 102,
+      "qid": 220120969,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2248,29 +1752,8 @@
       "is_pro": false
     },
     {
-      "id": 103,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "१०, २० र ३० को मध्यक (Mean) कति हुन्छ ?",
-      "options": [
-        "२०",
-        "१५",
-        "३०",
-        "२५"
-      ],
-      "option_a": "२०",
-      "option_b": "१५",
-      "option_c": "३०",
-      "option_d": "२५",
-      "answer_index": 0,
-      "explanation": "मध्यक = (१०+२०+३०) ÷ ३ = ६० ÷ ३ = २० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 104,
+      "qid": 1392036680,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2293,6 +1776,7 @@
     },
     {
       "id": 105,
+      "qid": 1591337643,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2314,29 +1798,8 @@
       "is_pro": false
     },
     {
-      "id": 106,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "त्रिभुजको बाहिरी कोण केसँग बराबर हुन्छ ?",
-      "options": [
-        "भित्री सम्मुख कोणहरूको योगफल",
-        "भित्री कोणहरूको अन्तर",
-        "सँगैको भित्री कोण",
-        "१८० डिग्री"
-      ],
-      "option_a": "भित्री सम्मुख कोणहरूको योगफल",
-      "option_b": "भित्री कोणहरूको अन्तर",
-      "option_c": "सँगैको भित्री कोण",
-      "option_d": "१८० डिग्री",
-      "answer_index": 0,
-      "explanation": "ज्यामितिको साध्यअनुसार त्रिभुजको कुनै भुजा लम्ब्याउँदा बन्ने बाहिरी कोण त्यसका दुई भित्री सम्मुख कोणहरूको योगफलसँग बराबर हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 107,
+      "qid": 3594828787,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2359,6 +1822,7 @@
     },
     {
       "id": 108,
+      "qid": 3738218717,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2380,29 +1844,8 @@
       "is_pro": false
     },
     {
-      "id": 109,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "घाताङ्कको नियमअनुसार x^३ लाई x^२ ले भाग गर्दा (x^३ ÷ x^२) कति हुन्छ ?",
-      "options": [
-        "x",
-        "x^५",
-        "१",
-        "x^६"
-      ],
-      "option_a": "x",
-      "option_b": "x^५",
-      "option_c": "१",
-      "option_d": "x^६",
-      "answer_index": 0,
-      "explanation": "आधार एउटै भई भाग गर्दा घाताङ्कहरू घटाइन्छन्, तसर्थ x^(३-२) = x^१ अर्थात् x हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 110,
+      "qid": 3236578162,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2425,6 +1868,7 @@
     },
     {
       "id": 111,
+      "qid": 427018617,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2447,6 +1891,7 @@
     },
     {
       "id": 112,
+      "qid": 4129043724,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2469,6 +1914,7 @@
     },
     {
       "id": 113,
+      "qid": 1398742968,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2491,6 +1937,7 @@
     },
     {
       "id": 114,
+      "qid": 312893544,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2513,6 +1960,7 @@
     },
     {
       "id": 115,
+      "qid": 2882306870,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2534,29 +1982,8 @@
       "is_pro": false
     },
     {
-      "id": 116,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "१२ र १५ को लघुत्तम समापवर्त्य (ल.स.) कति हुन्छ ?",
-      "options": [
-        "६०",
-        "३०",
-        "१२०",
-        "१५"
-      ],
-      "option_a": "६०",
-      "option_b": "३०",
-      "option_c": "१२०",
-      "option_d": "१५",
-      "answer_index": 0,
-      "explanation": "१२ र १५ दुवैले निशेष भाग जाने सबैभन्दा सानो सङ्ख्या ६० हो (१२×५=६०, १५×४=६०)।",
-      "is_pro": false
-    },
-    {
       "id": 117,
+      "qid": 2339030305,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2579,6 +2006,7 @@
     },
     {
       "id": 118,
+      "qid": 1333403073,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2600,29 +2028,8 @@
       "is_pro": false
     },
     {
-      "id": 119,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "यदि २a = १० भए, ३a को मान कति हुन्छ ?",
-      "options": [
-        "१५",
-        "१२",
-        "२०",
-        "५"
-      ],
-      "option_a": "१५",
-      "option_b": "१२",
-      "option_c": "२०",
-      "option_d": "५",
-      "answer_index": 0,
-      "explanation": "२a = १० बाट a = ५ आउँछ। त्यसैले ३a = ३ × ५ = १५ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 120,
+      "qid": 1360209722,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2645,6 +2052,7 @@
     },
     {
       "id": 121,
+      "qid": 4214269374,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2667,6 +2075,7 @@
     },
     {
       "id": 122,
+      "qid": 3011070043,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2688,29 +2097,8 @@
       "is_pro": false
     },
     {
-      "id": 123,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "रु. ५००० को १०% वार्षिक ब्याजदरले २ वर्षमा मिश्रधन (Amount) कति हुन्छ ?",
-      "options": [
-        "रु. ६०००",
-        "रु. १०००",
-        "रु. ७०००",
-        "रु. ५५००"
-      ],
-      "option_a": "रु. ६०००",
-      "option_b": "रु. १०००",
-      "option_c": "रु. ७०००",
-      "option_d": "रु. ५५००",
-      "answer_index": 0,
-      "explanation": "ब्याज I = (५०००×२×१०)/१०० = १०००। मिश्रधन = सावाँ + ब्याज = ५००० + १००० = रु. ६००० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 124,
+      "qid": 94048357,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2733,6 +2121,7 @@
     },
     {
       "id": 125,
+      "qid": 3705477942,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2754,29 +2143,8 @@
       "is_pro": false
     },
     {
-      "id": 126,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "रु. ५०० अङ्कित मूल्य भएको सामानमा २०% छुट दिँदा कतिमा बेचिन्छ ?",
-      "options": [
-        "रु. ४००",
-        "रु. ४५०",
-        "रु. ३००",
-        "रु. ४८०"
-      ],
-      "option_a": "रु. ४००",
-      "option_b": "रु. ४५०",
-      "option_c": "रु. ३००",
-      "option_d": "रु. ४८०",
-      "answer_index": 0,
-      "explanation": "छुट रकम = ५०० को २०% = १००। विक्रय मूल्य = अङ्कित मूल्य - छुट = ५०० - १०० = रु. ४०० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 127,
+      "qid": 2501561259,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2799,6 +2167,7 @@
     },
     {
       "id": 128,
+      "qid": 1051283450,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2820,29 +2189,8 @@
       "is_pro": false
     },
     {
-      "id": 129,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "x^२ - ७x + १२ को खण्डीकरण कुन हो ?",
-      "options": [
-        "(x-३)(x-४)",
-        "(x+३)(x+४)",
-        "(x-२)(x-६)",
-        "(x-१)(x-१२)"
-      ],
-      "option_a": "(x-३)(x-४)",
-      "option_b": "(x+३)(x+४)",
-      "option_c": "(x-२)(x-६)",
-      "option_d": "(x-१)(x-१२)",
-      "answer_index": 0,
-      "explanation": "x^२ - ४x - ३x + १२ = x(x-४) - ३(x-४) = (x-३)(x-४) सही उत्तर हो।",
-      "is_pro": false
-    },
-    {
       "id": 130,
+      "qid": 4055682053,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2865,6 +2213,7 @@
     },
     {
       "id": 131,
+      "qid": 2953837326,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2887,6 +2236,7 @@
     },
     {
       "id": 132,
+      "qid": 828537590,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2909,6 +2259,7 @@
     },
     {
       "id": 133,
+      "qid": 2257271844,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2931,6 +2282,7 @@
     },
     {
       "id": 134,
+      "qid": 336721581,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2953,6 +2305,7 @@
     },
     {
       "id": 135,
+      "qid": 1695594774,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -2974,29 +2327,8 @@
       "is_pro": false
     },
     {
-      "id": 136,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "१० मिटर लम्बाइ भएको वर्गाकार बगैँचाको बाहिरपट्टि वरिपरि २ मिटर चौडाइ भएको बाटो छ भने बाटोको क्षेत्रफल कति होला ?",
-      "options": [
-        "९६ वर्ग मिटर",
-        "४४ वर्ग मिटर",
-        "१०० वर्ग मिटर",
-        "१९६ वर्ग मिटर"
-      ],
-      "option_a": "९६ वर्ग मिटर",
-      "option_b": "४४ वर्ग मिटर",
-      "option_c": "१०० वर्ग मिटर",
-      "option_d": "१९६ वर्ग मिटर",
-      "answer_index": 0,
-      "explanation": "बाहिरी वर्गको लम्बाइ १४m हुन्छ (१०+२+२)। बाटोको क्षेत्रफल = बाहिरी क्षेत्रफल - भित्री क्षेत्रफल = १४^२ - १०^२ = १९६ - १०० = ९६ वर्ग मिटर।",
-      "is_pro": false
-    },
-    {
       "id": 137,
+      "qid": 920203637,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3019,6 +2351,7 @@
     },
     {
       "id": 138,
+      "qid": 1514890112,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3040,29 +2373,8 @@
       "is_pro": false
     },
     {
-      "id": 139,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "१०० मिटर लामो रेलले एउटा खम्बालाई १० मिटर/सेकेन्डको गतिमा पार गर्न कति समय लगाउँछ ?",
-      "options": [
-        "१० सेकेन्ड",
-        "१०० सेकेन्ड",
-        "२० सेकेन्ड",
-        "५ सेकेन्ड"
-      ],
-      "option_a": "१० सेकेन्ड",
-      "option_b": "१०० सेकेन्ड",
-      "option_c": "२० सेकेन्ड",
-      "option_d": "५ सेकेन्ड",
-      "answer_index": 0,
-      "explanation": "खम्बा पार गर्दा रेलले आफ्नै लम्बाइ बराबर दूरी पार गर्छ। समय = दूरी ÷ गति = १०० ÷ १० = १० सेकेन्ड।",
-      "is_pro": false
-    },
-    {
       "id": 140,
+      "qid": 1377939521,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3085,6 +2397,7 @@
     },
     {
       "id": 141,
+      "qid": 627504564,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3106,29 +2419,8 @@
       "is_pro": false
     },
     {
-      "id": 142,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "समानान्तर चतुर्भुजको क्षेत्रफल ४८ वर्ग से.मी. र आधार ८ से.मी. छ भने यसको उचाइ कति होला ?",
-      "options": [
-        "६ से.मी.",
-        "१२ से.मी.",
-        "८ से.मी.",
-        "४० से.मी."
-      ],
-      "option_a": "६ से.मी.",
-      "option_b": "१२ से.मी.",
-      "option_c": "८ से.मी.",
-      "option_d": "४० से.मी.",
-      "answer_index": 0,
-      "explanation": "समानान्तर चतुर्भुजको क्षेत्रफल = आधार × उचाइ हुन्छ। तसर्थ उचाइ = ४८ ÷ ८ = ६ से.मी. हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 143,
+      "qid": 2294788021,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3151,6 +2443,7 @@
     },
     {
       "id": 144,
+      "qid": 553998220,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3172,29 +2465,8 @@
       "is_pro": false
     },
     {
-      "id": 145,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "यदि a/b = २/३ र b/c = ३/४ भए, a/c को मान कति हुन्छ ?",
-      "options": [
-        "१/२",
-        "२/३",
-        "३/४",
-        "१/४"
-      ],
-      "option_a": "१/२",
-      "option_b": "२/३",
-      "option_c": "३/४",
-      "option_d": "१/४",
-      "answer_index": 0,
-      "explanation": "a/b र b/c लाई गुणन गर्दा (a/b) × (b/c) = (२/३) × (३/४) हुन्छ, जसलाई काट्दा a/c = २/४ अर्थात् १/२ आउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 146,
+      "qid": 2212000528,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3217,6 +2489,7 @@
     },
     {
       "id": 147,
+      "qid": 3543895211,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3239,6 +2512,7 @@
     },
     {
       "id": 148,
+      "qid": 2099899541,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3261,6 +2535,7 @@
     },
     {
       "id": 149,
+      "qid": 1962994869,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3283,6 +2558,7 @@
     },
     {
       "id": 150,
+      "qid": 4293227798,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3304,29 +2580,8 @@
       "is_pro": false
     },
     {
-      "id": 151,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "१ किलोमिटर (km) मा कति मिटर हुन्छ ?",
-      "options": [
-        "१००० मिटर",
-        "१०० मिटर",
-        "१० मिटर",
-        "१०००० मिटर"
-      ],
-      "option_a": "१००० मिटर",
-      "option_b": "१०० मिटर",
-      "option_c": "१० मिटर",
-      "option_d": "१०००० मिटर",
-      "answer_index": 0,
-      "explanation": "लम्बाइको नाप प्रणालीअनुसार १ किलोमिटर बराबर १००० मिटर हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 152,
+      "qid": 4187556533,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3349,6 +2604,7 @@
     },
     {
       "id": 153,
+      "qid": 399423228,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3371,6 +2627,7 @@
     },
     {
       "id": 154,
+      "qid": 3838079601,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3393,6 +2650,7 @@
     },
     {
       "id": 155,
+      "qid": 661339015,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3415,6 +2673,7 @@
     },
     {
       "id": 156,
+      "qid": 3494475690,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3437,6 +2696,7 @@
     },
     {
       "id": 157,
+      "qid": 3933873730,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3458,29 +2718,8 @@
       "is_pro": false
     },
     {
-      "id": 158,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "बीजगणितमा (a + b)^२ को सही सूत्र कुन हो ?",
-      "options": [
-        "a^२ + २ab + b^२",
-        "a^२ - २ab + b^२",
-        "a^२ + b^२",
-        "a^२ - b^२"
-      ],
-      "option_a": "a^२ + २ab + b^२",
-      "option_b": "a^२ - २ab + b^२",
-      "option_c": "a^२ + b^२",
-      "option_d": "a^२ - b^२",
-      "answer_index": 0,
-      "explanation": "द्विपदीय अभिव्यञ्जकको वर्ग खोल्दा (a+b)(a+b) गुणन भई a^२ + २ab + b^२ बन्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 159,
+      "qid": 3617318728,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3503,6 +2742,7 @@
     },
     {
       "id": 160,
+      "qid": 2526955139,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3524,29 +2764,8 @@
       "is_pro": false
     },
     {
-      "id": 161,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "४९ को वर्गमूल (Square Root) कति हुन्छ ?",
-      "options": [
-        "७",
-        "८",
-        "९",
-        "१४"
-      ],
-      "option_a": "७",
-      "option_b": "८",
-      "option_c": "९",
-      "option_d": "१४",
-      "answer_index": 0,
-      "explanation": "७ लाई ७ ले गुणन गर्दा ४९ आउने भएकाले ४९ को वर्गमूल ७ हो।",
-      "is_pro": false
-    },
-    {
       "id": 162,
+      "qid": 2971015933,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3569,6 +2788,7 @@
     },
     {
       "id": 163,
+      "qid": 1843141997,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3590,29 +2810,8 @@
       "is_pro": false
     },
     {
-      "id": 164,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "समबाहु त्रिभुज (Equilateral Triangle) को प्रत्येक भित्री कोण कति डिग्रीको हुन्छ ?",
-      "options": [
-        "६०°",
-        "९०°",
-        "४५°",
-        "३०°"
-      ],
-      "option_a": "६०°",
-      "option_b": "९०°",
-      "option_c": "४५°",
-      "option_d": "३०°",
-      "answer_index": 0,
-      "explanation": "समबाहु त्रिभुजका सबै कोणहरू बराबर हुने भएकाले १८०° लाई ३ ले भाग गर्दा प्रत्येक कोण ६०° को हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 165,
+      "qid": 2396597379,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3635,6 +2834,7 @@
     },
     {
       "id": 166,
+      "qid": 1123653599,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3656,29 +2856,8 @@
       "is_pro": false
     },
     {
-      "id": 167,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "वृत्तको परिधि (Circumference) निकाल्ने सूत्र कुन हो ?",
-      "options": [
-        "२πr",
-        "πr^२",
-        "πd^२",
-        "२πr^२"
-      ],
-      "option_a": "२πr",
-      "option_b": "πr^२",
-      "option_c": "πd^२",
-      "option_d": "२πr^२",
-      "answer_index": 0,
-      "explanation": "अर्धव्यास 'r' भएको वृत्तको परिधि निकाल्ने सुत्र २πr हो।",
-      "is_pro": false
-    },
-    {
       "id": 168,
+      "qid": 1165438290,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3701,6 +2880,7 @@
     },
     {
       "id": 169,
+      "qid": 742849664,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3723,6 +2903,7 @@
     },
     {
       "id": 170,
+      "qid": 2826975904,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3745,6 +2926,7 @@
     },
     {
       "id": 171,
+      "qid": 281947856,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3767,6 +2949,7 @@
     },
     {
       "id": 172,
+      "qid": 650429927,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3789,6 +2972,7 @@
     },
     {
       "id": 173,
+      "qid": 494273988,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3810,29 +2994,8 @@
       "is_pro": false
     },
     {
-      "id": 174,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "४ को वर्ग (Square) कति हुन्छ ?",
-      "options": [
-        "१६",
-        "८",
-        "१२",
-        "२०"
-      ],
-      "option_a": "१६",
-      "option_b": "८",
-      "option_c": "१२",
-      "option_d": "२०",
-      "answer_index": 0,
-      "explanation": "४ लाई ४ ले नै गुणन गर्दा ४ × ४ = १६ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 175,
+      "qid": 2252837246,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3855,6 +3018,7 @@
     },
     {
       "id": 176,
+      "qid": 2319224632,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3876,29 +3040,8 @@
       "is_pro": false
     },
     {
-      "id": 177,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Easy",
-      "question": "लम्बाइ 'a' र चौडाइ 'b' भएको आयतको परिमिति कुन हो ?",
-      "options": [
-        "२a + २b",
-        "a + b",
-        "a × b",
-        "२(a × b)"
-      ],
-      "option_a": "२a + २b",
-      "option_b": "a + b",
-      "option_c": "a × b",
-      "option_d": "२(a × b)",
-      "answer_index": 0,
-      "explanation": "आयतको परिमिति P = २(l+b) हुन्छ, जसलाई खोल्दा २a + २b बन्दछ।",
-      "is_pro": false
-    },
-    {
       "id": 178,
+      "qid": 1896225067,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3921,6 +3064,7 @@
     },
     {
       "id": 179,
+      "qid": 2263065445,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3942,29 +3086,8 @@
       "is_pro": false
     },
     {
-      "id": 180,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "रु. ५०० को सामानमा १०% छुट दिँदा छुट रकम कति हुन्छ ?",
-      "options": [
-        "रु. ५०",
-        "रु. ४५०",
-        "रु. १००",
-        "रु. ४०"
-      ],
-      "option_a": "रु. ५०",
-      "option_b": "रु. ४५०",
-      "option_c": "रु. १००",
-      "option_d": "रु. ४०",
-      "answer_index": 0,
-      "explanation": "५०० को १०% = (१०/१००) × ५०० = ५० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 181,
+      "qid": 879037219,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -3987,6 +3110,7 @@
     },
     {
       "id": 182,
+      "qid": 448064361,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4008,29 +3132,8 @@
       "is_pro": false
     },
     {
-      "id": 183,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "समीकरण २x = ८ भए x को मान कति हुन्छ ?",
-      "options": [
-        "४",
-        "६",
-        "१०",
-        "१६"
-      ],
-      "option_a": "४",
-      "option_b": "६",
-      "option_c": "१०",
-      "option_d": "१६",
-      "answer_index": 0,
-      "explanation": "दुवैतर्फ २ ले भाग गर्दा x = ८/२ = ४ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 184,
+      "qid": 1945470209,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4053,6 +3156,7 @@
     },
     {
       "id": 185,
+      "qid": 3039946445,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4075,6 +3179,7 @@
     },
     {
       "id": 186,
+      "qid": 689263136,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4097,6 +3202,7 @@
     },
     {
       "id": 187,
+      "qid": 2958593430,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4119,6 +3225,7 @@
     },
     {
       "id": 188,
+      "qid": 2114072222,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4141,6 +3248,7 @@
     },
     {
       "id": 189,
+      "qid": 2460039549,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4162,29 +3270,8 @@
       "is_pro": false
     },
     {
-      "id": 190,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "एउटा लुडोको गोटी (Dice) फाल्दा ३ आउने सम्भाव्यता कति हुन्छ ?",
-      "options": [
-        "१/६",
-        "१/३",
-        "१/२",
-        "१/४"
-      ],
-      "option_a": "१/६",
-      "option_b": "१/३",
-      "option_c": "१/२",
-      "option_d": "१/४",
-      "answer_index": 0,
-      "explanation": "लुडोको गोटीमा १ देखि ६ सम्मका अङ्क हुन्छन्। ३ आउने सम्भावित परिणाम १ वटा मात्र हुने भएकाले सम्भाव्यता १/६ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 191,
+      "qid": 3652656158,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4207,6 +3294,7 @@
     },
     {
       "id": 192,
+      "qid": 2060826647,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4228,29 +3316,8 @@
       "is_pro": false
     },
     {
-      "id": 193,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "भिन्न १/४ लाई दशमलवमा बदल्दा कति हुन्छ ?",
-      "options": [
-        "०.२५",
-        "०.५०",
-        "०.७५",
-        "१.४"
-      ],
-      "option_a": "०.२५",
-      "option_b": "०.५०",
-      "option_c": "०.७५",
-      "option_d": "१.४",
-      "answer_index": 0,
-      "explanation": "१ लाई ४ ले भाग गर्दा ०.२५ आउँछ।",
-      "is_pro": false
-    },
-    {
       "id": 194,
+      "qid": 712262092,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4273,6 +3340,7 @@
     },
     {
       "id": 195,
+      "qid": 2849262512,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4294,29 +3362,8 @@
       "is_pro": false
     },
     {
-      "id": 196,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "आधार 'b' र उचाइ 'h' भएको त्रिभुजको क्षेत्रफल निकाल्ने सूत्र कुन हो ?",
-      "options": [
-        "१/२ × b × h",
-        "b × h",
-        "२(b + h)",
-        "१/३ × b × h"
-      ],
-      "option_a": "१/२ × b × h",
-      "option_b": "b × h",
-      "option_c": "२(b + h)",
-      "option_d": "१/३ × b × h",
-      "answer_index": 0,
-      "explanation": "कुनै पनि त्रिभुजको क्षेत्रफल यसको आधार र उचाइको गुणनफलको आधा हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 197,
+      "qid": 1716425054,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4339,6 +3386,7 @@
     },
     {
       "id": 198,
+      "qid": 3156615992,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4360,29 +3408,8 @@
       "is_pro": false
     },
     {
-      "id": 199,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "एउटा सीधा रेखामा बन्ने आसन्न कोणहरूको (Adjacent Angles) योगफल कति हुन्छ ?",
-      "options": [
-        "१८०°",
-        "९०°",
-        "२७०°",
-        "३६०°"
-      ],
-      "option_a": "१८०°",
-      "option_b": "९०°",
-      "option_c": "२७०°",
-      "option_d": "३६०°",
-      "answer_index": 0,
-      "explanation": "सीधा रेखामा बन्ने कोण सरलकोण (१८०°) हो, त्यसैले त्यहाँ बन्ने आसन्न कोणहरूको योगफल सधैँ १८०° हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 200,
+      "qid": 2986831599,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4405,6 +3432,7 @@
     },
     {
       "id": 201,
+      "qid": 155016192,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4427,6 +3455,7 @@
     },
     {
       "id": 202,
+      "qid": 3658653578,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4449,6 +3478,7 @@
     },
     {
       "id": 203,
+      "qid": 441657407,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4471,6 +3501,7 @@
     },
     {
       "id": 204,
+      "qid": 3817922104,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4493,6 +3524,7 @@
     },
     {
       "id": 205,
+      "qid": 2014126455,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4514,29 +3546,8 @@
       "is_pro": false
     },
     {
-      "id": 206,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Medium",
-      "question": "रु. १००० को ५% वार्षिक दरले २ वर्षको साधारण ब्याज कति हुन्छ ?",
-      "options": [
-        "रु. १००",
-        "रु. ५०",
-        "रु. २००",
-        "रु. १५०"
-      ],
-      "option_a": "रु. १००",
-      "option_b": "रु. ५०",
-      "option_c": "रु. २००",
-      "option_d": "रु. १५०",
-      "answer_index": 0,
-      "explanation": "I = (P×T×R)/१०० = (१००० × २ × ५) / १०० = १०० हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 207,
+      "qid": 2254882430,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4559,6 +3570,7 @@
     },
     {
       "id": 208,
+      "qid": 3160625067,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4580,29 +3592,8 @@
       "is_pro": false
     },
     {
-      "id": 209,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "समीकरण ३x - ४ = १४ भए x को मान कति हुन्छ ?",
-      "options": [
-        "६",
-        "५",
-        "८",
-        "७"
-      ],
-      "option_a": "६",
-      "option_b": "५",
-      "option_c": "८",
-      "option_d": "७",
-      "answer_index": 0,
-      "explanation": "३x = १४ + ४ => ३x = १८ => x = १८/३ = ६ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 210,
+      "qid": 3134119363,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4625,6 +3616,7 @@
     },
     {
       "id": 211,
+      "qid": 1583166031,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4646,29 +3638,8 @@
       "is_pro": false
     },
     {
-      "id": 212,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "x^२ - y^२ को खण्डीकरण सूत्र कुन हो ?",
-      "options": [
-        "(x-y)(x+y)",
-        "(x-y)^२",
-        "(x+y)^२",
-        "x^२ - २xy + y^२"
-      ],
-      "option_a": "(x-y)(x+y)",
-      "option_b": "(x-y)^२",
-      "option_c": "(x+y)^२",
-      "option_d": "x^२ - २xy + y^२",
-      "answer_index": 0,
-      "explanation": "दुई वर्गहरूको फरकको सूत्र सधैँ (x-y)(x+y) हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 213,
+      "qid": 3319555663,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4691,6 +3662,7 @@
     },
     {
       "id": 214,
+      "qid": 1709853954,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4712,29 +3684,8 @@
       "is_pro": false
     },
     {
-      "id": 215,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "A ले एउटा काम २० दिनमा र B ले ३० दिनमा गर्छन्। दुवै मिलेर सो काम कति दिनमा गर्लान् ?",
-      "options": [
-        "१२ दिन",
-        "१० दिन",
-        "१५ दिन",
-        "२५ दिन"
-      ],
-      "option_a": "१२ दिन",
-      "option_b": "१० दिन",
-      "option_c": "१५ दिन",
-      "option_d": "२५ दिन",
-      "answer_index": 0,
-      "explanation": "१ दिनको काम = १/२० + १/३० = ३/६० + २/६० = ५/६० = १/१२। तसर्थ १२ दिन लाग्छ।",
-      "is_pro": false
-    },
-    {
       "id": 216,
+      "qid": 355163416,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4757,6 +3708,7 @@
     },
     {
       "id": 217,
+      "qid": 3747893539,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4779,6 +3731,7 @@
     },
     {
       "id": 218,
+      "qid": 4158969636,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4801,6 +3754,7 @@
     },
     {
       "id": 219,
+      "qid": 4024463973,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4823,6 +3777,7 @@
     },
     {
       "id": 220,
+      "qid": 820880679,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4845,6 +3800,7 @@
     },
     {
       "id": 221,
+      "qid": 1138969043,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4866,29 +3822,8 @@
       "is_pro": false
     },
     {
-      "id": 222,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "भुजाको लम्बाइ ४ से.मी. भएको घनको पूरा सतहको क्षेत्रफल (Total Surface Area) कति हुन्छ ?",
-      "options": [
-        "९६ वर्ग से.मी.",
-        "६४ वर्ग से.मी.",
-        "३२ वर्ग से.मी.",
-        "४८ वर्ग से.मी."
-      ],
-      "option_a": "९६ वर्ग से.मी.",
-      "option_b": "६४ वर्ग से.मी.",
-      "option_c": "३२ वर्ग से.मी.",
-      "option_d": "४८ वर्ग से.मी.",
-      "answer_index": 0,
-      "explanation": "घनको पूरा सतहको क्षेत्रफल = ६l^२ = ६ × ४^२ = ६ × १६ = ९६ वर्ग से.मी. हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 223,
+      "qid": 1526078155,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4911,6 +3846,7 @@
     },
     {
       "id": 224,
+      "qid": 1357149035,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4932,29 +3868,8 @@
       "is_pro": false
     },
     {
-      "id": 225,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "२१ र २४ को महत्तम समापवर्तक (म.स.) कति हुन्छ ?",
-      "options": [
-        "३",
-        "७",
-        "८",
-        "६"
-      ],
-      "option_a": "३",
-      "option_b": "७",
-      "option_c": "८",
-      "option_d": "६",
-      "answer_index": 0,
-      "explanation": "२१ र २४ दुवैलाई निशेष भाग जाने सबैभन्दा ठूलो साझा गुणनखण्ड ३ हो (३×७=२१, ३×८=२४)।",
-      "is_pro": false
-    },
-    {
       "id": 226,
+      "qid": 2206036260,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4977,6 +3892,7 @@
     },
     {
       "id": 227,
+      "qid": 2455053413,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -4998,29 +3914,8 @@
       "is_pro": false
     },
     {
-      "id": 228,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "३० को २०% कति हुन्छ ?",
-      "options": [
-        "६",
-        "१२",
-        "५",
-        "१०"
-      ],
-      "option_a": "६",
-      "option_b": "१२",
-      "option_c": "५",
-      "option_d": "१०",
-      "answer_index": 0,
-      "explanation": "(२०/१००) × ३० = ६००/१०० = ६ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 229,
+      "qid": 3160182358,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5043,6 +3938,7 @@
     },
     {
       "id": 230,
+      "qid": 349324741,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5064,29 +3960,8 @@
       "is_pro": false
     },
     {
-      "id": 231,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "लम्बाइ ८ मिटर र चौडाइ ६ मिटर भएको आयतको विकर्ण (Diagonal) को लम्बाइ कति हुन्छ ?",
-      "options": [
-        "१० मिटर",
-        "१४ मिटर",
-        "१२ मिटर",
-        "१६ मिटर"
-      ],
-      "option_a": "१० मिटर",
-      "option_b": "१४ मिटर",
-      "option_c": "१२ मिटर",
-      "option_d": "१६ मिटर",
-      "answer_index": 0,
-      "explanation": "विकर्ण = √(l^२ + b^२) = √(६४ + ३६) = √१०० = १० मिटर हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 232,
+      "qid": 1475634510,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5109,6 +3984,7 @@
     },
     {
       "id": 233,
+      "qid": 4073071286,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5131,6 +4007,7 @@
     },
     {
       "id": 234,
+      "qid": 3338532427,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5153,6 +4030,7 @@
     },
     {
       "id": 235,
+      "qid": 2971390099,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5175,6 +4053,7 @@
     },
     {
       "id": 236,
+      "qid": 258735732,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5197,6 +4076,7 @@
     },
     {
       "id": 237,
+      "qid": 1461742239,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5218,29 +4098,8 @@
       "is_pro": false
     },
     {
-      "id": 238,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "१ हेक्टर (Hectare) जमिनमा कति वर्ग मिटर हुन्छ ?",
-      "options": [
-        "१०००० वर्ग मिटर",
-        "१०० वर्ग मिटर",
-        "१००० वर्ग मिटर",
-        "१००००० वर्ग मिटर"
-      ],
-      "option_a": "१०००० वर्ग मिटर",
-      "option_b": "१०० वर्ग मिटर",
-      "option_c": "१००० वर्ग मिटर",
-      "option_d": "१००००० वर्ग मिटर",
-      "answer_index": 0,
-      "explanation": "क्षेत्रफल मापनको अन्तर्राष्ट्रिय एकाइअनुसार १ हेक्टरमा १०००० वर्ग मिटर हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 239,
+      "qid": 1707441377,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5263,6 +4122,7 @@
     },
     {
       "id": 240,
+      "qid": 2755349943,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5284,29 +4144,8 @@
       "is_pro": false
     },
     {
-      "id": 241,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "एउटा घन (Cube) मा कतिवटा शीर्षबिन्दु वा कुनाहरू (Vertices) हुन्छन् ?",
-      "options": [
-        "८ वटा",
-        "६ वटा",
-        "१२ वटा",
-        "४ वटा"
-      ],
-      "option_a": "८ वटा",
-      "option_b": "६ वटा",
-      "option_c": "१२ वटा",
-      "option_d": "४ वटा",
-      "answer_index": 0,
-      "explanation": "कुनै पनि घन वा सडमुखामा ८ वटा कुनाहरू (Vertices) हुन्छन्।",
-      "is_pro": false
-    },
-    {
       "id": 242,
+      "qid": 1910588565,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5329,6 +4168,7 @@
     },
     {
       "id": 243,
+      "qid": 3089522754,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5351,6 +4191,7 @@
     },
     {
       "id": 244,
+      "qid": 367171259,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5372,29 +4213,8 @@
       "is_pro": false
     },
     {
-      "id": 245,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "घाताङ्कको नियमअनुसार ४^३ को मान कति हुन्छ ?",
-      "options": [
-        "६४",
-        "१६",
-        "१२",
-        "४८"
-      ],
-      "option_a": "६४",
-      "option_b": "१६",
-      "option_c": "१२",
-      "option_d": "४८",
-      "answer_index": 0,
-      "explanation": "४ लाई ३ पटक गुणन गर्दा ४ × ४ × ४ = ६४ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 246,
+      "qid": 2894341083,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5416,29 +4236,8 @@
       "is_pro": false
     },
     {
-      "id": 247,
-      "main_cat_id": 2,
-      "main_cat_name": "Lower Secondary",
-      "sub_cat_id": "108",
-      "sub_cat_name": "Mathematics",
-      "level": "Hard",
-      "question": "१२ को वर्ग (Square) कति हुन्छ ?",
-      "options": [
-        "१४४",
-        "२४",
-        "१२०",
-        "१३४"
-      ],
-      "option_a": "१४४",
-      "option_b": "२४",
-      "option_c": "१२०",
-      "option_d": "१३४",
-      "answer_index": 0,
-      "explanation": "१२ लाई १२ ले नै गुणन गर्दा १४४ हुन्छ।",
-      "is_pro": false
-    },
-    {
       "id": 248,
+      "qid": 1293202936,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5461,6 +4260,7 @@
     },
     {
       "id": 249,
+      "qid": 24094467,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
@@ -5483,6 +4283,7 @@
     },
     {
       "id": 250,
+      "qid": 638373102,
       "main_cat_id": 2,
       "main_cat_name": "Lower Secondary",
       "sub_cat_id": "108",
