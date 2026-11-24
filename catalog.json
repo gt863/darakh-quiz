@@ -2,200 +2,212 @@
   {
     "category_id": 1,
     "category_name": "Primary & Basic Level",
-    "total_questions": 567,
+    "total_questions": 850,
     "subcategories": [
       {
         "sub_cat_id": "101",
         "sub_cat_name": "Junior GK",
-        "question_count": 215
+        "question_count": 250
       },
       {
         "sub_cat_id": "102",
         "sub_cat_name": "Nepali (व्याकरण र शब्द भण्डार)",
-        "question_count": 97
+        "question_count": 150
       },
       {
         "sub_cat_id": "103",
         "sub_cat_name": "English",
-        "question_count": 89
+        "question_count": 150
       },
       {
         "sub_cat_id": "104",
         "sub_cat_name": "Mathematics",
-        "question_count": 100
+        "question_count": 150
       },
       {
         "sub_cat_id": "105",
         "sub_cat_name": "Science",
-        "question_count": 66
+        "question_count": 150
       }
     ]
   },
   {
     "category_id": 2,
-    "category_name": "Lower Secondary",
-    "total_questions": 1292,
+    "category_name": "Conversions",
+    "total_questions": 978,
     "subcategories": [
       {
         "sub_cat_id": "106",
         "sub_cat_name": "Nepali",
-        "question_count": 192
+        "question_count": 150
       },
       {
         "sub_cat_id": "107",
         "sub_cat_name": "English",
-        "question_count": 50
+        "question_count": 38
       },
       {
         "sub_cat_id": "108",
         "sub_cat_name": "Mathematics",
-        "question_count": 250
+        "question_count": 187
       },
       {
         "sub_cat_id": "109",
         "sub_cat_name": "Science & Technology",
-        "question_count": 300
+        "question_count": 225
       },
       {
         "sub_cat_id": "110",
         "sub_cat_name": "Social Studies",
-        "question_count": 200
+        "question_count": 153
       },
       {
         "sub_cat_id": "111",
         "sub_cat_name": "Computer Studies",
-        "question_count": 300
+        "question_count": 225
       }
     ]
   },
   {
     "category_id": 3,
     "category_name": "Secondary Level SEE - Prep",
-    "total_questions": 1814,
+    "total_questions": 1288,
     "subcategories": [
       {
         "sub_cat_id": "112",
         "sub_cat_name": "Compulsory Science & Tech",
-        "question_count": 614
+        "question_count": 433
       },
       {
         "sub_cat_id": "113",
         "sub_cat_name": "Optional Mathematics",
-        "question_count": 200
+        "question_count": 148
       },
       {
         "sub_cat_id": "114",
         "sub_cat_name": "Social Studies",
-        "question_count": 200
+        "question_count": 146
       },
       {
         "sub_cat_id": "115",
         "sub_cat_name": "English Grammar & Vocabulary",
-        "question_count": 200
+        "question_count": 152
       },
       {
         "sub_cat_id": "116",
         "sub_cat_name": "Nepali Byakaran",
-        "question_count": 300
+        "question_count": 185
       },
       {
         "sub_cat_id": "117",
         "sub_cat_name": "Computer Science",
-        "question_count": 300
+        "question_count": 224
       }
     ]
   },
   {
     "category_id": 4,
     "category_name": "Higher Secondary",
-    "total_questions": 924,
+    "total_questions": 653,
     "subcategories": [
       {
         "sub_cat_id": "118",
         "sub_cat_name": "Physics",
-        "question_count": 200
+        "question_count": 124
       },
       {
         "sub_cat_id": "119",
         "sub_cat_name": "Chemistry",
-        "question_count": 124
+        "question_count": 93
       },
       {
         "sub_cat_id": "120",
         "sub_cat_name": "Biology (Botany / Zoology)",
-        "question_count": 200
+        "question_count": 150
       },
       {
         "sub_cat_id": "121",
         "sub_cat_name": "Pro Mathematics",
-        "question_count": 100
+        "question_count": 75
       },
       {
         "sub_cat_id": "122",
         "sub_cat_name": "Principles of Accounting",
-        "question_count": 100
+        "question_count": 75
       },
       {
         "sub_cat_id": "123",
         "sub_cat_name": "Economics",
-        "question_count": 100
+        "question_count": 61
       },
       {
         "sub_cat_id": "125",
         "sub_cat_name": "Business Studies",
-        "question_count": 100
+        "question_count": 75
       }
     ]
   },
   {
     "category_id": 5,
     "category_name": "Sarkari Loksewa",
-    "total_questions": 2572,
+    "total_questions": 1957,
     "subcategories": [
       {
         "sub_cat_id": "125",
         "sub_cat_name": "General Knowledge - GK",
-        "question_count": 300
+        "question_count": 222
       },
       {
         "sub_cat_id": "126",
         "sub_cat_name": "बौद्धिक परीक्षण",
-        "question_count": 300
+        "question_count": 221
       },
       {
         "sub_cat_id": "127",
         "sub_cat_name": "सार्वजनिक प्रशासन र व्यवस्थापन",
-        "question_count": 400
+        "question_count": 304
       },
       {
         "sub_cat_id": "128",
         "sub_cat_name": "शासकीय प्रबन्ध",
-        "question_count": 300
+        "question_count": 226
       },
       {
         "sub_cat_id": "129",
         "sub_cat_name": "सार्वजनिक वित्त र बजेट",
-        "question_count": 272
+        "question_count": 202
       },
       {
         "sub_cat_id": "130",
         "sub_cat_name": "लेखा समूह",
-        "question_count": 400
+        "question_count": 322
       },
       {
         "sub_cat_id": "131",
         "sub_cat_name": "राजस्व समूह",
-        "question_count": 200
+        "question_count": 163
       },
       {
         "sub_cat_id": "132",
         "sub_cat_name": "न्याय र कानुन समूह",
-        "question_count": 200
+        "question_count": 148
       },
       {
         "sub_cat_id": "133",
         "sub_cat_name": "परराष्ट्र सेवा",
-        "question_count": 200
+        "question_count": 149
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "category_name": "Ramailo Quiz",
+    "total_questions": 300,
+    "subcategories": [
+      {
+        "sub_cat_id": "134",
+        "sub_cat_name": "Funny Wordplay",
+        "question_count": 300
       }
     ]
   }
