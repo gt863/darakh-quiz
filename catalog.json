@@ -202,12 +202,17 @@
   {
     "category_id": 6,
     "category_name": "Ramailo Quiz",
-    "total_questions": 300,
+    "total_questions": 400,
     "subcategories": [
       {
         "sub_cat_id": "134",
         "sub_cat_name": "Funny Wordplay",
         "question_count": 300
+      },
+      {
+        "sub_cat_id": "135",
+        "sub_cat_name": "Gau Khane Katha",
+        "question_count": 100
       }
     ]
   }
