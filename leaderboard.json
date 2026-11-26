@@ -1,16 +1,16 @@
 {
   "status": "success",
-  "updated_at": "2026-11-26T11:16:16.736Z",
-  "total_users": 3,
+  "updated_at": "2026-11-26T12:18:12.159Z",
+  "total_users": 4,
   "users": [
     {
       "user_key": "d61f27e263d9c284",
       "name": "Jitendra Bahadur",
       "photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTY64__7rRHlfN73yGuTgp6eP-zWgZGg2_S9RQ-9HT2FS6egs=s96-c",
-      "coins": 285,
+      "coins": 385,
       "is_pro": false,
       "total_score": 330,
-      "last_active": "2026-11-26T07:47:18.483Z",
+      "last_active": "2026-11-26T11:54:04.855Z",
       "status": "🟢 Active"
     },
     {
@@ -31,6 +31,16 @@
       "is_pro": false,
       "total_score": 0,
       "last_active": "2026-11-26T07:15:39.063Z",
+      "status": "🟢 Active"
+    },
+    {
+      "user_key": "27d5cb9a3e932fc7",
+      "name": "Aanya Dahit",
+      "photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYfccPfrQG0q6cBlPKYNoxRSZy_RvlKNM0KHgl7zSWKvIlaA=s96-c",
+      "coins": 10,
+      "is_pro": false,
+      "total_score": 0,
+      "last_active": "2026-11-26T11:56:25.485Z",
       "status": "🟢 Active"
     }
   ]
