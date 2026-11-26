@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "updated_at": "2026-11-26T13:16:19.463Z",
+  "updated_at": "2026-11-26T14:16:18.597Z",
   "total_users": 4,
   "users": [
     {
@@ -10,7 +10,7 @@
       "coins": 385,
       "is_pro": false,
       "total_score": 330,
-      "last_active": "2026-11-26T11:54:04.855Z",
+      "last_active": "2026-11-26T13:52:28.374Z",
       "status": "🟢 Active"
     },
     {
